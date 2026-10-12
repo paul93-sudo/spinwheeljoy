@@ -409,7 +409,7 @@
       const center=start+part/2;
       ctx.save();ctx.translate(cx,cy);ctx.rotate(center);
       ctx.fillStyle=excluded?'#77849b':'#ffffff';ctx.textBaseline='middle';
-      const compact=valid.length>18;
+      const compact=valid.length>18&&!valid.every(x=>x.label&&x.label.length<=2); // v0.22: short labels always show
       const shown=compact?String(i+1):item.label;
       const maxChars=valid.length>12?12:valid.length>8?16:21;
       const display=shown.length>maxChars?shown.slice(0,maxChars-1)+'...':shown;
@@ -442,7 +442,7 @@
     q('#remove-winner').hidden=page==='teams'||!latestWinner||!!latestWinner.removed;
     if (state.entries.length===0) setResult('Add at least one choice to get started.',false);
     if (state.elimination && E.availableEntries(state.entries,state.removedIds,true).length===0 && state.entries.length) setResult('Everyone has been selected. Reset the round to go again.',false);
-    if (state.entries.length>18) q('#input-help').textContent='Large wheels use numbered slices. The full list stays in the editor and winner announcement.';
+    if (state.entries.length>18&&!state.entries.every(x=>x.label&&x.label.length<=2)) q('#input-help').textContent='Large wheels use numbered slices. The full list stays in the editor and winner announcement.';
     else if(state.elimination) q('#input-help').textContent='Gray slices are skipped, not deleted. Reset round restores every choice.';
     else q('#input-help').textContent='Up to 60 choices. Blank lines are ignored. Tip: add x2, x3 after a choice for a higher chance.';
   }
