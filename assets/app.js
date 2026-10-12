@@ -70,7 +70,7 @@
     songs: {label:'Song Picker',items:['Pop hit','Rock anthem','80s classic','Love ballad','Dance party','Acoustic chill','Throwback favorite','Guilty pleasure']},
     feelings: {label:'Feelings Check-in',items:['Happy','Excited','Calm','Proud','Nervous','Frustrated','Tired','Grateful','Curious','Brave']}
   };
-  const defaultPalette = ['#ff3b30','#ff9500','#ffcc00','#34c759','#007aff','#af52de','#ff2d55','#5ac8fa','#ff6d00','#30d158'];
+  const defaultPalette = ['#ff0000','#ff6d00','#ffb300','#00c853','#2962ff','#aa00ff','#ff1744','#00b0ff','#f50057','#00e676'];
   // v0.13: per-tool wheel color themes
   const wheelThemes = {
     'movie-picker': ['#c41e3a','#f5c518','#1a1a2e','#e94560','#ffd700','#8b0000','#2d2d44','#ff6b6b','#16213e','#daa520'],
