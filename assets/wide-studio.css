@@ -16,10 +16,10 @@
   .header-wrap,.site-footer > .container { width: min(calc(100% - 2 * var(--studio-edge)), 1760px);max-width: none; }
   .studio-wrap { max-width: none; width: 100%; }
   .studio { border-radius: 22px; }
-  .studio-grid { display: grid;grid-template-columns: minmax(0, 1fr) clamp(340px, 26vw, 420px);min-height: 0; }
+  .studio-grid { display: grid;grid-template-columns: minmax(0, 2.5fr) clamp(320px, 22vw, 380px);min-height: 0; }
   .studio-topbar { height: 42px;padding-inline: 20px; }
   .wheel-side { min-width: 0; padding: 5px 14px 14px; }
-  .wheel-stage { margin: 0 auto 4px; width: var(--wheel-size) !important; max-width: none !important; }
+  .wheel-stage { margin: 0 auto 4px; width: var(--wheel-size) !important; max-width: none !important; min-width: min(100%, 700px); }
   .wheel-actions { margin-top: 2px; }
   .wheel-title { max-width: none !important; }
   .editor-side { padding: 19px 20px; }
