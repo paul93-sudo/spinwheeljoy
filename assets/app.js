@@ -70,13 +70,13 @@
     songs: {label:'Song Picker',items:['Pop hit','Rock anthem','80s classic','Love ballad','Dance party','Acoustic chill','Throwback favorite','Guilty pleasure']},
     feelings: {label:'Feelings Check-in',items:['Happy','Excited','Calm','Proud','Nervous','Frustrated','Tired','Grateful','Curious','Brave']}
   };
-  const defaultPalette = ['#fac56b','#fb8581','#ac9be9','#66c4ae','#78a6ee','#f4a77a','#8dc9b0','#f9d984','#b1c1f5','#eaa3ce'];
+  const defaultPalette = ['#ff3b30','#ff9500','#ffcc00','#34c759','#007aff','#af52de','#ff2d55','#5ac8fa','#ff6d00','#30d158'];
   // v0.13: per-tool wheel color themes
   const wheelThemes = {
     'movie-picker': ['#c41e3a','#f5c518','#1a1a2e','#e94560','#ffd700','#8b0000','#2d2d44','#ff6b6b','#16213e','#daa520'],
     'workout-picker': ['#ff6b35','#a8e10c','#00bfff','#ff2e63','#08d9d6','#f9ed69','#e23e57','#2a9d8f','#e9c46a','#f4845f'],
     'secret-santa': ['#c41e3a','#2d6a4f','#d4af37','#ffffff','#a01830','#40916c','#ffd700','#f8f9fa','#b7e4c7','#e63946'],
-    'baby-name-picker': ['#ffb6c1','#add8e6','#dda0dd','#b0e0e6','#ffc0cb','#e6e6fa','#f0e68c','#d8bfd8','#afeeee','#ffe4e1'],
+    'baby-name-picker': ['#ff6b9d','#4fc3f7','#ba68c8','#4dd0e1','#f48fb1','#9575cd','#fff176','#ce93d8','#80deea','#f8bbd0'],
     'letter-picker': ['#ff0000','#0000ff','#ffff00','#00ff00','#ff6600','#9900cc','#0099cc','#ff3399','#33cc33','#ffcc00'],
     'country-picker': ['#2d6a4f','#1d3557','#e07a5f','#81b29a','#f2cc8f','#457b9d','#e9c46a','#2a9d8f','#f4a261','#264653'],
     'icebreaker-wheel': ['#f39c12','#e67e22','#f1c40f','#e74c3c','#fd79a8','#fdcb6e','#e17055','#fab1a0','#ff7675','#ffeaa7'],
@@ -408,7 +408,7 @@
       ctx.fillStyle=excluded?'#e4e9f2':palette[i%palette.length];ctx.fill();ctx.lineWidth=2.4;ctx.strokeStyle='#fff';ctx.stroke();
       const center=start+part/2;
       ctx.save();ctx.translate(cx,cy);ctx.rotate(center);
-      ctx.fillStyle=excluded?'#77849b':'#1a2a44';ctx.textBaseline='middle';
+      ctx.fillStyle=excluded?'#77849b':'#ffffff';ctx.textBaseline='middle';
       const compact=valid.length>18;
       const shown=compact?String(i+1):item.label;
       const maxChars=valid.length>12?12:valid.length>8?16:21;
