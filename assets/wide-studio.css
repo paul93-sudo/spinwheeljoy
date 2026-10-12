@@ -1,0 +1,100 @@
+/* SpinWheelJoy v1.0 - Immersive Wide Studio, thin rim and oversized pointer.
+   Loaded after all legacy styles. Other content remains readable at editorial width. */
+:root {
+  --tool-accent: #5368ef;
+  --tool-soft: #ebefff;
+  --studio-edge: clamp(12px, 1.6vw, 30px);
+  /* Respect viewport HEIGHT as well as width. Fullscreen is separate. */
+  --wheel-size: min(100%, calc(100dvh - 260px), 880px);
+}
+/* Keep article and SEO content at reading width, but let interactive stage breathe. */
+@media (min-width: 1050px) {
+  .container.main-area { width: calc(100% - 2 * var(--studio-edge)); max-width: 1850px; }
+  .main-area > .section { width: min(100%, 1290px); margin-inline: auto; }
+  .main-area > .section-narrow { max-width: 810px; }
+  .main-area > .info-page { width: min(100%,840px); }
+  .header-wrap,.site-footer > .container { width: min(calc(100% - 2 * var(--studio-edge)), 1760px);max-width: none; }
+  .studio-wrap { max-width: none; width: 100%; }
+  .studio { border-radius: 22px; }
+  .studio-grid { display: grid;grid-template-columns: minmax(0, 1fr) clamp(340px, 26vw, 420px);min-height: 0; }
+  .studio-topbar { height: 42px;padding-inline: 20px; }
+  .wheel-side { min-width: 0; padding: 5px 14px 14px; }
+  .wheel-stage { margin: 0 auto 4px; }
+  .wheel-actions { margin-top: 2px; }
+  .wheel-title { max-width: none !important; }
+  .editor-side { padding: 19px 20px; }
+  .hero.home-hero { padding-top: 9px !important;padding-bottom: 9px !important; }
+  .hero.home-hero h1 { font-size: clamp(30px,2.9vw,41px) !important; margin: 0 auto 3px !important; }
+  .hero.home-hero .hero-subtitle { font-size: 13px !important; }
+  .tool-hero { padding-top: 9px; padding-bottom: 10px; }
+  .tool-hero h1 { font-size: clamp(30px,3vw,41px);margin-top: 6px;margin-bottom: 7px; }
+  .breadcrumb {padding-top: 10px;}
+  .studio-wrap .recent-strip { margin-top: 9px; }
+  .first-paint-studio { width:100%;max-width:none;grid-template-columns:minmax(0,1fr) clamp(340px,26vw,420px); }
+}
+/* Tablets: compact editor BELOW wheel, no horizontal spill. */
+@media (min-width: 741px) and (max-width: 1049px) {
+  :root { --wheel-size: min(86vw, calc(100dvh - 248px), 750px); }
+  .container.main-area {width:calc(100% - 28px);max-width:none;}
+  .studio-wrap {max-width:none; width:100%;}
+  .studio-grid {display:block;}
+  .wheel-side {padding:10px 14px 18px;}
+  .wheel-title { max-width: 100%; }
+  .editor-side {border-left:none;border-top:1px solid var(--border);}
+  .first-paint-studio {grid-template-columns:1fr;}
+}
+/* Mobile: nearly edge-to-edge without chopping the pointer or control. */
+@media (max-width: 740px) {
+  :root { --wheel-size: min(calc(100vw - 30px), calc(100dvh - 240px), 460px); }
+  .container.main-area {width:calc(100% - 16px);}
+  .studio-wrap {margin:0;width:100%;max-width:none;}
+  .wheel-side {padding: 8px 7px 15px;}
+  .wheel-stage {margin: 0 auto 5px;}
+  .wheel-title {max-width:none;}
+  .studio-topbar {height:44px;padding:0 12px;}
+  .hero.home-hero {padding-top:10px!important;padding-bottom:11px!important;}
+  .hero.home-hero h1 {font-size:clamp(29px,7vw,34px)!important;}
+  .tool-hero {padding-bottom:10px;}
+  .first-paint-studio {grid-template-columns:1fr;}
+  .first-paint-wheel {width:var(--wheel-size);}
+  .first-paint-editor {display:none;}
+}
+/* Focus/Fullscreen should always USE the available size, not the normal-mode cap. */
+body.wheel-focus .wheel-stage {width:min(96vw,calc(100dvh - 175px),1100px)!important;max-width:none;}
+body.wheel-focus .wheel-side {padding-top:max(58px,env(safe-area-inset-top));padding-bottom:max(12px,env(safe-area-inset-bottom));}
+@media(max-width:740px){body.wheel-focus .wheel-stage{width:min(98vw,calc(100dvh - 205px))!important;}}
+/* The illuminated rim should never overpower colored segments. */
+.wheel-disc {width:100%!important;height:100%!important;box-shadow:0 0 0 2px #fff8,0 5px 23px #253d6120!important;}
+html[data-theme="dark"] .wheel-disc {box-shadow:0 0 0 2px #a28aff65,0 8px 26px #08031caa!important;}
+.wheel-stage { filter: drop-shadow(0 10px 15px #233d6319); }
+/* The pointer is a physical marker that visibly touches the colored wheel. */
+.wheel-pointer {top:-12px!important;width:clamp(36px,2.9vw,50px)!important;height:clamp(48px,4vw,62px)!important;filter:drop-shadow(0 5px 5px #18264252)!important;z-index:5;}
+.wheel-pointer svg {width:100%;height:100%;overflow:visible;}
+.wheel-pointer svg path:first-child{fill:#243558;stroke:#fff;stroke-width:.65;}
+html[data-theme="dark"] .wheel-pointer svg path:first-child{fill:#ff5b91;stroke:#fff3f8;filter:none;}
+@media(max-width:740px){.wheel-pointer {top:-9px!important;width:37px!important;height:49px!important;}}
+.wheel-center {width:12%;height:12%;min-width:58px;min-height:58px;max-width:103px;max-height:103px;font-size:clamp(12px,1vw,16px);}
+/* Softer segment-colored atmosphere around wheel; no giant empty opaque white disk. */
+.wheel-side { background:radial-gradient(circle at 50% 44%,color-mix(in srgb,var(--tool-accent) 8%,transparent),transparent 57%),linear-gradient(165deg,#fff,#f7faff); }
+html[data-theme="dark"] .wheel-side {background:radial-gradient(circle at 50% 44%,color-mix(in srgb,var(--tool-accent) 20%,transparent),transparent 60%),linear-gradient(165deg,#1c1738,#141128 90%);}
+.studio {border-top:3px solid var(--tool-accent)!important;}
+.preset-btn:hover,.preset-btn.active,.inline-restore,.card-more {color:var(--tool-accent);}
+.result-banner.is-win {border-color:color-mix(in srgb,var(--tool-accent) 35%,#dce9fb);}
+/* De-emphasize redundant micro-badges; keep counts and sound. */
+.wheel-title > .pill:first-child,.wheel-title #mode-summary {display:none!important;}
+.wheel-title {display:flex!important;justify-content:flex-end!important;align-items:center;position:relative!important;inset:auto!important;width:100%!important;pointer-events:auto!important;min-height:33px;}
+.quick-sound {margin-left:auto;}
+@media(min-width:1050px){.wheel-title{position:absolute!important;top:8px!important;right:12px!important;width:auto!important;z-index:5;}.wheel-stage{margin-top:0!important;}}
+/* Quick statuses are intentionally minimal. */
+.topbar-left {font-size:11px;}
+/* When restoring a saved snapshot, make restoring obvious without constant warning copy. */
+.recovery-quick {font-size:11px;}
+@media(min-width:1050px){.studio-grid{position:relative;}}
+/* First-paint preview matches actual wheel proportions, not an old, bulky white ring. */
+.first-paint-wheel {width:var(--wheel-size)!important;max-width:100%;filter:drop-shadow(0 10px 14px #25385a24);}
+.first-paint-wheel-pane {padding:9px 15px 12px;}
+.first-paint-button {max-width:380px;margin-top:4px;}
+/* Improve card accent without overriding site-wide dark/light brand. */
+body[data-tool]:not([data-tool="home"]) .tool-hero .gradient-text {color:var(--tool-accent);}
+/* Respect users who dislike motion. */
+@media(prefers-reduced-motion:reduce){.wheel-side,html[data-theme="dark"] .wheel-side {transition:none!important;}}
