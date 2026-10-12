@@ -404,7 +404,7 @@
     canvas.width=size;canvas.height=size;
     const ctx=canvas.getContext('2d');
     ctx.scale(size/400,size/400);
-    const cx=200,cy=200,outer=196,r=172;
+    const cx=200,cy=200,outer=196,r=186; // v1.2: thin rim
     ctx.clearRect(0,0,400,400);
     // Rim: soft white ring with colored bulbs. (v0.9: animated chase during spin)
     const rim=ctx.createLinearGradient(0,0,0,400);rim.addColorStop(0,'#ffffff');rim.addColorStop(1,'#e3eaf9');
