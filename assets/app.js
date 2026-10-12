@@ -24,7 +24,22 @@
     dinner: ['Sushi','Tacos','Pasta','Pizza','Stir-fry','Salad'],
     chores: ['Set the table','Tidy the desk','Water plants','Fold laundry','Sweep floor','Feed pets'],
     dates: ['Picnic','Cook together','Museum','Sunset walk','Board-game night','Cafe visit'],
-    challenges: ['Tell a joke','10 jumping jacks','Draw with eyes closed','Sing a chorus','Mime an animal','Compliment someone']
+    challenges: ['Tell a joke','10 jumping jacks','Draw with eyes closed','Sing a chorus','Mime an animal','Compliment someone'],
+    'movie-picker':['Inception','Coco','Toy Story','Titanic','Jurassic Park','La La Land','Lion King','Spider-Man','Avengers','Dune'],
+    'workout-picker':['Push-ups','Squats','Plank','Jumping jacks','Lunges','Burpees','Mountain climbers','Sit-ups','High knees','Wall sit'],
+    'secret-santa':['Alex','Jamie','Taylor','Morgan','Casey','Sam','Riley','Jordan'],
+    'baby-name-picker':['Olivia','Liam','Emma','Noah','Ava','Oliver','Sophia','Elijah','Isabella','Mateo'],
+    'letter-picker':['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'],
+    'country-picker':['Japan','Italy','Brazil','Egypt','Canada','Australia','France','Mexico','Thailand','Kenya','Iceland','India'],
+    'icebreaker-wheel':['Hidden talent?','Dream travel spot?','Favorite food?','Best weekend?','Superpower?','Childhood memory?','Guilty pleasure?','Bucket list?','Favorite movie?','Pet peeve?'],
+    'song-picker':['Bohemian Rhapsody','Dancing Queen','Sweet Caroline','Livin on a Prayer','Billie Jean','Hotel California','Imagine','Hey Jude','Uptown Funk','Shake It Off'],
+    'book-picker':['To Kill a Mockingbird','1984','Pride and Prejudice','The Great Gatsby','Harry Potter','The Hobbit','Dune','Jane Eyre','Moby Dick','Brave New World'],
+    'pet-name-picker':['Biscuit','Luna','Max','Bella','Charlie','Daisy','Rocky','Molly','Buddy','Zoe'],
+    'vacation-picker':['Beach resort','Mountain cabin','City adventure','Historic tour','Tropical island','Road trip','Ski lodge','Countryside retreat','Cruise','Desert safari'],
+    'board-game-picker':['Codenames','Ticket to Ride','Catan','Pandemic','Azul','Splendor','Carcassonne','7 Wonders','Dixit','Chess'],
+    'feelings-wheel':['Happy','Excited','Calm','Proud','Grateful','Curious','Brave','Silly','Peaceful','Hopeful','Playful','Loved'],
+    'brain-break-wheel':['Dance freeze','Jumping jacks','Simon says','Stretch break','Animal walks','Freeze dance','Balloon breath','Wiggle break','Mirror moves','Shake it out'],
+    'gift-idea-wheel':['Books','Experience day','Handmade gift','Plants','Art supplies','Games','Jewelry','Tech gadget','Cozy blanket','Gift card'],
   };
   const presets = {
     names: {label:'Names',items:['Alex','Jamie','Taylor','Morgan','Casey','Sam']},
@@ -41,7 +56,19 @@
     rewards: {label:'Rewards',items:defaultLabels.rewards},
     decision: {label:'Decisions',items:defaultLabels.decision},
     chores: {label:'Chores',items:defaultLabels.chores},
-    dates: {label:'Date ideas',items:defaultLabels.dates}
+    dates: {label:'Date ideas',items:defaultLabels.dates},
+    secretsanta: {label:'Secret Santa',items:['Alex','Jamie','Taylor','Morgan','Casey','Sam','Riley','Jordan']},
+    movienight: {label:'Movie Night',items:['Action blockbuster','Feel-good comedy','Animated family film','Classic drama','Sci-fi adventure','Documentary','Romantic comedy','Thriller']},
+    workout: {label:'Workout',items:['20 push-ups','30 squats','60-second plank','20 jumping jacks','15 lunges each leg','30-second wall sit','20 mountain climbers','10 burpees']},
+    datenight: {label:'Date Night',items:['Cook together','Movie marathon','Stargazing','Mini golf','Picnic at sunset','Museum visit','Dance class','Game cafe']},
+    partygames: {label:'Party Games',items:['Charades','Pictionary','Two truths and a lie','Karaoke battle','Trivia quiz','Scavenger hunt','Limbo','Dance-off']},
+    classroom: {label:'Classroom Picker',items:['Line leader','Board helper','Book captain','Tech assistant','Door holder','Messenger']},
+    babynames: {label:'Baby Names',items:['Olivia','Liam','Emma','Noah','Ava','Ethan','Sophia','Mason','Isabella','Lucas']},
+    vacation: {label:'Vacation Dreams',items:['Beach resort','Mountain cabin','City break','Road trip','Cruise','Countryside retreat','Island hopping','National parks tour']},
+    bookclub: {label:'Book Club',items:['Mystery thriller','Sci-fi epic','Heartwarming romance','Inspiring biography','Fantasy adventure','Historical fiction','Thoughtful memoir','Page-turning suspense']},
+    brainbreaks: {label:'Brain Breaks',items:['60-second dance party','Stretch like a cat','10 jumping jacks','Simon says','Freeze dance','Animal walks','Silent ball toss','Wiggle and shake']},
+    songs: {label:'Song Picker',items:['Pop hit','Rock anthem','80s classic','Love ballad','Dance party','Acoustic chill','Throwback favorite','Guilty pleasure']},
+    feelings: {label:'Feelings Check-in',items:['Happy','Excited','Calm','Proud','Nervous','Frustrated','Tired','Grateful','Curious','Brave']}
   };
   const palette = ['#fac56b','#fb8581','#ac9be9','#66c4ae','#78a6ee','#f4a77a','#8dc9b0','#f9d984','#b1c1f5','#eaa3ce'];
   const icons = {
@@ -61,6 +88,35 @@
   const esc = (text) => String(text).replace(/[&<>"']/g, (ch) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const textToEntries = (value, previous) => E.entriesFromText(value, previous);
   const makeItems = (labels) => textToEntries(labels.join('\n'));
+  // v0.11: probability weights. "Pizza x3", "Pizza:3", "Pizza *3" => weight 3. Default weight 1.
+  function parseWeightSuffix(rawLabel) {
+    const m = String(rawLabel).match(/^(.*?)(?:\s+[xX]\s*|\s*:\s*|\s*\*\s*)(\d{1,3})\s*$/);
+    if (!m) return { label: String(rawLabel).trim(), weight: 1 };
+    const w = Math.max(1, Math.min(100, parseInt(m[2], 10) || 1));
+    return { label: m[1].trim(), weight: w };
+  }
+  function applyWeights(entries) {
+    return entries.map((e) => {
+      const pw = parseWeightSuffix(e.label);
+      return pw.weight > 1 ? { id: e.id, label: pw.label, weight: pw.weight } : e;
+    });
+  }
+  function entryDisplayLabel(entry) {
+    return entry.weight > 1 ? entry.label + ' x' + entry.weight : entry.label;
+  }
+  function selectWeightedEntry(entries, removedIds, elimination) {
+    const eligible = E.availableEntries(entries, removedIds, elimination);
+    if (!eligible.length) return null;
+    let total = 0;
+    const cum = eligible.map((e) => { total += (e.weight || 1); return total; });
+    if (total <= eligible.length) return E.selectEntry(entries, removedIds, elimination);
+    const r = E.secureIndex(total);
+    let lo = 0, hi = cum.length - 1;
+    while (lo < hi) { const mid = (lo + hi) >> 1; if (r < cum[mid]) hi = mid; else lo = mid + 1; }
+    const entry = eligible[lo];
+    const originalIndex = entries.findIndex((item) => item.id === entry.id);
+    return { entry, index: originalIndex, eligible };
+  }
   const safeRead = (key, fallback) => { try {const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback;} catch (_) {return fallback;} };
   const safeWrite = (key, obj) => { try { localStorage.setItem(key, JSON.stringify(obj)); return true; } catch (_) {return false;} };
   const clone = (v) => JSON.parse(JSON.stringify(v));
@@ -148,9 +204,9 @@
   let activeTooltip=null;
   let editorInvalid=false;
   const urlSearch = new URLSearchParams(location.search);
-  const presetKey = urlSearch.get('preset');
+  const presetKey = urlSearch.get('preset') || urlSearch.get('template');
   if (presetKey && presets[presetKey] && page === 'home') {
-    state.entries=makeItems(presets[presetKey].items);
+    state.entries=applyWeights(makeItems(presets[presetKey].items));
     state.name=presets[presetKey].label;
     state.history=[];state.removedIds=[];
     latestWinner=null;
@@ -226,7 +282,7 @@
           <label class="control-label" for="choices-input"><span>${isTeam?'Participants':'Your choices'}</span><span id="editor-count">${state.entries.length} items</span></label>
           ${page==='numbers'?numberMarkup():''}
           <textarea class="input-area" id="choices-input" spellcheck="false" autocomplete="off" maxlength="6000" placeholder="One choice per line"></textarea>
-          <p class="help-line" id="input-help">Up to 60 choices. Blank lines are ignored. Names are private on this device.</p>
+          <p class="help-line" id="input-help">Up to 60 choices. Blank lines are ignored. Tip: add x2, x3 after a choice for a higher chance.</p>
           <div class="editor-quick-actions"><button class="secondary-btn" id="shuffle-choices" type="button">${icons.shuffle} Shuffle</button><button class="secondary-btn" id="clear-choices" type="button">Clear all</button><button class="secondary-btn" id="import-choices" type="button">Import JSON</button><button class="secondary-btn" id="export-backup" type="button">↓ Export backup</button><button class="secondary-btn" id="recover-choices" type="button">↶ Restore earlier</button><input id="import-file" type="file" accept="application/json,.json" hidden></div>
           ${isTeam?teamCountMarkup():`<div class="toggle-row"><label for="no-repeat">No repeat picks <small>Remove chosen items from the next spin.</small></label><input type="checkbox" class="switch" id="no-repeat" ${state.elimination?'checked':''} aria-label="Enable no repeat picks"></div>`}
           ${isTeam?'':effectControlsMarkup()}
@@ -332,7 +388,7 @@
   function syncUi(keepCanvas) {
     if (!appNode) return;
     const input=q('#choices-input');
-    if (input && document.activeElement!==input) input.value=state.entries.map(x=>x.label).join('\n');
+    if (input && document.activeElement!==input) input.value=state.entries.map(x=>entryDisplayLabel(x)).join('\n');
     q('#choice-counter').textContent=`${state.entries.length} ${page==='teams'?'people':'choices'}`;
     q('#editor-count').textContent=`${state.entries.length} items`;
     q('#mode-summary').textContent=page==='teams'?`${state.teamCount} teams`:state.elimination?'No repeats':'Fair pick';
@@ -351,7 +407,7 @@
     if (state.elimination && E.availableEntries(state.entries,state.removedIds,true).length===0 && state.entries.length) setResult('Everyone has been selected. Reset the round to go again.',false);
     if (state.entries.length>18) q('#input-help').textContent='Large wheels use numbered slices. The full list stays in the editor and winner announcement.';
     else if(state.elimination) q('#input-help').textContent='Gray slices are skipped, not deleted. Reset round restores every choice.';
-    else q('#input-help').textContent='Up to 60 choices. Blank lines are ignored. Names stay on this device.';
+    else q('#input-help').textContent='Up to 60 choices. Blank lines are ignored. Tip: add x2, x3 after a choice for a higher chance.';
   }
 
   function setResult(message,isWin) {
@@ -373,7 +429,7 @@
   // The winner is chosen *before* the wheel moves. The visual animation ends on the chosen segment.
   function spin() {
     if(spinning||editorInvalid)return;
-    const chosen=E.selectEntry(state.entries,state.removedIds,state.elimination);
+    const chosen=selectWeightedEntry(state.entries,state.removedIds,state.elimination);
     if(!chosen){toast(state.entries.length?'Reset your round to spin again.':'Add choices first.');return;}
     if(experience)experience.prepareAudio(); // called synchronously inside user's click
     stopAmbient();
@@ -446,7 +502,7 @@
   function editorChanged(value) {
     if (spinning)return;
     let updated;
-    try {updated=textToEntries(value,state.entries);}catch(e){editorInvalid=true;q('#input-help').textContent=e.message;setResult('Fix your list before spinning.',false);q('#spin-main').disabled=true;return;}
+    try {updated=applyWeights(textToEntries(value,state.entries));}catch(e){editorInvalid=true;q('#input-help').textContent=e.message;setResult('Fix your list before spinning.',false);q('#spin-main').disabled=true;return;}
     editorInvalid=false;
     const differs=updated.length!==state.entries.length||updated.some((x,i)=>x.label!==state.entries[i].label);
     if(!differs){syncUi(true);return;}
@@ -460,7 +516,7 @@
     if (spinning||!presets[key])return;
     editorInvalid=false;
     beforeReplacingChoices('Before loading preset');
-    state.entries=makeItems(presets[key].items);
+    state.entries=applyWeights(makeItems(presets[key].items));
     state.name=presets[key].label;
     state.removedIds=[];state.history=[];latestWinner=null;
     persist();setResult(`${presets[key].label} preset loaded.`,false);
@@ -609,7 +665,7 @@
     qa('[data-effect]').forEach(el=>el.addEventListener(el.type==='range'?'input':'change',()=>toggleEffect(el.dataset.effect,el.type==='checkbox'?el.checked:el.value)));
     const preview=q('#preview-celebration');if(preview)preview.addEventListener('click',()=>{if(experience){experience.prepareAudio();experience.winSound();experience.showWinner('SURPRISE!',page,{preview:true});}});
 
-    q('#choices-input').value=state.entries.map(x=>x.label).join('\n');
+    q('#choices-input').value=state.entries.map(x=>entryDisplayLabel(x)).join('\n');
     q('#choices-input').addEventListener('input',(ev)=>editorChanged(ev.target.value));
     if(page==='teams'){
       q('#team-count').addEventListener('change',e=>{state.teamCount=Number(e.target.value);state.groups=[];persist();syncUi();});
