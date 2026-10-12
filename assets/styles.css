@@ -412,3 +412,7 @@ body[data-tool="gift-idea-wheel"] .hero{background:linear-gradient(135deg,#e91e6
 body[data-tool="gift-idea-wheel"] .hero h1{color:#fff;}
 body[data-tool="gift-idea-wheel"] .hero .hero-subtitle{color:rgba(255,255,255,.92);}
 body[data-tool="gift-idea-wheel"] .tool-card{border-top:3px solid #e91e63;}
+
+/* v0.21: wheel thumbnails on tools listing */
+.tool-wheel-thumb{display:inline-block;width:64px;height:64px;border-radius:50%;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.12);flex-shrink:0;}
+.tool-wheel-thumb svg{display:block;}
