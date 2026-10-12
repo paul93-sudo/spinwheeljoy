@@ -70,7 +70,26 @@
     songs: {label:'Song Picker',items:['Pop hit','Rock anthem','80s classic','Love ballad','Dance party','Acoustic chill','Throwback favorite','Guilty pleasure']},
     feelings: {label:'Feelings Check-in',items:['Happy','Excited','Calm','Proud','Nervous','Frustrated','Tired','Grateful','Curious','Brave']}
   };
-  const palette = ['#fac56b','#fb8581','#ac9be9','#66c4ae','#78a6ee','#f4a77a','#8dc9b0','#f9d984','#b1c1f5','#eaa3ce'];
+  const defaultPalette = ['#fac56b','#fb8581','#ac9be9','#66c4ae','#78a6ee','#f4a77a','#8dc9b0','#f9d984','#b1c1f5','#eaa3ce'];
+  // v0.13: per-tool wheel color themes
+  const wheelThemes = {
+    'movie-picker': ['#c41e3a','#f5c518','#1a1a2e','#e94560','#ffd700','#8b0000','#2d2d44','#ff6b6b','#16213e','#daa520'],
+    'workout-picker': ['#ff6b35','#a8e10c','#00bfff','#ff2e63','#08d9d6','#f9ed69','#e23e57','#2a9d8f','#e9c46a','#f4845f'],
+    'secret-santa': ['#c41e3a','#2d6a4f','#d4af37','#ffffff','#a01830','#40916c','#ffd700','#f8f9fa','#b7e4c7','#e63946'],
+    'baby-name-picker': ['#ffb6c1','#add8e6','#dda0dd','#b0e0e6','#ffc0cb','#e6e6fa','#f0e68c','#d8bfd8','#afeeee','#ffe4e1'],
+    'letter-picker': ['#ff0000','#0000ff','#ffff00','#00ff00','#ff6600','#9900cc','#0099cc','#ff3399','#33cc33','#ffcc00'],
+    'country-picker': ['#2d6a4f','#1d3557','#e07a5f','#81b29a','#f2cc8f','#457b9d','#e9c46a','#2a9d8f','#f4a261','#264653'],
+    'icebreaker-wheel': ['#f39c12','#e67e22','#f1c40f','#e74c3c','#fd79a8','#fdcb6e','#e17055','#fab1a0','#ff7675','#ffeaa7'],
+    'song-picker': ['#9b59b6','#e91e63','#00bcd4','#ff5722','#3f51b5','#ff9800','#4caf50','#f44336','#2196f3','#ffeb3b'],
+    'book-picker': ['#800020','#2d5016','#b8860b','#f5f5dc','#5c4033','#8b6914','#4a6741','#d4af37','#3e2723','#a67c52'],
+    'pet-name-picker': ['#ff8c69','#40e0d0','#ffd700','#ff69b4','#7fffd4','#ffa500','#00ced1','#ff1493','#adff2f','#ff6347'],
+    'vacation-picker': ['#00bcd4','#ffdf6b','#ff6b6b','#2ec4b6','#ff9f1c','#06d6a0','#ffd166','#ef476f','#118ab2','#f4f1de'],
+    'board-game-picker': ['#8b0000','#1a237e','#b8860b','#2e7d32','#4a148c','#e65100','#006064','#880e4f','#33691e','#3e2723'],
+    'feelings-wheel': ['#ff0000','#ff7f00','#ffff00','#00ff00','#0000ff','#4b0082','#9400d3','#ff1493','#00ffff','#ff69b4'],
+    'brain-break-wheel': ['#ff0000','#0000ff','#ffff00','#00ff00','#ff00ff','#00ffff','#ff8000','#8000ff','#008000','#ff0080'],
+    'gift-idea-wheel': ['#e91e63','#ffd700','#c41e3a','#40e0d0','#ff69b4','#daa520','#ff1493','#00ced1','#ff6347','#f0e68c'],
+  };
+  const palette = wheelThemes[page] || defaultPalette;
   const icons = {
     play: '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
     edit: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 20h9M16 4l4 4L9 19l-4 1 1-4z"/></svg>',
