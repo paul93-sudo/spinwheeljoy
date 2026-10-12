@@ -14,7 +14,16 @@
     numbers: ['1','2','3','4','5','6','7','8','9','10','11','12'],
     students: ['Avery','Jordan','Harper','Taylor','Charlie','Quinn','Riley','Skyler'],
     teams: ['Alex','Jamie','Taylor','Morgan','Casey','Sam','Avery','Jordan'],
-    colors: ['Red','Orange','Yellow','Green','Blue','Purple']
+    colors: ['Red','Orange','Yellow','Green','Blue','Purple'],
+    prize: ['Mystery gift','Free drink','Bonus point','Pick again','Golden ticket','Lucky star'],
+    decision: ['Go outside','Movie night','Read a book','Board game','Bake cookies','Take a walk'],
+    truthdare: ['Tell a funny story','Do a silly dance','Describe a dream trip','Act like a cat','Share a fun fact','Sing a verse'],
+    wouldrather: ['Fly or be invisible?','Beach or mountains?','Read minds or teleport?','Pizza or pasta?','Travel through time?','Cats or dogs?'],
+    rewards: ['Extra art time','Pick a class song','Choose a game','Read with a friend','Sticker','Choose a seat'],
+    dinner: ['Sushi','Tacos','Pasta','Pizza','Stir-fry','Salad'],
+    chores: ['Set the table','Tidy the desk','Water plants','Fold laundry','Sweep floor','Feed pets'],
+    dates: ['Picnic','Cook together','Museum','Sunset walk','Board-game night','Cafe visit'],
+    challenges: ['Tell a joke','10 jumping jacks','Draw with eyes closed','Sing a chorus','Mime an animal','Compliment someone']
   };
   const presets = {
     names: {label:'Names',items:['Alex','Jamie','Taylor','Morgan','Casey','Sam']},
@@ -391,7 +400,7 @@
       if(!savedRecord)return;
       if(savedRecord.tool!==page){
         try{sessionStorage.setItem(storagePrefix+'handoff',JSON.stringify(savedRecord.data));}catch(_){}
-        const routes={home:'',names:'tools/random-name-picker/',yesno:'tools/yes-or-no-wheel/',numbers:'tools/number-wheel/',students:'tools/student-picker/',teams:'tools/team-generator/',colors:'tools/color-wheel/'};
+        const routes={home:'',names:'tools/random-name-picker/',yesno:'tools/yes-or-no-wheel/',numbers:'tools/number-wheel/',students:'tools/student-picker/',teams:'tools/team-generator/',colors:'tools/color-wheel/',prize:'tools/prize-wheel/',decision:'tools/decision-wheel/',truthdare:'tools/truth-or-dare-wheel/',wouldrather:'tools/would-you-rather-wheel/',rewards:'tools/classroom-reward-wheel/',dinner:'tools/what-to-eat-wheel/',chores:'tools/chore-wheel/',dates:'tools/date-idea-wheel/',challenges:'tools/random-challenge-wheel/'};
         location.href=root+(routes[savedRecord.tool]||'')+'?load=1';return;
       }
       state=normalizeState(savedRecord.data);state.name=savedRecord.name;latestWinner=state.history[0]||null;
