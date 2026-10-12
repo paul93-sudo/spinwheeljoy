@@ -1,6 +1,31 @@
 /* SpinWheelJoy application MVP. No external services or third-party dependencies. */
 (function () {
   'use strict';
+  // v0.9: dark/light mode
+  (function initTheme(){
+    try{
+      const saved=localStorage.getItem('spinwheeljoy.v1.theme');
+      const prefersDark=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme=saved||(prefersDark?'dark':'light');
+      document.documentElement.setAttribute('data-theme',theme);
+      document.addEventListener('DOMContentLoaded',()=>{
+        const header=document.querySelector('.header-actions');
+        if(header&&!document.querySelector('.theme-toggle')){
+          const btn=document.createElement('button');
+          btn.className='theme-toggle';btn.type='button';
+          btn.setAttribute('aria-label','Toggle dark mode');
+          btn.innerHTML='<svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>';
+          btn.addEventListener('click',()=>{
+            const cur=document.documentElement.getAttribute('data-theme');
+            const next=cur==='dark'?'light':'dark';
+            document.documentElement.setAttribute('data-theme',next);
+            try{localStorage.setItem('spinwheeljoy.v1.theme',next);}catch(e){}
+          });
+          header.prepend(btn);
+        }
+      });
+    }catch(e){}
+  })();
   const E = window.SpinWheelEngine;
   if (!E) throw new Error('SpinWheel engine was not loaded');
   const page = document.body.dataset.tool || 'home';
@@ -120,12 +145,15 @@
   const reducedMotion=()=>Boolean(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
   function ambientShouldRun(){return page!=='teams' && !spinning && wheelVisible && !document.hidden && !reducedMotion() && !!effectSettings.ambient && !!q('#wheel-canvas');}
   function stopAmbient(){if(ambientFrame) cancelAnimationFrame(ambientFrame); ambientFrame=0;ambientLast=0;}
+  let ambientTick=0;
   function ambientStep(timestamp){
     if(!ambientShouldRun()){stopAmbient();return;}
     if(!ambientLast) ambientLast=timestamp;
     const dt=Math.min(45,Math.max(0,timestamp-ambientLast));ambientLast=timestamp;
     wheelRotation=(wheelRotation+dt*0.0055)%360; // one slow lap about every 65 seconds
     const canvas=q('#wheel-canvas');if(canvas){canvas.style.transition='none';canvas.style.transform=`rotate(${wheelRotation}deg)`;}
+    // v0.9: animate LED bulbs (throttled redraw, ~5fps)
+    if(++ambientTick%12===0&&!spinning){try{drawWheel(state.entries);}catch(e){}}
     ambientFrame=requestAnimationFrame(ambientStep);
   }
   function startAmbient(){if(!ambientFrame&&ambientShouldRun()){ambientLast=0;ambientFrame=requestAnimationFrame(ambientStep);}}
@@ -262,6 +290,25 @@
     return `<div class="toggle-row"><label for="team-count">Number of teams<small>Balanced groups, with one participant per team.</small></label><select class="team-count" id="team-count" aria-label="Number of teams">${Array.from({length:15},(_,i)=>i+2).map(n=>`<option value="${n}" ${n===state.teamCount?'selected':''}>${n}</option>`).join('')}</select></div>`;
   }
 
+  // v0.9 LED: animated bulbs. mode: 'idle' (twinkle), 'spin' (chase), 'win' (flash).
+  let bulbMode='idle', bulbTick=0;
+  const bulbColors=['#ffcd68','#fb857f','#b49be9','#62c6ad','#78a6ee'];
+  function drawBulbs(ctx,cx,cy){
+    bulbTick++;
+    for(let i=0;i<20;i++){
+      const a=i/20*Math.PI*2, bx=cx+Math.cos(a)*184, by=cy+Math.sin(a)*184;
+      let glow=0.55; // base brightness
+      if(bulbMode==='spin'){ glow = 0.35 + 0.65*Math.max(0,Math.sin(bulbTick*0.25 - i*0.63)); }
+      else if(bulbMode==='idle'){ glow = 0.5 + 0.3*Math.sin(bulbTick*0.03 + i*1.7); }
+      else if(bulbMode==='win'){ glow = (Math.floor(bulbTick/8)%2===0) ? 1 : 0.25; }
+      ctx.beginPath();ctx.arc(bx,by,4.6,0,Math.PI*2);
+      ctx.shadowColor='rgba(24,38,66,.28)';ctx.shadowBlur=3;ctx.shadowOffsetY=1;
+      ctx.globalAlpha=Math.max(0.2,Math.min(1,glow));
+      ctx.fillStyle=bulbColors[i%bulbColors.length];ctx.fill();
+      ctx.globalAlpha=1;ctx.shadowColor='transparent';ctx.shadowBlur=0;ctx.shadowOffsetY=0;
+      ctx.beginPath();ctx.arc(bx-1.2,by-1.4,1.5,0,Math.PI*2);ctx.fillStyle='rgba(255,255,255,.75)';ctx.fill();
+    }
+  }
   function drawWheel(entries) {
     const canvas=q('#wheel-canvas');
     if (!canvas) return;
@@ -272,8 +319,13 @@
     canvas.width=size;canvas.height=size;
     const ctx=canvas.getContext('2d');
     ctx.scale(size/400,size/400);
-    const cx=200,cy=200,r=195;
+    const cx=200,cy=200,outer=196,r=172;
     ctx.clearRect(0,0,400,400);
+    // Rim: soft white ring with colored bulbs. (v0.9: animated chase during spin)
+    const rim=ctx.createLinearGradient(0,0,0,400);rim.addColorStop(0,'#ffffff');rim.addColorStop(1,'#e3eaf9');
+    ctx.beginPath();ctx.arc(cx,cy,outer,0,Math.PI*2);ctx.fillStyle=rim;ctx.fill();
+    ctx.beginPath();ctx.arc(cx,cy,outer-.8,0,Math.PI*2);ctx.lineWidth=1.6;ctx.strokeStyle='#d5def2';ctx.stroke();
+    drawBulbs(ctx,cx,cy);
     if (!valid.length) {
       ctx.fillStyle='#e5ebf5';ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);ctx.fill();
       ctx.fillStyle='#6e8099';ctx.font='700 19px sans-serif';ctx.textAlign='center';ctx.fillText('Add choices',200,274);
@@ -349,20 +401,22 @@
     if(!chosen){toast(state.entries.length?'Reset your round to spin again.':'Add choices first.');return;}
     if(experience)experience.prepareAudio(); // called synchronously inside user's click
     stopAmbient();
-    spinning=true;freezeControls(true);
+    spinning=true;freezeControls(true);bulbMode='spin';
     setResult('The wheel is spinning…',false);
     const canvas=q('#wheel-canvas');
     canvas.style.transition='none';
     drawWheel(state.entries);
     const start=wheelRotation;
     const reduced=reducedMotion();
-    const duration=reduced?220:4600;
+    const duration=reduced?220:6500; // v0.9: slow elegant spin like the reference video
     const originalIndex=state.entries.findIndex(item=>item.id===chosen.entry.id);
     const target=reduced?E.targetRotation(start,originalIndex,state.entries.length,1):E.targetRotation(start,originalIndex,state.entries.length,6);
     const slice=360/state.entries.length;
     let previousTick=Math.floor(start/slice);
-    const begin=performance.now();
+    let begin=0;
+    let safetyTimer=0;
     function finish(){
+      if(safetyTimer){clearTimeout(safetyTimer);safetyTimer=0;}
       wheelRotation=target%360;
       canvas.style.transform=`rotate(${wheelRotation}deg)`;
       const record={id:chosen.entry.id,label:chosen.entry.label,removed:!!state.elimination,when:Date.now()};
@@ -371,24 +425,29 @@
       latestWinner=record;spinning=false;freezeControls(false);
       setResult(`Selected: ${chosen.entry.label}`,true);
       persist();syncUi();
+      bulbMode='win';setTimeout(()=>{bulbMode='idle';},2600);
       if(experience){experience.winSound();experience.showWinner(chosen.entry.label,page,{noRepeat:state.elimination});}
       if(state.elimination&&E.availableEntries(state.entries,state.removedIds,true).length===0)toast('Round complete. Reset to start again.');
       startAmbient();
     }
     function frame(timestamp){
       if(!spinning)return;
+      if(!begin)begin=timestamp;
       const progress=Math.min(1,(timestamp-begin)/duration);
-      // Ease-out quartic has a strong initial sweep and a gentle final stop.
-      const eased=1-Math.pow(1-progress,4);
+      // v0.9: ease-out cubic for a slow, luxurious slowdown (like the reference video).
+      const eased=1-Math.pow(1-progress,3);
       const angle=start+(target-start)*eased;
       canvas.style.transform=`rotate(${angle}deg)`;
       if(!reduced&&progress<.98){
         const sector=Math.floor(angle/slice);
         if(sector!==previousTick){previousTick=sector;if(experience)experience.tick();}
+      if(bulbTick%4===0){try{drawWheel(state.entries);}catch(e){}}
       }
       if(progress<1)requestAnimationFrame(frame);else finish();
     }
     requestAnimationFrame(frame);
+    // Safety net: guarantee finish() even if rAF timestamps misbehave (iOS).
+    safetyTimer=setTimeout(()=>{if(spinning){try{finish();}catch(e){spinning=false;freezeControls(false);}}},duration+3000);
   }
   function renderTeams() {
     if (page!=='teams')return;
