@@ -322,6 +322,7 @@
          ${isTeam?teamStageMarkup():wheelStageMarkup()}
          <div class="wheel-actions">
            <button class="primary-btn spin-btn" id="spin-main" type="button">${icons.play}<span>${isTeam?'Generate teams':'Spin the wheel'}</span></button>
+           <button class="secondary-btn" id="fullscreen-wheel" type="button" aria-label="Full screen wheel" title="Full screen">⛶</button>
            <button class="secondary-btn mobile-edit-btn" id="mobile-edit" type="button" aria-haspopup="dialog" aria-controls="editor-panel">${icons.edit}<span>Edit</span></button>
          </div>
          <p class="helper-text" id="wheel-helper">${isTeam?'Random, balanced groups with one click.':'Spinning never deletes your original choices.'}</p><p class="autosave-line"><span class="safe-dot" aria-hidden="true"></span><span id="autosave-status">Auto-saved on this device</span> · <button type="button" class="inline-restore" id="restore-wheel">Restore earlier wheel</button></p>
@@ -383,9 +384,9 @@
     for(let i=0;i<20;i++){
       const a=i/20*Math.PI*2, bx=cx+Math.cos(a)*184, by=cy+Math.sin(a)*184;
       let glow=0.55; // base brightness
-      if(bulbMode==='spin'){ glow = 0.35 + 0.65*Math.max(0,Math.sin(bulbTick*0.25 - i*0.63)); }
-      else if(bulbMode==='idle'){ glow = 0.5 + 0.3*Math.sin(bulbTick*0.03 + i*1.7); }
-      else if(bulbMode==='win'){ glow = (Math.floor(bulbTick/8)%2===0) ? 1 : 0.25; }
+      if(bulbMode==='spin'){ glow = 0.2 + 0.8*Math.max(0,Math.sin(bulbTick*0.35 - i*0.63)); }
+      else if(bulbMode==='idle'){ glow = 0.4 + 0.6*Math.sin(bulbTick*0.08 + i*1.7); }
+      else if(bulbMode==='win'){ glow = (Math.floor(bulbTick/6)%2===0) ? 1 : 0.1; } // v1.2: stronger blink
       ctx.beginPath();ctx.arc(bx,by,4.6,0,Math.PI*2);
       ctx.shadowColor='rgba(24,38,66,.28)';ctx.shadowBlur=3;ctx.shadowOffsetY=1;
       ctx.globalAlpha=Math.max(0.2,Math.min(1,glow));
@@ -763,6 +764,22 @@
     q('#copy-history').addEventListener('click',()=>copyText(state.history.map(x=>x.label).join('\n')));
     q('#reset-history').addEventListener('click',()=>{q('#history-dialog').close();resetRound();toast('Round reset.');});
     window.addEventListener('resize',()=>{if(page!=='teams'&&!spinning)drawWheel();});
+    // v1.2: Fullscreen wheel mode
+    const fsBtn=q('#fullscreen-wheel');
+    if(fsBtn){
+      fsBtn.addEventListener('click',()=>{
+        const on=!document.body.classList.contains('wheel-focus');
+        document.body.classList.toggle('wheel-focus',on);
+        document.body.classList.toggle('lock-scroll',on);
+        fsBtn.setAttribute('aria-label',on?'Exit full screen':'Full screen wheel');
+        fsBtn.innerHTML=on?'✕':'⛶';
+        if(on)window.scrollTo(0,0);
+        requestAnimationFrame(()=>requestAnimationFrame(()=>{if(!spinning)drawWheel();}));
+      });
+      document.addEventListener('keydown',(e)=>{
+        if(e.key==='Escape'&&document.body.classList.contains('wheel-focus'))fsBtn.click();
+      });
+    }
     window.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('editor-open'))closeEditor();});
     syncUi();
     checkpoint('First recovery checkpoint');
