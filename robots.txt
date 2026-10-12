@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# STAGING: site is not public yet. Switch to robots-public.txt on launch.
+Sitemap: https://spinwheeljoy.com/sitemap.xml
