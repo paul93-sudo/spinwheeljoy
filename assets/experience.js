@@ -98,8 +98,45 @@
       'song-picker':['MUSIC PICK','Let the music play'],
       'brain-break-wheel':['BRAIN BREAK','Time for a little reset'],
       'book-picker':['NEXT READ','Open a new chapter'],
-      'country-picker':['COUNTRY PICK','Explore somewhere new']
+      'country-picker':['COUNTRY PICK','Explore somewhere new'],
+      'secret-santa':['SECRET SANTA','Shh... keep it a surprise'],
+      'yes-or-no-wheel':['THE ANSWER IS','The wheel has spoken'],
+      'prize-wheel':['YOU WON','Enjoy your prize'],
+      'date-idea-wheel':['DATE NIGHT','Make it special'],
+      'what-to-eat-wheel':['DINNER DECIDED','Bon appétit'],
+      'truth-or-dare-wheel':['YOUR CHALLENGE','No backing out now'],
+      'color-wheel':['YOUR COLOR','A splash of inspiration']
    });
+   // v1.3.3: Per-tool winner icons and accent colors
+   const winnerThemes = {
+      'movie-picker':{icon:'🎬',color:'#c41e3a'},
+      'secret-santa':{icon:'🎄',color:'#c41e3a'},
+      'workout-picker':{icon:'💪',color:'#ff6b35'},
+      'vacation-picker':{icon:'✈️',color:'#00bcd4'},
+      'gift-idea-wheel':{icon:'🎁',color:'#e91e63'},
+      'song-picker':{icon:'🎵',color:'#9b59b6'},
+      'book-picker':{icon:'📚',color:'#800020'},
+      'pet-name-picker':{icon:'🐾',color:'#ff8c69'},
+      'board-game-picker':{icon:'🎲',color:'#8b0000'},
+      'brain-break-wheel':{icon:'🧠',color:'#ff0000'},
+      'baby-name-picker':{icon:'🍼',color:'#ff6b9d'},
+      'country-picker':{icon:'🌎',color:'#2d6a4f'},
+      'feelings-wheel':{icon:'💛',color:'#ff0000'},
+      'icebreaker-wheel':{icon:'💬',color:'#f39c12'},
+      'letter-picker':{icon:'🔤',color:'#ff0000'},
+      'prize-wheel':{icon:'🏆',color:'#ffd700'},
+      'date-idea-wheel':{icon:'💕',color:'#ff69b4'},
+      'what-to-eat-wheel':{icon:'🍜',color:'#ff6f00'},
+      'yes-or-no-wheel':{icon:'⚖️',color:'#00c853'},
+      'truth-or-dare-wheel':{icon:'🎭',color:'#6a1b9a'},
+      'color-wheel':{icon:'🎨',color:'#ff0000'},
+      'home':{icon:'🏆',color:'#5665f4'}
+   };
+   const theme = winnerThemes[context] || winnerThemes.home;
+   const iconEl = document.getElementById('winner-icon');
+   if (iconEl) { iconEl.textContent = theme.icon; }
+   const eyebrowEl = document.getElementById('winner-eyebrow');
+   if (eyebrowEl) { eyebrowEl.style.color = theme.color; }
    const [title,subtitle]=contexts[context]||contexts.home;
    document.getElementById('winner-eyebrow').textContent=title;
    document.getElementById('winner-name').textContent=String(label);
