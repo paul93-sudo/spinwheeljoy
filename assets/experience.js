@@ -84,6 +84,22 @@
      home:['WE HAVE A WINNER!','A little joy in every spin'],
      names:['WE HAVE A WINNER!','A little joy in every spin']
    };
+   Object.assign(contexts, {
+      'letter-picker':['YOUR LETTER IS','Keep the word game going'],
+      'workout-picker':['TODAY’S MOVEMENT','A little movement, a lot of joy'],
+      'vacation-picker':['YOUR NEXT ADVENTURE','Every journey starts somewhere'],
+      'gift-idea-wheel':['GIFT IDEA','A thoughtful little surprise'],
+      'feelings-wheel':['LET’S TALK ABOUT','A moment to check in'],
+      'icebreaker-wheel':['ICEBREAKER QUESTION','A conversation worth having'],
+      'movie-picker':['MOVIE NIGHT PICK','Lights, camera, action'],
+      'baby-name-picker':['NAME IDEA','A sweet possibility'],
+      'pet-name-picker':['PET NAME IDEA','A name with personality'],
+      'board-game-picker':['GAME NIGHT PICK','Gather the group'],
+      'song-picker':['MUSIC PICK','Let the music play'],
+      'brain-break-wheel':['BRAIN BREAK','Time for a little reset'],
+      'book-picker':['NEXT READ','Open a new chapter'],
+      'country-picker':['COUNTRY PICK','Explore somewhere new']
+   });
    const [title,subtitle]=contexts[context]||contexts.home;
    document.getElementById('winner-eyebrow').textContent=title;
    document.getElementById('winner-name').textContent=String(label);

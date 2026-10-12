@@ -95,7 +95,31 @@
     return Array.from({ length: count }, (_, i) => ({ id: randomId(), label: String(min + i * step) }));
   }
 
-  const api = { MAX_CHOICES, MAX_LABEL_LENGTH, secureIndex, randomId, entriesFromText, validateEntries, availableEntries, selectEntry, targetRotation, shuffled, distributeTeams, numbersBetween };
+  // Each participant gives to exactly one OTHER participant; no recipient repeats.
+  // Uniform rejection sampling among derangements for small lists; circular fallback
+  // after bounded attempts. This is a local assignment, not a public prize draw.
+  function secretSantaPairs(participants, randomSource) {
+    if (!Array.isArray(participants) || participants.length < 2 || participants.length > MAX_CHOICES || !validateEntries(participants)) {
+      throw new RangeError('Secret Santa needs 2 to 60 valid participants.');
+    }
+    const ids=participants.map(p=>p.id);
+    if(new Set(ids).size!==ids.length)throw new RangeError('Participant IDs must be unique.');
+    let receivers;
+    for(let attempt=0;attempt<140;attempt++){
+      receivers=shuffled(participants,randomSource);
+      if(receivers.every((r,i)=>r.id!==participants[i].id))break;
+      receivers=null;
+    }
+    if(!receivers){
+      // Guarantees a valid assignment without unbounded runtime.
+      const order=shuffled(participants,randomSource);
+      const next=new Map(order.map((person,i)=>[person.id,order[(i+1)%order.length]]));
+      receivers=participants.map(person=>next.get(person.id));
+    }
+    return participants.map((person,i)=>({giverId:person.id,receiverId:receivers[i].id}));
+  }
+
+  const api = { MAX_CHOICES, MAX_LABEL_LENGTH, secureIndex, randomId, entriesFromText, validateEntries, availableEntries, selectEntry, targetRotation, shuffled, distributeTeams, numbersBetween, secretSantaPairs };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   scope.SpinWheelEngine = api;
 })(typeof window !== 'undefined' ? window : globalThis);
