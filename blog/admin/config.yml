@@ -1,0 +1,48 @@
+# Decap CMS config — Phase 2 (prepared, not yet activated).
+# Requires a GitHub OAuth app for authentication (see phase-2 setup notes).
+# Staff get editor access scoped ONLY to blog posts; they cannot touch
+# the site source, tools, or the Wheel Engine.
+#
+# PHASE-2 NOTE: Astro markdown sources live on the `blog-source` branch
+# (Hostinger only deploys `main`). For Decap to edit sources, either point
+# `backend.branch` at `blog-source` and add a GitHub Action that builds
+# Astro and commits dist output to `main`, or keep sources in `main` under
+# a path excluded from the public site. Decide during phase-2 setup.
+backend:
+  name: github
+  repo: paul93-sudo/spinwheeljoy
+  branch: main
+  # base_url / auth_endpoint: set when the OAuth app is created in phase 2.
+
+# Draft -> In Review -> Ready -> Publish workflow.
+publish_mode: editorial_workflow
+
+media_folder: "public/assets/blog"
+public_folder: "/assets/blog"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "astro-blog/src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description (SEO)", name: "description", widget: "text" }
+      - { label: "Slug", name: "slug", widget: "string", hint: "URL-safe, e.g. my-post-title" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["classroom", "parties", "decisions", "team-building"]
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Author", name: "author", widget: "string", default: "SpinWheelJoy Team" }
+      - { label: "Publish date", name: "pubDate", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Updated date", name: "updatedDate", widget: "datetime", format: "YYYY-MM-DD", required: false }
+      - { label: "Featured image", name: "image", widget: "image", required: false }
+      - { label: "Related tool URL", name: "relatedTool", widget: "string", hint: "e.g. /tools/random-name-picker/" }
+      - { label: "Related tool name", name: "relatedToolName", widget: "string" }
+      - { label: "Featured post", name: "featured", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Body", name: "body", widget: "markdown" }
