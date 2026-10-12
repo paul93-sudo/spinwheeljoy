@@ -151,6 +151,21 @@
     const state = appDefaultState();
     if (!candidate || typeof candidate !== 'object' || !E.validateEntries(candidate.entries)) return state;
     state.entries=clone(candidate.entries);
+    // v0.12: if saved entries are stale homepage defaults but this tool now has its own preset, use the preset
+    try{
+      const toolPreset=defaultLabels[page];
+      if(toolPreset && page!=='home'){
+        const savedLabels=state.entries.map(x=>x.label);
+        const homeLabels=defaultLabels.home;
+        const isStaleHome=savedLabels.length===homeLabels.length&&savedLabels.every((l,i)=>l===homeLabels[i]);
+        const presetLabels=toolPreset;
+        const matchesPreset=savedLabels.length===presetLabels.length&&savedLabels.every((l,i)=>l===presetLabels[i]);
+        if(isStaleHome&&!matchesPreset){
+          state.entries=makeItems(toolPreset);
+          state.removedIds=[];state.history=[];
+        }
+      }
+    }catch(e){}
     if(typeof candidate.tool==='string' && Object.hasOwn(defaultLabels,candidate.tool))state.tool=candidate.tool;
     state.name=typeof candidate.name==='string'?candidate.name.slice(0,80):state.name;
     state.elimination=!!candidate.elimination;
