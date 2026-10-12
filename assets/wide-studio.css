@@ -5,7 +5,7 @@
   --tool-soft: #ebefff;
   --studio-edge: clamp(12px, 1.6vw, 30px);
   /* Respect viewport HEIGHT as well as width. Fullscreen is separate. */
-  --wheel-size: min(100%, calc(100dvh - 260px), 880px);
+  --wheel-size: min(100%, calc(100dvh - 180px), 1100px);
 }
 /* Keep article and SEO content at reading width, but let interactive stage breathe. */
 @media (min-width: 1050px) {
@@ -19,7 +19,7 @@
   .studio-grid { display: grid;grid-template-columns: minmax(0, 1fr) clamp(340px, 26vw, 420px);min-height: 0; }
   .studio-topbar { height: 42px;padding-inline: 20px; }
   .wheel-side { min-width: 0; padding: 5px 14px 14px; }
-  .wheel-stage { margin: 0 auto 4px; }
+  .wheel-stage { margin: 0 auto 4px; width: var(--wheel-size) !important; max-width: none !important; }
   .wheel-actions { margin-top: 2px; }
   .wheel-title { max-width: none !important; }
   .editor-side { padding: 19px 20px; }
