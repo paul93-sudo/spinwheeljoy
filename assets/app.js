@@ -88,6 +88,22 @@
     'feelings-wheel': ['#ff0000','#ff7f00','#ffff00','#00ff00','#0000ff','#4b0082','#9400d3','#ff1493','#00ffff','#ff69b4'],
     'brain-break-wheel': ['#ff0000','#0000ff','#ffff00','#00ff00','#ff00ff','#00ffff','#ff8000','#8000ff','#008000','#ff0080'],
     'gift-idea-wheel': ['#e91e63','#ffd700','#c41e3a','#40e0d0','#ff69b4','#daa520','#ff1493','#00ced1','#ff6347','#f0e68c'],
+    // v0.23: palettes for original 15 tools
+    'random-name-picker': ['#2962ff','#00b0ff','#aa00ff','#ff1744','#ff6d00','#00e676','#ffb300','#f50057','#00c853','#ff0000'],
+    'yes-or-no-wheel': ['#00c853','#00c853','#00c853','#00c853','#00c853','#ff0000','#ff0000','#ff0000','#ff0000','#ff0000'],
+    'number-wheel': ['#1a237e','#283593','#3949ab','#3f51b5','#5c6bc0','#7986cb','#9fa8da','#c5cae9','#e8eaf6','#0d47a1'],
+    'student-picker': ['#2e7d32','#43a047','#66bb6a','#81c784','#a5d6a7','#c8e6c9','#1b5e20','#388e3c','#4caf50','#8bc34a'],
+    'team-generator': ['#e65100','#ef6c00','#f57c00','#fb8c00','#ff9800','#ffa726','#ffb74d','#ffcc80','#ffe0b2','#dd2c00'],
+    'color-wheel': ['#ff0000','#ff7f00','#ffff00','#00ff00','#0000ff','#4b0082','#9400d3','#ff1493','#00ffff','#ff69b4'],
+    'date-idea-wheel': ['#ff69b4','#ff1493','#f48fb1','#f8bbd0','#ec407a','#e91e63','#d81b60','#c2185b','#ad1457','#880e4f'],
+    'decision-wheel': ['#37474f','#455a64','#546e7a','#607d8b','#78909c','#90a4ae','#b0bec5','#cfd8dc','#eceff1','#263238'],
+    'what-to-eat-wheel': ['#ff6f00','#ff8f00','#ffa000','#ffb300','#ffc107','#ffca28','#ffd54f','#ffe082','#ff8f00','#e65100'],
+    'prize-wheel': ['#ffd700','#daa520','#b8860b','#ffdf00','#ffcc00','#ffb300','#ffa000','#ff8f00','#ff6f00','#c9a227'],
+    'truth-or-dare-wheel': ['#6a1b9a','#7b1fa2','#8e24aa','#9c27b0','#ab47bc','#ba68c8','#ce93d8','#e1bee7','#4a148c','#38006b'],
+    'would-you-rather-wheel': ['#00695c','#00796b','#00897b','#009688','#26a69a','#4db6ac','#80cbc4','#b2dfdb','#004d40','#00332e'],
+    'random-challenge-wheel': ['#d32f2f','#e53935','#f44336','#ef5350','#e57373','#ef9a9a','#ffcdd2','#c62828','#b71c1c','#ff5252'],
+    'chore-wheel': ['#5d4037','#6d4c41','#795548','#8d6e63','#a1887f','#bcaaa4','#d7ccc8','#efebe9','#4e342e','#3e2723'],
+    'classroom-reward-wheel': ['#f9a825','#fbc02d','#fdd835','#ffeb3b','#ffee58','#fff176','#fff59d','#fff9c4','#f57f17','#ff8f00'],
   };
   const palette = wheelThemes[page] || defaultPalette;
   const icons = {
