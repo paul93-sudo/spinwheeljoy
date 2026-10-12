@@ -1,31 +1,7 @@
 /* SpinWheelJoy application MVP. No external services or third-party dependencies. */
 (function () {
   'use strict';
-  // v0.9: dark/light mode
-  (function initTheme(){
-    try{
-      const saved=localStorage.getItem('spinwheeljoy.v1.theme');
-      const prefersDark=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches;
-      const theme=saved||(prefersDark?'dark':'light');
-      document.documentElement.setAttribute('data-theme',theme);
-      document.addEventListener('DOMContentLoaded',()=>{
-        const header=document.querySelector('.header-actions');
-        if(header&&!document.querySelector('.theme-toggle')){
-          const btn=document.createElement('button');
-          btn.className='theme-toggle';btn.type='button';
-          btn.setAttribute('aria-label','Toggle dark mode');
-          btn.innerHTML='<svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>';
-          btn.addEventListener('click',()=>{
-            const cur=document.documentElement.getAttribute('data-theme');
-            const next=cur==='dark'?'light':'dark';
-            document.documentElement.setAttribute('data-theme',next);
-            try{localStorage.setItem('spinwheeljoy.v1.theme',next);}catch(e){}
-          });
-          header.prepend(btn);
-        }
-      });
-    }catch(e){}
-  })();
+  // v0.10: theme handled by assets/theme.js + theme-boot.js (ChatGPT system)
   const E = window.SpinWheelEngine;
   if (!E) throw new Error('SpinWheel engine was not loaded');
   const page = document.body.dataset.tool || 'home';
