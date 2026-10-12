@@ -276,7 +276,7 @@ h1 .gradient-text { background:linear-gradient(110deg,#345be3,#8364dc);-webkit-b
   .card-grid { grid-template-columns:1fr;gap:12px; }
   .tool-card { min-height:0;padding:18px;display:grid;grid-template-columns:64px 1fr;column-gap:15px; }
   .tool-card .tool-wheel-thumb svg{width:56px;height:56px;}
-  .tool-card .tool-icon,.tool-card .tool-wheel-thumb { grid-row:span 3;margin:0;align-self:center; }
+  .tool-card .tool-icon,.tool-card .tool-wheel-thumb { grid-row:span 3;margin:0;align-self:center;justify-self:center; }
   .tool-card h3 { margin-bottom:3px; }
   .tool-card p { margin:0 0 7px; }
   .template-grid { gap:10px; }
