@@ -1,0 +1,127 @@
+---
+import BlogLayout from '../../../layouts/BlogLayout.astro';
+import { getPosts, postUrl, CATEGORIES, formatDate, articleJsonLd } from '../../../lib/blog';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post) => ({
+    params: { category: post.data.category, slug: post.data.postSlug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await post.render();
+const toc = headings.filter((h) => h.depth === 2);
+const cat = CATEGORIES[post.data.category] ?? { name: post.data.category, description: '', emoji: '🎡', gradient: '#eef2ff' };
+
+const allPosts = await getPosts();
+const related = allPosts.filter((p) => p.data.category === post.data.category && p.data.postSlug !== post.data.postSlug).slice(0, 3);
+const idx = allPosts.findIndex((p) => p.data.postSlug === post.data.postSlug);
+const prev = allPosts[idx + 1];
+const next = allPosts[idx - 1];
+const updated = post.data.updatedDate ?? post.data.pubDate;
+---
+<BlogLayout
+  title={post.data.title}
+  description={post.data.description}
+  path={postUrl(post)}
+  depth={3}
+  ogType="article"
+  ogImage={post.data.image ? `https://spinwheeljoy.com${post.data.image}` : undefined}
+  jsonld={articleJsonLd(post)}
+>
+  <nav class="breadcrumb-blog" aria-label="Breadcrumb"><a href="../../../">Home</a><span>/</span><a href="../../">Blog</a><span>/</span><a href="../">{cat.name}</a><span>/</span><span>{post.data.title}</span></nav>
+
+  <article class="article-wrap">
+    <header class="article-hero">
+      <a class="eyebrow" href="../">{cat.emoji} {cat.name}</a>
+      <h1>{post.data.title}</h1>
+      <p class="article-lede">{post.data.description}</p>
+      <div class="article-meta">
+        <span>By <strong>{post.data.author}</strong></span>
+        <span>Published <time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate)}</time></span>
+        <span>Updated <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>
+      </div>
+    </header>
+
+    {post.data.image && (
+      <figure class="article-hero-figure">
+        <img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} loading="eager" fetchpriority="high" />
+      </figure>
+    )}
+
+    {toc.length > 1 && (
+      <nav class="toc" aria-label="Table of contents">
+        <h2>On this page</h2>
+        <ol>
+          {toc.map((h) => (<li><a href={`#${h.slug}`}>{h.text}</a></li>))}
+        </ol>
+      </nav>
+    )}
+
+    <div class="prose-blog">
+      <Content />
+    </div>
+
+    <section class="try-it-live" aria-label="Try the interactive tool">
+      <div class="try-it-live-head">
+        <span style="font-size:28px" aria-hidden="true">🎡</span>
+        <div>
+          <h2>Try it live: {post.data.relatedToolName}</h2>
+          <p>Spin right here — no sign-up, nothing to install.</p>
+        </div>
+      </div>
+      <iframe src={post.data.relatedTool} title={`${post.data.relatedToolName} — interactive tool`} loading="lazy" referrerpolicy="no-referrer"></iframe>
+      <div class="try-it-live-foot">
+        Having trouble? <a href={post.data.relatedTool} style="color:var(--blue);font-weight:700">Open the full tool in a new tab →</a>
+      </div>
+    </section>
+
+    <aside class="author-box">
+      <div class="author-avatar" aria-hidden="true">SJ</div>
+      <div>
+        <h3>{post.data.author}</h3>
+        <p>We build simple, joyful random-picking tools and write practical guides for using them — in classrooms, at parties, and for everyday decisions.</p>
+      </div>
+    </aside>
+
+    {related.length > 0 && (
+      <section class="related-posts">
+        <h2>Keep reading</h2>
+        <div class="post-grid" style="grid-template-columns:repeat(3,1fr)">
+          {related.map((r) => (
+            <article class="post-card">
+              {r.data.image ? (
+                <div class="post-card-art"><img src={r.data.image} alt={r.data.imageAlt ?? r.data.title} loading="lazy" /></div>
+              ) : (
+                <div class="post-card-art" style={`background:${cat.gradient}`} aria-hidden="true">{cat.emoji}</div>
+              )}
+              <div class="post-card-body">
+                <span class="post-card-cat">{cat.name}</span>
+                <h3><a href={`../${r.data.postSlug}/`}>{r.data.title}</a></h3>
+                <p>{r.data.description}</p>
+                <a class="card-more" href={`../${r.data.postSlug}/`}>Read more →</a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <nav class="article-nav" aria-label="More articles">
+      {prev ? (
+        <a href={`../../${prev.data.category}/${prev.data.postSlug}/`}>
+          <span class="nav-label">← Newer</span>
+          <span class="nav-title">{prev.data.title}</span>
+        </a>
+      ) : <span />}
+      {next ? (
+        <a class="next" href={`../../${next.data.category}/${next.data.postSlug}/`}>
+          <span class="nav-label">Older →</span>
+          <span class="nav-title">{next.data.title}</span>
+        </a>
+      ) : <span />}
+    </nav>
+  </article>
+</BlogLayout>

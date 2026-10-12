@@ -1,0 +1,70 @@
+---
+import BlogLayout from '../../layouts/BlogLayout.astro';
+import { getPosts, postUrl, categoryUrl, CATEGORIES, formatDate } from '../../lib/blog';
+
+const posts = await getPosts();
+const featured = posts.find((p) => p.data.featured) ?? posts[0];
+const rest = posts.filter((p) => p !== featured);
+const categories = Object.entries(CATEGORIES);
+---
+<BlogLayout
+  title="Blog"
+  description="Spin the wheel ideas, classroom games, party inspiration, and everyday decision guides from the SpinWheelJoy team."
+  path="blog/"
+  depth={1}
+>
+  <nav class="breadcrumb-blog" aria-label="Breadcrumb"><a href="../">Home</a><span>/</span><span>Blog</span></nav>
+  <section class="blog-hero">
+    <span class="eyebrow">SpinWheelJoy Blog</span>
+    <h1>Ideas worth <span class="gradient-text">spinning for.</span></h1>
+    <p class="hero-subtitle">Classroom games, party inspiration, and everyday decision guides — each one paired with a free tool you can try right now.</p>
+  </section>
+
+  <div class="cat-chips" role="navigation" aria-label="Categories">
+    {categories.map(([slug, cat]) => (
+      <a class="cat-chip" href={`./${slug}/`}>{cat.emoji} {cat.name}</a>
+    ))}
+  </div>
+
+  {featured && (
+    <article class="featured-post">
+      {featured.data.image ? (
+        <div class="featured-art"><img src={featured.data.image} alt={featured.data.imageAlt ?? featured.data.title} loading="eager" /></div>
+      ) : (
+        <div class="featured-art" style={`background:${CATEGORIES[featured.data.category]?.gradient ?? '#eef2ff'}`} aria-hidden="true">⭐</div>
+      )}
+      <div class="featured-body">
+        <span class="post-card-cat">Featured · {CATEGORIES[featured.data.category]?.name ?? featured.data.category}</span>
+        <h2><a href={`./${featured.data.category}/${featured.data.postSlug}/`}>{featured.data.title}</a></h2>
+        <p>{featured.data.description}</p>
+        <span class="post-card-meta">{formatDate(featured.data.pubDate)} · {featured.data.author}</span>
+        <a class="btn-primary" href={`./${featured.data.category}/${featured.data.postSlug}/`}>Read the guide →</a>
+      </div>
+    </article>
+  )}
+
+  <div class="post-grid">
+    {rest.map((post) => (
+      <article class="post-card">
+        {post.data.image ? (
+          <div class="post-card-art"><img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} loading="lazy" /></div>
+        ) : (
+          <div class="post-card-art" style={`background:${CATEGORIES[post.data.category]?.gradient ?? '#eef2ff'}`} aria-hidden="true">{CATEGORIES[post.data.category]?.emoji ?? '🎡'}</div>
+        )}
+        <div class="post-card-body">
+          <span class="post-card-cat">{CATEGORIES[post.data.category]?.name ?? post.data.category}</span>
+          <h3><a href={`./${post.data.category}/${post.data.postSlug}/`}>{post.data.title}</a></h3>
+          <p>{post.data.description}</p>
+          <span class="post-card-meta">{formatDate(post.data.pubDate)}</span>
+          <a class="card-more" href={`./${post.data.category}/${post.data.postSlug}/`}>Read more →</a>
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <section class="blog-cta">
+    <h2>Want to try the wheels first?</h2>
+    <p>Every guide on this blog pairs with a free interactive tool. No sign-up, no downloads — spin right in your browser.</p>
+    <a class="btn-primary" href="../tools/">Browse all tools →</a>
+  </section>
+</BlogLayout>

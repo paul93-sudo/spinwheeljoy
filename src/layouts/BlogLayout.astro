@@ -1,0 +1,69 @@
+---
+// BlogLayout.astro — shared chrome for all /blog/** pages.
+// Mirrors the main site header/nav/footer (Playful Premium) from build_pages.py.
+import '../styles/blog.css';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string; // e.g. "blog/classroom/my-post/" (no leading slash)
+  depth: number; // 1 for /blog/, 2 for /blog/<cat>/, 3 for articles
+  ogType?: string;
+  ogImage?: string;
+  jsonld?: string;
+  noindex?: boolean;
+}
+
+const { title, description, path, depth, ogType = 'website', ogImage, jsonld, noindex = false } = Astro.props;
+const root = '../'.repeat(depth);
+const canonical = `https://spinwheeljoy.com/${path}`;
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+const brand = `<a class="brand" href="${root}" aria-label="SpinWheelJoy homepage"><span class="brand-symbol"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="13" fill="#fff" stroke="#315fe9" stroke-width="2"/><path d="M16 16V3 A13 13 0 0 1 27.26 9.5 Z" fill="#ffcd68"/><path d="M16 16 27.26 9.5 A13 13 0 0 1 27.26 22.5 Z" fill="#fb7f81"/><path d="M16 16 27.26 22.5 A13 13 0 0 1 4.74 22.5 Z" fill="#6ac9b0"/><path d="M16 16 4.74 22.5 A13 13 0 0 1 16 3 Z" fill="#b5a1ed"/><circle cx="16" cy="16" r="4" fill="#fff"/><path d="m16 0 3 7h-6z" fill="#315fe9"/></svg></span><span>SpinWheel<span style="color:#315fe9">Joy</span></span></a>`;
+
+const headerHtml = `<header class="site-header"><div class="container header-wrap">
+  ${brand}
+  <nav class="desktop-nav" aria-label="Main navigation"><a href="${root}">Spin Wheel</a><a href="${root}tools/">Tools</a><a href="${root}templates/">Templates</a><a href="${root}guides/">Guides</a><a href="${root}blog/" aria-current="page">Blog</a></nav>
+  <div class="header-actions"><a class="saved-open" href="${root}tools/random-name-picker/" aria-label="Try the name picker"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 3h14v18l-7-4-7 4z"/></svg><span class="button-text">My Wheels</span></a><button id="mobile-menu-toggle" class="mobile-menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div>
+ </div><nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation" data-open="false"><div class="container"><a href="${root}">Spin Wheel</a><a href="${root}tools/">All Tools</a><a href="${root}templates/">Templates</a><a href="${root}guides/">Guides</a><a href="${root}blog/">Blog</a><a href="${root}about/">About</a></div></nav></header>`;
+
+const footerHtml = `<footer class="site-footer"><div class="container"><div class="footer-grid">
+ <div>${brand}<p>A little joy for everyday decisions. Free online random wheels and simple tools for names, numbers, teams, and games.</p></div>
+ <div><h3>Explore</h3><a href="${root}">Spin the Wheel</a><a href="${root}tools/random-name-picker/">Name Picker</a><a href="${root}tools/number-wheel/">Number Wheel</a><a href="${root}tools/team-generator/">Team Generator</a></div>
+ <div><h3>Discover</h3><a href="${root}tools/">All Tools</a><a href="${root}templates/">Templates</a><a href="${root}guides/">How It Works</a><a href="${root}blog/">Blog</a></div>
+ <div><h3>Company</h3><a href="${root}about/">About</a><a href="${root}contact/">Contact</a><a href="${root}privacy-policy/">Privacy</a><a href="${root}terms/">Terms</a></div>
+ </div><div class="footer-bottom"><span>SpinWheelJoy MVP. Built for simple, joyful decisions.</span><span>Made for browsers, big and small.</span></div></div></footer>`;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>{esc(title)} | SpinWheelJoy Blog</title>
+  <meta name="description" content={esc(description)} />
+  {noindex && <meta name="robots" content="noindex,nofollow" />}
+  <link rel="canonical" href={canonical} />
+  <meta name="theme-color" content="#ffffff" />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:title" content={`${esc(title)} | SpinWheelJoy Blog`} />
+  <meta property="og:description" content={esc(description)} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content="SpinWheelJoy" />
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  <meta name="twitter:card" content="summary_large_image" />
+  {ogImage && <meta name="twitter:image" content={ogImage} />}
+  <link rel="icon" type="image/svg+xml" href={`${root}assets/favicon.svg`} />
+  <link rel="stylesheet" href={`${root}assets/styles.css`} />
+  {jsonld && <script type="application/ld+json" set:html={jsonld} />}
+</head>
+<body data-root={root}>
+  <Fragment set:html={headerHtml} />
+  <main class="container main-area">
+    <slot />
+  </main>
+  <Fragment set:html={footerHtml} />
+  <div id="toast" class="toast-stack" role="status" aria-live="polite"></div>
+  <script src={`${root}assets/engine.js`} defer></script>
+  <script src={`${root}assets/app.js`} defer></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+---
+import BlogLayout from '../../../layouts/BlogLayout.astro';
+import { getPosts, CATEGORIES, formatDate } from '../../../lib/blog';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  const cats = [...new Set(posts.map((p) => p.data.category))];
+  return cats.map((category) => ({
+    params: { category },
+    props: { posts: posts.filter((p) => p.data.category === category) },
+  }));
+}
+
+const { category } = Astro.params;
+const { posts } = Astro.props;
+const cat = CATEGORIES[category as string] ?? { name: category, description: '', emoji: '🎡', gradient: '#eef2ff' };
+---
+<BlogLayout
+  title={`${cat.name} | Blog`}
+  description={`${cat.description} Browse ${cat.name.toLowerCase()} guides and ideas from SpinWheelJoy.`}
+  path={`blog/${category}/`}
+  depth={2}
+>
+  <nav class="breadcrumb-blog" aria-label="Breadcrumb"><a href="../../">Home</a><span>/</span><a href="../">Blog</a><span>/</span><span>{cat.name}</span></nav>
+  <section class="blog-hero">
+    <span class="eyebrow">{cat.emoji} Category</span>
+    <h1>{cat.name}</h1>
+    <p class="hero-subtitle">{cat.description}</p>
+  </section>
+
+  <div class="post-grid">
+    {posts.map((post) => (
+      <article class="post-card">
+        {post.data.image ? (
+          <div class="post-card-art"><img src={post.data.image} alt={post.data.imageAlt ?? post.data.title} loading="lazy" /></div>
+        ) : (
+          <div class="post-card-art" style={`background:${cat.gradient}`} aria-hidden="true">{cat.emoji}</div>
+        )}
+        <div class="post-card-body">
+          <span class="post-card-cat">{cat.name}</span>
+          <h3><a href={`./${post.data.postSlug}/`}>{post.data.title}</a></h3>
+          <p>{post.data.description}</p>
+          <span class="post-card-meta">{formatDate(post.data.pubDate)} · {post.data.author}</span>
+          <a class="card-more" href={`./${post.data.postSlug}/`}>Read more →</a>
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <section class="blog-cta">
+    <h2>Try the tool behind these ideas</h2>
+    <p>Every guide pairs with a free wheel. Pick one and spin in seconds.</p>
+    <a class="btn-primary" href="../../tools/">Browse all tools →</a>
+  </section>
+</BlogLayout>
