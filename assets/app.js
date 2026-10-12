@@ -281,14 +281,21 @@
   let templatePreview=false;
   if (presetKey && presets[presetKey] && page === 'home') {
     // v1.3: Snapshot the user's custom wheel to recovery BEFORE template replaces it.
-    // This ensures their work is never silently lost.
-    const desiredItems = presets[presetKey].items;
-    const same = JSON.stringify(state.entries.map(x=>x.label))===JSON.stringify(desiredItems);
-    if (!same && state.entries.length && typeof checkpoint==='function') {
-      checkpoint('Before opening a template from a link', state);
+    try {
+      const desiredItems = presets[presetKey].items;
+      const same = JSON.stringify(state.entries.map(x=>x.label))===JSON.stringify(desiredItems);
+      if (!same && state.entries.length) {
+        try { checkpoint('Before opening a template from a link', state); } catch(_){}
+      }
+      state.entries=applyWeights(makeItems(desiredItems));
+      state.name=presets[presetKey].label;
+    } catch(e) {
+      // Fallback: still load template even if checkpoint fails
+      try {
+        state.entries=applyWeights(makeItems(presets[presetKey].items));
+        state.name=presets[presetKey].label;
+      } catch(_){}
     }
-    state.entries=applyWeights(makeItems(desiredItems));
-    state.name=presets[presetKey].label;
     state.history=[];state.removedIds=[];
     latestWinner=null;
     templatePreview=true; // v0.14: don't auto-save template previews
