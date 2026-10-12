@@ -239,11 +239,13 @@
   let editorInvalid=false;
   const urlSearch = new URLSearchParams(location.search);
   const presetKey = urlSearch.get('preset') || urlSearch.get('template');
+  let templatePreview=false;
   if (presetKey && presets[presetKey] && page === 'home') {
     state.entries=applyWeights(makeItems(presets[presetKey].items));
     state.name=presets[presetKey].label;
     state.history=[];state.removedIds=[];
     latestWinner=null;
+    templatePreview=true; // v0.14: don't auto-save template previews
   }
 
   // Safe Wheel: regular spins never replace the master list of choices.
@@ -265,6 +267,7 @@
   }
   let storageWarned=false;
   function persist() {
+    if(templatePreview)return; // v0.14: don't overwrite user's saved wheel with template preview
     const saved=safeWrite(storagePrefix+'working.'+page,{...state,groups:state.groups.slice(0,16)});
     const status=q('#autosave-status');
     if(status)status.textContent=saved?'Auto-saved on this device':'Not saved: export a backup';
@@ -462,6 +465,7 @@
   }
   // The winner is chosen *before* the wheel moves. The visual animation ends on the chosen segment.
   function spin() {
+    templatePreview=false; // user spun = it's theirs now
     if(spinning||editorInvalid)return;
     const chosen=selectWeightedEntry(state.entries,state.removedIds,state.elimination);
     if(!chosen){toast(state.entries.length?'Reset your round to spin again.':'Add choices first.');return;}
