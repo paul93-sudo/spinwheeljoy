@@ -8,6 +8,13 @@
   const root = document.body.dataset.root || './';
   const appNode = document.querySelector('#wheel-app');
   const storagePrefix = 'spinwheeljoy.v1.';
+  // v1.3: Tool registry integration (with fallback to hardcoded values if registry not loaded).
+  // The registry (tool-registry.js) is the single source of truth for tool metadata.
+  const registry = window.SpinWheelTools || null;
+  const registryTool = registry ? (registry.get(page) || registry.get('home')) : null;
+  if (registryTool && registryTool.accent) {
+    document.body.style.setProperty('--tool-accent', registryTool.accent);
+  }
   const defaultLabels = {
     home: ['Alex','Jamie','Taylor','Morgan','Casey','Sam'],
     names: ['Alex','Jamie','Taylor','Morgan','Casey','Sam'],
@@ -180,7 +187,7 @@
     setTimeout(() => URL.revokeObjectURL(url),1000);
   }
   function appDefaultState() {
-    return {version:1,tool:page,name:'My Wheel',entries:makeItems(defaultLabels[page] || defaultLabels.home),elimination:false,removedIds:[],history:[],sound:true,teamCount:2,groups:[],numberMin:1,numberMax:12,numberStep:1};
+    return {version:1,tool:page,name:'My Wheel',entries:makeItems(defaultLabels[page] || defaultLabels.home),elimination:false,removedIds:[],history:[],secretSantaAssignments:[],sound:true,teamCount:2,groups:[],numberMin:1,numberMax:12,numberStep:1}; // v1.3: secret santa state
   }
   function normalizeState(candidate) {
     const state = appDefaultState();
@@ -206,6 +213,11 @@
     state.elimination=!!candidate.elimination;
     const validIds = new Set(state.entries.map(x=>x.id));
     state.removedIds=Array.isArray(candidate.removedIds)?candidate.removedIds.filter(x=>validIds.has(x)).slice(0,60):[];
+    // v1.3: Validate secret santa assignments (safe, backward compatible)
+    if (Array.isArray(candidate.secretSantaAssignments) && candidate.secretSantaAssignments.length <= 60) {
+      const ids=new Set(state.entries.map(x=>x.id));
+      state.secretSantaAssignments=candidate.secretSantaAssignments.filter(x=>x && ids.has(x.giverId) && ids.has(x.receiverId) && x.giverId!==x.receiverId).map(x=>({giverId:x.giverId,receiverId:x.receiverId}));
+    }
     state.history=Array.isArray(candidate.history)?candidate.history.filter(x=>x&&typeof x.label==='string'&&typeof x.id==='string').slice(0,80).map(x=>({id:x.id,label:x.label.slice(0,72),removed:!!x.removed,when:Number(x.when)||Date.now()})):[];
     state.sound=!!candidate.sound;
     state.teamCount=Number.isInteger(candidate.teamCount)?Math.max(2,Math.min(16,candidate.teamCount)):2;
@@ -219,7 +231,18 @@
   const loadedSettings=safeRead(storagePrefix+'effects',{});
   const effectSettings={...defaults,...Object.fromEntries(Object.entries(loadedSettings||{}).filter(([k])=>Object.hasOwn(defaults,k)))};
   if(experience)experience.configure(()=>effectSettings);
-  let state = normalizeState(safeRead(storagePrefix+'working.'+page,null));
+  // v1.3: Never overwrite a malformed legacy snapshot without first quarantining its raw bytes.
+  const workingKey=storagePrefix+'working.'+page;
+  let workingRaw=null,workingCandidate=null,workingWritable=true;
+  try {
+    workingRaw=localStorage.getItem(workingKey);
+    if(workingRaw!==null)workingCandidate=JSON.parse(workingRaw);
+  } catch(err) { workingCandidate=null; }
+  if(workingRaw!==null && (!workingCandidate || !E.validateEntries(workingCandidate.entries))){
+    const quarantineKey=storagePrefix+'quarantine.'+page+'.'+Date.now();
+    try{localStorage.setItem(quarantineKey,workingRaw);}catch(_){workingWritable=false;}
+  }
+  let state = normalizeState(workingCandidate);
   let spinning = false;
   let latestWinner = state.history[0] || null;
   let wheelRotation=0;
@@ -257,7 +280,14 @@
   const presetKey = urlSearch.get('preset') || urlSearch.get('template');
   let templatePreview=false;
   if (presetKey && presets[presetKey] && page === 'home') {
-    state.entries=applyWeights(makeItems(presets[presetKey].items));
+    // v1.3: Snapshot the user's custom wheel to recovery BEFORE template replaces it.
+    // This ensures their work is never silently lost.
+    const desiredItems = presets[presetKey].items;
+    const same = JSON.stringify(state.entries.map(x=>x.label))===JSON.stringify(desiredItems);
+    if (!same && state.entries.length && typeof checkpoint==='function') {
+      checkpoint('Before opening a template from a link', state);
+    }
+    state.entries=applyWeights(makeItems(desiredItems));
     state.name=presets[presetKey].label;
     state.history=[];state.removedIds=[];
     latestWinner=null;
@@ -284,7 +314,7 @@
   let storageWarned=false;
   function persist() {
     if(templatePreview)return; // v0.14: don't overwrite user's saved wheel with template preview
-    const saved=safeWrite(storagePrefix+'working.'+page,{...state,groups:state.groups.slice(0,16)});
+    const saved=workingWritable && safeWrite(storagePrefix+'working.'+page,{...state,groups:state.groups.slice(0,16)}); // v1.3: respect quarantine
     const status=q('#autosave-status');
     if(status)status.textContent=saved?'Auto-saved on this device':'Not saved: export a backup';
     if(!saved&&!storageWarned){storageWarned=true;toast('Auto-save is blocked. Export your wheel as a JSON backup.');}
@@ -406,6 +436,14 @@
     const ctx=canvas.getContext('2d');
     ctx.scale(size/400,size/400);
     const cx=200,cy=200,outer=196,r=186; // v1.2: thin rim
+  // v1.3: Text color chosen by relative luminance rather than hardcoded white.
+  // Ensures readability on both vibrant and light/pastel segments.
+  function textColor(hex){
+    if(typeof hex!=='string'||!/^#[0-9a-f]{6}$/i.test(hex)) return '#ffffff';
+    const channels=[1,3,5].map(i=>parseInt(hex.slice(i,i+2),16)/255).map(v=>v<=.04045?v/12.92:((v+.055)/1.055)**2.4);
+    const luminance=channels[0]*.2126+channels[1]*.7152+channels[2]*.0722;
+    return luminance>.35?'#13233b':'#ffffff';
+  }
     ctx.clearRect(0,0,400,400);
     // Rim: soft white ring with colored bulbs. (v0.9: animated chase during spin)
     const rim=ctx.createLinearGradient(0,0,0,400);rim.addColorStop(0,'#ffffff');rim.addColorStop(1,'#e3eaf9');
@@ -422,10 +460,11 @@
       const start=-Math.PI/2+i*part;
       ctx.beginPath();ctx.moveTo(cx,cy);ctx.arc(cx,cy,r,start,start+part);ctx.closePath();
       const excluded=state.elimination && state.removedIds.includes(item.id);
-      ctx.fillStyle=excluded?'#e4e9f2':palette[i%palette.length];ctx.fill();ctx.lineWidth=2.4;ctx.strokeStyle='#fff';ctx.stroke();
+      const segColor=excluded?'#e4e9f2':palette[i%palette.length]; // v1.3: reused for adaptive text
+      ctx.fillStyle=segColor;ctx.fill();ctx.lineWidth=2.4;ctx.strokeStyle='#fff';ctx.stroke();
       const center=start+part/2;
       ctx.save();ctx.translate(cx,cy);ctx.rotate(center);
-      ctx.fillStyle=excluded?'#77849b':'#ffffff';ctx.textBaseline='middle';
+      ctx.fillStyle=excluded?'#77849b':textColor(segColor);ctx.textBaseline='middle'; // v1.3: adaptive text
       const compact=valid.length>18&&!valid.every(x=>x.label&&x.label.length<=2); // v0.22: short labels always show
       const shown=compact?String(i+1):item.label;
       const maxChars=valid.length>12?12:valid.length>8?16:21;
