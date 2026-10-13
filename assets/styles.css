@@ -62,7 +62,7 @@ h1 .gradient-text { background:linear-gradient(110deg,#345be3,#8364dc);-webkit-b
 .studio-topbar { height:54px; padding:0 25px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border);color:#586983;font-size:12px;font-weight:700; }
 .topbar-left,.topbar-right { display:flex;align-items:center;gap:9px; }
 .live-dot { width:8px;height:8px;background:#58bfa4;border-radius:50%;box-shadow:0 0 0 4px #ebfaf5; }
-.studio-grid { display:grid;grid-template-columns:minmax(0,2fr) minmax(0,.6fr);min-height:530px; }
+.studio-grid { display:grid;grid-template-columns:minmax(0,3fr) minmax(0,.6fr);min-height:530px; }
 .wheel-side { display:flex;flex-direction:column;align-items:center;padding:27px 22px 24px;background:linear-gradient(165deg,#ffffff 8%,#fafcff 80%);position:relative;min-width:0; }
 .wheel-side::before { content:"";width:300px;height:300px;position:absolute;inset:60px auto auto 50%;transform:translateX(-50%);border-radius:50%;background:radial-gradient(circle,#eff4ff,transparent 72%);pointer-events:none; }
 .wheel-title { display:flex;justify-content:space-between;align-items:center;width:100%;max-width:960px;gap:10px;z-index:1; }
@@ -214,7 +214,7 @@ h1 .gradient-text { background:linear-gradient(110deg,#345be3,#8364dc);-webkit-b
 .editor-info { padding:12px;background:#f6f9ff;border:1px solid var(--border);border-radius:11px;font-size:12px;color:#61738c; }
 @media (max-width: 960px) {
   .desktop-nav { gap:15px; }
-  .studio-grid { grid-template-columns:minmax(0,1fr) minmax(310px,.9fr); }
+  .studio-grid { grid-template-columns:minmax(0,1.6fr) minmax(310px,.9fr); }
   .wheel-side { padding-inline:12px; }
   .editor-side { padding:23px 19px; }
   .card-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
