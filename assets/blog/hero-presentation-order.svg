@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Presentation Order Wheel</text>
+<circle cx="320" cy="330" r="160" fill="#e8eeff" stroke="#315fe9" stroke-width="5"/>
+<g font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#1e2a4a">
+<text x="320" y="220">Avery</text><text x="430" y="330">Jordan</text>
+<text x="320" y="440">Morgan</text><text x="210" y="330">Riley</text>
+</g>
+<circle cx="320" cy="330" r="30" fill="#315fe9"/>
+<polygon points="320,140 308,172 332,172" fill="#fb7f81"/>
+<g font-family="Verdana,sans-serif" font-size="22" fill="#1e2a4a">
+<rect x="540" y="180" width="280" height="55" rx="10" fill="#e8fff0" stroke="#06d6a0" stroke-width="2"/>
+<text x="680" y="215" text-anchor="middle">1. Avery ✓</text>
+<rect x="540" y="250" width="280" height="55" rx="10" fill="#e8fff0" stroke="#06d6a0" stroke-width="2"/>
+<text x="680" y="285" text-anchor="middle">2. Jordan ✓</text>
+<rect x="540" y="320" width="280" height="55" rx="10" fill="#fff8e8" stroke="#ffd166" stroke-width="2"/>
+<text x="680" y="355" text-anchor="middle">3. Morgan →</text>
+<rect x="540" y="390" width="280" height="55" rx="10" fill="#f0f0f5" stroke="#ccc" stroke-width="2"/>
+<text x="680" y="425" text-anchor="middle" fill="#999">4. Riley</text>
+</g>
+<text x="450" y="550" font-family="Verdana,sans-serif" font-size="22" fill="#06d6a0" text-anchor="middle">No repeats — every name gets a turn</text>
+</svg>

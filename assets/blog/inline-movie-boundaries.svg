@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="32" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Agree on boundaries first</text>
+<g font-family="Verdana,sans-serif" font-size="26" fill="#1e2a4a">
+<rect x="150" y="130" width="600" height="80" rx="16" fill="#ffffff" stroke="#06d6a0" stroke-width="3"/>
+<circle cx="200" cy="170" r="20" fill="#06d6a0"/><text x="200" y="179" font-size="24" fill="#fff" text-anchor="middle">✓</text>
+<text x="240" y="179">Age rating ceiling</text>
+<rect x="150" y="230" width="600" height="80" rx="16" fill="#ffffff" stroke="#06d6a0" stroke-width="3"/>
+<circle cx="200" cy="270" r="20" fill="#06d6a0"/><text x="200" y="279" font-size="24" fill="#fff" text-anchor="middle">✓</text>
+<text x="240" y="279">Maximum runtime</text>
+<rect x="150" y="330" width="600" height="80" rx="16" fill="#ffffff" stroke="#06d6a0" stroke-width="3"/>
+<circle cx="200" cy="370" r="20" fill="#06d6a0"/><text x="200" y="379" font-size="24" fill="#fff" text-anchor="middle">✓</text>
+<text x="240" y="379">Streaming availability</text>
+<rect x="150" y="430" width="600" height="80" rx="16" fill="#ffffff" stroke="#06d6a0" stroke-width="3"/>
+<circle cx="200" cy="470" r="20" fill="#06d6a0"/><text x="200" y="479" font-size="24" fill="#fff" text-anchor="middle">✓</text>
+<text x="240" y="479">Subtitles on or off</text>
+</g>
+</svg>

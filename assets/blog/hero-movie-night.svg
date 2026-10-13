@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#1a1a2e"/>
+<circle cx="450" cy="300" r="200" fill="#2d2d44"/>
+<g font-family="Verdana,sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
+<path d="M450,300 L450,100 A200,200 0 0,1 623,200 Z" fill="#fb7f81"/>
+<path d="M450,300 L623,200 A200,200 0 0,1 623,400 Z" fill="#ffd166"/>
+<path d="M450,300 L623,400 A200,200 0 0,1 450,500 Z" fill="#06d6a0"/>
+<path d="M450,300 L450,500 A200,200 0 0,1 277,400 Z" fill="#118ab2"/>
+<path d="M450,300 L277,400 A200,200 0 0,1 277,200 Z" fill="#9b5de5"/>
+<path d="M450,300 L277,200 A200,200 0 0,1 450,100 Z" fill="#f15bb5"/>
+</g>
+<circle cx="450" cy="300" r="45" fill="#ffffff"/>
+<polygon points="450,60 435,95 465,95" fill="#ffffff"/>
+<text x="450" y="180" font-family="Verdana,sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">Comedy</text>
+<text x="560" y="300" font-family="Verdana,sans-serif" font-size="22" fill="#1a1a2e" text-anchor="middle">Mystery</text>
+<text x="520" y="420" font-family="Verdana,sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">Documentary</text>
+<text x="380" y="420" font-family="Verdana,sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">Animation</text>
+<text x="340" y="300" font-family="Verdana,sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">Drama</text>
+<text x="380" y="180" font-family="Verdana,sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">Adventure</text>
+<text x="450" y="560" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Movie Night Picker</text>
+</svg>

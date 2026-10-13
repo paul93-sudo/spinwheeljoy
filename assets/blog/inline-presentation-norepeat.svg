@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Drawn names leave the wheel</text>
+<g font-family="Verdana,sans-serif" font-size="24" text-anchor="middle">
+<circle cx="200" cy="300" r="90" fill="#e8eeff" stroke="#315fe9" stroke-width="4"/>
+<text x="200" y="310" fill="#1e2a4a">6 names</text>
+<text x="450" y="310" font-size="48" fill="#06d6a0">→</text>
+<circle cx="700" cy="300" r="90" fill="#e8fff0" stroke="#06d6a0" stroke-width="4"/>
+<text x="700" y="310" fill="#1e2a4a">4 left</text>
+</g>
+<g font-family="Verdana,sans-serif" font-size="20" fill="#1e2a4a" text-anchor="middle">
+<text x="200" y="450">Before the draw</text>
+<text x="700" y="450">After 2 draws</text>
+</g>
+<text x="450" y="530" font-family="Verdana,sans-serif" font-size="22" fill="#666" text-anchor="middle">No-repeat mode removes each pick from the round</text>
+</svg>

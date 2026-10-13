@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="32" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Spin once, then commit</text>
+<circle cx="450" cy="320" r="170" fill="#e8eeff" stroke="#315fe9" stroke-width="5"/>
+<g font-family="Verdana,sans-serif" font-size="22" text-anchor="middle" fill="#1e2a4a">
+<text x="450" y="200">Comedy</text><text x="570" y="320">Mystery</text>
+<text x="450" y="440">Documentary</text><text x="330" y="320">Animation</text>
+</g>
+<circle cx="450" cy="320" r="35" fill="#315fe9"/>
+<polygon points="450,120 435,155 465,155" fill="#fb7f81"/>
+<text x="450" y="540" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#06d6a0" text-anchor="middle">✓ That&#8217;s the film. No respins.</text>
+</svg>
