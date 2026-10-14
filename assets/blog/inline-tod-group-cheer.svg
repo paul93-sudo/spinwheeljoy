@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="80" r="12" fill="#06d6a0" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#9b5de5" opacity="0.5"/>
+<rect x="0" y="470" width="900" height="130" fill="#f3e4cc"/>
+<ellipse cx="450" cy="505" rx="300" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- small wheel behind -->
+<g opacity="0.35">
+<circle cx="450" cy="300" r="110" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M450,300 L450,190 A110,110 0 0,1 528,222 Z" fill="#9b5de5"/>
+<path d="M450,300 L528,222 A110,110 0 0,1 560,300 Z" fill="#f15bb5"/>
+<path d="M450,300 L560,300 A110,110 0 0,1 528,378 Z" fill="#06d6a0"/>
+<path d="M450,300 L528,378 A110,110 0 0,1 450,410 Z" fill="#ffca3a"/>
+<path d="M450,300 L450,410 A110,110 0 0,1 372,378 Z" fill="#118ab2"/>
+<path d="M450,300 L372,378 A110,110 0 0,1 340,300 Z" fill="#f3722c"/>
+<path d="M450,300 L340,300 A110,110 0 0,1 372,222 Z" fill="#9b5de5"/>
+<path d="M450,300 L372,222 A110,110 0 0,1 450,190 Z" fill="#f15bb5"/>
+</g>
+<!-- five players in circle, hands up -->
+<g>
+<circle cx="450" cy="140" r="30" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="424" y="172" width="52" height="70" rx="20" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="428" y1="200" x2="392" y2="150" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+<line x1="472" y1="200" x2="508" y2="150" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="250" cy="260" r="30" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="224" y="292" width="52" height="70" rx="20" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="228" y1="320" x2="192" y2="270" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+<line x1="272" y1="320" x2="308" y2="270" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="650" cy="260" r="30" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="624" y="292" width="52" height="70" rx="20" fill="#f15bb5" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="628" y1="320" x2="592" y2="270" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+<line x1="672" y1="320" x2="708" y2="270" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="330" cy="420" r="30" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="304" y="452" width="52" height="70" rx="20" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="308" y1="480" x2="272" y2="430" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+<line x1="352" y1="480" x2="388" y2="430" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="570" cy="420" r="30" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="544" y="452" width="52" height="70" rx="20" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="548" y1="480" x2="512" y2="430" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+<line x1="592" y1="480" x2="628" y2="430" stroke="#5b6b7c" stroke-width="9" stroke-linecap="round"/>
+</g>
+<!-- cheer arcs -->
+<path d="M330,110 q120,-50 240,0" stroke="#5b6b7c" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.5"/>
+<circle cx="330" cy="112" r="8" fill="#ffca3a"/>
+<circle cx="570" cy="112" r="8" fill="#f15bb5"/>
+</svg>

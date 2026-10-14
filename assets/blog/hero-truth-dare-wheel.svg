@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f7effe"/>
+<circle cx="80" cy="80" r="12" fill="#9b5de5" opacity="0.5"/>
+<circle cx="820" cy="90" r="14" fill="#f15bb5" opacity="0.5"/>
+<circle cx="810" cy="510" r="10" fill="#06d6a0" opacity="0.5"/>
+<circle cx="100" cy="500" r="11" fill="#118ab2" opacity="0.5"/>
+<rect x="200" y="120" width="14" height="14" fill="#ffca3a" opacity="0.7" transform="rotate(20 207 127)"/>
+<rect x="690" y="400" width="14" height="14" fill="#f3722c" opacity="0.7" transform="rotate(-15 697 407)"/>
+<ellipse cx="450" cy="520" rx="310" ry="24" fill="#5b6b7c" opacity="0.15"/>
+<!-- big truth/dare wheel -->
+<g>
+<circle cx="450" cy="290" r="170" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M450,290 L450,120 A170,170 0 0,1 570,170 Z" fill="#9b5de5"/>
+<path d="M450,290 L570,170 A170,170 0 0,1 620,290 Z" fill="#f15bb5"/>
+<path d="M450,290 L620,290 A170,170 0 0,1 570,410 Z" fill="#9b5de5"/>
+<path d="M450,290 L570,410 A170,170 0 0,1 450,460 Z" fill="#f15bb5"/>
+<path d="M450,290 L450,460 A170,170 0 0,1 330,410 Z" fill="#9b5de5"/>
+<path d="M450,290 L330,410 A170,170 0 0,1 280,290 Z" fill="#f15bb5"/>
+<path d="M450,290 L280,290 A170,170 0 0,1 330,170 Z" fill="#9b5de5"/>
+<path d="M450,290 L330,170 A170,170 0 0,1 450,120 Z" fill="#f15bb5"/>
+<text x="492" y="200" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">TRUTH</text>
+<text x="549" y="257" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">DARE</text>
+<text x="549" y="337" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">TRUTH</text>
+<text x="492" y="394" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">DARE</text>
+<text x="408" y="394" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">TRUTH</text>
+<text x="351" y="337" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">DARE</text>
+<text x="351" y="257" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">TRUTH</text>
+<text x="408" y="200" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">DARE</text>
+<circle cx="450" cy="290" r="34" fill="#5b6b7c"/>
+<circle cx="450" cy="290" r="14" fill="#ffffff"/>
+<path d="M450,112 l-22,-44 l44,0 Z" fill="#5b6b7c"/>
+</g>
+<!-- balloon left -->
+<g>
+<line x1="150" y1="330" x2="150" y2="470" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="150" cy="270" rx="55" ry="68" fill="#06d6a0"/>
+<ellipse cx="132" cy="246" rx="14" ry="22" fill="#ffffff" opacity="0.35"/>
+<path d="M150,338 l-10,12 l20,0 Z" fill="#06d6a0"/>
+</g>
+<!-- balloon right -->
+<g>
+<line x1="752" y1="300" x2="752" y2="450" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="752" cy="240" rx="55" ry="68" fill="#f3722c"/>
+<ellipse cx="734" cy="216" rx="14" ry="22" fill="#ffffff" opacity="0.35"/>
+<path d="M752,308 l-10,12 l20,0 Z" fill="#f3722c"/>
+</g>
+<!-- gift box -->
+<g>
+<rect x="686" y="452" width="120" height="80" rx="8" fill="#118ab2"/>
+<rect x="686" y="436" width="120" height="30" rx="8" fill="#0d7191"/>
+<rect x="738" y="436" width="16" height="96" fill="#ffca3a"/>
+<ellipse cx="722" cy="428" rx="18" ry="14" fill="none" stroke="#ffca3a" stroke-width="8"/>
+<ellipse cx="766" cy="428" rx="18" ry="14" fill="none" stroke="#ffca3a" stroke-width="8"/>
+</g>
+<!-- confetti -->
+<circle cx="250" cy="480" r="7" fill="#06d6a0"/>
+<circle cx="640" cy="490" r="7" fill="#f15bb5"/>
+<rect x="300" y="120" width="12" height="12" fill="#118ab2" transform="rotate(24 306 126)"/>
+<rect x="580" y="110" width="12" height="12" fill="#ffca3a" transform="rotate(-18 586 116)"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<rect x="60" y="120" width="350" height="360" rx="24" fill="#315fe9" opacity="0.14" stroke="#315fe9" stroke-width="5"/>
+<rect x="490" y="120" width="350" height="360" rx="24" fill="#fb7f81" opacity="0.14" stroke="#fb7f81" stroke-width="5"/>
+<text x="235" y="200" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#315fe9" text-anchor="middle">Wheel</text>
+<text x="665" y="200" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#fb7f81" text-anchor="middle">Pro-Con</text>
+<text x="235" y="260" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Fast</text>
+<text x="235" y="312" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Gut check</text>
+<text x="235" y="364" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Fun</text>
+<text x="665" y="260" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Thorough</text>
+<text x="665" y="312" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Slow</text>
+<text x="665" y="364" font-family="Verdana,sans-serif" font-size="25" fill="#1e2a4a" text-anchor="middle">Analysis</text>
+<circle cx="450" cy="300" r="52" fill="#1e2a4a"/>
+<text x="450" y="314" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">VS</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f4f1ff"/>
+<circle cx="80" cy="80" r="12" fill="#9b5de5" opacity="0.5"/>
+<circle cx="820" cy="90" r="14" fill="#f15bb5" opacity="0.5"/>
+<circle cx="810" cy="510" r="10" fill="#06d6a0" opacity="0.5"/>
+<circle cx="100" cy="500" r="11" fill="#118ab2" opacity="0.5"/>
+<ellipse cx="450" cy="520" rx="310" ry="24" fill="#5b6b7c" opacity="0.15"/>
+<!-- big wheel -->
+<g>
+<circle cx="450" cy="270" r="170" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M450,270 L450,100 A170,170 0 0,1 597,185 Z" fill="#9b5de5"/>
+<path d="M450,270 L597,185 A170,170 0 0,1 597,355 Z" fill="#f15bb5"/>
+<path d="M450,270 L597,355 A170,170 0 0,1 450,440 Z" fill="#06d6a0"/>
+<path d="M450,270 L450,440 A170,170 0 0,1 303,355 Z" fill="#ffca3a"/>
+<path d="M450,270 L303,355 A170,170 0 0,1 303,185 Z" fill="#118ab2"/>
+<path d="M450,270 L303,185 A170,170 0 0,1 450,100 Z" fill="#f3722c"/>
+<text x="500" y="170" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">PUSH</text>
+<text x="582" y="264" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">RUN</text>
+<text x="500" y="360" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">CORE</text>
+<text x="398" y="360" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">JUMP</text>
+<text x="318" y="264" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">LIFT</text>
+<text x="398" y="170" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">SQUAT</text>
+<circle cx="450" cy="270" r="34" fill="#5b6b7c"/>
+<circle cx="450" cy="270" r="14" fill="#ffffff"/>
+<path d="M450,86 l-22,-44 l44,0 Z" fill="#5b6b7c"/>
+</g>
+<!-- dumbbell left -->
+<g>
+<rect x="120" y="240" width="90" height="18" rx="9" fill="#5b6b7c"/>
+<rect x="132" y="212" width="18" height="74" rx="6" fill="#8d99ae"/>
+<rect x="180" y="212" width="18" height="74" rx="6" fill="#8d99ae"/>
+<rect x="112" y="228" width="12" height="42" rx="6" fill="#5b6b7c"/>
+<rect x="206" y="228" width="12" height="42" rx="6" fill="#5b6b7c"/>
+</g>
+<!-- jump rope right -->
+<g>
+<path d="M700,180 q-40,160 20,260" stroke="#f15bb5" stroke-width="8" fill="none"/>
+<rect x="686" y="150" width="18" height="50" rx="9" fill="#5b6b7c"/>
+<rect x="706" y="420" width="18" height="50" rx="9" fill="#5b6b7c"/>
+</g>
+<!-- running shoe bottom left -->
+<g>
+<path d="M150,470 q60,-10 110,10 l0,40 l-110,0 Z" fill="#118ab2"/>
+<rect x="150" y="505" width="110" height="14" rx="7" fill="#5b6b7c"/>
+<path d="M180,470 q20,-22 40,-8" stroke="#ffffff" stroke-width="7" fill="none"/>
+</g>
+<!-- kettlebell bottom right -->
+<g>
+<circle cx="730" cy="490" r="40" fill="#9b5de5"/>
+<path d="M706,462 q-6,-34 24,-34 q30,0 24,34" stroke="#5b6b7c" stroke-width="10" fill="none"/>
+<rect x="714" y="486" width="32" height="12" rx="6" fill="#ffffff" opacity="0.7"/>
+</g>
+<!-- person reaching right -->
+<g>
+<circle cx="700" cy="330" r="26" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="676" y="356" width="48" height="60" rx="14" fill="#06d6a0"/>
+<path d="M676,380 L620,340" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<circle cx="612" cy="336" r="10" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="684" y="416" width="16" height="60" rx="8" fill="#5b6b7c"/>
+<rect x="704" y="416" width="16" height="60" rx="8" fill="#5b6b7c"/>
+</g>
+</svg>

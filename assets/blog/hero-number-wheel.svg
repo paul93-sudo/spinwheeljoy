@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eef1fb"/>
+<circle cx="80" cy="80" r="12" fill="#9b5de5" opacity="0.5"/>
+<circle cx="820" cy="90" r="14" fill="#f15bb5" opacity="0.5"/>
+<circle cx="810" cy="510" r="10" fill="#06d6a0" opacity="0.5"/>
+<circle cx="100" cy="500" r="11" fill="#118ab2" opacity="0.5"/>
+<rect x="200" y="120" width="14" height="14" fill="#ffca3a" opacity="0.7" transform="rotate(20 207 127)"/>
+<rect x="690" y="400" width="14" height="14" fill="#f3722c" opacity="0.7" transform="rotate(-15 697 407)"/>
+<ellipse cx="450" cy="520" rx="310" ry="24" fill="#5b6b7c" opacity="0.15"/>
+<!-- big number wheel -->
+<g>
+<circle cx="450" cy="270" r="170" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M450,270 L450,100 A170,170 0 0,1 570,150 Z" fill="#9b5de5"/>
+<path d="M450,270 L570,150 A170,170 0 0,1 620,270 Z" fill="#f15bb5"/>
+<path d="M450,270 L620,270 A170,170 0 0,1 570,390 Z" fill="#06d6a0"/>
+<path d="M450,270 L570,390 A170,170 0 0,1 450,440 Z" fill="#ffca3a"/>
+<path d="M450,270 L450,440 A170,170 0 0,1 330,390 Z" fill="#118ab2"/>
+<path d="M450,270 L330,390 A170,170 0 0,1 280,270 Z" fill="#f3722c"/>
+<path d="M450,270 L280,270 A170,170 0 0,1 330,150 Z" fill="#9b5de5"/>
+<path d="M450,270 L330,150 A170,170 0 0,1 450,100 Z" fill="#f15bb5"/>
+<text x="492" y="178" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+<text x="552" y="238" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+<text x="552" y="322" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+<text x="492" y="382" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+<text x="408" y="382" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+<text x="348" y="322" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+<text x="348" y="238" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">7</text>
+<text x="408" y="178" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">8</text>
+<circle cx="450" cy="270" r="34" fill="#5b6b7c"/>
+<circle cx="450" cy="270" r="14" fill="#ffffff"/>
+<path d="M450,92 l-22,-44 l44,0 Z" fill="#5b6b7c"/>
+</g>
+<!-- raffle tickets left -->
+<g>
+<rect x="96" y="300" width="150" height="84" rx="10" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5" transform="rotate(-8 171 342)"/>
+<line x1="150" y1="310" x2="160" y2="384" stroke="#5b6b7c" stroke-width="4" stroke-dasharray="8,6" transform="rotate(-8 171 342)"/>
+<text x="185" y="352" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#5b6b7c" transform="rotate(-8 185 352)">214</text>
+<rect x="110" y="390" width="150" height="84" rx="10" fill="#ffffff" stroke="#5b6b7c" stroke-width="5" transform="rotate(6 185 432)"/>
+<line x1="164" y1="400" x2="174" y2="474" stroke="#5b6b7c" stroke-width="4" stroke-dasharray="8,6" transform="rotate(6 185 432)"/>
+<text x="198" y="446" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#5b6b7c" transform="rotate(6 198 446)">047</text>
+</g>
+<!-- dice right -->
+<g>
+<rect x="668" y="330" width="76" height="76" rx="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="5" transform="rotate(-12 706 368)"/>
+<circle cx="692" cy="352" r="8" fill="#f15bb5"/>
+<circle cx="720" cy="384" r="8" fill="#f15bb5"/>
+<rect x="720" y="410" width="76" height="76" rx="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="5" transform="rotate(10 758 448)"/>
+<circle cx="740" cy="430" r="8" fill="#118ab2"/>
+<circle cx="758" cy="448" r="8" fill="#118ab2"/>
+<circle cx="776" cy="466" r="8" fill="#118ab2"/>
+</g>
+<!-- confetti -->
+<circle cx="250" cy="150" r="7" fill="#06d6a0"/>
+<circle cx="660" cy="140" r="7" fill="#ffca3a"/>
+<circle cx="730" cy="230" r="6" fill="#9b5de5"/>
+<circle cx="170" cy="200" r="6" fill="#f3722c"/>
+</svg>

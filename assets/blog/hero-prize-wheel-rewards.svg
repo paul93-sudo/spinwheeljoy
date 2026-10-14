@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fdf6ec"/>
+<circle cx="90" cy="90" r="12" fill="#ffd166" opacity="0.6"/>
+<circle cx="810" cy="110" r="16" fill="#ef476f" opacity="0.5"/>
+<circle cx="110" cy="500" r="14" fill="#06d6a0" opacity="0.5"/>
+<circle cx="800" cy="490" r="10" fill="#118ab2" opacity="0.5"/>
+<rect x="40" y="60" width="34" height="10" rx="4" fill="#ffd166" transform="rotate(24 57 65)" opacity="0.8"/>
+<rect x="830" y="70" width="30" height="9" rx="4" fill="#06d6a0" transform="rotate(-18 845 74)" opacity="0.8"/>
+<rect x="70" y="520" width="30" height="9" rx="4" fill="#118ab2" transform="rotate(30 85 524)" opacity="0.8"/>
+<rect x="800" y="520" width="34" height="10" rx="4" fill="#ef476f" transform="rotate(-24 817 525)" opacity="0.8"/>
+<rect x="430" y="470" width="40" height="80" rx="12" fill="#5b6b7c"/>
+<ellipse cx="450" cy="560" rx="100" ry="14" fill="#5b6b7c" opacity="0.25"/>
+<circle cx="450" cy="280" r="200" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<g font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+<path d="M450,280 L450,80 A200,200 0 0 1 622.8,180 Z" fill="#ef476f" stroke="#ffffff" stroke-width="5"/>
+<text x="505" y="150" transform="rotate(-60 505 150)">Recess</text>
+<path d="M450,280 L622.8,180 A200,200 0 0 1 622.8,380 Z" fill="#ffd166" stroke="#ffffff" stroke-width="5"/>
+<text x="560" y="280" transform="rotate(0 560 280)">Pizza</text>
+<path d="M450,280 L622.8,380 A200,200 0 0 1 450,480 Z" fill="#06d6a0" stroke="#ffffff" stroke-width="5"/>
+<text x="505" y="410" transform="rotate(60 505 410)">Movie</text>
+<path d="M450,280 L450,480 A200,200 0 0 1 277.2,380 Z" fill="#118ab2" stroke="#ffffff" stroke-width="5"/>
+<text x="395" y="410" transform="rotate(-60 395 410)">Gift</text>
+<path d="M450,280 L277.2,380 A200,200 0 0 1 277.2,180 Z" fill="#9b5de5" stroke="#ffffff" stroke-width="5"/>
+<text x="340" y="280" transform="rotate(0 340 280)">Game</text>
+<path d="M450,280 L277.2,180 A200,200 0 0 1 450,80 Z" fill="#f15bb5" stroke="#ffffff" stroke-width="5"/>
+<text x="395" y="150" transform="rotate(60 395 150)">Star</text>
+</g>
+<circle cx="450" cy="280" r="34" fill="#5b6b7c"/>
+<polygon points="450,58 466,88 434,88" fill="#ef476f" stroke="#5b6b7c" stroke-width="4"/>
+<g>
+<rect x="140" y="420" width="120" height="90" rx="8" fill="#118ab2"/>
+<rect x="140" y="404" width="120" height="24" rx="8" fill="#0b6b8a"/>
+<rect x="190" y="392" width="20" height="34" fill="#ffd166"/>
+<rect x="150" y="392" width="20" height="34" fill="#ffd166"/>
+<rect x="194" y="418" width="12" height="88" fill="#0b6b8a" opacity="0.35"/>
+<rect x="690" y="440" width="90" height="70" rx="8" fill="#06d6a0"/>
+<rect x="690" y="428" width="90" height="20" rx="8" fill="#04976f"/>
+<rect x="728" y="418" width="14" height="28" fill="#ffd166"/>
+<rect x="724" y="438" width="22" height="68" fill="#04976f" opacity="0.35"/>
+</g>
+<g font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#5b6b7c">
+<text x="450" y="40" text-anchor="middle" font-size="30">Spin for the prize</text>
+</g>
+</svg>

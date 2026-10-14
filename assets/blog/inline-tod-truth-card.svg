@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="80" r="12" fill="#9b5de5" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#ffca3a" opacity="0.5"/>
+<rect x="0" y="470" width="900" height="130" fill="#f3e4cc"/>
+<ellipse cx="450" cy="500" rx="300" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- speech bubbles -->
+<g>
+<ellipse cx="220" cy="180" rx="90" ry="60" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<text x="220" y="196" font-family="Verdana,sans-serif" font-size="44" font-weight="bold" fill="#9b5de5" text-anchor="middle">?</text>
+<path d="M280,220 l24,26 l-8,-34 Z" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<ellipse cx="690" cy="160" rx="80" ry="54" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<text x="690" y="176" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#f15bb5" text-anchor="middle">?</text>
+<path d="M636,196 l-24,26 l8,-34 Z" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+</g>
+<!-- hand holding card -->
+<g>
+<rect x="330" y="200" width="240" height="170" rx="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="6" transform="rotate(-6 450 285)"/>
+<rect x="344" y="216" width="212" height="44" rx="8" fill="#9b5de5" transform="rotate(-6 450 285)"/>
+<text x="450" y="246" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(-6 450 246)">TRUTH</text>
+<text x="450" y="300" font-family="Verdana,sans-serif" font-size="20" fill="#5b6b7c" text-anchor="middle" transform="rotate(-6 450 300)">What food could you</text>
+<text x="450" y="330" font-family="Verdana,sans-serif" font-size="20" fill="#5b6b7c" text-anchor="middle" transform="rotate(-6 450 330)">eat every day?</text>
+<!-- hand -->
+<rect x="404" y="380" width="92" height="120" rx="30" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5" transform="rotate(-6 450 440)"/>
+<rect x="396" y="452" width="108" height="60" rx="16" fill="#118ab2" stroke="#5b6b7c" stroke-width="5" transform="rotate(-6 450 482)"/>
+</g>
+<!-- confetti -->
+<circle cx="140" cy="430" r="7" fill="#06d6a0"/>
+<circle cx="770" cy="420" r="7" fill="#118ab2"/>
+<rect x="620" y="430" width="12" height="12" fill="#f3722c" transform="rotate(20 626 436)"/>
+</svg>
