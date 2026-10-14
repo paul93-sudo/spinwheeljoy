@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="430" y="470" width="40" height="90" rx="12" fill="#708198"/>
+<ellipse cx="450" cy="566" rx="90" ry="14" fill="#708198" opacity="0.35"/>
+<path d="M450,300 L450.0,100.0 A200,200 0 0 1 623.2,200.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="512.0" y="192.6" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 512.0 192.6)">Boards</text>
+<path d="M450,300 L623.2,200.0 A200,200 0 0 1 623.2,400.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="574.0" y="300.0" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 574.0 300.0)">Trash</text>
+<path d="M450,300 L623.2,400.0 A200,200 0 0 1 450.0,500.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="512.0" y="407.4" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 512.0 407.4)">Plants</text>
+<path d="M450,300 L450.0,500.0 A200,200 0 0 1 276.8,400.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="388.0" y="407.4" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 388.0 407.4)">Books</text>
+<path d="M450,300 L276.8,400.0 A200,200 0 0 1 276.8,200.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="326.0" y="300.0" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 326.0 300.0)">Line</text>
+<path d="M450,300 L276.8,200.0 A200,200 0 0 1 450.0,100.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="388.0" y="192.6" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 388.0 192.6)">Papers</text>
+<circle cx="450" cy="300" r="200" fill="none" stroke="#1e2a4a" stroke-width="10"/>
+<circle cx="450" cy="300" r="46" fill="#1e2a4a"/>
+<circle cx="450" cy="300" r="46" fill="none" stroke="#ffffff" stroke-width="4"/>
+<circle cx="450" cy="300" r="14" fill="#ffcd68"/>
+<polygon points="450,62 428,108 472,108" fill="#fb7f81" stroke="#1e2a4a" stroke-width="6" stroke-linejoin="round"/>
+</svg>

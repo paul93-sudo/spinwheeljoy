@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="80" r="12" fill="#f15bb5" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#ffca3a" opacity="0.5"/>
+<rect x="0" y="470" width="900" height="130" fill="#f3e4cc"/>
+<ellipse cx="450" cy="500" rx="300" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- ticket bowl left -->
+<g>
+<path d="M120,320 q150,0 260,0 l-30,150 q-100,20 -200,0 Z" fill="#9b5de5" opacity="0.9"/>
+<ellipse cx="250" cy="320" rx="130" ry="30" fill="#b98df0"/>
+<rect x="150" y="230" width="120" height="70" rx="8" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5" transform="rotate(-14 210 265)"/>
+<text x="196" y="276" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#5b6b7c" transform="rotate(-14 196 276)">128</text>
+<rect x="250" y="210" width="120" height="70" rx="8" fill="#ffffff" stroke="#5b6b7c" stroke-width="5" transform="rotate(10 310 245)"/>
+<text x="296" y="256" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#5b6b7c" transform="rotate(10 296 256)">214</text>
+<rect x="200" y="190" width="120" height="70" rx="8" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<text x="246" y="236" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff">047</text>
+</g>
+<!-- small wheel right -->
+<g>
+<circle cx="660" cy="300" r="120" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M660,300 L660,180 A120,120 0 0,1 745,215 Z" fill="#9b5de5"/>
+<path d="M660,300 L745,215 A120,120 0 0,1 780,300 Z" fill="#f15bb5"/>
+<path d="M660,300 L780,300 A120,120 0 0,1 745,385 Z" fill="#06d6a0"/>
+<path d="M660,300 L745,385 A120,120 0 0,1 660,420 Z" fill="#ffca3a"/>
+<path d="M660,300 L660,420 A120,120 0 0,1 575,385 Z" fill="#118ab2"/>
+<path d="M660,300 L575,385 A120,120 0 0,1 540,300 Z" fill="#f3722c"/>
+<path d="M660,300 L540,300 A120,120 0 0,1 575,215 Z" fill="#9b5de5"/>
+<path d="M660,300 L575,215 A120,120 0 0,1 660,180 Z" fill="#f15bb5"/>
+<circle cx="660" cy="300" r="24" fill="#5b6b7c"/>
+<circle cx="660" cy="300" r="10" fill="#ffffff"/>
+<path d="M660,172 l-18,-36 l36,0 Z" fill="#5b6b7c"/>
+</g>
+<!-- confetti -->
+<circle cx="120" cy="420" r="7" fill="#06d6a0"/>
+<circle cx="500" cy="150" r="7" fill="#ffca3a"/>
+<circle cx="800" cy="420" r="7" fill="#118ab2"/>
+<rect x="440" y="420" width="12" height="12" fill="#f3722c" transform="rotate(20 446 426)"/>
+<rect x="330" y="470" width="12" height="12" fill="#f15bb5" transform="rotate(-15 336 476)"/>
+</svg>

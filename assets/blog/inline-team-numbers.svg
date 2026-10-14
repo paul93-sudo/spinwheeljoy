@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eef4fb"/>
+<circle cx="80" cy="80" r="12" fill="#118ab2" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#9b5de5" opacity="0.5"/>
+<text x="450" y="80" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#5b6b7c" text-anchor="middle">40 players, one spin</text>
+<!-- team cards -->
+<g>
+<rect x="80" y="140" width="340" height="180" rx="16" fill="#9b5de5"/>
+<text x="250" y="190" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">1 - 10</text>
+<g>
+<circle cx="150" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="134" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="250" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="234" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="350" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="334" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+</g>
+</g>
+<g>
+<rect x="480" y="140" width="340" height="180" rx="16" fill="#f15bb5"/>
+<text x="650" y="190" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">11 - 20</text>
+<g>
+<circle cx="550" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="534" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="650" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="634" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="750" cy="250" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="734" y="266" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+</g>
+</g>
+<g>
+<rect x="80" y="360" width="340" height="180" rx="16" fill="#06d6a0"/>
+<text x="250" y="410" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">21 - 30</text>
+<g>
+<circle cx="150" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="134" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="250" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="234" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="350" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="334" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+</g>
+</g>
+<g>
+<rect x="480" y="360" width="340" height="180" rx="16" fill="#118ab2"/>
+<text x="650" y="410" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">31 - 40</text>
+<g>
+<circle cx="550" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="534" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="650" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="634" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+<circle cx="750" cy="470" r="16" fill="#f4c7a5" stroke="#ffffff" stroke-width="4"/><rect x="734" y="486" width="32" height="40" rx="10" fill="#ffffff" opacity="0.85"/>
+</g>
+</g>
+</svg>

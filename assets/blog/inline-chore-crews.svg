@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<rect x="48.0" y="120" width="257.3333333333333" height="380" rx="24" fill="#ffffff" stroke="#fb7f81" stroke-width="6"/>
+<text x="176.66666666666666" y="172" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Red Crew</text>
+<circle cx="110" cy="250" r="24" fill="#fb7f81"/>
+<rect x="86" y="276" width="48" height="44" rx="18" fill="#fb7f81" opacity="0.75"/>
+<circle cx="177" cy="250" r="24" fill="#fb7f81"/>
+<rect x="153" y="276" width="48" height="44" rx="18" fill="#fb7f81" opacity="0.75"/>
+<circle cx="243" cy="250" r="24" fill="#fb7f81"/>
+<rect x="219" y="276" width="48" height="44" rx="18" fill="#fb7f81" opacity="0.75"/>
+<circle cx="110" cy="345" r="24" fill="#fb7f81"/>
+<rect x="86" y="371" width="48" height="44" rx="18" fill="#fb7f81" opacity="0.75"/>
+<circle cx="177" cy="345" r="24" fill="#fb7f81"/>
+<rect x="153" y="371" width="48" height="44" rx="18" fill="#fb7f81" opacity="0.75"/>
+<rect x="321.3333333333333" y="120" width="257.3333333333333" height="380" rx="24" fill="#ffffff" stroke="#315fe9" stroke-width="6"/>
+<text x="450.0" y="172" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Blue Crew</text>
+<circle cx="383" cy="250" r="24" fill="#315fe9"/>
+<rect x="359" y="276" width="48" height="44" rx="18" fill="#315fe9" opacity="0.75"/>
+<circle cx="450" cy="250" r="24" fill="#315fe9"/>
+<rect x="426" y="276" width="48" height="44" rx="18" fill="#315fe9" opacity="0.75"/>
+<circle cx="517" cy="250" r="24" fill="#315fe9"/>
+<rect x="493" y="276" width="48" height="44" rx="18" fill="#315fe9" opacity="0.75"/>
+<circle cx="383" cy="345" r="24" fill="#315fe9"/>
+<rect x="359" y="371" width="48" height="44" rx="18" fill="#315fe9" opacity="0.75"/>
+<circle cx="450" cy="345" r="24" fill="#315fe9"/>
+<rect x="426" y="371" width="48" height="44" rx="18" fill="#315fe9" opacity="0.75"/>
+<rect x="594.6666666666666" y="120" width="257.3333333333333" height="380" rx="24" fill="#ffffff" stroke="#34c98e" stroke-width="6"/>
+<text x="723.3333333333333" y="172" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Green Crew</text>
+<circle cx="657" cy="250" r="24" fill="#34c98e"/>
+<rect x="633" y="276" width="48" height="44" rx="18" fill="#34c98e" opacity="0.75"/>
+<circle cx="723" cy="250" r="24" fill="#34c98e"/>
+<rect x="699" y="276" width="48" height="44" rx="18" fill="#34c98e" opacity="0.75"/>
+<circle cx="790" cy="250" r="24" fill="#34c98e"/>
+<rect x="766" y="276" width="48" height="44" rx="18" fill="#34c98e" opacity="0.75"/>
+<circle cx="657" cy="345" r="24" fill="#34c98e"/>
+<rect x="633" y="371" width="48" height="44" rx="18" fill="#34c98e" opacity="0.75"/>
+<circle cx="723" cy="345" r="24" fill="#34c98e"/>
+<rect x="699" y="371" width="48" height="44" rx="18" fill="#34c98e" opacity="0.75"/>
+</svg>

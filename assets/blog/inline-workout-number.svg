@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eefbf4"/>
+<circle cx="80" cy="80" r="12" fill="#06d6a0" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#118ab2" opacity="0.5"/>
+<rect x="0" y="470" width="900" height="130" fill="#d8efe2"/>
+<ellipse cx="450" cy="500" rx="300" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- dumbbell -->
+<g>
+<rect x="150" y="330" width="220" height="26" rx="13" fill="#5b6b7c"/>
+<rect x="170" y="292" width="26" height="102" rx="9" fill="#8d99ae"/>
+<rect x="324" y="292" width="26" height="102" rx="9" fill="#8d99ae"/>
+<rect x="140" y="314" width="20" height="58" rx="9" fill="#5b6b7c"/>
+<rect x="370" y="314" width="20" height="58" rx="9" fill="#5b6b7c"/>
+</g>
+<!-- rep wheel -->
+<g>
+<circle cx="640" cy="300" r="140" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M640,300 L640,160 A140,140 0 0,1 739,230 Z" fill="#9b5de5"/>
+<path d="M640,300 L739,230 A140,140 0 0,1 780,300 Z" fill="#f15bb5"/>
+<path d="M640,300 L780,300 A140,140 0 0,1 739,370 Z" fill="#06d6a0"/>
+<path d="M640,300 L739,370 A140,140 0 0,1 640,440 Z" fill="#ffca3a"/>
+<path d="M640,300 L640,440 A140,140 0 0,1 541,370 Z" fill="#118ab2"/>
+<path d="M640,300 L541,370 A140,140 0 0,1 541,230 Z" fill="#f3722c"/>
+<path d="M640,300 L541,230 A140,140 0 0,1 640,160 Z" fill="#06d6a0"/>
+<text x="682" y="232" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">8</text>
+<text x="744" y="292" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">10</text>
+<text x="724" y="362" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">12</text>
+<text x="662" y="404" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">15</text>
+<text x="596" y="362" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">20</text>
+<text x="596" y="292" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">25</text>
+<text x="662" y="222" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">30</text>
+<circle cx="640" cy="300" r="26" fill="#5b6b7c"/>
+<circle cx="640" cy="300" r="11" fill="#ffffff"/>
+<path d="M640,152 l-18,-36 l36,0 Z" fill="#5b6b7c"/>
+</g>
+<text x="260" y="440" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#5b6b7c" text-anchor="middle">REPS</text>
+</svg>

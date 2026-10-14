@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f4f1ff"/>
+<circle cx="80" cy="80" r="12" fill="#9b5de5" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#ffca3a" opacity="0.5"/>
+<rect x="0" y="450" width="900" height="150" fill="#e3dcf5"/>
+<!-- whiteboard -->
+<g>
+<rect x="90" y="90" width="380" height="300" rx="12" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<rect x="110" y="110" width="340" height="50" rx="8" fill="#eef1fb"/>
+<text x="280" y="144" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#5b6b7c" text-anchor="middle">Roster</text>
+<g font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#5b6b7c" text-anchor="middle">
+<text x="150" y="220">1</text><text x="230" y="220">2</text><text x="310" y="220">3</text><text x="390" y="220">4</text>
+<text x="150" y="290">5</text><text x="230" y="290">6</text><text x="310" y="290">7</text><text x="390" y="290">8</text>
+<text x="150" y="360">9</text><text x="230" y="360">10</text><text x="310" y="360">11</text><text x="390" y="360">12</text>
+</g>
+<circle cx="390" cy="352" r="30" fill="none" stroke="#f15bb5" stroke-width="6"/>
+</g>
+<!-- teacher figure -->
+<g>
+<circle cx="620" cy="200" r="30" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M594,190 q26,-26 52,0" stroke="#5b3b2b" stroke-width="8" fill="none"/>
+<rect x="590" y="230" width="60" height="90" rx="18" fill="#118ab2"/>
+<path d="M594,260 L540,300" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<path d="M646,260 L690,290" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<rect x="594" y="320" width="24" height="100" rx="12" fill="#5b6b7c"/>
+<rect x="622" y="320" width="24" height="100" rx="12" fill="#5b6b7c"/>
+</g>
+<!-- desk + small wheel -->
+<g>
+<rect x="560" y="430" width="220" height="26" rx="10" fill="#8d99ae"/>
+<rect x="580" y="456" width="18" height="90" fill="#5b6b7c"/>
+<rect x="742" y="456" width="18" height="90" fill="#5b6b7c"/>
+<circle cx="670" cy="360" r="66" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M670,360 L670,294 A66,66 0 0,1 717,327 Z" fill="#9b5de5"/>
+<path d="M670,360 L717,327 A66,66 0 0,1 717,393 Z" fill="#f15bb5"/>
+<path d="M670,360 L717,393 A66,66 0 0,1 670,426 Z" fill="#06d6a0"/>
+<path d="M670,360 L670,426 A66,66 0 0,1 623,393 Z" fill="#ffca3a"/>
+<path d="M670,360 L623,393 A66,66 0 0,1 623,327 Z" fill="#118ab2"/>
+<path d="M670,360 L623,327 A66,66 0 0,1 670,294 Z" fill="#f3722c"/>
+<circle cx="670" cy="360" r="14" fill="#5b6b7c"/>
+<path d="M670,290 l-12,-24 l24,0 Z" fill="#5b6b7c"/>
+</g>
+</svg>
