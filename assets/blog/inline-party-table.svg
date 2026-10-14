@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eef3ff"/>
+<circle cx="90" cy="90" r="11" fill="#9b5de5" opacity="0.5"/>
+<circle cx="810" cy="90" r="13" fill="#f15bb5" opacity="0.5"/>
+<circle cx="820" cy="500" r="10" fill="#06d6a0" opacity="0.5"/>
+<ellipse cx="450" cy="520" rx="300" ry="24" fill="#5b6b7c" opacity="0.15"/>
+<ellipse cx="450" cy="420" rx="240" ry="60" fill="#d9c2a3" stroke="#8a5a2b" stroke-width="5"/>
+<ellipse cx="450" cy="412" rx="240" ry="60" fill="#e8d6b8"/>
+<g>
+<circle cx="330" cy="230" r="34" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="296" y="264" width="68" height="80" rx="16" fill="#9b5de5"/>
+</g>
+<g>
+<circle cx="450" cy="210" r="34" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M420,196 q30,-34 60,0 l0,-14 q-30,-28 -60,0 Z" fill="#3b2b23"/>
+<rect x="416" y="244" width="68" height="80" rx="16" fill="#118ab2"/>
+</g>
+<g>
+<circle cx="570" cy="230" r="34" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M540,216 q30,-34 60,0 l0,-14 q-30,-28 -60,0 Z" fill="#6e4a2f"/>
+<rect x="536" y="264" width="68" height="80" rx="16" fill="#06d6a0"/>
+</g>
+<path d="M310,286 q20,16 44,8" stroke="#5b6b7c" stroke-width="5" fill="none"/>
+<path d="M590,286 q-20,16 -44,8" stroke="#5b6b7c" stroke-width="5" fill="none"/>
+<ellipse cx="370" cy="400" rx="26" ry="10" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="530" cy="400" rx="26" ry="10" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="440" y="376" width="20" height="34" rx="5" fill="#ff8c42" stroke="#8a5a2b" stroke-width="3"/>
+<rect x="436" y="368" width="28" height="12" rx="4" fill="#8a5a2b"/>
+<ellipse cx="450" cy="150" rx="66" ry="44" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M486,182 l30,24 l-50,4 Z" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<text x="450" y="166" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#5b6b7c" text-anchor="middle">?</text>
+</svg>

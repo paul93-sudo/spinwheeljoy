@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f4f9ff"/>
+<circle cx="120" cy="100" r="10" fill="#ffd166" opacity="0.6"/>
+<circle cx="790" cy="480" r="12" fill="#ef476f" opacity="0.5"/>
+<ellipse cx="450" cy="520" rx="230" ry="22" fill="#5b6b7c" opacity="0.2"/>
+<path d="M330,200 L570,200 L540,500 L360,500 Z" fill="#f4a259" stroke="#8a5a2b" stroke-width="6"/>
+<path d="M330,200 L570,200 L560,250 L340,250 Z" fill="#e08a3c" stroke="#8a5a2b" stroke-width="4"/>
+<path d="M340,250 L560,250 L540,500 L360,500 Z" fill="#8a5a2b" opacity="0.12"/>
+<text x="450" y="330" font-family="Verdana,sans-serif" font-size="44" font-weight="bold" fill="#8a5a2b" text-anchor="middle" transform="rotate(-8 450 330)">LUCKY DIP</text>
+<rect x="410" y="90" width="80" height="90" rx="10" fill="#ef476f" stroke="#ffffff" stroke-width="5" transform="rotate(12 450 135)"/>
+<rect x="438" y="76" width="24" height="30" rx="6" fill="#ffd166" stroke="#ffffff" stroke-width="4" transform="rotate(12 450 91)"/>
+<g>
+<circle cx="450" cy="430" r="46" fill="#ffdca8"/>
+<path d="M410,400 q40,-60 80,0 q-40,30 -80,0 Z" fill="#ffdca8"/>
+<rect x="432" y="360" width="36" height="70" rx="14" fill="#ffdca8"/>
+<path d="M420,380 q-30,40 -18,90" stroke="#e8b87e" stroke-width="26" stroke-linecap="round" fill="none"/>
+<rect x="404" y="120" width="90" height="46" rx="8" fill="#ffffff" stroke="#5b6b7c" stroke-width="4" transform="rotate(-10 449 143)"/>
+<text x="449" y="148" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ef476f" text-anchor="middle" transform="rotate(-10 449 148)">WIN!</text>
+</g>
+<g font-family="Verdana,sans-serif" font-size="20" fill="#5b6b7c">
+<circle cx="200" cy="420" r="8" fill="#ffd166"/>
+<circle cx="700" cy="160" r="9" fill="#06d6a0"/>
+<circle cx="660" cy="440" r="7" fill="#118ab2"/>
+</g>
+</svg>

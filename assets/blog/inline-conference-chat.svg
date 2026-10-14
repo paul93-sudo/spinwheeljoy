@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eef3ff"/>
+<circle cx="90" cy="90" r="11" fill="#9b5de5" opacity="0.5"/>
+<circle cx="810" cy="90" r="13" fill="#f15bb5" opacity="0.5"/>
+<circle cx="820" cy="500" r="10" fill="#06d6a0" opacity="0.5"/>
+<ellipse cx="450" cy="520" rx="300" ry="24" fill="#5b6b7c" opacity="0.15"/>
+<g>
+<circle cx="330" cy="300" r="46" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M288,282 q42,-52 84,0 l0,-18 q-42,-44 -84,0 Z" fill="#3b2b23"/>
+<rect x="274" y="346" width="112" height="120" rx="24" fill="#118ab2"/>
+<rect x="290" y="392" width="80" height="34" rx="6" fill="#ffffff"/>
+<text x="330" y="416" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#5b6b7c" text-anchor="middle">ANNA</text>
+</g>
+<g>
+<circle cx="570" cy="300" r="46" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M528,282 q42,-52 84,0 l0,-18 q-42,-44 -84,0 Z" fill="#6e4a2f"/>
+<rect x="514" y="346" width="112" height="120" rx="24" fill="#9b5de5"/>
+<rect x="530" y="392" width="80" height="34" rx="6" fill="#ffffff"/>
+<text x="570" y="416" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#5b6b7c" text-anchor="middle">SAM</text>
+</g>
+<path d="M420,340 q30,26 60,0" stroke="#5b6b7c" stroke-width="6" fill="none"/>
+<g>
+<rect x="200" y="430" width="34" height="50" rx="6" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="196" y="424" width="42" height="12" rx="4" fill="#ff8c42"/>
+<path d="M217,436 q0,18 -8,24" stroke="#5b6b7c" stroke-width="4" fill="none"/>
+<rect x="666" y="430" width="34" height="50" rx="6" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="662" y="424" width="42" height="12" rx="4" fill="#ff8c42"/>
+<path d="M683,436 q0,18 8,24" stroke="#5b6b7c" stroke-width="4" fill="none"/>
+</g>
+<ellipse cx="450" cy="180" rx="78" ry="50" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M420,214 l-20,30 l50,-8 Z" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<text x="450" y="196" font-family="Verdana,sans-serif" font-size="38" font-weight="bold" fill="#5b6b7c" text-anchor="middle">?</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eafbf3"/>
+<circle cx="90" cy="80" r="12" fill="#06d6a0" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#118ab2" opacity="0.5"/>
+<rect x="0" y="450" width="900" height="150" fill="#d9ecdf"/>
+<ellipse cx="450" cy="500" rx="320" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- small wheel between the two people -->
+<g>
+<circle cx="450" cy="330" r="62" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M450,330 L450,268 A62,62 0 0,1 504,299 Z" fill="#9b5de5"/>
+<path d="M450,330 L504,361 A62,62 0 0,1 450,392 Z" fill="#f15bb5"/>
+<path d="M450,330 L450,392 A62,62 0 0,1 396,361 Z" fill="#06d6a0"/>
+<path d="M450,330 L396,299 A62,62 0 0,1 450,268 Z" fill="#ffca3a"/>
+<circle cx="450" cy="330" r="13" fill="#5b6b7c"/>
+<path d="M450,254 l-13,-26 l26,0 Z" fill="#5b6b7c"/>
+<rect x="442" y="392" width="16" height="70" fill="#8a5a2b"/>
+<rect x="410" y="462" width="80" height="14" rx="7" fill="#8a5a2b"/>
+</g>
+<!-- person left -->
+<g>
+<circle cx="240" cy="250" r="30" fill="#f4c7a5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M214,240 q26,-26 52,0" stroke="#5b3b2b" stroke-width="8" fill="none"/>
+<rect x="210" y="280" width="60" height="80" rx="18" fill="#f15bb5"/>
+<path d="M212,300 L170,330" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<path d="M268,300 L320,330" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<rect x="214" y="360" width="24" height="90" rx="12" fill="#5b6b7c"/>
+<rect x="242" y="360" width="24" height="90" rx="12" fill="#5b6b7c"/>
+<rect x="206" y="446" width="42" height="14" rx="7" fill="#8d99ae"/>
+<rect x="234" y="446" width="42" height="14" rx="7" fill="#8d99ae"/>
+</g>
+<!-- person right -->
+<g>
+<circle cx="660" cy="250" r="30" fill="#e8b88a" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M634,240 q26,-26 52,0" stroke="#2b2b2b" stroke-width="8" fill="none"/>
+<rect x="630" y="280" width="60" height="80" rx="18" fill="#118ab2"/>
+<path d="M632,300 L580,330" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<path d="M688,300 L740,330" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<rect x="634" y="360" width="24" height="90" rx="12" fill="#5b6b7c"/>
+<rect x="662" y="360" width="24" height="90" rx="12" fill="#5b6b7c"/>
+<rect x="626" y="446" width="42" height="14" rx="7" fill="#8d99ae"/>
+<rect x="654" y="446" width="42" height="14" rx="7" fill="#8d99ae"/>
+</g>
+<!-- music notes -->
+<g fill="#9b5de5">
+<circle cx="340" cy="150" r="10"/>
+<rect x="346" y="110" width="6" height="42"/>
+<circle cx="580" cy="140" r="10"/>
+<rect x="586" y="100" width="6" height="42"/>
+</g>
+</svg>

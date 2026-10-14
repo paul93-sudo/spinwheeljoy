@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#eef1fb"/>
+<circle cx="80" cy="80" r="12" fill="#ffca3a" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#f3722c" opacity="0.5"/>
+<rect x="0" y="470" width="900" height="130" fill="#dde4f5"/>
+<ellipse cx="450" cy="505" rx="240" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- stopwatch -->
+<g>
+<rect x="428" y="70" width="44" height="34" rx="8" fill="#5b6b7c"/>
+<rect x="410" y="96" width="80" height="20" rx="8" fill="#5b6b7c"/>
+<circle cx="450" cy="300" r="150" fill="#ffffff" stroke="#5b6b7c" stroke-width="8"/>
+<circle cx="450" cy="300" r="118" fill="none" stroke="#9b5de5" stroke-width="4" stroke-dasharray="10,8"/>
+<line x1="450" y1="300" x2="450" y2="210" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<line x1="450" y1="300" x2="516" y2="340" stroke="#f15bb5" stroke-width="10" stroke-linecap="round"/>
+<circle cx="450" cy="300" r="14" fill="#5b6b7c"/>
+<!-- lightning bolt on face -->
+<path d="M432,180 l-34,60 l26,0 l-14,44 l44,-62 l-28,0 l20,-42 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+<!-- flying question marks -->
+<g font-family="Verdana,sans-serif" font-weight="bold" fill="#118ab2">
+<text x="200" y="220" font-size="52" transform="rotate(-14 200 220)">?</text>
+<text x="680" y="240" font-size="60" transform="rotate(12 680 240)" fill="#f15bb5">?</text>
+<text x="250" y="420" font-size="44" transform="rotate(8 250 420)" fill="#06d6a0">?</text>
+<text x="660" y="410" font-size="48" transform="rotate(-10 660 410)" fill="#9b5de5">?</text>
+</g>
+<!-- speed lines -->
+<g stroke="#5b6b7c" stroke-width="5" stroke-linecap="round" opacity="0.4">
+<line x1="120" y1="300" x2="210" y2="300"/>
+<line x1="140" y1="340" x2="215" y2="340"/>
+<line x1="690" y1="300" x2="780" y2="300"/>
+<line x1="685" y1="340" x2="760" y2="340"/>
+</g>
+</svg>
