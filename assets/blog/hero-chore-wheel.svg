@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Chore Wheel</text>
+<circle cx="450" cy="320" r="180" fill="#e8eeff" stroke="#315fe9" stroke-width="5"/>
+<g font-family="Verdana,sans-serif" font-size="20" text-anchor="middle" fill="#1e2a4a">
+<path d="M450,320 L450,140 A180,180 0 0,1 606,230 Z" fill="#fb7f81" opacity="0.3"/>
+<path d="M450,320 L606,230 A180,180 0 0,1 606,410 Z" fill="#ffd166" opacity="0.3"/>
+<path d="M450,320 L606,410 A180,180 0 0,1 450,500 Z" fill="#06d6a0" opacity="0.3"/>
+<path d="M450,320 L450,500 A180,180 0 0,1 294,410 Z" fill="#118ab2" opacity="0.3"/>
+<path d="M450,320 L294,410 A180,180 0 0,1 294,230 Z" fill="#9b5de5" opacity="0.3"/>
+<path d="M450,320 L294,230 A180,180 0 0,1 450,140 Z" fill="#f15bb5" opacity="0.3"/>
+</g>
+<g font-family="Verdana,sans-serif" font-size="19" text-anchor="middle" fill="#1e2a4a">
+<text x="450" y="210">Boards</text><text x="560" y="320">Trash</text>
+<text x="520" y="430">Plants</text><text x="380" y="430">Books</text>
+<text x="340" y="320">Line</text><text x="380" y="210">Papers</text>
+</g>
+<circle cx="450" cy="320" r="32" fill="#315fe9"/>
+<polygon points="450,110 438,142 462,142" fill="#fb7f81"/>
+<text x="450" y="550" font-family="Verdana,sans-serif" font-size="22" fill="#06d6a0" text-anchor="middle">Fair jobs, no arguments</text>
+</svg>

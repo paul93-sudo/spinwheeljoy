@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#1e2a4a" text-anchor="middle">Letter Picker Phonics</text>
+<g font-family="Verdana,sans-serif" font-size="72" font-weight="bold" text-anchor="middle">
+<rect x="150" y="180" width="160" height="160" rx="24" fill="#fb7f81"/><text x="230" y="295" fill="#fff">A</text>
+<rect x="340" y="180" width="160" height="160" rx="24" fill="#ffd166"/><text x="420" y="295" fill="#1e2a4a">B</text>
+<rect x="530" y="180" width="160" height="160" rx="24" fill="#06d6a0"/><text x="610" y="295" fill="#fff">C</text>
+</g>
+<circle cx="450" cy="480" r="55" fill="#315fe9"/>
+<text x="450" y="498" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#fff" text-anchor="middle">SPIN</text>
+<text x="450" y="570" font-family="Verdana,sans-serif" font-size="20" fill="#666" text-anchor="middle">8 phonics games for early readers</text>
+</svg>
