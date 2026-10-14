@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<!-- floor -->
+<rect x="0" y="480" width="900" height="120" fill="#eaf0f8"/>
+<!-- toys: blocks and ball -->
+<rect x="150" y="400" width="80" height="80" rx="8" fill="#fb7f81"/>
+<rect x="245" y="420" width="60" height="60" rx="8" fill="#38bdf8"/>
+<circle cx="700" cy="430" r="50" fill="#ffcd68"/>
+<rect x="620" y="440" width="70" height="40" rx="8" fill="#34c98e"/>
+<!-- child figure -->
+<circle cx="450" cy="270" r="52" fill="#ffd9b3"/>
+<path d="M400,268 a52,52 0 0,1 100,0 l0,-14 a52,40 0 0,0 -100,0 z" fill="#5b3a29"/>
+<rect x="404" y="322" width="92" height="120" rx="24" fill="#315fe9"/>
+<line x1="420" y1="442" x2="415" y2="520" stroke="#243b53" stroke-width="22" stroke-linecap="round"/>
+<line x1="480" y1="442" x2="485" y2="520" stroke="#243b53" stroke-width="22" stroke-linecap="round"/>
+<!-- arm holding magnifying glass -->
+<line x1="496" y1="360" x2="590" y2="330" stroke="#ffd9b3" stroke-width="22" stroke-linecap="round"/>
+<circle cx="640" cy="318" r="44" fill="none" stroke="#708198" stroke-width="14"/>
+<line x1="668" y1="352" x2="700" y2="392" stroke="#708198" stroke-width="14" stroke-linecap="round"/>
+<circle cx="640" cy="318" r="34" fill="#ffcd68" opacity="0.35"/>
+<!-- headline -->
+<text x="450" y="90" font-family="Verdana,sans-serif" font-size="36" font-weight="bold" fill="#243b53" text-anchor="middle">FIND THE COLOR</text>
+<text x="450" y="140" font-family="Verdana,sans-serif" font-size="24" fill="#5b6b7c" text-anchor="middle">spin a color, hunt five things that match</text>
+</svg>
