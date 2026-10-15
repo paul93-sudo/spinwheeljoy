@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<!-- wheel with wildcard segment -->
+<ellipse cx="300" cy="520" rx="170" ry="20" fill="#5b6b7c" opacity="0.12"/>
+<line x1="300" y1="470" x2="300" y2="530" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="240" y1="540" x2="360" y2="540" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<g stroke="#5b6b7c" stroke-width="5">
+<path d="M300,300 L300,110 A190,190 0 0,1 434.4,165.6 Z" fill="#5b6b7c"/>
+<path d="M300,300 L434.4,165.6 A190,190 0 0,1 490,300 Z" fill="#ffca3a"/>
+<path d="M300,300 L490,300 A190,190 0 0,1 434.4,434.4 Z" fill="#06d6a0"/>
+<path d="M300,300 L434.4,434.4 A190,190 0 0,1 300,490 Z" fill="#118ab2"/>
+<path d="M300,300 L300,490 A190,190 0 0,1 165.6,434.4 Z" fill="#9b5de5"/>
+<path d="M300,300 L165.6,434.4 A190,190 0 0,1 110,300 Z" fill="#f15bb5"/>
+<path d="M300,300 L110,300 A190,190 0 0,1 165.6,165.6 Z" fill="#f3722c"/>
+<path d="M300,300 L165.6,165.6 A190,190 0 0,1 300,110 Z" fill="#ffca3a"/>
+</g>
+<g text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#ffffff">
+<text x="342" y="215" font-size="52">?</text>
+<text x="402" y="264" font-size="18">TACOS</text>
+<text x="402" y="348" font-size="18">PIZZA</text>
+<text x="342" y="408" font-size="18">SOUP</text>
+<text x="258" y="408" font-size="18">PASTA</text>
+<text x="198" y="348" font-size="18">SALAD</text>
+<text x="198" y="264" font-size="18">RAMEN</text>
+<text x="258" y="205" font-size="18">CURRY</text>
+</g>
+<circle cx="300" cy="300" r="30" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="282,52 318,52 300,96" fill="#5b6b7c"/>
+<!-- new-food icons on the right -->
+<g>
+<!-- curry bowl -->
+<ellipse cx="660" cy="240" rx="70" ry="20" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M590,240 A70,34 0 0,0 730,240 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="640" cy="226" r="8" fill="#06d6a0"/>
+<circle cx="680" cy="230" r="8" fill="#ffca3a"/>
+<text x="660" y="300" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b6b7c">curry</text>
+<!-- ramen bowl -->
+<ellipse cx="660" cy="400" rx="70" ry="20" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M590,400 A70,34 0 0,0 730,400 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="620" y1="420" x2="600" y2="470" stroke="#5b6b7c" stroke-width="6" stroke-linecap="round"/>
+<line x1="700" y1="420" x2="720" y2="470" stroke="#5b6b7c" stroke-width="6" stroke-linecap="round"/>
+<text x="660" y="510" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b6b7c">ramen</text>
+<!-- sparkle marks -->
+<g fill="#ffca3a" stroke="#5b6b7c" stroke-width="3">
+<polygon points="780,150 788,172 810,180 788,188 780,210 772,188 750,180 772,172"/>
+<polygon points="560,330 565,343 578,348 565,353 560,366 555,353 542,348 555,343"/>
+</g>
+</g>
+</svg>

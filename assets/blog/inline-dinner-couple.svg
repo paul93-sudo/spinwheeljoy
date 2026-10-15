@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<rect x="0" y="450" width="900" height="150" fill="#f3e4cc"/>
+<!-- kitchen counter -->
+<rect x="40" y="380" width="820" height="30" rx="8" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="60" y="410" width="780" height="90" fill="#b79ced" opacity="0.45"/>
+<!-- stove + pot -->
+<rect x="600" y="300" width="170" height="14" rx="7" fill="#5b6b7c"/>
+<rect x="610" y="230" width="150" height="75" rx="18" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="660" y="208" width="50" height="26" rx="10" fill="#5b6b7c"/>
+<g fill="none" stroke="#5b6b7c" stroke-width="4" stroke-linecap="round" opacity="0.55">
+<path d="M650,180 C646,166 654,158 650,144"/>
+<path d="M685,180 C681,166 689,158 685,144"/>
+<path d="M720,180 C716,166 724,158 720,144"/>
+</g>
+<!-- two people -->
+<g>
+<circle cx="180" cy="200" r="34" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="140" y="236" width="80" height="150" rx="24" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="220" y1="290" x2="330" y2="330" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="430" cy="190" r="34" fill="#c68642" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="390" y="226" width="80" height="160" rx="24" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="390" y1="285" x2="330" y2="330" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+</g>
+<!-- phone with wheel -->
+<g>
+<rect x="300" y="300" width="70" height="110" rx="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="335" cy="345" r="24" fill="#ffca3a" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M335,345 L335,321 A24,24 0 0,1 356,333 Z" fill="#f3722c"/>
+<path d="M335,345 L356,333 A24,24 0 0,1 335,369 Z" fill="#118ab2"/>
+<path d="M335,345 L335,369 A24,24 0 0,1 314,357 Z" fill="#06d6a0"/>
+<path d="M335,345 L314,357 A24,24 0 0,1 314,333 Z" fill="#9b5de5"/>
+<path d="M335,345 L314,333 A24,24 0 0,1 335,321 Z" fill="#f15bb5"/>
+<circle cx="335" cy="345" r="6" fill="#ffffff" stroke="#5b6b7c" stroke-width="3"/>
+</g>
+<!-- question marks floating -->
+<g font-family="sans-serif" font-size="52" font-weight="bold" fill="#9b5de5" opacity="0.85">
+<text x="90" y="120">?</text>
+<text x="520" y="120">?</text>
+<text x="760" y="150">?</text>
+</g>
+</svg>

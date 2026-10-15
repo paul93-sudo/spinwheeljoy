@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<circle cx="860" cy="520" r="16" fill="#ffca3a" opacity="0.45"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<!-- wheel shadow -->
+<ellipse cx="300" cy="520" rx="170" ry="20" fill="#5b6b7c" opacity="0.12"/>
+<!-- stand -->
+<line x1="300" y1="470" x2="300" y2="530" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="240" y1="540" x2="360" y2="540" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<!-- wheel: 8 food segments -->
+<g stroke="#5b6b7c" stroke-width="5">
+<path d="M300,300 L300,110 A190,190 0 0,1 434.4,165.6 Z" fill="#f3722c"/>
+<path d="M300,300 L434.4,165.6 A190,190 0 0,1 490,300 Z" fill="#ffca3a"/>
+<path d="M300,300 L490,300 A190,190 0 0,1 434.4,434.4 Z" fill="#06d6a0"/>
+<path d="M300,300 L434.4,434.4 A190,190 0 0,1 300,490 Z" fill="#118ab2"/>
+<path d="M300,300 L300,490 A190,190 0 0,1 165.6,434.4 Z" fill="#9b5de5"/>
+<path d="M300,300 L165.6,434.4 A190,190 0 0,1 110,300 Z" fill="#f15bb5"/>
+<path d="M300,300 L110,300 A190,190 0 0,1 165.6,165.6 Z" fill="#ffca3a"/>
+<path d="M300,300 L165.6,165.6 A190,190 0 0,1 300,110 Z" fill="#06d6a0"/>
+</g>
+<!-- segment labels -->
+<g text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+<text x="342" y="205">TACOS</text>
+<text x="402" y="264">PIZZA</text>
+<text x="402" y="348">PASTA</text>
+<text x="342" y="408">SOUP</text>
+<text x="258" y="408">RAMEN</text>
+<text x="198" y="348">SUSHI</text>
+<text x="198" y="264">SALAD</text>
+<text x="258" y="205">CURRY</text>
+</g>
+<circle cx="300" cy="300" r="30" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="282,52 318,52 300,96" fill="#5b6b7c"/>
+<!-- dinner table on the right -->
+<rect x="600" y="430" width="260" height="22" rx="10" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<line x1="620" y1="452" x2="620" y2="540" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<line x1="840" y1="452" x2="840" y2="540" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<rect x="600" y="530" width="260" height="14" rx="7" fill="#5b6b7c" opacity="0.25"/>
+<!-- plates -->
+<ellipse cx="680" cy="420" rx="48" ry="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="680" cy="416" rx="30" ry="8" fill="#f3722c" stroke="#5b6b7c" stroke-width="3"/>
+<ellipse cx="800" cy="420" rx="48" ry="14" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="800" cy="416" rx="30" ry="8" fill="#06d6a0" stroke="#5b6b7c" stroke-width="3"/>
+<!-- cutlery -->
+<line x1="610" y1="405" x2="610" y2="440" stroke="#5b6b7c" stroke-width="5" stroke-linecap="round"/>
+<line x1="890" y1="405" x2="890" y2="440" stroke="#5b6b7c" stroke-width="5" stroke-linecap="round"/>
+<!-- steam -->
+<g fill="none" stroke="#5b6b7c" stroke-width="4" stroke-linecap="round" opacity="0.6">
+<path d="M668,380 C664,366 672,358 668,344"/>
+<path d="M692,380 C688,366 696,358 692,344"/>
+<path d="M788,380 C784,366 792,358 788,344"/>
+</g>
+<!-- fork + spoon on table -->
+<line x1="745" y1="404" x2="745" y2="444" stroke="#5b6b7c" stroke-width="6" stroke-linecap="round"/>
+<circle cx="745" cy="398" r="9" fill="none" stroke="#5b6b7c" stroke-width="5"/>
+<text x="640" y="600" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#5b6b7c" opacity="0.0">.</text>
+</svg>
