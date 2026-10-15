@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#e8f4ff"/>
+<rect x="0" y="420" width="900" height="180" fill="#cfd8e3"/>
+<rect x="0" y="440" width="900" height="14" fill="#ffffff"/>
+<g fill="#9b5de5" opacity="0.35">
+<rect x="60" y="60" width="70" height="90" rx="8"/>
+<rect x="770" y="40" width="70" height="90" rx="8"/>
+</g>
+<!-- car -->
+<g>
+<rect x="180" y="300" width="540" height="110" rx="40" fill="#ff6b6b"/>
+<rect x="280" y="230" width="340" height="100" rx="34" fill="#ff6b6b"/>
+<rect x="310" y="250" width="120" height="60" rx="10" fill="#bfe3ff"/>
+<rect x="450" y="250" width="140" height="60" rx="10" fill="#bfe3ff"/>
+<circle cx="300" cy="420" r="48" fill="#2b2d42"/>
+<circle cx="300" cy="420" r="20" fill="#8d99ae"/>
+<circle cx="600" cy="420" r="48" fill="#2b2d42"/>
+<circle cx="600" cy="420" r="20" fill="#8d99ae"/>
+<rect x="700" y="330" width="34" height="16" rx="8" fill="#ffd166"/>
+</g>
+<!-- passengers -->
+<g>
+<circle cx="370" cy="270" r="24" fill="#f4c7a5"/>
+<rect x="350" y="294" width="40" height="40" rx="10" fill="#118ab2"/>
+<circle cx="520" cy="270" r="24" fill="#c7a5f4"/>
+<rect x="500" y="294" width="40" height="40" rx="10" fill="#06d6a0"/>
+</g>
+<!-- aux cord to phone -->
+<path d="M520,340 q60,60 130,40" stroke="#2b2d42" stroke-width="6" fill="none"/>
+<rect x="640" y="370" width="60" height="100" rx="12" fill="#1c2b3a"/>
+<rect x="648" y="382" width="44" height="60" rx="4" fill="#ffffff"/>
+<rect x="654" y="390" width="32" height="8" rx="4" fill="#9b5de5"/>
+<rect x="654" y="404" width="28" height="7" rx="3.5" fill="#dfe6f2"/>
+<rect x="654" y="416" width="30" height="7" rx="3.5" fill="#dfe6f2"/>
+<!-- music notes from windows -->
+<g fill="#2b2d42" opacity="0.8">
+<ellipse cx="200" cy="200" rx="13" ry="10" transform="rotate(-20 200 200)"/>
+<rect x="209" y="118" width="7" height="86" rx="3.5"/>
+<path d="M216,118 q26,9 22,38 q-3,-19 -22,-24 Z"/>
+<ellipse cx="680" cy="180" rx="13" ry="10" transform="rotate(-20 680 180)"/>
+<rect x="689" y="98" width="7" height="86" rx="3.5"/>
+<path d="M696,98 q26,9 22,38 q-3,-19 -22,-24 Z"/>
+<ellipse cx="790" cy="250" rx="11" ry="8" transform="rotate(-20 790 250)"/>
+<rect x="798" y="180" width="6" height="74" rx="3"/>
+</g>
+<text x="450" y="540" font-family="Verdana,sans-serif" font-size="22" fill="#5b6b7c" text-anchor="middle">whose turn is it?</text>
+</svg>

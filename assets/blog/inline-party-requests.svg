@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff4e6"/>
+<circle cx="90" cy="100" r="11" fill="#f15bb5" opacity="0.5"/>
+<circle cx="810" cy="90" r="13" fill="#118ab2" opacity="0.5"/>
+<ellipse cx="450" cy="530" rx="330" ry="22" fill="#5b6b7c" opacity="0.12"/>
+<!-- phone in middle -->
+<rect x="390" y="150" width="120" height="220" rx="18" fill="#1c2b3a"/>
+<rect x="402" y="170" width="96" height="160" rx="6" fill="#ffffff"/>
+<rect x="412" y="184" width="76" height="14" rx="7" fill="#9b5de5"/>
+<rect x="412" y="208" width="60" height="10" rx="5" fill="#dfe6f2"/>
+<rect x="412" y="226" width="70" height="10" rx="5" fill="#dfe6f2"/>
+<rect x="412" y="244" width="52" height="10" rx="5" fill="#dfe6f2"/>
+<rect x="412" y="262" width="66" height="10" rx="5" fill="#dfe6f2"/>
+<!-- people around -->
+<g>
+<circle cx="200" cy="330" r="34" fill="#f4c7a5"/>
+<rect x="160" y="364" width="80" height="120" rx="18" fill="#118ab2"/>
+<rect x="200" y="280" width="14" height="60" rx="7" fill="#f4c7a5" transform="rotate(-30 200 280)"/>
+<circle cx="700" cy="330" r="34" fill="#c7a5f4"/>
+<rect x="660" y="364" width="80" height="120" rx="18" fill="#ff8c42"/>
+<rect x="700" y="280" width="14" height="60" rx="7" fill="#c7a5f4" transform="rotate(30 700 280)"/>
+<circle cx="450" cy="470" r="30" fill="#f4c7a5"/>
+<rect x="415" y="500" width="70" height="70" rx="16" fill="#06d6a0"/>
+</g>
+<!-- speech bubbles -->
+<g>
+<rect x="60" y="140" width="180" height="70" rx="16" fill="#ffffff" stroke="#dfe6f2" stroke-width="4"/>
+<text x="150" y="183" font-family="Verdana,sans-serif" font-size="20" fill="#2b2d42" text-anchor="middle">play mine!</text>
+<rect x="660" y="140" width="180" height="70" rx="16" fill="#ffffff" stroke="#dfe6f2" stroke-width="4"/>
+<text x="750" y="183" font-family="Verdana,sans-serif" font-size="20" fill="#2b2d42" text-anchor="middle">add mine!</text>
+</g>
+<!-- music notes -->
+<g fill="#2b2d42" opacity="0.8">
+<ellipse cx="320" cy="120" rx="12" ry="9" transform="rotate(-20 320 120)"/>
+<rect x="328" y="50" width="7" height="74" rx="3.5"/>
+<ellipse cx="590" cy="130" rx="12" ry="9" transform="rotate(-20 590 130)"/>
+<rect x="598" y="60" width="7" height="74" rx="3.5"/>
+</g>
+</svg>

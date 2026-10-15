@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fdf0f5"/>
+<circle cx="80" cy="90" r="11" fill="#f15bb5" opacity="0.5"/>
+<circle cx="820" cy="90" r="13" fill="#9b5de5" opacity="0.5"/>
+<rect x="0" y="430" width="900" height="170" fill="#e8d9e3"/>
+<!-- dance floor tiles -->
+<g fill="#ffffff" opacity="0.55">
+<rect x="60" y="450" width="120" height="60"/>
+<rect x="220" y="450" width="120" height="60"/>
+<rect x="380" y="450" width="120" height="60"/>
+<rect x="540" y="450" width="120" height="60"/>
+<rect x="700" y="450" width="120" height="60"/>
+<rect x="140" y="520" width="120" height="60"/>
+<rect x="300" y="520" width="120" height="60"/>
+<rect x="460" y="520" width="120" height="60"/>
+<rect x="620" y="520" width="120" height="60"/>
+</g>
+<!-- DJ booth -->
+<rect x="640" y="250" width="180" height="130" rx="14" fill="#1c2b3a"/>
+<rect x="655" y="265" width="150" height="60" rx="8" fill="#274b6d"/>
+<circle cx="700" cy="295" r="20" fill="#f15bb5"/>
+<circle cx="760" cy="295" r="20" fill="#06d6a0"/>
+<rect x="655" y="335" width="150" height="14" rx="7" fill="#5b6b7c"/>
+<!-- small wheel on booth -->
+<g>
+<circle cx="730" cy="200" r="52" fill="#9b5de5" stroke="#2b2d42" stroke-width="6"/>
+<path d="M730,200 L730,148 A52,52 0 0 1 767,163 Z" fill="#ffd166"/>
+<path d="M730,200 L767,163 A52,52 0 0 1 782,200 Z" fill="#06d6a0"/>
+<path d="M730,200 L782,200 A52,52 0 0 1 767,237 Z" fill="#ff8c42"/>
+<path d="M730,200 L767,237 A52,52 0 0 1 730,252 Z" fill="#f15bb5"/>
+<circle cx="730" cy="200" r="10" fill="#ffffff" stroke="#2b2d42" stroke-width="4"/>
+<path d="M730,132 l-10,16 h20 Z" fill="#2b2d42"/>
+</g>
+<!-- dancing guests -->
+<g>
+<circle cx="220" cy="300" r="28" fill="#f4c7a5"/>
+<rect x="192" y="328" width="56" height="110" rx="14" fill="#118ab2"/>
+<rect x="150" y="300" width="12" height="70" rx="6" fill="#f4c7a5" transform="rotate(-40 150 300)"/>
+<circle cx="420" cy="300" r="28" fill="#c7a5f4"/>
+<rect x="392" y="328" width="56" height="110" rx="14" fill="#f15bb5"/>
+<rect x="448" y="300" width="12" height="70" rx="6" fill="#c7a5f4" transform="rotate(40 448 300)"/>
+<circle cx="320" cy="380" r="26" fill="#f4c7a5"/>
+<rect x="294" y="406" width="52" height="90" rx="13" fill="#ff8c42"/>
+<circle cx="520" cy="380" r="26" fill="#e8b58a"/>
+<rect x="494" y="406" width="52" height="90" rx="13" fill="#06d6a0"/>
+</g>
+<!-- music notes -->
+<g fill="#2b2d42" opacity="0.75">
+<ellipse cx="150" cy="180" rx="12" ry="9" transform="rotate(-20 150 180)"/>
+<rect x="158" y="110" width="7" height="74" rx="3.5"/>
+<ellipse cx="560" cy="160" rx="12" ry="9" transform="rotate(-20 560 160)"/>
+<rect x="568" y="90" width="7" height="74" rx="3.5"/>
+</g>
+</svg>
