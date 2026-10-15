@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<rect x="0" y="470" width="900" height="130" fill="#e8d3ae"/>
+<circle cx="450" cy="70" r="12" fill="#ffca3a" opacity="0.5"/>
+<!-- table 1: blue -->
+<g>
+<ellipse cx="200" cy="240" rx="95" ry="60" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<ellipse cx="200" cy="228" rx="95" ry="60" fill="#4aa3c7" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="200" y1="170" x2="200" y2="110" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="200,110 246,128 200,146" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="120" cy="300" r="20" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="98" y="318" width="44" height="52" rx="14" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="200" cy="315" r="20" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="178" y="333" width="44" height="52" rx="14" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="282" cy="300" r="20" fill="#c68642" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="260" y="318" width="44" height="52" rx="14" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+</g>
+<!-- table 2: green -->
+<g>
+<ellipse cx="700" cy="240" rx="95" ry="60" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<ellipse cx="700" cy="228" rx="95" ry="60" fill="#3fdcb0" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="700" y1="170" x2="700" y2="110" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="700,110 746,128 700,146" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="620" cy="300" r="20" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="598" y="318" width="44" height="52" rx="14" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="700" cy="315" r="20" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="678" y="333" width="44" height="52" rx="14" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="782" cy="300" r="20" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="760" y="318" width="44" height="52" rx="14" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+</g>
+<!-- table 3: orange -->
+<g>
+<ellipse cx="200" cy="478" rx="95" ry="52" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<ellipse cx="200" cy="468" rx="95" ry="52" fill="#f7955c" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="200" y1="418" x2="200" y2="362" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="200,362 246,380 200,398" fill="#f3722c" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="120" cy="520" r="20" fill="#c68642" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="98" y="538" width="44" height="44" rx="14" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="282" cy="520" r="20" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="260" y="538" width="44" height="44" rx="14" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+</g>
+<!-- table 4: purple -->
+<g>
+<ellipse cx="700" cy="478" rx="95" ry="52" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+<ellipse cx="700" cy="468" rx="95" ry="52" fill="#b78bf0" stroke="#5b6b7c" stroke-width="5"/>
+<line x1="700" y1="418" x2="700" y2="362" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="700,362 746,380 700,398" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="620" cy="520" r="20" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="598" y="538" width="44" height="44" rx="14" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="782" cy="520" r="20" fill="#e8a87c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="760" y="538" width="44" height="44" rx="14" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+</g>
+</svg>

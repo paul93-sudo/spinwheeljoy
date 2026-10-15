@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<circle cx="860" cy="520" r="16" fill="#ffca3a" opacity="0.45"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<!-- wheel shadow -->
+<ellipse cx="300" cy="520" rx="170" ry="20" fill="#5b6b7c" opacity="0.12"/>
+<!-- stand -->
+<line x1="300" y1="470" x2="300" y2="530" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="240" y1="540" x2="360" y2="540" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<!-- wheel: 8 segments -->
+<g stroke="#5b6b7c" stroke-width="5">
+<path d="M300,300 L300,110 A190,190 0 0,1 434.4,165.6 Z" fill="#9b5de5"/>
+<path d="M300,300 L434.4,165.6 A190,190 0 0,1 490,300 Z" fill="#f15bb5"/>
+<path d="M300,300 L490,300 A190,190 0 0,1 434.4,434.4 Z" fill="#ffca3a"/>
+<path d="M300,300 L434.4,434.4 A190,190 0 0,1 300,490 Z" fill="#06d6a0"/>
+<path d="M300,300 L300,490 A190,190 0 0,1 165.6,434.4 Z" fill="#118ab2"/>
+<path d="M300,300 L165.6,434.4 A190,190 0 0,1 110,300 Z" fill="#f3722c"/>
+<path d="M300,300 L110,300 A190,190 0 0,1 165.6,165.6 Z" fill="#06d6a0"/>
+<path d="M300,300 L165.6,165.6 A190,190 0 0,1 300,110 Z" fill="#118ab2"/>
+</g>
+<circle cx="300" cy="300" r="30" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="282,52 318,52 300,96" fill="#5b6b7c"/>
+<!-- arrows from wheel to teams -->
+<g fill="none" stroke-width="6" stroke-linecap="round" opacity="0.85">
+<path d="M470,210 C540,180 560,170 600,160" stroke="#118ab2"/>
+<path d="M480,300 C550,290 570,285 600,280" stroke="#06d6a0"/>
+<path d="M470,390 C540,410 560,425 600,440" stroke="#f3722c"/>
+<path d="M440,470 C520,500 560,505 600,505" stroke="#9b5de5"/>
+</g>
+<!-- team groups: 2x2 grid, 3 people each -->
+<g>
+<rect x="600" y="96" width="120" height="30" rx="8" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<text x="660" y="118" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TEAM A</text>
+<circle cx="624" cy="160" r="15" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="606" y="176" width="36" height="44" rx="12" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="660" cy="160" r="15" fill="#e8a87c" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="642" y="176" width="36" height="44" rx="12" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="696" cy="160" r="15" fill="#c68642" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="678" y="176" width="36" height="44" rx="12" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+<g>
+<rect x="600" y="252" width="120" height="30" rx="8" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<text x="660" y="274" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TEAM B</text>
+<circle cx="624" cy="316" r="15" fill="#e8a87c" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="606" y="332" width="36" height="44" rx="12" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="660" cy="316" r="15" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="642" y="332" width="36" height="44" rx="12" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="696" cy="316" r="15" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="678" y="332" width="36" height="44" rx="12" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+<g>
+<rect x="600" y="408" width="120" height="30" rx="8" fill="#f3722c" stroke="#5b6b7c" stroke-width="4"/>
+<text x="660" y="430" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TEAM C</text>
+<circle cx="624" cy="472" r="15" fill="#c68642" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="606" y="488" width="36" height="44" rx="12" fill="#f3722c" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="660" cy="472" r="15" fill="#e8a87c" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="642" y="488" width="36" height="44" rx="12" fill="#f3722c" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="696" cy="472" r="15" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="678" y="488" width="36" height="44" rx="12" fill="#f3722c" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+<g>
+<rect x="740" y="252" width="120" height="30" rx="8" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<text x="800" y="274" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TEAM D</text>
+<circle cx="764" cy="316" r="15" fill="#f5c6a0" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="746" y="332" width="36" height="44" rx="12" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="800" cy="316" r="15" fill="#c68642" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="782" y="332" width="36" height="44" rx="12" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="836" cy="316" r="15" fill="#e8a87c" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="818" y="332" width="36" height="44" rx="12" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+</svg>

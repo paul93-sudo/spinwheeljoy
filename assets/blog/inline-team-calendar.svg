@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="90" cy="90" r="12" fill="#f3722c" opacity="0.45"/>
+<circle cx="810" cy="510" r="14" fill="#06d6a0" opacity="0.45"/>
+<!-- calendar board -->
+<rect x="150" y="60" width="600" height="480" rx="18" fill="#ffffff" stroke="#5b6b7c" stroke-width="7"/>
+<rect x="150" y="60" width="600" height="80" rx="18" fill="#9b5de5"/>
+<rect x="150" y="110" width="600" height="30" fill="#9b5de5"/>
+<text x="450" y="112" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#ffffff">TEAM SCHEDULE</text>
+<!-- hanging pins -->
+<circle cx="230" cy="60" r="12" fill="#f15bb5" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="670" cy="60" r="12" fill="#f15bb5" stroke="#5b6b7c" stroke-width="4"/>
+<!-- week rows: label + 8 player dots shuffled into different color mixes -->
+<g font-family="sans-serif" font-size="22" font-weight="bold" fill="#5b6b7c">
+<text x="190" y="200">Wk 1</text>
+<text x="190" y="300">Wk 2</text>
+<text x="190" y="400">Wk 3</text>
+<text x="190" y="500">Wk 4</text>
+</g>
+<g stroke="#5b6b7c" stroke-width="3">
+<!-- week 1: A A B B C C D D -->
+<circle cx="330" cy="192" r="16" fill="#118ab2"/><circle cx="370" cy="192" r="16" fill="#118ab2"/>
+<circle cx="410" cy="192" r="16" fill="#06d6a0"/><circle cx="450" cy="192" r="16" fill="#06d6a0"/>
+<circle cx="490" cy="192" r="16" fill="#f3722c"/><circle cx="530" cy="192" r="16" fill="#f3722c"/>
+<circle cx="570" cy="192" r="16" fill="#9b5de5"/><circle cx="610" cy="192" r="16" fill="#9b5de5"/>
+<!-- week 2: shuffled A C B D A D B C -->
+<circle cx="330" cy="292" r="16" fill="#118ab2"/><circle cx="370" cy="292" r="16" fill="#f3722c"/>
+<circle cx="410" cy="292" r="16" fill="#06d6a0"/><circle cx="450" cy="292" r="16" fill="#9b5de5"/>
+<circle cx="490" cy="292" r="16" fill="#118ab2"/><circle cx="530" cy="292" r="16" fill="#9b5de5"/>
+<circle cx="570" cy="292" r="16" fill="#06d6a0"/><circle cx="610" cy="292" r="16" fill="#f3722c"/>
+<!-- week 3: shuffled D B A C C A D B -->
+<circle cx="330" cy="392" r="16" fill="#9b5de5"/><circle cx="370" cy="392" r="16" fill="#06d6a0"/>
+<circle cx="410" cy="392" r="16" fill="#118ab2"/><circle cx="450" cy="392" r="16" fill="#f3722c"/>
+<circle cx="490" cy="392" r="16" fill="#f3722c"/><circle cx="530" cy="392" r="16" fill="#118ab2"/>
+<circle cx="570" cy="392" r="16" fill="#9b5de5"/><circle cx="610" cy="392" r="16" fill="#06d6a0"/>
+<!-- week 4: shuffled B D C A D C A B -->
+<circle cx="330" cy="492" r="16" fill="#06d6a0"/><circle cx="370" cy="492" r="16" fill="#9b5de5"/>
+<circle cx="410" cy="492" r="16" fill="#f3722c"/><circle cx="450" cy="492" r="16" fill="#118ab2"/>
+<circle cx="490" cy="492" r="16" fill="#9b5de5"/><circle cx="530" cy="492" r="16" fill="#f3722c"/>
+<circle cx="570" cy="492" r="16" fill="#118ab2"/><circle cx="610" cy="492" r="16" fill="#06d6a0"/>
+</g>
+<!-- shuffle arrows between rows -->
+<g fill="none" stroke="#5b6b7c" stroke-width="4" opacity="0.45" stroke-linecap="round">
+<path d="M292,192 C308,220 308,250 292,278"/>
+<path d="M292,292 C308,320 308,350 292,378"/>
+<path d="M292,392 C308,420 308,450 292,478"/>
+</g>
+<!-- legend -->
+<g font-family="sans-serif" font-size="17" fill="#5b6b7c">
+<circle cx="668" cy="176" r="9" fill="#118ab2"/><text x="682" y="182">Team A</text>
+<circle cx="668" cy="202" r="9" fill="#06d6a0"/><text x="682" y="208">Team B</text>
+<circle cx="668" cy="228" r="9" fill="#f3722c"/><text x="682" y="234">Team C</text>
+<circle cx="668" cy="254" r="9" fill="#9b5de5"/><text x="682" y="260">Team D</text>
+</g>
+</svg>
