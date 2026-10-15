@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<rect x="0" y="470" width="900" height="130" fill="#f3e4cc"/>
+<!-- desk -->
+<rect x="40" y="400" width="820" height="30" rx="8" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="60" y="430" width="780" height="70" fill="#b79ced" opacity="0.45"/>
+<!-- paper sheets -->
+<g stroke="#5b6b7c" stroke-width="4">
+<rect x="90" y="150" width="220" height="240" rx="6" fill="#ffffff"/>
+<rect x="340" y="150" width="220" height="240" rx="6" fill="#ffffff"/>
+</g>
+<!-- rough kid flag sketch 1: wobbly brazil -->
+<g stroke="#3b3b3b" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M120,200 L280,195 L285,330 L115,335 Z"/>
+<path d="M130,230 L270,230 M130,270 L270,265 M130,310 L260,305"/>
+</g>
+<rect x="128" y="248" width="140" height="60" fill="#ffca3a" opacity="0.7"/>
+<text x="200" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#3b3b3b">"Brazil?"</text>
+<!-- rough kid flag sketch 2: stripes -->
+<g stroke="#3b3b3b" stroke-width="4" fill="none" stroke-linecap="round">
+<path d="M370,200 L530,195 L535,330 L365,335 Z"/>
+<path d="M370,235 L532,230 M370,270 L534,262 M370,305 L530,298"/>
+</g>
+<rect x="378" y="202" width="60" height="128" fill="#118ab2" opacity="0.55"/>
+<text x="450" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#3b3b3b">"France?"</text>
+<!-- crayons -->
+<g stroke="#5b6b7c" stroke-width="4">
+<rect x="600" y="360" width="26" height="120" rx="6" fill="#ef476f"/>
+<rect x="640" y="360" width="26" height="120" rx="6" fill="#06d6a0"/>
+<rect x="680" y="360" width="26" height="120" rx="6" fill="#ffca3a"/>
+<polygon points="600,360 613,336 626,360" fill="#ef476f"/>
+<polygon points="640,360 653,336 666,360" fill="#06d6a0"/>
+<polygon points="680,360 693,336 706,360" fill="#ffca3a"/>
+</g>
+<!-- mini wheel on desk -->
+<g>
+<circle cx="780" cy="180" r="70" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M780,180 L780,110 A70,70 0 0 1 830,145 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M780,180 L830,145 A70,70 0 0 1 850,180 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M780,180 L850,180 A70,70 0 0 1 830,215 Z" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<polygon points="780,88 768,112 792,112" fill="#ef476f" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="780" cy="180" r="12" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+</g>
+</svg>

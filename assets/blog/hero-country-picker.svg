@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/200/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<circle cx="860" cy="520" r="16" fill="#ffca3a" opacity="0.45"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<!-- wheel shadow -->
+<ellipse cx="300" cy="520" rx="170" ry="20" fill="#5b6b7c" opacity="0.12"/>
+<!-- stand -->
+<line x1="300" y1="470" x2="300" y2="530" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="240" y1="540" x2="360" y2="540" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<!-- wheel: 8 country segments -->
+<g stroke="#5b6b7c" stroke-width="5">
+<path d="M300,300 L300,110 A190,190 0 0 1 434,166 Z" fill="#ffca3a"/>
+<path d="M300,300 L434,166 A190,190 0 0 1 490,300 Z" fill="#06d6a0"/>
+<path d="M300,300 L490,300 A190,190 0 0 1 434,434 Z" fill="#118ab2"/>
+<path d="M300,300 L434,434 A190,190 0 0 1 300,490 Z" fill="#9b5de5"/>
+<path d="M300,300 L300,490 A190,190 0 0 1 166,434 Z" fill="#f3722c"/>
+<path d="M300,300 L166,434 A190,190 0 0 1 110,300 Z" fill="#ef476f"/>
+<path d="M300,300 L110,300 A190,190 0 0 1 166,166 Z" fill="#ffca3a"/>
+<path d="M300,300 L166,166 A190,190 0 0 1 300,110 Z" fill="#06d6a0"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#3b3b3b" text-anchor="middle">
+<text x="300" y="180" transform="rotate(0 300 180)">Japan</text>
+<text x="405" y="225">Kenya</text>
+<text x="425" y="330">Brazil</text>
+<text x="370" y="425">Peru</text>
+<text x="230" y="425">Italy</text>
+<text x="175" y="330">Egypt</text>
+<text x="195" y="225">India</text>
+<text x="300" y="168">Japan</text>
+</g>
+<!-- pointer -->
+<polygon points="300,60 282,110 318,110" fill="#ef476f" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="300" cy="300" r="30" fill="#fff7ec" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="300" cy="300" r="10" fill="#ef476f"/>
+<!-- globe -->
+<g>
+<circle cx="660" cy="300" r="120" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M600,240 q40,-10 60,20 q10,40 -20,60 q-40,10 -50,-30 q-5,-30 10,-50 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<path d="M690,330 q40,-20 45,15 q5,40 -30,45 q-35,5 -40,-30 q-3,-20 25,-30 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="660" cy="300" rx="55" ry="120" fill="none" stroke="#5b6b7c" stroke-width="3" opacity="0.5"/>
+<line x1="540" y1="300" x2="780" y2="300" stroke="#5b6b7c" stroke-width="3" opacity="0.5"/>
+</g>
+<ellipse cx="660" cy="520" rx="110" ry="16" fill="#5b6b7c" opacity="0.12"/>
+</svg>
