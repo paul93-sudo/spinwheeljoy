@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#dbeafe"/><circle cx="720" cy="110" r="46" fill="#ffcd68"/><polygon points="0,600 380,260 520,260 900,600" fill="#94a3b8"/><line x1="450" y1="280" x2="450" y2="600" stroke="#ffffff" stroke-width="10" stroke-dasharray="26 22"/><polygon points="120,380 180,300 240,380" fill="#86a860"/><polygon points="640,360 700,280 760,360" fill="#86a860"/><rect x="0" y="470" width="900" height="130" rx="10" fill="#3b4a5c"/><rect x="620" y="380" width="110" height="170" rx="14" fill="#2b3a4a"/><path d="M675,445 L675.0,407.0 A38,38 0 0 0 675.0,483.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="698.6" y="445.0" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 698.6 445.0)">A</text>
+<path d="M675,445 L675.0,483.0 A38,38 0 0 0 675.0,407.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="651.4" y="445.0" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 651.4 445.0)">B</text>
+<circle cx="675" cy="445" r="6.08" fill="#ffffff" stroke="#708198" stroke-width="6"/>
+<polygon points="661,351 689,351 675,389" fill="#708198"/>
+</svg>

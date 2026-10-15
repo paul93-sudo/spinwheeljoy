@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/><rect x="250" y="90" width="400" height="300" rx="12" fill="#ffffff" stroke="#708198" stroke-width="6"/><path d="M450,240 L450.0,130.0 A110,110 0 0 0 560.0,240.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="498.2" y="191.8" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-45.0 498.2 191.8)">A</text>
+<path d="M450,240 L560.0,240.0 A110,110 0 0 0 450.0,350.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="498.2" y="288.2" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 498.2 288.2)">B</text>
+<path d="M450,240 L450.0,350.0 A110,110 0 0 0 340.0,240.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="401.8" y="288.2" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-45.0 401.8 288.2)">C</text>
+<path d="M450,240 L340.0,240.0 A110,110 0 0 0 450.0,130.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="401.8" y="191.8" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 401.8 191.8)">D</text>
+<circle cx="450" cy="240" r="17.6" fill="#ffffff" stroke="#708198" stroke-width="6"/>
+<polygon points="436,74 464,74 450,112" fill="#708198"/><circle cx="140" cy="507.8" r="23.400000000000002" fill="#f4c99b"/>
+<rect x="109.4" y="529.4" width="61.2" height="63.0" rx="27.0" fill="#ffcd68"/><rect x="170" y="400" width="16" height="70" rx="8" fill="#f4c99b"/><circle cx="178" cy="392" r="12" fill="#f4c99b"/><circle cx="300" cy="507.8" r="23.400000000000002" fill="#f4c99b"/>
+<rect x="269.4" y="529.4" width="61.2" height="63.0" rx="27.0" fill="#34c98e"/><rect x="330" y="400" width="16" height="70" rx="8" fill="#f4c99b"/><circle cx="338" cy="392" r="12" fill="#f4c99b"/><circle cx="600" cy="507.8" r="23.400000000000002" fill="#f4c99b"/>
+<rect x="569.4" y="529.4" width="61.2" height="63.0" rx="27.0" fill="#f59e0b"/><rect x="630" y="400" width="16" height="70" rx="8" fill="#f4c99b"/><circle cx="638" cy="392" r="12" fill="#f4c99b"/><circle cx="760" cy="507.8" r="23.400000000000002" fill="#f4c99b"/>
+<rect x="729.4" y="529.4" width="61.2" height="63.0" rx="27.0" fill="#ef6f9c"/><rect x="790" y="400" width="16" height="70" rx="8" fill="#f4c99b"/><circle cx="798" cy="392" r="12" fill="#f4c99b"/>
+</svg>
