@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="120" y="180" width="220" height="260" rx="6" fill="#8b6f4e" stroke="#708198" stroke-width="4"/>
+<rect x="140" y="200" width="180" height="220" fill="#bfe3f0"/>
+<circle cx="220" cy="270" r="30" fill="#ffcd68"/>
+<path d="M140 400 L230 310 L290 370 L320 340 L320 420 L140 420 Z" fill="#6ac9b0"/>
+<path d="M140 420 L180 380 L240 420 Z" fill="#4da58a"/>
+<rect x="400" y="240" width="90" height="200" rx="20" fill="#3f7d4e" stroke="#708198" stroke-width="3"/>
+<rect x="425" y="205" width="40" height="45" rx="6" fill="#2f5e3a" stroke="#708198" stroke-width="3"/>
+<rect x="412" y="300" width="66" height="70" rx="4" fill="#fff" opacity="0.85"/>
+<text x="445" y="332" text-anchor="middle" font-size="14" font-family="system-ui, sans-serif" font-weight="700" fill="#2f5e3a">olive</text>
+<text x="445" y="350" text-anchor="middle" font-size="14" font-family="system-ui, sans-serif" font-weight="700" fill="#2f5e3a">oil</text>
+<rect x="540" y="300" width="90" height="140" rx="8" fill="#f4e8d0" stroke="#708198" stroke-width="3"/>
+<rect x="552" y="285" width="66" height="20" rx="6" fill="#d9cba8" stroke="#708198" stroke-width="3"/>
+<path d="M585 285 C 575 265, 595 258, 585 240 C 578 252, 570 258, 578 270 C 582 276, 588 280, 585 285 Z" fill="#ff9a3d"/>
+<rect x="690" y="280" width="150" height="100" rx="10" fill="#ffffff" stroke="#fb7f81" stroke-width="4"/>
+<rect x="690" y="310" width="150" height="14" fill="#fb7f81" opacity="0.35"/>
+<text x="765" y="300" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#4a5568">gift card</text>
+<text x="765" y="352" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" fill="#4a5568">$100 spa</text>
+<text x="450" y="510" text-anchor="middle" font-size="18" font-family="system-ui, sans-serif" font-weight="600" fill="#4a5568">things she would never buy herself</text>
+</svg>

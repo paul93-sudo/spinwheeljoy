@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M180 340 C 180 300, 210 280, 250 285 L 330 300 C 350 305, 360 320, 360 340 L 360 360 L 180 360 Z" fill="#fb7f81" stroke="#708198" stroke-width="3"/>
+<rect x="180" y="360" width="180" height="22" rx="10" fill="#ffffff" stroke="#708198" stroke-width="3"/>
+<path d="M250 285 L 262 250 L 292 250 L 285 290 Z" fill="#e06a6c"/>
+<rect x="255" y="252" width="40" height="10" fill="#ffffff"/>
+<path d="M420 300 a55 55 0 0 1 110 0" fill="none" stroke="#315fe9" stroke-width="12"/>
+<rect x="408" y="290" width="34" height="70" rx="16" fill="#315fe9" stroke="#708198" stroke-width="3"/>
+<rect x="508" y="290" width="34" height="70" rx="16" fill="#315fe9" stroke="#708198" stroke-width="3"/>
+<rect x="600" y="260" width="70" height="130" rx="14" fill="#1f2b45" stroke="#708198" stroke-width="3"/>
+<rect x="610" y="276" width="50" height="98" rx="6" fill="#38bdf8" opacity="0.85"/>
+<rect x="160" y="430" width="90" height="70" rx="8" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<text x="205" y="460" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">snacks</text>
+<text x="205" y="478" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">x3</text>
+<rect x="280" y="430" width="90" height="70" rx="8" fill="#34c98e" stroke="#708198" stroke-width="3"/>
+<text x="325" y="460" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">gift</text>
+<text x="325" y="478" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">card</text>
+<rect x="700" y="430" width="90" height="90" rx="45" fill="none" stroke="#708198" stroke-width="4"/>
+<path d="M745 430 L745 398 A45 45 0 0 1 776 430 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L776 430 A45 45 0 0 1 776 461 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L776 461 A45 45 0 0 1 745 475 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L745 475 A45 45 0 0 1 714 461 Z" fill="#34c98e" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L714 461 A45 45 0 0 1 714 430 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L714 430 A45 45 0 0 1 714 398 Z" fill="#f4a77a" stroke="#ffffff" stroke-width="2"/>
+<path d="M745 430 L714 398 A45 45 0 0 1 745 398 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="2"/>
+<circle cx="745" cy="437" r="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="450" y="160" text-anchor="middle" font-size="20" font-family="system-ui, sans-serif" font-weight="700" fill="#4a5568">shop who he is this week</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M450 300 L450 130 A170 170 0 0 1 597.22 215 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M450 300 L597.22 215 A170 170 0 0 1 597.22 385 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M450 300 L597.22 385 A170 170 0 0 1 450 470 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M450 300 L450 470 A170 170 0 0 1 302.78 385 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M450 300 L302.78 385 A170 170 0 0 1 302.78 215 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<path d="M450 300 L302.78 215 A170 170 0 0 1 450 130 Z" fill="#f4a77a" stroke="#ffffff" stroke-width="4"/>
+<text x="497" y="222" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#4a3b2a">upgrades</text>
+<text x="545" y="305" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a2b30">experience</text>
+<text x="497" y="387" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1f3a5f">stocking</text>
+<text x="402" y="387" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">cozy</text>
+<text x="355" y="305" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#3d3560">food</text>
+<text x="402" y="222" text-anchor="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">books</text>
+<circle cx="450" cy="300" r="170" fill="none" stroke="#708198" stroke-width="5"/>
+<circle cx="450" cy="300" r="30" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<path d="M450 108 L436 136 H464 Z" fill="#315fe9"/>
+<rect x="120" y="390" width="110" height="95" rx="6" fill="#fb7f81" stroke="#708198" stroke-width="3"/>
+<rect x="166" y="390" width="18" height="95" fill="#ffffff" opacity="0.7"/>
+<ellipse cx="158" cy="382" rx="18" ry="12" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<ellipse cx="192" cy="382" rx="18" ry="12" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<rect x="668" y="404" width="110" height="90" rx="6" fill="#38bdf8" stroke="#708198" stroke-width="3"/>
+<rect x="668" y="440" width="110" height="18" fill="#ffffff" opacity="0.7"/>
+<ellipse cx="706" cy="396" rx="18" ry="12" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<ellipse cx="740" cy="396" rx="18" ry="12" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<rect x="740" y="180" width="90" height="56" rx="8" fill="#ffffff" stroke="#708198" stroke-width="3" transform="rotate(12 785 208)"/>
+<circle cx="762" cy="208" r="5" fill="#708198"/>
+<line x1="762" y1="208" x2="700" y2="180" stroke="#708198" stroke-width="3"/>
+<text x="785" y="212" text-anchor="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#4a3b2a" transform="rotate(12 785 212)">for you</text>
+</svg>
