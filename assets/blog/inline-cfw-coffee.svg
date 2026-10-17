@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/><path d="M280,310 L280.0,140.0 A170,170 0 0 1 280.0,480.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="382.0" y="310.0" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 382.0 310.0)">Dana</text>
+<path d="M280,310 L280.0,480.0 A170,170 0 0 1 280.0,140.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="178.0" y="310.0" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 178.0 310.0)">Sam</text>
+<circle cx="280" cy="310" r="26" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M266,114 L294,114 L280,146 Z" fill="#e11d48"/>
+<g transform="translate(560 200) scale(1.0)">
+<path d="M0,0 h110 v90 a20,20 0 0 1 -20,20 h-70 a20,20 0 0 1 -20,-20 z" fill="#ffffff" stroke="#2b3a4a" stroke-width="6"/>
+<path d="M110,20 a34,34 0 0 1 0,52" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<rect x="10" y="22" width="90" height="14" rx="7" fill="#c98d5e"/>
+<path d="M40,-28 a14,14 0 0 1 0,20" fill="none" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<path d="M66,-28 a14,14 0 0 1 0,20" fill="none" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g transform="translate(700 260) scale(0.85)">
+<path d="M0,0 h110 v90 a20,20 0 0 1 -20,20 h-70 a20,20 0 0 1 -20,-20 z" fill="#ffffff" stroke="#2b3a4a" stroke-width="6"/>
+<path d="M110,20 a34,34 0 0 1 0,52" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<rect x="10" y="22" width="90" height="14" rx="7" fill="#c98d5e"/>
+<path d="M40,-28 a14,14 0 0 1 0,20" fill="none" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<path d="M66,-28 a14,14 0 0 1 0,20" fill="none" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+</g><rect x="520" y="400" width="280" height="18" rx="9" fill="#c98d5e" opacity="0.5"/><text x="660" y="120" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">Loser pays.</text><text x="660" y="155" font-family="Verdana,sans-serif" font-size="20" fill="#64748b" text-anchor="middle">decided before you order</text>
+</svg>
