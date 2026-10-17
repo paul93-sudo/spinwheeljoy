@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="620" y="160" width="180" height="330" rx="10" fill="#a5824f" stroke="#8a6f4d" stroke-width="6"/>
+<rect x="645" y="185" width="130" height="280" rx="6" fill="#6b4f35"/>
+<circle cx="755" cy="330" r="8" fill="#ffcd68"/>
+<text x="650" y="120" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#2b3a4a" text-anchor="middle">first day</text>
+<rect x="120" y="330" width="110" height="140" rx="24" fill="#315fe9" stroke="#708198" stroke-width="3"/>
+<rect x="145" y="300" width="60" height="60" rx="12" fill="#315fe9" stroke="#708198" stroke-width="3"/>
+<rect x="150" y="390" width="50" height="60" rx="8" fill="#ffcd68"/>
+<path d="M420,320 L420.0,170.0 A150,150 0 0 1 549.9,245.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="466.5" y="239.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 466.5 239.5)">nervous</text>
+<path d="M420,320 L549.9,245.0 A150,150 0 0 1 549.9,395.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="513.0" y="320.0" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-0.0 513.0 320.0)">excited</text>
+<path d="M420,320 L549.9,395.0 A150,150 0 0 1 420.0,470.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="466.5" y="400.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 466.5 400.5)">worried</text>
+<path d="M420,320 L420.0,470.0 A150,150 0 0 1 290.1,395.0 Z" fill="#f4a259" stroke="#ffffff" stroke-width="4"/>
+<text x="373.5" y="400.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(120.0 373.5 400.5)">curious</text>
+<path d="M420,320 L290.1,395.0 A150,150 0 0 1 290.1,245.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="327.0" y="320.0" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(180.0 327.0 320.0)">brave</text>
+<path d="M420,320 L290.1,245.0 A150,150 0 0 1 420.0,170.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="373.5" y="239.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(240.0 373.5 239.5)">calm</text>
+<circle cx="420" cy="320" r="16" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<polygon points="405,135 435,135 420,172" fill="#708198"/>
+<g><circle cx="200" cy="485" r="20" fill="#f2c9a0" stroke="#708198" stroke-width="3"/>
+<path d="M180,475 a20,20 0 0 1 40,0 z" fill="#4a3a2a"/>
+<circle cx="193" cy="483" r="2.5" fill="#2b3a4a"/><circle cx="207" cy="483" r="2.5" fill="#2b3a4a"/>
+<path d="M194,497 q6,5 12,0" stroke="#2b3a4a" stroke-width="2.5" fill="none"/>
+<rect x="172" y="505" width="56" height="60" rx="8" fill="#34c98e" stroke="#708198" stroke-width="3"/>
+<line x1="176" y1="520" x2="158" y2="555" stroke="#34c98e" stroke-width="10" stroke-linecap="round"/>
+<line x1="224" y1="520" x2="242" y2="555" stroke="#34c98e" stroke-width="10" stroke-linecap="round"/>
+<line x1="188" y1="565" x2="188" y2="615" stroke="#2b3a4a" stroke-width="9" stroke-linecap="round"/>
+<line x1="212" y1="565" x2="212" y2="615" stroke="#2b3a4a" stroke-width="9" stroke-linecap="round"/>
+</g>
+</svg>
