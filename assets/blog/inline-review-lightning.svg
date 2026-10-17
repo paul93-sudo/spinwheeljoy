@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<circle cx="300" cy="300" r="150" fill="#ffffff" stroke="#315fe9" stroke-width="10"/>
+<rect x="288" y="120" width="24" height="34" rx="6" fill="#315fe9"/>
+<line x1="300" y1="300" x2="300" y2="190" stroke="#e11d48" stroke-width="9" stroke-linecap="round"/>
+<line x1="300" y1="300" x2="375" y2="340" stroke="#2b3a4a" stroke-width="9" stroke-linecap="round"/>
+<text x="300" y="492" font-family="Verdana,sans-serif" font-size="32" font-weight="bold" fill="#2b3a4a" text-anchor="middle">60 SECONDS</text>
+<path d="M520,120 L462,290 L508,290 L476,470 L566,268 L518,268 L552,120 Z" fill="#ffcd68" stroke="#b45309" stroke-width="4"/>
+<path d="M710,290 L800.0,290.0 A90,90 0 0 1 710.0,380.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="749.5" y="329.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 749.5 329.5)">KIM</text>
+<path d="M710,290 L710.0,380.0 A90,90 0 0 1 620.0,290.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="670.5" y="329.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-45.0 670.5 329.5)">RAY</text>
+<path d="M710,290 L620.0,290.0 A90,90 0 0 1 710.0,200.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="670.5" y="250.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 670.5 250.5)">JO</text>
+<path d="M710,290 L710.0,200.0 A90,90 0 0 1 800.0,290.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="749.5" y="250.5" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(315.0 749.5 250.5)">MAX</text>
+<circle cx="710" cy="290" r="13" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<g transform="translate(600 500) scale(0.9)">
+<rect x="-26" y="30" width="52" height="60" rx="14" fill="#fb7f81"/>
+<rect x="20" y="-40" width="14" height="52" rx="7" fill="#fb7f81" transform="rotate(-25 27 -40)"/>
+<circle cx="42" cy="-52" r="9" fill="#ffd9a0"/>
+<circle cx="0" cy="0" r="30" fill="#ffd9a0"/>
+<path d="M-30,-8 a30,30 0 0 1 60,0 l0,-14 a30,24 0 0 0 -60,0 z" fill="#4a3520"/>
+<circle cx="-11" cy="4" r="3.5" fill="#2b3a4a"/><circle cx="11" cy="4" r="3.5" fill="#2b3a4a"/>
+<path d="M-9,16 q9,7 18,0" fill="none" stroke="#2b3a4a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g transform="translate(740 500) scale(0.9)">
+<rect x="-26" y="30" width="52" height="60" rx="14" fill="#315fe9"/>
+<rect x="20" y="-40" width="14" height="52" rx="7" fill="#315fe9" transform="rotate(-25 27 -40)"/>
+<circle cx="42" cy="-52" r="9" fill="#ffd9a0"/>
+<circle cx="0" cy="0" r="30" fill="#ffd9a0"/>
+<path d="M-30,-8 a30,30 0 0 1 60,0 l0,-14 a30,24 0 0 0 -60,0 z" fill="#1f2937"/>
+<circle cx="-11" cy="4" r="3.5" fill="#2b3a4a"/><circle cx="11" cy="4" r="3.5" fill="#2b3a4a"/>
+<path d="M-9,16 q9,7 18,0" fill="none" stroke="#2b3a4a" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>

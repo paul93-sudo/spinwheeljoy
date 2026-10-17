@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300,320 L490.0,320.0 A190,190 0 0 1 358.7,500.7 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="395.3" y="389.2" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(36.0 395.3 389.2)">100</text>
+<path d="M300,320 L358.7,500.7 A190,190 0 0 1 146.3,431.7 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="263.6" y="432.0" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-72.0 263.6 432.0)">200</text>
+<path d="M300,320 L146.3,431.7 A190,190 0 0 1 146.3,208.3 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="182.2" y="320.0" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 182.2 320.0)">300</text>
+<path d="M300,320 L146.3,208.3 A190,190 0 0 1 358.7,139.3 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="263.6" y="208.0" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(72.0 263.6 208.0)">500</text>
+<path d="M300,320 L358.7,139.3 A190,190 0 0 1 490.0,320.0 Z" fill="#e11d48" stroke="#ffffff" stroke-width="4"/>
+<text x="395.3" y="250.8" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(324.0 395.3 250.8)">MYSTERY</text>
+<circle cx="300" cy="320" r="27" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M284,104 L316,104 L300,136 Z" fill="#e11d48"/>
+<g transform="translate(660 380) scale(1.25)">
+<rect x="-26" y="30" width="52" height="60" rx="14" fill="#a78bfa"/>
+<circle cx="0" cy="0" r="30" fill="#ffd9a0"/>
+<path d="M-30,-8 a30,30 0 0 1 60,0 l0,-14 a30,24 0 0 0 -60,0 z" fill="#6b3f1d"/>
+<circle cx="-11" cy="4" r="3.5" fill="#2b3a4a"/><circle cx="11" cy="4" r="3.5" fill="#2b3a4a"/>
+<path d="M-9,16 q9,7 18,0" fill="none" stroke="#2b3a4a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<rect x="560" y="470" width="200" height="90" rx="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<text x="660" y="505" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle">Q: 7 x 8 = ?</text>
+<text x="660" y="538" font-family="Verdana,sans-serif" font-size="16" fill="#6b7280" text-anchor="middle">500 points</text>
+</svg>
