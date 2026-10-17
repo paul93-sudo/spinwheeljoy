@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M340,300 L340.0,110.0 A190,190 0 0 1 474.4,165.6 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="383.6" y="194.7" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-67.5 383.6 194.7)">Milo</text>
+<path d="M340,300 L474.4,165.6 A190,190 0 0 1 530.0,300.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="445.3" y="256.4" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-22.5 445.3 256.4)">Biscuit</text>
+<path d="M340,300 L530.0,300.0 A190,190 0 0 1 474.4,434.4 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="445.3" y="343.6" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(22.5 445.3 343.6)">Buddy</text>
+<path d="M340,300 L474.4,434.4 A190,190 0 0 1 340.0,490.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="383.6" y="405.3" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(67.5 383.6 405.3)">Luna</text>
+<path d="M340,300 L340.0,490.0 A190,190 0 0 1 205.6,434.4 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="296.4" y="405.3" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(112.5 296.4 405.3)">Max</text>
+<path d="M340,300 L205.6,434.4 A190,190 0 0 1 150.0,300.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="234.7" y="343.6" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(157.5 234.7 343.6)">Ruby</text>
+<path d="M340,300 L150.0,300.0 A190,190 0 0 1 205.6,165.6 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="234.7" y="256.4" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(202.5 234.7 256.4)">Coco</text>
+<path d="M340,300 L205.6,165.6 A190,190 0 0 1 340.0,110.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="296.4" y="194.7" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(247.5 296.4 194.7)">Rocky</text>
+<circle cx="340" cy="300" r="17.1" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<polygon points="325,76 355,76 340,112" fill="#708198"/><g><path d="M742,469 q40,-34 59,-6" stroke="#c98f5f" stroke-width="16" stroke-linecap="round" fill="none"/><ellipse cx="690" cy="486" rx="61" ry="46" fill="#c98f5f" stroke="#708198" stroke-width="3"/><ellipse cx="722" cy="514" rx="28" ry="25" fill="#c98f5f" stroke="#708198" stroke-width="3"/><rect x="627" y="469" width="21" height="76" rx="9" fill="#c98f5f" stroke="#708198" stroke-width="3"/><rect x="652" y="469" width="21" height="76" rx="9" fill="#c98f5f" stroke="#708198" stroke-width="3"/><circle cx="623" cy="434" r="36" fill="#c98f5f" stroke="#708198" stroke-width="3"/><ellipse cx="633" cy="408" rx="14" ry="25" fill="#a06a3d" stroke="#708198" stroke-width="3" transform="rotate(18 633 408)"/><ellipse cx="596" cy="443" rx="21" ry="15" fill="#e8c39a" stroke="#708198" stroke-width="3"/><circle cx="579" cy="440" r="6" fill="#333333"/><circle cx="614" cy="426" r="5" fill="#333333"/><line x1="604" y1="450" x2="646" y2="476" stroke="#d23c3c" stroke-width="14" stroke-linecap="round"/></g>
+</svg>
