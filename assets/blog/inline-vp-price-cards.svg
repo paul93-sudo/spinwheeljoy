@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<g>
+<rect x="90" y="180" width="200" height="240" rx="16" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="90" y="180" width="200" height="104" rx="16" fill="#38bdf8" opacity="0.85"/>
+<rect x="90" y="250" width="200" height="34" fill="#38bdf8" opacity="0.85"/>
+<text x="190" y="244" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">Beach trip</text>
+<text x="190" y="340" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">$480</text>
+<text x="190" y="375" font-family="Verdana,sans-serif" font-size="16" fill="#64748b" text-anchor="middle">per person</text>
+</g>
+<g>
+<rect x="330" y="180" width="200" height="240" rx="16" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="330" y="180" width="200" height="104" rx="16" fill="#34c98e" opacity="0.85"/>
+<rect x="330" y="250" width="200" height="34" fill="#34c98e" opacity="0.85"/>
+<text x="430" y="244" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">Mountain cabin</text>
+<text x="430" y="340" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">$390</text>
+<text x="430" y="375" font-family="Verdana,sans-serif" font-size="16" fill="#64748b" text-anchor="middle">per person</text>
+</g>
+<g>
+<rect x="570" y="180" width="200" height="240" rx="16" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="570" y="180" width="200" height="104" rx="16" fill="#a78bfa" opacity="0.85"/>
+<rect x="570" y="250" width="200" height="34" fill="#a78bfa" opacity="0.85"/>
+<text x="670" y="244" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">City weekend</text>
+<text x="670" y="340" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">$620</text>
+<text x="670" y="375" font-family="Verdana,sans-serif" font-size="16" fill="#64748b" text-anchor="middle">per person</text>
+</g><text x="450" y="110" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">Price tag on every option,</text><text x="450" y="150" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">before the spin.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/><path d="M330,300 L330.0,110.0 A190,190 0 0 1 494.5,205.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="382.2" y="209.5" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 382.2 209.5)">Beach</text>
+<path d="M330,300 L494.5,205.0 A190,190 0 0 1 494.5,395.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="434.5" y="300.0" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 434.5 300.0)">Mountains</text>
+<path d="M330,300 L494.5,395.0 A190,190 0 0 1 330.0,490.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="382.2" y="390.5" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 382.2 390.5)">City</text>
+<path d="M330,300 L330.0,490.0 A190,190 0 0 1 165.5,395.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="277.8" y="390.5" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 277.8 390.5)">Lake</text>
+<path d="M330,300 L165.5,395.0 A190,190 0 0 1 165.5,205.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="225.5" y="300.0" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 225.5 300.0)">Desert</text>
+<path d="M330,300 L165.5,205.0 A190,190 0 0 1 330.0,110.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="277.7" y="209.5" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 277.7 209.5)">Coast</text>
+<circle cx="330" cy="300" r="26" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M316,84 L344,84 L330,116 Z" fill="#e11d48"/>
+<g>
+<rect x="620" y="330" width="150" height="110" rx="12" fill="#38bdf8" stroke="#1d4ed8" stroke-width="4"/>
+<rect x="620" y="378" width="150" height="14" fill="#1d4ed8" opacity="0.35"/>
+<rect x="682" y="308" width="26" height="26" rx="8" fill="none" stroke="#1d4ed8" stroke-width="8"/>
+<rect x="680" y="360" width="30" height="34" rx="4" fill="#fbbf24" stroke="#92400e" stroke-width="3"/>
+<circle cx="740" cy="370" r="16" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+</g><text x="695" y="250" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#2b3a4a" text-anchor="middle">Where to?</text><text x="695" y="285" font-family="Verdana,sans-serif" font-size="20" fill="#64748b" text-anchor="middle">one spin decides</text>
+</svg>

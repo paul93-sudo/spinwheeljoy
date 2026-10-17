@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<g>
+<rect x="330" y="60" width="240" height="480" rx="28" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<rect x="330" y="60" width="240" height="70" rx="28" fill="#315fe9"/>
+<rect x="330" y="110" width="240" height="20" fill="#315fe9"/>
+<text x="450" y="105" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">SUMMER TRIP ???</text>
+<rect x="345" y="150" width="150" height="44" rx="12" fill="#e2e8f0"/>
+<text x="353" y="177" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">Beach house?</text>
+<rect x="405" y="205" width="150" height="44" rx="12" fill="#dbeafe"/>
+<text x="413" y="232" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">Mountains!!</text>
+<rect x="345" y="260" width="170" height="44" rx="12" fill="#e2e8f0"/>
+<text x="353" y="287" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">I am fine w/ whatever</text>
+<rect x="405" y="315" width="150" height="44" rx="12" fill="#dbeafe"/>
+<text x="413" y="342" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">Not the beach tho</text>
+<rect x="345" y="370" width="150" height="44" rx="12" fill="#e2e8f0"/>
+<text x="353" y="397" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">City weekend?</text>
+<rect x="405" y="425" width="130" height="44" rx="12" fill="#dbeafe"/>
+<text x="413" y="452" font-family="Verdana,sans-serif" font-size="15" fill="#2b3a4a">Hmm maybe</text>
+<circle cx="560" cy="150" r="30" fill="#e11d48"/>
+<text x="560" y="159" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">214</text>
+</g>
+<text x="120" y="300" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a">The chat</text>
+<text x="120" y="340" font-family="Verdana,sans-serif" font-size="20" fill="#64748b">collects ideas.</text>
+<text x="120" y="372" font-family="Verdana,sans-serif" font-size="20" fill="#64748b">It does not decide.</text>
+
+</svg>
