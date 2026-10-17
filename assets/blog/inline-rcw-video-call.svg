@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="180" y="90" width="540" height="420" rx="18" fill="#2b3a4a"/>
+<rect x="200" y="110" width="500" height="380" rx="8" fill="#ffffff"/>
+<line x1="450" y1="110" x2="450" y2="490" stroke="#d7dee8" stroke-width="6"/>
+<line x1="200" y1="300" x2="700" y2="300" stroke="#d7dee8" stroke-width="6"/>
+<g font-family="Verdana,sans-serif" text-anchor="middle">
+<g>
+<circle cx="325" cy="205" r="34" fill="#ffd9a8"/><path d="M291,240 q34,-22 68,0 l0,50 l-68,0 Z" fill="#315fe9"/>
+<rect x="285" y="160" width="80" height="54" rx="6" fill="#eef2f8" stroke="#708198" stroke-width="4"/>
+<line x1="300" y1="196" x2="350" y2="180" stroke="#708198" stroke-width="4"/>
+</g>
+<g>
+<circle cx="575" cy="205" r="34" fill="#a8c8f0"/><path d="M541,240 q34,-22 68,0 l0,50 l-68,0 Z" fill="#fb7f81"/>
+</g>
+<g>
+<circle cx="325" cy="395" r="34" fill="#c8f0c0"/><path d="M291,430 q34,-22 68,0 l0,50 l-68,0 Z" fill="#a78bfa"/>
+</g>
+<g>
+<circle cx="575" cy="395" r="34" fill="#f0c8c8"/><path d="M541,430 q34,-22 68,0 l0,50 l-68,0 Z" fill="#38bdf8"/>
+<path d="M620,330 l-30,-60 10,64 Z" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+</g>
+</g>
+<rect x="380" y="520" width="140" height="18" rx="8" fill="#708198"/>
+<text x="450" y="575" font-family="Verdana,sans-serif" font-size="22" fill="#708198" text-anchor="middle">one actor, 60 seconds, no mercy</text>
+</svg>

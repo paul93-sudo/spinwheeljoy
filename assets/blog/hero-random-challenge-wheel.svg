@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<g stroke="#708198" stroke-width="6">
+<path d="M300,300 L300,130 A170,170 0 0 1 420,180 Z" fill="#ffcd68"/>
+<path d="M300,300 L420,180 A170,170 0 0 1 470,300 Z" fill="#38bdf8"/>
+<path d="M300,300 L470,300 A170,170 0 0 1 420,420 Z" fill="#fb7f81"/>
+<path d="M300,300 L420,420 A170,170 0 0 1 300,470 Z" fill="#34c98e"/>
+<path d="M300,300 L300,470 A170,170 0 0 1 180,420 Z" fill="#a78bfa"/>
+<path d="M300,300 L180,420 A170,170 0 0 1 130,300 Z" fill="#315fe9"/>
+<path d="M300,300 L130,300 A170,170 0 0 1 180,180 Z" fill="#ffcd68"/>
+<path d="M300,300 L180,180 A170,170 0 0 1 300,130 Z" fill="#38bdf8"/>
+</g>
+<circle cx="300" cy="300" r="170" fill="none" stroke="#2b3a4a" stroke-width="8"/>
+<polygon points="300,96 282,64 318,64" fill="#e14b4b" stroke="#2b3a4a" stroke-width="4"/>
+<circle cx="300" cy="300" r="42" fill="#2b3a4a"/>
+<circle cx="300" cy="300" r="18" fill="#ffffff"/>
+<g font-family="Verdana,sans-serif" font-size="21" font-weight="bold" fill="#2b3a4a" text-anchor="middle">
+<text x="342" y="206">Pitch</text><text x="402" y="265">Charades</text><text x="402" y="350">Knot</text><text x="342" y="409">Planes</text>
+<text x="258" y="409">Trivia</text><text x="198" y="350">Draw</text><text x="198" y="265">Stack</text><text x="258" y="206">Haiku</text>
+</g>
+<g>
+<circle cx="700" cy="210" r="70" fill="#ffffff" stroke="#2b3a4a" stroke-width="6"/>
+<line x1="700" y1="210" x2="700" y2="162" stroke="#e14b4b" stroke-width="6"/>
+<line x1="700" y1="210" x2="732" y2="226" stroke="#2b3a4a" stroke-width="6"/>
+<circle cx="700" cy="210" r="8" fill="#2b3a4a"/>
+<text x="700" y="300" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle">5:00</text>
+</g>
+<g>
+<polygon points="120,150 200,120 165,190" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<line x1="160" y1="155" x2="200" y2="120" stroke="#2b3a4a" stroke-width="4"/>
+<path d="M215,140 q60,-30 120,-10" fill="none" stroke="#38bdf8" stroke-width="5" stroke-dasharray="12,10"/>
+</g>
+<g>
+<path d="M640,380 h120 v14 c0,26 -24,44 -40,56 h-40 c-16,-12 -40,-30 -40,-56 Z" fill="#ffcd68" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M640,392 c-26,0 -34,-22 -30,-44 l16,4 c-2,14 2,26 14,28 Z" fill="#ffcd68" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M760,392 c26,0 34,-22 30,-44 l-16,4 c2,14 -2,26 -14,28 Z" fill="#ffcd68" stroke="#2b3a4a" stroke-width="5"/>
+<rect x="688" y="450" width="24" height="34" fill="#a5824f" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="664" y="484" width="72" height="18" rx="4" fill="#a5824f" stroke="#2b3a4a" stroke-width="4"/>
+</g>
+<text x="700" y="540" font-family="Verdana,sans-serif" font-size="22" fill="#708198" text-anchor="middle">winner gets the wheel</text>
+</svg>
