@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#faf7f0"/>
+<rect x="180" y="220" width="240" height="160" rx="8" fill="#fff" stroke="#8b7355" stroke-width="6"/>
+<text x="300" y="280" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#5b4a2a">Edith</text>
+<text x="300" y="320" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#5b4a2a">Arthur</text>
+<path d="M500 360 q-20 -40 0 -60 l-30 -10 q10 20 -10 30 z" fill="#d2b48c"/>
+<circle cx="640" cy="460" r="70" fill="#fff"/>
+<g stroke="#5b6b7c" stroke-width="4">
+<path d="M640,460 L640,400 A60,60 0 0,1 681.5,422.6 Z" fill="#fcd5ce"/>
+<path d="M640,460 L681.5,422.6 A60,60 0 0,1 700,460 Z" fill="#f8edeb"/>
+<path d="M640,460 L700,460 A60,60 0 0,1 681.5,497.4 Z" fill="#e2ece9"/>
+<path d="M640,460 L681.5,497.4 A60,60 0 0,1 640,520 Z" fill="#d8e2dc"/>
+</g>
+</svg>

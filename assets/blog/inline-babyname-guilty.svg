@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff0f6"/>
+<polygon points="450,180 470,240 530,240 480,280 500,340 450,300 400,340 420,280 370,240 430,240" fill="#ffd166"/>
+<circle cx="450" cy="460" r="70" fill="#fff"/>
+<g stroke="#5b6b7c" stroke-width="4">
+<path d="M450,460 L450,400 A60,60 0 0,1 491.5,422.6 Z" fill="#fcd5ce"/>
+<path d="M450,460 L491.5,422.6 A60,60 0 0,1 510,460 Z" fill="#f8edeb"/>
+<path d="M450,460 L510,460 A60,60 0 0,1 491.5,497.4 Z" fill="#e2ece9"/>
+<path d="M450,460 L491.5,497.4 A60,60 0 0,1 450,520 Z" fill="#d8e2dc"/>
+</g>
+<rect x="520" y="470" width="60" height="40" rx="4" fill="#fff" stroke="#5b6b7c"/>
+<text x="550" y="495" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Ziggy</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fafafa"/>
+<circle cx="90" cy="90" r="10" fill="#fbc4ab" opacity="0.6"/>
+<circle cx="810" cy="90" r="10" fill="#cdb4db" opacity="0.6"/>
+<rect x="200" y="460" width="500" height="80" rx="12" fill="#e9ecef"/>
+<circle cx="300" cy="500" r="90" fill="#fff"/>
+<g stroke="#5b6b7c" stroke-width="4">
+<path d="M300,500 L300,420 A80,80 0 0,1 356.6,443.4 Z" fill="#fcd5ce"/>
+<path d="M300,500 L356.6,443.4 A80,80 0 0,1 380,500 Z" fill="#f8edeb"/>
+<path d="M300,500 L380,500 A80,80 0 0,1 356.6,556.6 Z" fill="#e2ece9"/>
+<path d="M300,500 L356.6,556.6 A80,80 0 0,1 300,580 Z" fill="#d8e2dc"/>
+<path d="M300,500 L300,580 A80,80 0 0,1 243.4,556.6 Z" fill="#cbd5e1"/>
+<path d="M300,500 L243.4,556.6 A80,80 0 0,1 220,500 Z" fill="#fbc4ab"/>
+<path d="M300,500 L220,500 A80,80 0 0,1 243.4,443.4 Z" fill="#ffdfd3"/>
+<path d="M300,500 L243.4,443.4 A80,80 0 0,1 300,420 Z" fill="#cdb4db"/>
+</g>
+<rect x="420" y="470" width="60" height="40" rx="4" fill="#fff" stroke="#5b6b7c"/>
+<rect x="490" y="470" width="60" height="40" rx="4" fill="#fff" stroke="#5b6b7c"/>
+<rect x="560" y="470" width="60" height="40" rx="4" fill="#fff" stroke="#5b6b7c"/>
+<text x="450" y="495" font-family="sans-serif" font-size="14" fill="#333">Mia</text>
+<text x="520" y="495" font-family="sans-serif" font-size="14" fill="#333">Leo</text>
+<text x="590" y="495" font-family="sans-serif" font-size="14" fill="#333">Zoe</text>
+</svg>
