@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300,310 L300.0,130.0 A180,180 0 0 1 455.9,220.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="355.8" y="213.4" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 355.8 213.4)">corn</text>
+<path d="M300,310 L455.9,220.0 A180,180 0 0 1 455.9,400.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="411.6" y="310.0" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 411.6 310.0)">broccoli</text>
+<path d="M300,310 L455.9,400.0 A180,180 0 0 1 300.0,490.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="355.8" y="406.6" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 355.8 406.6)">apple</text>
+<path d="M300,310 L300.0,490.0 A180,180 0 0 1 144.1,400.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="244.2" y="406.6" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 244.2 406.6)">cucumber</text>
+<path d="M300,310 L144.1,400.0 A180,180 0 0 1 144.1,220.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="188.4" y="310.0" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 188.4 310.0)">carrots</text>
+<path d="M300,310 L144.1,220.0 A180,180 0 0 1 300.0,130.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="244.2" y="213.4" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 244.2 213.4)">peas</text>
+<polygon points="284,88 316,88 300,122" fill="#e14b4b" stroke="#ffffff" stroke-width="3"/><circle cx="300" cy="82" r="10" fill="#e14b4b" stroke="#ffffff" stroke-width="3"/>
+<circle cx="300" cy="310" r="26" fill="#2b3a4a" stroke="#ffffff" stroke-width="4"/><circle cx="300" cy="310" r="9" fill="#ffcd68"/>
+<rect x="284" y="484" width="32" height="116" fill="#708198"/><rect x="210" y="576" width="180" height="24" rx="12" fill="#708198"/>
+<ellipse cx="650" cy="400" rx="130" ry="60" fill="#ffffff" stroke="#e3e8f2" stroke-width="4"/><ellipse cx="650" cy="388" rx="105" ry="42" fill="#fff3d6"/><rect x="600" y="350" width="26" height="44" rx="12" fill="#34c98e" transform="rotate(-14 613 372)"/><rect x="636" y="344" width="26" height="44" rx="12" fill="#34c98e" transform="rotate(8 649 366)"/><rect x="670" y="352" width="26" height="44" rx="12" fill="#34c98e" transform="rotate(-6 683 374)"/><text x="650" y="500" font-family="Verdana,sans-serif" font-size="20" fill="#708198" text-anchor="middle">the wheel picked broccoli</text>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">Whatever spins, that is the side</text></svg>
