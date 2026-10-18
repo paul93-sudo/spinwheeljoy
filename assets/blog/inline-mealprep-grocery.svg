@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<circle cx="60" cy="520" r="10" fill="#f3722c" opacity="0.4"/>
+<circle cx="850" cy="500" r="16" fill="#118ab2" opacity="0.35"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<text x="450" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="36" font-weight="bold" fill="#2b3a4a">Spin five, shop once</text>
+<text x="450" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#5b6b7c">One list, one grocery run</text>
+<g><rect x="120" y="150" width="340" height="380" rx="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="120" y="150" width="340" height="54" rx="10" fill="#2b3a4a"/>
+<text x="290" y="185" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#ffffff">WEEKLY LIST</text>
+<rect x="146" y="248" width="26" height="26" rx="5" fill="#f3722c"/>
+<path d="M151,261 l7,7 l13,-14" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="186" y="269" font-family="Arial,sans-serif" font-size="24" fill="#2b3a4a">Mon  Tacos</text>
+<rect x="146" y="300" width="26" height="26" rx="5" fill="#ffca3a"/>
+<path d="M151,313 l7,7 l13,-14" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="186" y="321" font-family="Arial,sans-serif" font-size="24" fill="#2b3a4a">Tue  Pasta</text>
+<rect x="146" y="352" width="26" height="26" rx="5" fill="#06d6a0"/>
+<path d="M151,365 l7,7 l13,-14" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="186" y="373" font-family="Arial,sans-serif" font-size="24" fill="#2b3a4a">Wed  Curry</text>
+<rect x="146" y="404" width="26" height="26" rx="5" fill="#118ab2"/>
+<path d="M151,417 l7,7 l13,-14" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="186" y="425" font-family="Arial,sans-serif" font-size="24" fill="#2b3a4a">Thu  Soup</text>
+<rect x="146" y="456" width="26" height="26" rx="5" fill="#9b5de5"/>
+<path d="M151,469 l7,7 l13,-14" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="186" y="477" font-family="Arial,sans-serif" font-size="24" fill="#2b3a4a">Fri  Pizza</text>
+</g>
+<g>
+<rect x="600" y="330" width="150" height="110" rx="8" fill="#118ab2"/>
+<line x1="610" y1="355" x2="740" y2="355" stroke="#ffffff" stroke-width="4" opacity="0.6"/>
+<line x1="610" y1="380" x2="740" y2="380" stroke="#ffffff" stroke-width="4" opacity="0.6"/>
+<line x1="610" y1="405" x2="740" y2="405" stroke="#ffffff" stroke-width="4" opacity="0.6"/>
+<circle cx="640" cy="475" r="16" fill="#2b3a4a"/><circle cx="720" cy="475" r="16" fill="#2b3a4a"/>
+<line x1="580" y1="300" x2="610" y2="340" stroke="#2b3a4a" stroke-width="10" stroke-linecap="round"/>
+<rect x="612" y="272" width="56" height="64" rx="8" fill="#ffca3a" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="676" y="262" width="56" height="74" rx="8" fill="#06d6a0" stroke="#2b3a4a" stroke-width="4"/>
+<text x="640" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2b3a4a">PRODUCE</text>
+<text x="704" y="305" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2b3a4a">MEAT</text>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="80" cy="90" r="14" fill="#06d6a0" opacity="0.45"/>
+<circle cx="830" cy="70" r="12" fill="#9b5de5" opacity="0.45"/>
+<circle cx="60" cy="520" r="10" fill="#f3722c" opacity="0.4"/>
+<circle cx="850" cy="500" r="16" fill="#118ab2" opacity="0.35"/>
+<rect x="0" y="470" width="900" height="130" fill="#f3e4cc"/>
+<text x="450" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="44" font-weight="bold" fill="#2b3a4a">Meal Prep Wheel</text>
+<text x="450" y="108" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#5b6b7c">Spin five times, eat all week</text>
+<ellipse cx="290" cy="545" rx="150" ry="16" fill="#5b6b7c" opacity="0.12"/>
+<line x1="290" y1="500" x2="290" y2="556" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<line x1="240" y1="562" x2="340" y2="562" stroke="#5b6b7c" stroke-width="12" stroke-linecap="round"/>
+<g stroke="#2b3a4a" stroke-width="4.0">
+<path d="M290,320 L290.0,145.0 A175,175 0 0 1 441.6,232.5 Z" fill="#f3722c"/>
+<text x="338.1" y="236.6" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" transform="rotate(-60.0 338.1 236.6)" stroke="none">PASTA</text>
+<path d="M290,320 L441.6,232.5 A175,175 0 0 1 441.6,407.5 Z" fill="#ffca3a"/>
+<text x="386.2" y="320.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" transform="rotate(0.0 386.2 320.0)" stroke="none">TACOS</text>
+<path d="M290,320 L441.6,407.5 A175,175 0 0 1 290.0,495.0 Z" fill="#06d6a0"/>
+<text x="338.1" y="403.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" transform="rotate(60.0 338.1 403.4)" stroke="none">CURRY</text>
+<path d="M290,320 L290.0,495.0 A175,175 0 0 1 138.4,407.5 Z" fill="#118ab2"/>
+<text x="241.9" y="403.4" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" transform="rotate(120.0 241.9 403.4)" stroke="none">SOUP</text>
+<path d="M290,320 L138.4,407.5 A175,175 0 0 1 138.4,232.5 Z" fill="#9b5de5"/>
+<text x="169.0" y="320.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#ffffff" transform="rotate(180.0 169.0 320.0)" stroke="none">STIR-FRY</text>
+<path d="M290,320 L138.4,232.5 A175,175 0 0 1 290.0,145.0 Z" fill="#f15bb5"/>
+<text x="241.9" y="236.6" text-anchor="middle" dominant-baseline="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#ffffff" transform="rotate(240.0 241.9 236.6)" stroke="none">PIZZA</text>
+<circle cx="290" cy="320" r="18.0" fill="#2b3a4a" stroke="none"/>
+</g>
+<polygon points="290,99 264,141 316,141" fill="#2b3a4a"/>
+<g><rect x="540" y="180" width="280" height="300" rx="12" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="540" y="180" width="280" height="56" rx="12" fill="#2b3a4a"/>
+<text x="680" y="216" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#ffffff">THIS WEEK</text>
+<rect x="556" y="258" width="16" height="16" fill="#f3722c"/>
+<text x="582" y="272" font-family="Arial,sans-serif" font-size="19" fill="#2b3a4a">MON  Tacos</text>
+<rect x="556" y="302" width="16" height="16" fill="#ffca3a"/>
+<text x="582" y="316" font-family="Arial,sans-serif" font-size="19" fill="#2b3a4a">TUE  Pasta</text>
+<rect x="556" y="346" width="16" height="16" fill="#06d6a0"/>
+<text x="582" y="360" font-family="Arial,sans-serif" font-size="19" fill="#2b3a4a">WED  Curry</text>
+<rect x="556" y="390" width="16" height="16" fill="#118ab2"/>
+<text x="582" y="404" font-family="Arial,sans-serif" font-size="19" fill="#2b3a4a">THU  Soup</text>
+<rect x="556" y="434" width="16" height="16" fill="#9b5de5"/>
+<text x="582" y="448" font-family="Arial,sans-serif" font-size="19" fill="#2b3a4a">FRI  Pizza</text>
+</g>
+</svg>
