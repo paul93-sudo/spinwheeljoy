@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="500" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="820" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="820" cy="500" r="11" fill="#fb7f81" opacity="0.55"/>
+<path d="M390,340 L390.0,150.0 A190,190 0 0 1 554.5,245.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="448.9" y="238.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30 448.9 238.0)">RED</text>
+<path d="M390,340 L554.5,245.0 A190,190 0 0 1 554.5,435.0 Z" fill="#fb923c" stroke="#ffffff" stroke-width="4"/>
+<text x="507.8" y="340.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(90 507.8 340.0)">ORANGE</text>
+<path d="M390,340 L554.5,435.0 A190,190 0 0 1 390.0,530.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="448.9" y="442.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#7a5c00" text-anchor="middle" dominant-baseline="middle" transform="rotate(150 448.9 442.0)">YELLOW</text>
+<path d="M390,340 L390.0,530.0 A190,190 0 0 1 225.5,435.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="331.1" y="442.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30 331.1 442.0)">GREEN</text>
+<path d="M390,340 L225.5,435.0 A190,190 0 0 1 225.5,245.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="272.2" y="340.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(90 272.2 340.0)">BLUE</text>
+<path d="M390,340 L225.5,245.0 A190,190 0 0 1 390.0,150.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="331.1" y="238.0" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(150 331.1 238.0)">PURPLE</text>
+<circle cx="390" cy="340" r="30" fill="#ffffff" stroke="#708198" stroke-width="6"/>
+<polygon points="390,110 377,138 403,138" fill="#708198"/>
+<rect x="372" y="500" width="36" height="70" rx="12" fill="#708198"/>
+<ellipse cx="390" cy="576" rx="85" ry="12" fill="#708198" opacity="0.35"/>
+<g transform="rotate(28 700 420)">
+<rect x="692" y="340" width="16" height="110" rx="8" fill="#8b5e34"/>
+<polygon points="692,450 708,450 700,482" fill="#fb7f81"/></g>
+<ellipse cx="690" cy="250" rx="150" ry="100" fill="#e8dcc8" stroke="#c9b896" stroke-width="6"/>
+<ellipse cx="630" cy="225" rx="34" ry="26" fill="#fb7f81"/>
+<ellipse cx="690" cy="210" rx="34" ry="26" fill="#38bdf8"/>
+<ellipse cx="750" cy="230" rx="34" ry="26" fill="#ffcd68"/>
+<ellipse cx="795" cy="305" rx="18" ry="24" fill="#f8faff"/>
+
+<text x="450" y="52" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#243b53" text-anchor="middle">THE PALETTE CHALLENGE</text>
+<text x="450" y="88" font-family="Verdana,sans-serif" font-size="22" fill="#708198" text-anchor="middle">spin two colors, paint one thing</text>
+</svg>

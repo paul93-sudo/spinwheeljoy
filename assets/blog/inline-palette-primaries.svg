@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<ellipse cx="250" cy="380" rx="70" ry="50" fill="#fb7f81"/>
+<ellipse cx="420" cy="380" rx="70" ry="50" fill="#ffcd68"/>
+<ellipse cx="590" cy="380" rx="70" ry="50" fill="#38bdf8"/>
+<text x="420" y="300" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#243b53" text-anchor="middle">RED + YELLOW + BLUE</text>
+<!-- canvas with apple -->
+<rect x="300" y="70" width="240" height="180" rx="8" fill="#ffffff" stroke="#8b5e34" stroke-width="10"/>
+<circle cx="420" cy="165" r="52" fill="#fb7f81"/>
+<path d="M420,118 q6,-22 26,-30" fill="none" stroke="#4a7c3a" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="448" cy="106" rx="18" ry="10" fill="#34c98e" transform="rotate(-25 448 106)"/>
+<ellipse cx="402" cy="150" rx="14" ry="20" fill="#ffffff" opacity="0.5"/>
+<text x="450" y="520" font-family="Verdana,sans-serif" font-size="24" fill="#708198" text-anchor="middle">the apple, from three tubes</text>
+</svg>
