@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/>
+<circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/><path d="M310,300 L310.0,120.0 A180,180 0 0 1 465.9,210.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="364.0" y="206.5" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 364.0 206.5)">dares</text>
+<path d="M310,300 L465.9,210.0 A180,180 0 0 1 465.9,390.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="418.0" y="300.0" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 418.0 300.0)">teams</text>
+<path d="M310,300 L465.9,390.0 A180,180 0 0 1 310.0,480.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="364.0" y="393.5" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 364.0 393.5)">prizes</text>
+<path d="M310,300 L310.0,480.0 A180,180 0 0 1 154.1,390.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="256.0" y="393.5" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 256.0 393.5)">charades</text>
+<path d="M310,300 L154.1,390.0 A180,180 0 0 1 154.1,210.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<text x="202.0" y="300.0" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 202.0 300.0)">poses</text>
+<path d="M310,300 L154.1,210.0 A180,180 0 0 1 310.0,120.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="256.0" y="206.5" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 256.0 206.5)">order</text>
+<circle cx="310" cy="300" r="26" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M296,94 L324,94 L310,126 Z" fill="#e11d48"/><text x="700" y="120" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#2b3a4a" text-anchor="middle">10 games,</text><text x="700" y="160" font-family="Verdana,sans-serif" font-size="34" font-weight="bold" fill="#2b3a4a" text-anchor="middle">one wheel</text><text x="700" y="196" font-family="Verdana,sans-serif" font-size="20" fill="#64748b" text-anchor="middle">works at 6 and at 60</text>
+<g transform="translate(600 330) scale(1.4)">
+<path d="M0,-18 C26,-18 34,-2 0,26 C-34,-2 -26,-18 0,-18 Z" fill="#fb7f81"/>
+<rect x="-4" y="24" width="8" height="10" rx="2" fill="#2b3a4a" opacity="0.6"/>
+<path d="M0,34 C-10,60 10,80 0,110" stroke="#2b3a4a" stroke-width="2" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(760 300) scale(1.2)">
+<path d="M0,-18 C26,-18 34,-2 0,26 C-34,-2 -26,-18 0,-18 Z" fill="#38bdf8"/>
+<rect x="-4" y="24" width="8" height="10" rx="2" fill="#2b3a4a" opacity="0.6"/>
+<path d="M0,34 C-10,60 10,80 0,110" stroke="#2b3a4a" stroke-width="2" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(680 430) scale(1.0)">
+<path d="M0,-18 C26,-18 34,-2 0,26 C-34,-2 -26,-18 0,-18 Z" fill="#ffcd68"/>
+<rect x="-4" y="24" width="8" height="10" rx="2" fill="#2b3a4a" opacity="0.6"/>
+<path d="M0,34 C-10,60 10,80 0,110" stroke="#2b3a4a" stroke-width="2" fill="none" opacity="0.5"/>
+</g>
+<g transform="translate(650 520) scale(0.8)">
+<path d="M-40,40 L0,-60 L40,40 Z" fill="#f6a5c0" stroke="#ffffff" stroke-width="4"/>
+<path d="M-28,16 L28,16 M-18,-8 L18,-8" stroke="#ffffff" stroke-width="5" opacity="0.8"/>
+<circle cx="0" cy="-62" r="10" fill="#ffcd68"/>
+<rect x="-46" y="36" width="92" height="14" rx="7" fill="#ffcd68"/>
+</g>
+</svg>
