@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="90" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="810" cy="110" r="14" fill="#38bdf8" opacity="0.55"/><circle cx="110" cy="500" r="12" fill="#fb7f81" opacity="0.55"/><circle cx="800" cy="490" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300,320 L300.0,135.0 A185,185 0 0 1 485.0,320.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<text x="381.1" y="238.9" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-45.0 381.1 238.9)">pizza</text>
+<path d="M300,320 L485.0,320.0 A185,185 0 0 1 300.0,505.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="381.1" y="401.1" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 381.1 401.1)">tacos</text>
+<path d="M300,320 L300.0,505.0 A185,185 0 0 1 115.0,320.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="218.9" y="401.1" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-45.0 218.9 401.1)">burger</text>
+<path d="M300,320 L115.0,320.0 A185,185 0 0 1 300.0,135.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="218.9" y="238.9" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(45.0 218.9 238.9)">sushi</text>
+<polygon points="284,93 316,93 300,127" fill="#e14b4b" stroke="#ffffff" stroke-width="3"/><circle cx="300" cy="87" r="10" fill="#e14b4b" stroke="#ffffff" stroke-width="3"/>
+<circle cx="300" cy="320" r="26" fill="#2b3a4a" stroke="#ffffff" stroke-width="4"/><circle cx="300" cy="320" r="9" fill="#ffcd68"/>
+<rect x="284" y="499" width="32" height="101" fill="#708198"/><rect x="210" y="576" width="180" height="24" rx="12" fill="#708198"/>
+<rect x="600" y="200" width="14" height="200" rx="7" fill="#708198"/><rect x="588" y="150" width="12" height="60" rx="6" fill="#708198"/><rect x="606" y="150" width="12" height="60" rx="6" fill="#708198"/><rect x="624" y="150" width="12" height="60" rx="6" fill="#708198"/><ellipse cx="720" cy="330" rx="95" ry="70" fill="#ffffff" stroke="#e3e8f2" stroke-width="5"/><ellipse cx="720" cy="330" rx="60" ry="42" fill="#f8faff" stroke="#e3e8f2" stroke-width="3"/><text x="720" y="470" font-family="Verdana,sans-serif" font-size="20" fill="#708198" text-anchor="middle">one nomination per person</text>
+<text x="450" y="70" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">The Friday-night restaurant vote</text></svg>
