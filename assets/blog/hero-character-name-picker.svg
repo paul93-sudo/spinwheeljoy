@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f8faff"/>
+<circle cx="40" cy="560" r="12" fill="#fb7f81" opacity="0.55"/>
+<circle cx="1180" cy="90" r="10" fill="#38bdf8" opacity="0.55"/>
+<circle cx="620" cy="590" r="9" fill="#34c98e" opacity="0.55"/>
+<circle cx="600" cy="60" r="8" fill="#ffcd68" opacity="0.55"/>
+<circle cx="700" cy="40" r="8" fill="#a78bfa" opacity="0.55"/>
+<circle cx="60" cy="620" r="8" fill="#38bdf8" opacity="0.55"/>
+<text x="44" y="76" font-family="Verdana, sans-serif" font-size="44" font-weight="bold" fill="#2b3a4a">Character Name Picker</text>
+<rect x="60" y="140" width="150" height="92" rx="8" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<circle cx="135" cy="148" r="10" fill="#e11d48" stroke="#2b3a4a" stroke-width="4"/>
+<text x="135" y="186" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="25" font-weight="bold" fill="#2b3a4a">ELENA</text>
+<rect x="235" y="140" width="150" height="92" rx="8" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<circle cx="310" cy="148" r="10" fill="#e11d48" stroke="#2b3a4a" stroke-width="4"/>
+<text x="310" y="186" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="25" font-weight="bold" fill="#2b3a4a">MARCUS</text>
+<rect x="410" y="140" width="150" height="92" rx="8" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<circle cx="485" cy="148" r="10" fill="#e11d48" stroke="#2b3a4a" stroke-width="4"/>
+<text x="485" y="186" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="25" font-weight="bold" fill="#2b3a4a">JUNO</text>
+<rect x="40" y="440" width="580" height="66" rx="6" fill="#d9a066" stroke="#2b3a4a" stroke-width="5"/>
+<rect x="80" y="506" width="30" height="94" fill="#b57e4a" stroke="#2b3a4a" stroke-width="5"/>
+<rect x="550" y="506" width="30" height="94" fill="#b57e4a" stroke="#2b3a4a" stroke-width="5"/>
+<rect x="110" y="352" width="190" height="92" rx="4" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="120" y="336" width="190" height="92" rx="4" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="130" y="320" width="190" height="92" rx="4" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="146" y="336" width="158" height="7" rx="3" fill="#94a3b8"/>
+<rect x="146" y="354" width="158" height="7" rx="3" fill="#94a3b8"/>
+<rect x="146" y="372" width="158" height="7" rx="3" fill="#94a3b8"/>
+<rect x="146" y="390" width="158" height="7" rx="3" fill="#94a3b8"/>
+<path d="M430,392 q-8,-22 6,-34 M458,392 q-8,-22 6,-34" stroke="#2b3a4a" stroke-width="5" fill="none" stroke-linecap="round"/>
+<rect x="412" y="392" width="76" height="48" rx="10" fill="#38bdf8" stroke="#2b3a4a" stroke-width="5"/>
+<circle cx="496" cy="416" r="14" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<path d="M880,360 L880.0,135.0 A225,225 0 0,1 1039.1,200.9 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L1039.1,200.9 A225,225 0 0,1 1105.0,360.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L1105.0,360.0 A225,225 0 0,1 1039.1,519.1 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L1039.1,519.1 A225,225 0 0,1 880.0,585.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L880.0,585.0 A225,225 0 0,1 720.9,519.1 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L720.9,519.1 A225,225 0 0,1 655.0,360.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L655.0,360.0 A225,225 0 0,1 720.9,200.9 Z" fill="#f97316" stroke="#ffffff" stroke-width="4"/>
+<path d="M880,360 L720.9,200.9 A225,225 0 0,1 880.0,135.0 Z" fill="#e11d48" stroke="#ffffff" stroke-width="4"/>
+<circle cx="880" cy="360" r="225" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<text x="936.0" y="224.9" transform="rotate(22.5 936.0 224.9)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">ELENA</text>
+<text x="1015.1" y="304.0" transform="rotate(67.5 1015.1 304.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">MARCUS</text>
+<text x="1015.1" y="416.0" transform="rotate(112.5 1015.1 416.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">JUNO</text>
+<text x="936.0" y="495.1" transform="rotate(157.5 936.0 495.1)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#2b3a4a">WREN</text>
+<text x="824.0" y="495.1" transform="rotate(202.5 824.0 495.1)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">Theo</text>
+<text x="744.9" y="416.0" transform="rotate(247.5 744.9 416.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">ISOLDE</text>
+<text x="744.9" y="304.0" transform="rotate(292.5 744.9 304.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">NADI</text>
+<text x="824.0" y="224.9" transform="rotate(337.5 824.0 224.9)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">ELIAS</text>
+<polygon points="856,81 904,81 880,131" fill="#e11d48" stroke="#2b3a4a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="880" cy="360" r="30" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+</svg>

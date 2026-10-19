@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="60" cy="60" r="10" fill="#fb7f81" opacity="0.55"/>
+<circle cx="740" cy="70" r="9" fill="#38bdf8" opacity="0.55"/>
+<circle cx="60" cy="400" r="9" fill="#34c98e" opacity="0.55"/>
+<circle cx="740" cy="400" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="400" cy="40" r="8" fill="#a78bfa" opacity="0.55"/>
+<path d="M195,250 L195.0,90.0 A160,160 0 0,1 333.6,170.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M195,250 L333.6,170.0 A160,160 0 0,1 333.6,330.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M195,250 L333.6,330.0 A160,160 0 0,1 195.0,410.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M195,250 L195.0,410.0 A160,160 0 0,1 56.4,330.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M195,250 L56.4,330.0 A160,160 0 0,1 56.4,170.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<path d="M195,250 L56.4,170.0 A160,160 0 0,1 195.0,90.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<circle cx="195" cy="250" r="160" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<text x="246.2" y="161.3" transform="rotate(30.0 246.2 161.3)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">JUNE</text>
+<text x="297.4" y="250.0" transform="rotate(90.0 297.4 250.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">ELIAS</text>
+<text x="246.2" y="338.7" transform="rotate(150.0 246.2 338.7)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">NADIA</text>
+<text x="143.8" y="338.7" transform="rotate(210.0 143.8 338.7)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a">Theo</text>
+<text x="92.6" y="250.0" transform="rotate(270.0 92.6 250.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">WREN</text>
+<text x="143.8" y="161.3" transform="rotate(330.0 143.8 161.3)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">JUNO</text>
+<polygon points="171,36 219,36 195,86" fill="#e11d48" stroke="#2b3a4a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="195" cy="250" r="22" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<path d="M605,250 L605.0,90.0 A160,160 0 0,1 743.6,170.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M605,250 L743.6,170.0 A160,160 0 0,1 743.6,330.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M605,250 L743.6,330.0 A160,160 0 0,1 605.0,410.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M605,250 L605.0,410.0 A160,160 0 0,1 466.4,330.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M605,250 L466.4,330.0 A160,160 0 0,1 466.4,170.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<path d="M605,250 L466.4,170.0 A160,160 0 0,1 605.0,90.0 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<circle cx="605" cy="250" r="160" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<text x="656.2" y="161.3" transform="rotate(30.0 656.2 161.3)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">MARLOWE</text>
+<text x="707.4" y="250.0" transform="rotate(90.0 707.4 250.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">OKAFOR</text>
+<text x="656.2" y="338.7" transform="rotate(150.0 656.2 338.7)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">REYES</text>
+<text x="553.8" y="338.7" transform="rotate(210.0 553.8 338.7)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a">HALE</text>
+<text x="502.6" y="250.0" transform="rotate(270.0 502.6 250.0)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">VOSS</text>
+<text x="553.8" y="161.3" transform="rotate(330.0 553.8 161.3)" text-anchor="middle" dominant-baseline="central" font-family="Verdana, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">QUINN</text>
+<polygon points="581,36 629,36 605,86" fill="#e11d48" stroke="#2b3a4a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="605" cy="250" r="22" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<circle cx="400" cy="250" r="22" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<line x1="388" y1="250" x2="412" y2="250" stroke="#2b3a4a" stroke-width="7" stroke-linecap="round"/>
+<line x1="400" y1="238" x2="400" y2="262" stroke="#2b3a4a" stroke-width="7" stroke-linecap="round"/>
+</svg>
