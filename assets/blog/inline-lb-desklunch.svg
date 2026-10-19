@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="55" cy="55" r="12" fill="#ffcd68" opacity="0.35"/>
+<circle cx="845" cy="55" r="12" fill="#38bdf8" opacity="0.35"/>
+<circle cx="845" cy="545" r="12" fill="#fb7f81" opacity="0.35"/>
+<circle cx="55" cy="545" r="12" fill="#34c98e" opacity="0.35"/>
+<circle cx="792" cy="168" r="36" fill="#ffffff" stroke="#2b3a4a" stroke-width="4"/>
+<line x1="792" y1="168" x2="792" y2="146" stroke="#2b3a4a" stroke-width="4" stroke-linecap="round"/>
+<line x1="792" y1="168" x2="808" y2="176" stroke="#2b3a4a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="792" cy="168" r="4" fill="#2b3a4a"/>
+<text x="792" y="216" dy="0.32em" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#5b6b7c" text-anchor="middle">12:30</text>
+<rect x="200" y="120" width="300" height="190" rx="10" fill="#2b3a4a"/>
+<rect x="216" y="136" width="268" height="142" fill="#e8f1ff"/>
+<rect x="244" y="202" width="26" height="60" rx="4" fill="#38bdf8"/>
+<rect x="290" y="162" width="26" height="100" rx="4" fill="#38bdf8"/>
+<rect x="336" y="182" width="26" height="80" rx="4" fill="#38bdf8"/>
+<rect x="382" y="142" width="26" height="120" rx="4" fill="#38bdf8"/>
+<rect x="428" y="192" width="26" height="70" rx="4" fill="#38bdf8"/>
+<rect x="338" y="310" width="24" height="45" fill="#5b6b7c"/>
+<ellipse cx="350" cy="362" rx="65" ry="10" fill="#94a3b8"/>
+<rect x="345" y="330" width="80" height="85" rx="22" fill="#315fe9"/>
+<circle cx="385" cy="285" r="32" fill="#f4c7a5" stroke="#2b3a4a" stroke-width="3"/>
+<circle cx="373.8" cy="281.8" r="3.52" fill="#2b3a4a"/>
+<circle cx="396.2" cy="281.8" r="3.52" fill="#2b3a4a"/>
+<path d="M 373.8,296.2 Q 385,302.6 396.2,296.2" stroke="#2b3a4a" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M353,285 a32,32 0 0 1 64,0 Z" fill="#5b3a29"/>
+<polygon points="412,338 428,348 478,368 470,382" fill="#315fe9"/>
+<circle cx="478" cy="375" r="11" fill="#f4c7a5"/>
+<g transform="rotate(-18 479 361)"><rect x="462" y="330" width="34" height="62" rx="7" fill="#2b3a4a"/><rect x="467" y="338" width="24" height="46" fill="#38bdf8"/><line x1="471" y1="348" x2="487" y2="348" stroke="#ffffff" stroke-width="3"/><line x1="471" y1="358" x2="487" y2="358" stroke="#ffffff" stroke-width="3"/><line x1="471" y1="368" x2="483" y2="368" stroke="#ffffff" stroke-width="3"/></g>
+<rect x="150" y="400" width="600" height="26" rx="8" fill="#c98d5a"/>
+<rect x="170" y="426" width="16" height="110" fill="#a9763f"/>
+<rect x="714" y="426" width="16" height="110" fill="#a9763f"/>
+<ellipse cx="450" cy="548" rx="320" ry="12" fill="#2b3a4a" opacity="0.10"/>
+<rect x="520" y="382" width="70" height="10" rx="3" fill="#e8a96a"/>
+<rect x="516" y="375" width="78" height="7" rx="3" fill="#34c98e"/>
+<rect x="522" y="368" width="66" height="7" fill="#ffcd68"/>
+<polygon points="520,368 590,368 555,350" fill="#e8a96a"/>
+<polygon points="612,400 620,332 678,332 686,400" fill="#d9a066" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="618" y="322" width="62" height="12" rx="3" fill="#b57e3e"/>
+<text x="649" y="360" dy="0.32em" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#5b3a29" text-anchor="middle">LUNCH</text>
+</svg>

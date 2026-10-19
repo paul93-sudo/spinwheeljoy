@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="55" cy="55" r="12" fill="#ffcd68" opacity="0.35"/>
+<circle cx="845" cy="55" r="12" fill="#38bdf8" opacity="0.35"/>
+<circle cx="845" cy="545" r="12" fill="#fb7f81" opacity="0.35"/>
+<circle cx="55" cy="545" r="12" fill="#34c98e" opacity="0.35"/>
+<rect x="252" y="460" width="16" height="45" fill="#94a3b8"/>
+<ellipse cx="260" cy="512" rx="72" ry="14" fill="#94a3b8"/>
+<path d="M 260,310 L 185.0,180.1 A 150,150 0 0 1 335.0,180.1 Z" fill="#315fe9" stroke="#ffffff" stroke-width="4"/>
+<path d="M 260,310 L 335.0,180.1 A 150,150 0 0 1 410.0,310.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M 260,310 L 410.0,310.0 A 150,150 0 0 1 335.0,439.9 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M 260,310 L 335.0,439.9 A 150,150 0 0 1 185.0,439.9 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M 260,310 L 185.0,439.9 A 150,150 0 0 1 110.0,310.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M 260,310 L 110.0,310.0 A 150,150 0 0 1 185.0,180.1 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<circle cx="260" cy="310" r="150" fill="none" stroke="#2b3a4a" stroke-width="6"/>
+<text x="260.0" y="220.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(0 260.0 220.0)">ANA</text>
+<text x="337.9" y="265.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="middle" transform="rotate(60 337.9 265.0)">MIKE</text>
+<text x="337.9" y="355.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(300 337.9 355.0)">JEN</text>
+<text x="260.0" y="400.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(0 260.0 400.0)">TOM</text>
+<text x="182.1" y="355.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="middle" transform="rotate(60 182.1 355.0)">PRI</text>
+<text x="182.1" y="265.0" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(300 182.1 265.0)">LEO</text>
+<circle cx="260" cy="310" r="26" fill="#2b3a4a"/>
+<circle cx="260" cy="310" r="9" fill="#ffffff"/>
+<polygon points="260,120 236,162 284,162" fill="#ffcd68" stroke="#2b3a4a" stroke-width="3"/>
+<ellipse cx="260" cy="526" rx="78" ry="12" fill="#2b3a4a" opacity="0.10"/>
+<text x="260" y="566" dy="0.32em" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#5b6b7c" text-anchor="middle">spin to shuffle pairs</text>
+<rect x="470" y="150" width="190" height="105" rx="14" fill="#ffffff" stroke="#315fe9" stroke-width="4"/>
+<text x="565" y="196" dy="0.32em" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle">ANA + LEO</text>
+<rect x="690" y="150" width="180" height="105" rx="14" fill="#ffffff" stroke="#fb7f81" stroke-width="4"/>
+<text x="780" y="196" dy="0.32em" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle">MIKE + PRI</text>
+<path d="M595,355 C630,335 690,335 725,355" fill="none" stroke="#315fe9" stroke-width="7" stroke-linecap="round"/>
+<polygon points="725,355 709,346 711,364" fill="#315fe9"/>
+<path d="M725,405 C690,385 630,385 595,405" fill="none" stroke="#315fe9" stroke-width="7" stroke-linecap="round"/>
+<polygon points="595,405 611,396 609,414" fill="#315fe9"/>
+<text x="675" y="466" dy="0.32em" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#5b6b7c" text-anchor="middle">fresh pairs, weekly!</text>
+</svg>
