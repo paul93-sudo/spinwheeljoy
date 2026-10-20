@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="0" y="360" width="800" height="90" fill="#e4e9f2"/>
+<path d="M250,210 L185.0,97.4 A130,130 0 0 1 315.0,97.4 Z" fill="#315fe9" stroke="#ffffff" stroke-width="3"/>
+<text x="250.0" y="129.4" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90.0 250.0 129.4)">LEO</text>
+<path d="M250,210 L315.0,97.4 A130,130 0 0 1 380.0,210.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="319.8" y="169.7" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 319.8 169.7)">MIA</text>
+<path d="M250,210 L380.0,210.0 A130,130 0 0 1 315.0,322.6 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="319.8" y="250.3" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 319.8 250.3)">NOAH</text>
+<path d="M250,210 L315.0,322.6 A130,130 0 0 1 185.0,322.6 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="250.0" y="290.6" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 250.0 290.6)">AVA</text>
+<path d="M250,210 L185.0,322.6 A130,130 0 0 1 120.0,210.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="3"/>
+<text x="180.2" y="250.3" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(150.0 180.2 250.3)">LIAM</text>
+<path d="M250,210 L120.0,210.0 A130,130 0 0 1 185.0,97.4 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="180.2" y="169.7" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 180.2 169.7)">ZOE</text>
+<rect x="242" y="340" width="16" height="70" fill="#708198"/>
+<ellipse cx="250" cy="412" rx="60" ry="10" fill="#708198" opacity="0.4"/>
+<polygon points="236,54 264,54 250,78" fill="#2b3a4a"/>
+<circle cx="250" cy="210" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="500" y="110" width="70" height="14" rx="7" fill="#708198"/>
+<circle cx="535" cy="130" r="6" fill="none" stroke="#2b3a4a" stroke-width="4"/>
+<circle cx="535" cy="145" r="7.5" fill="none" stroke="#2b3a4a" stroke-width="5.0"/>
+<line x1="535" y1="152.5" x2="535" y2="187.5" stroke="#f59e42" stroke-width="7.5"/>
+<rect x="502.5" y="187.5" width="65.0" height="82.5" rx="7.5" fill="#ffcd68" stroke="#2b3a4a" stroke-width="3.75"/>
+<text x="535" y="215.0" font-family="Verdana,sans-serif" font-size="18.75" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">HALL</text>
+<text x="535" y="240.0" font-family="Verdana,sans-serif" font-size="18.75" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">PASS</text>
+<text x="535" y="322" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#708198" text-anchor="middle">next in line takes it</text>
+<text x="400" y="425" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#708198" text-anchor="middle" dominant-baseline="middle">one spin sets the order</text>
+</svg>

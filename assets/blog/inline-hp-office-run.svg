@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="0" y="360" width="800" height="90" fill="#e4e9f2"/>
+<rect x="80" y="90" width="120" height="140" rx="4" fill="#bfe3f5" stroke="#708198" stroke-width="3"/>
+<line x1="140" y1="90" x2="140" y2="230" stroke="#708198" stroke-width="3"/>
+<line x1="80" y1="160" x2="200" y2="160" stroke="#708198" stroke-width="3"/>
+<rect x="280" y="90" width="120" height="140" rx="4" fill="#bfe3f5" stroke="#708198" stroke-width="3"/>
+<line x1="340" y1="90" x2="340" y2="230" stroke="#708198" stroke-width="3"/>
+<line x1="280" y1="160" x2="400" y2="160" stroke="#708198" stroke-width="3"/>
+<rect x="590" y="120" width="120" height="240" rx="6" fill="#b07d4f"/>
+<rect x="604" y="134" width="92" height="212" fill="#d9a66c"/>
+<circle cx="694" cy="240.0" r="5" fill="#2b3a4a"/>
+<rect x="598.0" y="76" width="104" height="30" rx="6" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="650.0" y="91" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#708198" text-anchor="middle" dominant-baseline="middle">OFFICE</text>
+<rect x="460.55" y="359.0" width="9.450000000000001" height="21.0" rx="3.1500000000000004" fill="#2b3a4a"/>
+<rect x="470" y="359.0" width="9.450000000000001" height="21.0" rx="3.1500000000000004" fill="#2b3a4a"/>
+<rect x="454.25" y="314.9" width="31.5" height="44.1" rx="10.5" fill="#34c98e"/>
+<line x1="456.35" y1="327.5" x2="452.15" y2="350.59999999999997" stroke="#34c98e" stroke-width="7.3500000000000005" stroke-linecap="round"/>
+<line x1="483.65" y1="327.5" x2="487.85" y2="350.59999999999997" stroke="#34c98e" stroke-width="7.3500000000000005" stroke-linecap="round"/>
+<circle cx="470" cy="300.2" r="14.700000000000001" fill="#c98d5e"/>
+<path d="M455.3,298.09999999999997 a14.700000000000001,14.700000000000001 0 0 1 29.400000000000002,0 Z" fill="#6b4a2f"/>
+<circle cx="464.75" cy="302.3" r="1.8900000000000001" fill="#2b3a4a"/>
+<circle cx="475.25" cy="302.3" r="1.8900000000000001" fill="#2b3a4a"/>
+<rect x="502" y="288" width="44" height="56" rx="4" fill="#ffcd68" stroke="#2b3a4a" stroke-width="2.5"/>
+<text x="524" y="318" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#2b3a4a" text-anchor="middle">office</text>
+<text x="400" y="425" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#708198" text-anchor="middle" dominant-baseline="middle">errands ride the same wheel</text>
+</svg>

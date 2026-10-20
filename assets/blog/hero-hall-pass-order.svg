@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<text x="400" y="58" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">HALL PASS ORDER</text>
+<path d="M250,225 L197.5,134.1 A105,105 0 0 1 302.5,134.1 Z" fill="#315fe9" stroke="#ffffff" stroke-width="3"/>
+<text x="250.0" y="159.9" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90.0 250.0 159.9)">LEO</text>
+<path d="M250,225 L302.5,134.1 A105,105 0 0 1 355.0,225.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="306.4" y="192.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 306.4 192.5)">MIA</text>
+<path d="M250,225 L355.0,225.0 A105,105 0 0 1 302.5,315.9 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="306.4" y="257.6" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 306.4 257.6)">NOAH</text>
+<path d="M250,225 L302.5,315.9 A105,105 0 0 1 197.5,315.9 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="250.0" y="290.1" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 250.0 290.1)">AVA</text>
+<path d="M250,225 L197.5,315.9 A105,105 0 0 1 145.0,225.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="3"/>
+<text x="193.6" y="257.6" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(150.0 193.6 257.6)">LIAM</text>
+<path d="M250,225 L145.0,225.0 A105,105 0 0 1 197.5,134.1 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="193.6" y="192.4" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 193.6 192.4)">ZOE</text>
+<rect x="242" y="330" width="16" height="70" fill="#708198"/>
+<ellipse cx="250" cy="402" rx="60" ry="10" fill="#708198" opacity="0.4"/>
+<polygon points="236,94 264,94 250,118" fill="#2b3a4a"/>
+<circle cx="250" cy="225" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="560" y="150" width="120" height="240" rx="6" fill="#b07d4f"/>
+<rect x="574" y="164" width="92" height="212" fill="#d9a66c"/>
+<circle cx="664" cy="270.0" r="5" fill="#2b3a4a"/>
+<rect x="592" y="120" width="56" height="12" rx="6" fill="#708198"/>
+<circle cx="620" cy="132" r="5" fill="none" stroke="#2b3a4a" stroke-width="4"/>
+<circle cx="620" cy="200" r="5.4" fill="none" stroke="#2b3a4a" stroke-width="3.6"/>
+<line x1="620" y1="205.4" x2="620" y2="230.6" stroke="#f59e42" stroke-width="5.4"/>
+<rect x="596.6" y="230.6" width="46.800000000000004" height="59.4" rx="5.4" fill="#ffcd68" stroke="#2b3a4a" stroke-width="2.7"/>
+<text x="620" y="250.4" font-family="Verdana,sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">HALL</text>
+<text x="620" y="268.4" font-family="Verdana,sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">PASS</text>
+<text x="250" y="428" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#708198" text-anchor="middle">spin the order, take the pass</text>
+</svg>

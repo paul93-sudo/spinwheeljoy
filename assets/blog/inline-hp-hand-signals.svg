@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="0" y="360" width="800" height="90" fill="#e4e9f2"/>
+<rect x="480" y="70" width="240" height="150" rx="6" fill="#ffffff" stroke="#708198" stroke-width="3"/>
+<text x="600" y="130" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#708198" text-anchor="middle">fractions</text>
+<text x="600" y="165" font-family="Verdana,sans-serif" font-size="18" fill="#708198" text-anchor="middle">1/2 + 1/4 = ?</text>
+<rect x="408.75" y="355.0" width="11.25" height="25.0" rx="3.75" fill="#2b3a4a"/>
+<rect x="420" y="355.0" width="11.25" height="25.0" rx="3.75" fill="#2b3a4a"/>
+<rect x="401.25" y="302.5" width="37.5" height="52.5" rx="12.5" fill="#a78bfa"/>
+<line x1="403.75" y1="317.5" x2="398.75" y2="345.0" stroke="#a78bfa" stroke-width="8.75" stroke-linecap="round"/>
+<line x1="436.25" y1="317.5" x2="441.25" y2="345.0" stroke="#a78bfa" stroke-width="8.75" stroke-linecap="round"/>
+<circle cx="420" cy="285.0" r="17.5" fill="#ffd9b3"/>
+<path d="M402.5,282.5 a17.5,17.5 0 0 1 35.0,0 Z" fill="#7a4a21"/>
+<circle cx="413.75" cy="287.5" r="2.25" fill="#2b3a4a"/>
+<circle cx="426.25" cy="287.5" r="2.25" fill="#2b3a4a"/>
+<line x1="436" y1="318" x2="505" y2="296" stroke="#a78bfa" stroke-width="9" stroke-linecap="round"/>
+<circle cx="510" cy="294" r="10" fill="#ffd9b3"/>
+<text x="524" y="262" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#708198" text-anchor="middle">wait</text>
+<rect x="181.0" y="340.0" width="9.0" height="20.0" rx="3.0" fill="#2b3a4a"/>
+<rect x="190" y="340.0" width="9.0" height="20.0" rx="3.0" fill="#2b3a4a"/>
+<rect x="175.0" y="298.0" width="30.0" height="42.0" rx="10.0" fill="#315fe9"/>
+<line x1="203.0" y1="310.0" x2="223.0" y2="284.0" stroke="#315fe9" stroke-width="7.0" stroke-linecap="round"/>
+<circle cx="190" cy="284.0" r="14.0" fill="#f5b98a"/>
+<path d="M176.0,282.0 a14.0,14.0 0 0 1 28.0,0 Z" fill="#2b3a4a"/>
+<circle cx="185.0" cy="286.0" r="1.8" fill="#2b3a4a"/>
+<circle cx="195.0" cy="286.0" r="1.8" fill="#2b3a4a"/>
+<line x1="223" y1="284" x2="223" y2="258" stroke="#f5b98a" stroke-width="8" stroke-linecap="round"/>
+<rect x="110" y="318" width="160" height="44" rx="6" fill="#b9c9e6"/>
+<text x="190" y="205" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#708198" text-anchor="middle">one finger up</text>
+<text x="400" y="425" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#708198" text-anchor="middle" dominant-baseline="middle">silent signal, no shouting</text>
+</svg>
