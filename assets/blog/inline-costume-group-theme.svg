@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="60" cy="90" r="10" fill="#f15bb5" opacity="0.45"/><circle cx="840" cy="90" r="12" fill="#06d6a0" opacity="0.45"/><text x="450" y="62" text-anchor="middle" font-family="Verdana,sans-serif" font-size="38" font-weight="bold" fill="#2b3a4a">GROUP THEME: ONE SPIN</text><g>
+<path d="M300,320 L130.0,320.0 A170,170 0 0,1 215.0,172.8 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<text x="208.7" y="267.3" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">SCOOBY-DOO</text>
+<path d="M300,320 L215.0,172.8 A170,170 0 0,1 385.0,172.8 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<text x="300.0" y="214.6" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">STRANGER</text>
+<path d="M300,320 L385.0,172.8 A170,170 0 0,1 470.0,320.0 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<text x="391.3" y="267.3" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">ZOMBIES</text>
+<path d="M300,320 L470.0,320.0 A170,170 0 0,1 385.0,467.2 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<text x="391.3" y="372.7" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">PIRATES</text>
+<path d="M300,320 L385.0,467.2 A170,170 0 0,1 215.0,467.2 Z" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+<text x="300.0" y="425.4" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">CROWS</text>
+<path d="M300,320 L215.0,467.2 A170,170 0 0,1 130.0,320.0 Z" fill="#f15bb5" stroke="#5b6b7c" stroke-width="5"/>
+<text x="208.7" y="372.7" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif">MARIO</text>
+<circle cx="300" cy="320" r="26" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="285,120 315,120 300,152" fill="#5b6b7c"/>
+</g><ellipse cx="300" cy="518" rx="150" ry="14" fill="#5b6b7c" opacity="0.15"/>
+<line x1="300" y1="478" x2="300" y2="505" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="225" y1="512" x2="375" y2="512" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/><g><rect x="600" y="200" width="230" height="180" rx="16" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<text x="715" y="260" text-anchor="middle" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#2b3a4a">SCOOBY-DOO</text>
+<text x="715" y="300" text-anchor="middle" font-family="Verdana,sans-serif" font-size="18" fill="#5b6b7c">gang it is!</text>
+<circle cx="655" cy="335" r="16" fill="#f15bb5"/><circle cx="700" cy="335" r="16" fill="#06d6a0"/><circle cx="745" cy="335" r="16" fill="#ffca3a"/><circle cx="780" cy="335" r="16" fill="#118ab2"/></g>
+</svg>
