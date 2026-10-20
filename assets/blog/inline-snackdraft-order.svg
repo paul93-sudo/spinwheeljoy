@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="70" cy="80" r="12" fill="#06d6a0" opacity="0.45"/>
+<circle cx="845" cy="75" r="10" fill="#9b5de5" opacity="0.45"/>
+<circle cx="855" cy="525" r="14" fill="#ffca3a" opacity="0.45"/>
+<circle cx="60" cy="500" r="9" fill="#f15bb5" opacity="0.45"/>
+<ellipse cx="270" cy="478" rx="140" ry="13" fill="#5b6b7c" opacity="0.15"/>
+<path d="M270,300 L163.9,193.9 A150,150 0 0,1 376.1,193.9 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M270,300 L376.1,193.9 A150,150 0 0,1 376.1,406.1 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M270,300 L376.1,406.1 A150,150 0 0,1 163.9,406.1 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M270,300 L163.9,406.1 A150,150 0 0,1 163.9,193.9 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<g text-anchor="middle" font-family="Verdana,sans-serif">
+<text x="270.0" y="208.0" font-size="24" font-weight="bold" fill="#ffffff" dominant-baseline="middle">MIA</text>
+<text x="362.0" y="300.0" font-size="24" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">JAKE</text>
+<text x="270.0" y="392.0" font-size="24" font-weight="bold" fill="#ffffff" dominant-baseline="middle">LENA</text>
+<text x="178.0" y="300.0" font-size="24" font-weight="bold" fill="#ffffff" dominant-baseline="middle">DEV</text>
+</g>
+<circle cx="270" cy="300" r="28" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="254,124 286,124 270,154" fill="#5b6b7c"/>
+<rect x="120" y="498" width="300" height="56" rx="14" fill="#2b3a4a"/>
+<text x="270" y="534" text-anchor="middle" font-family="Verdana,sans-serif" font-size="26" font-weight="bold" fill="#ffffff">Mia picks first</text>
+<ellipse cx="602.5" cy="521" rx="47.5" ry="7" fill="#5b6b7c" opacity="0.15"/>
+<polygon points="555,515 650,515 640,446 565,446" fill="#ffca3a" stroke="#b45309" stroke-width="4"/>
+<path d="M588.25,446 C588.25,414 616.75,414 616.75,446" fill="none" stroke="#b45309" stroke-width="6"/>
+<ellipse cx="715.0" cy="521" rx="50.0" ry="7" fill="#5b6b7c" opacity="0.15"/>
+<polygon points="665,515 765,515 755,422 675,422" fill="#f15bb5" stroke="#a4133c" stroke-width="4"/>
+<path d="M700.0,422 C700.0,390 730.0,390 730.0,422" fill="none" stroke="#a4133c" stroke-width="6"/>
+<ellipse cx="827.5" cy="521" rx="47.5" ry="7" fill="#5b6b7c" opacity="0.15"/>
+<polygon points="780,515 875,515 865,446 790,446" fill="#06d6a0" stroke="#047857" stroke-width="4"/>
+<path d="M813.25,446 C813.25,414 841.75,414 841.75,446" fill="none" stroke="#047857" stroke-width="6"/>
+</svg>

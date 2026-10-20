@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<circle cx="70" cy="80" r="12" fill="#06d6a0" opacity="0.45"/>
+<circle cx="845" cy="75" r="10" fill="#9b5de5" opacity="0.45"/>
+<circle cx="855" cy="525" r="14" fill="#ffca3a" opacity="0.45"/>
+<circle cx="60" cy="500" r="9" fill="#f15bb5" opacity="0.45"/>
+<rect x="0" y="480" width="900" height="120" fill="#f3e4cc"/>
+<text x="450" y="62" text-anchor="middle" font-family="Verdana,sans-serif" font-size="42" font-weight="bold" fill="#2b3a4a">GAME NIGHT SNACK DRAFT</text>
+<ellipse cx="290" cy="558" rx="150" ry="14" fill="#5b6b7c" opacity="0.15"/>
+<line x1="290" y1="488" x2="290" y2="545" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<line x1="215" y1="552" x2="365" y2="552" stroke="#5b6b7c" stroke-width="14" stroke-linecap="round"/>
+<path d="M290,330 L210.0,191.4 A160,160 0 0,1 370.0,191.4 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M290,330 L370.0,191.4 A160,160 0 0,1 450.0,330.0 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M290,330 L450.0,330.0 A160,160 0 0,1 370.0,468.6 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M290,330 L370.0,468.6 A160,160 0 0,1 210.0,468.6 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M290,330 L210.0,468.6 A160,160 0 0,1 130.0,330.0 Z" fill="#9b5de5" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M290,330 L130.0,330.0 A160,160 0 0,1 210.0,191.4 Z" fill="#f15bb5" stroke="#5b6b7c" stroke-width="5"/>
+<g text-anchor="middle" font-family="Verdana,sans-serif">
+<text x="290.0" y="230.0" font-size="19" font-weight="bold" fill="#ffffff" dominant-baseline="middle">PIZZA</text>
+<text x="376.6" y="280.0" font-size="19" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">WINGS</text>
+<text x="376.6" y="380.0" font-size="19" font-weight="bold" fill="#ffffff" dominant-baseline="middle">NACHOS</text>
+<text x="290.0" y="430.0" font-size="19" font-weight="bold" fill="#ffffff" dominant-baseline="middle">POPCORN</text>
+<text x="203.4" y="380.0" font-size="19" font-weight="bold" fill="#ffffff" dominant-baseline="middle">COOKIES</text>
+<text x="203.4" y="280.0" font-size="19" font-weight="bold" fill="#ffffff" dominant-baseline="middle">SODA</text>
+</g>
+<circle cx="290" cy="330" r="28" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<polygon points="274,144 306,144 290,174" fill="#5b6b7c"/>
+<rect x="610" y="445" width="250" height="20" rx="10" fill="#9b5de5" stroke="#5b6b7c" stroke-width="4"/>
+<line x1="632" y1="465" x2="632" y2="560" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<line x1="838" y1="465" x2="838" y2="560" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<rect x="622" y="372" width="54" height="76" rx="8" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="641" cy="398" r="7" fill="#e11d48"/><circle cx="655" cy="398" r="7" fill="#e11d48"/><polygon points="634,402 662,402 648,417" fill="#e11d48"/>
+<g transform="rotate(14 682 410)"><rect x="655" y="372" width="54" height="76" rx="8" fill="#ffca3a" stroke="#5b6b7c" stroke-width="4"/></g>
+<g transform="rotate(-10 772 420)">
+<rect x="745" y="393" width="54" height="54" rx="10" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="758" cy="406" r="5" fill="#5b6b7c"/>
+<circle cx="786" cy="406" r="5" fill="#5b6b7c"/>
+<circle cx="772" cy="420" r="5" fill="#5b6b7c"/>
+<circle cx="758" cy="434" r="5" fill="#5b6b7c"/>
+<circle cx="786" cy="434" r="5" fill="#5b6b7c"/>
+</g>
+<path d="M794,428 L876,428 L862,466 Q835,476 808,466 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="4"/>
+<ellipse cx="835" cy="428" rx="41" ry="13" fill="#e8f6ff" stroke="#5b6b7c" stroke-width="4"/>
+<polygon points="812,428 826,400 840,428" fill="#ffca3a" stroke="#b45309" stroke-width="3"/>
+<polygon points="832,428 846,402 860,428" fill="#ffca3a" stroke="#b45309" stroke-width="3"/>
+</svg>
