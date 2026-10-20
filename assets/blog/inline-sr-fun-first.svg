@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<rect x="98" y="128" width="320" height="350" rx="10" fill="#000000" opacity="0.06"/>
+<rect x="90" y="120" width="320" height="350" rx="10" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<rect x="90" y="120" width="320" height="40" rx="10" fill="#e8eeff"/>
+<circle cx="160" cy="120" r="10" fill="#708198"/>
+<circle cx="350" cy="120" r="10" fill="#708198"/>
+<text x="250" y="190" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle">WEEKEND</text>
+<text x="250" y="268" font-family="Verdana,sans-serif" font-size="46" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">SAT</text>
+<ellipse cx="250" cy="265" rx="98" ry="48" fill="none" stroke="#fb7f81" stroke-width="6"/>
+<text x="250" y="392" font-family="Verdana,sans-serif" font-size="36" font-weight="bold" fill="#708198" text-anchor="middle" dominant-baseline="middle">SUN</text>
+<text x="250" y="428" font-family="Verdana,sans-serif" font-size="16" fill="#708198" text-anchor="middle">(open)</text>
+<rect x="642.0" y="441" width="16" height="79" fill="#708198"/>
+<ellipse cx="650" cy="526" rx="54.4" ry="10" fill="#708198" opacity="0.35"/>
+<circle cx="650" cy="295" r="154" fill="#2b3a4a"/>
+<path d="M650,295 L543.9,188.9 A150,150 0 0 1 756.1,188.9 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="650.0" y="202.0" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(270.0 650.0 202.0)">HIKE</text>
+<path d="M650,295 L756.1,188.9 A150,150 0 0 1 756.1,401.1 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="743.0" y="295.0" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 743.0 295.0)">MOVIE</text>
+<path d="M650,295 L756.1,401.1 A150,150 0 0 1 543.9,401.1 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="650.0" y="388.0" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 650.0 388.0)">BRUNCH</text>
+<path d="M650,295 L543.9,401.1 A150,150 0 0 1 543.9,188.9 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="557.0" y="295.0" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 557.0 295.0)">MUSEUM</text>
+<polygon points="628,113 672,113 650,147" fill="#2b3a4a"/>
+<circle cx="650" cy="295" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<text x="450.0" y="578" font-family="Verdana,sans-serif" font-size="20" fill="#708198" text-anchor="middle">plan the fun first, not last</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="700" cy="80" r="28" fill="#ffcd68"/>
+<circle cx="712" cy="70" r="24" fill="#f8faff"/>
+<circle cx="120" cy="90" r="4" fill="#ffcd68"/>
+<circle cx="185" cy="55" r="3" fill="#ffcd68"/>
+<circle cx="80" cy="160" r="3.5" fill="#ffcd68"/>
+<circle cx="255" cy="95" r="3" fill="#ffcd68"/>
+<circle cx="420" cy="60" r="4" fill="#ffcd68"/>
+<rect x="0" y="360" width="800" height="90" fill="#d9a66c"/>
+<rect x="0" y="360" width="800" height="8" fill="#b07d4f"/>
+<rect x="78" y="178" width="260" height="182" rx="8" fill="#000000" opacity="0.08"/>
+<rect x="70" y="170" width="260" height="190" rx="8" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<text x="200" y="196" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle">WEEKLY PLAN</text>
+<text x="96" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">S</text>
+<text x="130" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">M</text>
+<text x="164" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">T</text>
+<text x="198" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">W</text>
+<text x="232" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">T</text>
+<text x="266" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">F</text>
+<text x="300" y="218" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#708198" text-anchor="middle">S</text>
+<circle cx="130" cy="244" r="7" fill="#315fe9"/>
+<circle cx="164" cy="278" r="7" fill="#fb7f81"/>
+<circle cx="96" cy="312" r="7" fill="#34c98e"/>
+<circle cx="198" cy="244" r="7" fill="#ffcd68"/>
+<circle cx="232" cy="312" r="7" fill="#315fe9"/>
+<circle cx="266" cy="278" r="7" fill="#fb7f81"/>
+<circle cx="300" cy="244" r="7" fill="#34c98e"/>
+<circle cx="164" cy="312" r="7" fill="#ffcd68"/>
+<ellipse cx="400" cy="300" rx="30" ry="8" fill="#6f4e37"/>
+<rect x="370" y="300" width="60" height="60" rx="10" fill="#fb7f81"/>
+<circle cx="443" cy="330" r="14" fill="none" stroke="#fb7f81" stroke-width="9"/>
+<path d="M390,288 q8,-12 0,-24 q-8,-12 0,-24" fill="none" stroke="#aeb9c9" stroke-width="5" stroke-linecap="round"/>
+<path d="M412,288 q8,-12 0,-24 q-8,-12 0,-24" fill="none" stroke="#aeb9c9" stroke-width="5" stroke-linecap="round"/>
+<rect x="592.0" y="346" width="16" height="50" fill="#708198"/>
+<ellipse cx="600" cy="402" rx="54.4" ry="10" fill="#708198" opacity="0.35"/>
+<circle cx="600" cy="228" r="126" fill="#2b3a4a"/>
+<path d="M600,228 L528.3,129.3 A122,122 0 0 1 671.7,129.3 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="600.0" y="154.8" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(270.0 600.0 154.8)">GOAL</text>
+<path d="M600,228 L671.7,129.3 A122,122 0 0 1 716.0,265.7 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="669.6" y="205.4" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(342.0 669.6 205.4)">DINNERS</text>
+<path d="M600,228 L716.0,265.7 A122,122 0 0 1 600.0,350.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="643.0" y="287.2" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(54.0 643.0 287.2)">CHORES</text>
+<path d="M600,228 L600.0,350.0 A122,122 0 0 1 484.0,265.7 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="557.0" y="287.2" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-54.0 557.0 287.2)">WORKOUT</text>
+<path d="M600,228 L484.0,265.7 A122,122 0 0 1 528.3,129.3 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="3"/>
+<text x="530.4" y="205.4" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(18.0 530.4 205.4)">FUN</text>
+<polygon points="578,74 622,74 600,108" fill="#2b3a4a"/>
+<circle cx="600" cy="228" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+</svg>

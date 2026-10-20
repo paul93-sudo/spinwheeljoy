@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<rect x="78" y="118" width="330" height="382" rx="10" fill="#000000" opacity="0.06"/>
+<rect x="70" y="110" width="330" height="382" rx="10" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<text x="235" y="146" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="middle">DINNER PLAN</text>
+<rect x="92" y="177" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="193" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">MON</text>
+<text x="164" y="193" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Spaghetti</text>
+<rect x="92" y="221" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="237" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">TUE</text>
+<text x="164" y="237" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Stir-fry</text>
+<rect x="82" y="260" width="306" height="40" rx="8" fill="#ffcd68" opacity="0.55"/>
+<rect x="92" y="265" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="281" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">WED</text>
+<text x="164" y="281" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Taco night</text>
+<polygon points="352.0,269.0 354.7,276.3 362.5,276.6 356.4,281.4 358.5,288.9 352.0,284.6 345.5,288.9 347.6,281.4 341.5,276.6 349.3,276.3" fill="#e8a13c"/>
+<rect x="92" y="309" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="325" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">THU</text>
+<text x="164" y="325" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Chicken soup</text>
+<rect x="92" y="353" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="369" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">FRI</text>
+<text x="164" y="369" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Pizza night</text>
+<rect x="92" y="397" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="413" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">SAT</text>
+<text x="164" y="413" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Leftovers</text>
+<rect x="92" y="441" width="58" height="30" rx="6" fill="#e8eeff"/>
+<text x="121" y="457" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">SUN</text>
+<text x="164" y="457" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" dominant-baseline="middle">Roast chicken</text>
+<rect x="652.0" y="446" width="16" height="74" fill="#708198"/>
+<ellipse cx="660" cy="526" rx="54.4" ry="10" fill="#708198" opacity="0.35"/>
+<circle cx="660" cy="300" r="154" fill="#2b3a4a"/>
+<path d="M660,300 L530.1,225.0 A150,150 0 0 1 789.9,225.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="660.0" y="207.0" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(270.0 660.0 207.0)">TACO NIGHT</text>
+<path d="M660,300 L789.9,225.0 A150,150 0 0 1 660.0,450.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="740.5" y="346.5" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 740.5 346.5)">PASTA</text>
+<path d="M660,300 L660.0,450.0 A150,150 0 0 1 530.1,225.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="579.5" y="346.5" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 579.5 346.5)">STIR-FRY</text>
+<polygon points="638,118 682,118 660,152" fill="#2b3a4a"/>
+<circle cx="660" cy="300" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<text x="450.0" y="578" font-family="Verdana,sans-serif" font-size="20" fill="#708198" text-anchor="middle">spin once, dinners are decided</text>
+</svg>

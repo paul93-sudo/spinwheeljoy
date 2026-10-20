@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<rect x="78" y="118" width="360" height="280" rx="10" fill="#000000" opacity="0.06"/>
+<rect x="70" y="110" width="360" height="280" rx="10" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<text x="250" y="146" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="middle">CHORE CHART</text>
+<rect x="82" y="174" width="336" height="44" rx="8" fill="#ffcd68" opacity="0.55"/>
+<text x="100" y="197" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">VACUUM</text>
+<rect x="330" y="178" width="70" height="32" rx="6" fill="#315fe9"/>
+<text x="365" y="195" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">ALEX</text>
+<text x="100" y="245" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">DISHES</text>
+<rect x="330" y="226" width="70" height="32" rx="6" fill="#fb7f81"/>
+<text x="365" y="243" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SAM</text>
+<text x="100" y="293" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">TRASH</text>
+<rect x="330" y="274" width="70" height="32" rx="6" fill="#315fe9"/>
+<text x="365" y="291" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">ALEX</text>
+<text x="100" y="341" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" dominant-baseline="middle">BATHROOM</text>
+<rect x="330" y="322" width="70" height="32" rx="6" fill="#fb7f81"/>
+<text x="365" y="339" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SAM</text>
+<ellipse cx="160" cy="562" rx="42" ry="8" fill="#708198" opacity="0.3"/>
+<circle cx="160" cy="430" r="22" fill="#f2c99b"/>
+<rect x="138.0" y="452" width="44" height="66" rx="10" fill="#315fe9"/>
+<rect x="124.0" y="456" width="14" height="48" rx="7" fill="#315fe9"/>
+<rect x="182.0" y="456" width="14" height="48" rx="7" fill="#315fe9"/>
+<rect x="144" y="518" width="14" height="38" fill="#2b3a4a"/>
+<rect x="162" y="518" width="14" height="38" fill="#2b3a4a"/>
+<ellipse cx="300" cy="562" rx="42" ry="8" fill="#708198" opacity="0.3"/>
+<circle cx="300" cy="455" r="19" fill="#f2c99b"/>
+<rect x="280.0" y="474" width="40" height="58" rx="10" fill="#fb7f81"/>
+<rect x="266.0" y="478" width="14" height="48" rx="7" fill="#fb7f81"/>
+<rect x="320.0" y="478" width="14" height="48" rx="7" fill="#fb7f81"/>
+<rect x="284" y="532" width="14" height="24" fill="#2b3a4a"/>
+<rect x="302" y="532" width="14" height="24" fill="#2b3a4a"/>
+<rect x="682.0" y="416" width="16" height="84" fill="#708198"/>
+<ellipse cx="690" cy="506" rx="54.4" ry="10" fill="#708198" opacity="0.35"/>
+<circle cx="690" cy="280" r="144" fill="#2b3a4a"/>
+<path d="M690,280 L591.0,181.0 A140,140 0 0 1 789.0,181.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="690.0" y="193.2" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(270.0 690.0 193.2)">VACUUM</text>
+<path d="M690,280 L789.0,181.0 A140,140 0 0 1 789.0,379.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="776.8" y="280.0" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 776.8 280.0)">DISHES</text>
+<path d="M690,280 L789.0,379.0 A140,140 0 0 1 591.0,379.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="690.0" y="366.8" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 690.0 366.8)">TRASH</text>
+<path d="M690,280 L591.0,379.0 A140,140 0 0 1 591.0,181.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="603.2" y="280.0" font-family="Verdana,sans-serif" font-size="19" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 603.2 280.0)">BATHROOM</text>
+<polygon points="668,108 712,108 690,142" fill="#2b3a4a"/>
+<circle cx="690" cy="280" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+</svg>
