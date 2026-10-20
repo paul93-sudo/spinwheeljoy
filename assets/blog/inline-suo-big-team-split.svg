@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<text x="400" y="58" font-family="Verdana,sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">TWO STANDUPS</text>
+<rect x="187" y="300" width="16" height="55" fill="#708198"/>
+<ellipse cx="195" cy="355" rx="50" ry="9" fill="#708198" opacity="0.4"/>
+<path d="M195,250 L142.5,159.1 A105,105 0 0 1 247.5,159.1 Z" fill="#315fe9" stroke="#ffffff" stroke-width="3"/>
+<text x="195.0" y="187.0" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90.0 195.0 187.0)">PRIYA</text>
+<path d="M195,250 L247.5,159.1 A105,105 0 0 1 300.0,250.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="249.6" y="218.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 249.6 218.5)">MARCO</text>
+<path d="M195,250 L300.0,250.0 A105,105 0 0 1 247.5,340.9 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<text x="249.6" y="281.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 249.6 281.5)">LEO</text>
+<path d="M195,250 L247.5,340.9 A105,105 0 0 1 142.5,340.9 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="195.0" y="313.0" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 195.0 313.0)">SAM</text>
+<path d="M195,250 L142.5,340.9 A105,105 0 0 1 90.0,250.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="3"/>
+<text x="140.4" y="281.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(150.0 140.4 281.5)">ANA</text>
+<path d="M195,250 L90.0,250.0 A105,105 0 0 1 142.5,159.1 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="140.4" y="218.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 140.4 218.5)">KIM</text>
+<circle cx="195" cy="250" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<polygon points="182,114 208,114 195,140" fill="#2b3a4a"/>
+<rect x="430" y="105" width="330" height="140" rx="12" fill="#ffffff" stroke="#315fe9" stroke-width="3"/>
+<text x="595" y="140" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">GROUP A</text>
+<circle cx="505" cy="195" r="22" fill="#e8eefb"/>
+<circle cx="505" cy="190" r="9" fill="#f6c89f"/>
+<rect x="496.5" y="201" width="17" height="12" rx="6" fill="#315fe9"/>
+<circle cx="595" cy="195" r="22" fill="#e8eefb"/>
+<circle cx="595" cy="190" r="9" fill="#e8a87c"/>
+<rect x="586.5" y="201" width="17" height="12" rx="6" fill="#ffcd68"/>
+<circle cx="685" cy="195" r="22" fill="#e8eefb"/>
+<circle cx="685" cy="190" r="9" fill="#c68642"/>
+<rect x="676.5" y="201" width="17" height="12" rx="6" fill="#fb7f81"/>
+<rect x="430" y="275" width="330" height="140" rx="12" fill="#ffffff" stroke="#fb7f81" stroke-width="3"/>
+<text x="595" y="310" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">GROUP B</text>
+<circle cx="505" cy="365" r="22" fill="#e8eefb"/>
+<circle cx="505" cy="360" r="9" fill="#f6c89f"/>
+<rect x="496.5" y="371" width="17" height="12" rx="6" fill="#315fe9"/>
+<circle cx="595" cy="365" r="22" fill="#e8eefb"/>
+<circle cx="595" cy="360" r="9" fill="#e8a87c"/>
+<rect x="586.5" y="371" width="17" height="12" rx="6" fill="#ffcd68"/>
+<circle cx="685" cy="365" r="22" fill="#e8eefb"/>
+<circle cx="685" cy="360" r="9" fill="#c68642"/>
+<rect x="676.5" y="371" width="17" height="12" rx="6" fill="#fb7f81"/>
+</svg>
