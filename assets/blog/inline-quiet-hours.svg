@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#22304a"/>
+<circle cx="188" cy="127" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="448" cy="92" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="241" cy="141" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="207" cy="149" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="261" cy="20" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="399" cy="169" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="90" cy="57" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="258" cy="30" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="776" cy="124" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="472" cy="28" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="573" cy="147" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="138" cy="114" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="178" cy="42" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="848" cy="25" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="184" cy="161" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="371" cy="122" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="174" cy="67" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="58" cy="140" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="96" cy="70" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="709" cy="168" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="92" cy="51" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="507" cy="163" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="225" cy="107" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="568" cy="124" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="393" cy="135" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="415" cy="101" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="415" cy="88" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="874" cy="43" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="755" cy="146" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="523" cy="37" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="633" cy="153" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="605" cy="175" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="589" cy="179" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="205" cy="63" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="376" cy="105" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="800" cy="172" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="271" cy="46" r="2" fill="#ffffff" opacity="0.8"/>
+<circle cx="87" cy="64" r="2.5" fill="#ffffff" opacity="0.8"/>
+<circle cx="403" cy="60" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="57" cy="153" r="3" fill="#ffffff" opacity="0.8"/>
+<circle cx="770" cy="110" r="52" fill="#ffcd68"/>
+<circle cx="796" cy="94" r="46" fill="#22304a"/>
+<rect x="70" y="330" width="320" height="26" rx="8" fill="#5a6b85"/>
+<rect x="70" y="356" width="18" height="150" fill="#5a6b85"/>
+<rect x="372" y="356" width="18" height="150" fill="#5a6b85"/>
+<rect x="84" y="304" width="292" height="34" rx="10" fill="#e8eef7"/>
+<rect x="94" y="296" width="70" height="30" rx="10" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<rect x="180" y="296" width="170" height="42" rx="10" fill="#fb7f81"/>
+<rect x="510" y="330" width="320" height="26" rx="8" fill="#5a6b85"/>
+<rect x="510" y="356" width="18" height="150" fill="#5a6b85"/>
+<rect x="812" y="356" width="18" height="150" fill="#5a6b85"/>
+<rect x="524" y="304" width="292" height="34" rx="10" fill="#e8eef7"/>
+<rect x="534" y="296" width="70" height="30" rx="10" fill="#ffffff" stroke="#dbe3f0" stroke-width="2"/>
+<rect x="620" y="296" width="170" height="42" rx="10" fill="#fb7f81"/>
+<circle cx="450" cy="250" r="56" fill="#ffffff" stroke="#dbe3f0" stroke-width="3"/>
+<rect x="428" y="240" width="14" height="22" rx="3" fill="#2b3a4a"/>
+<polygon points="442,240 458,228 458,274 442,262" fill="#2b3a4a"/>
+<line x1="468" y1="236" x2="492" y2="260" stroke="#e5484d" stroke-width="7" stroke-linecap="round"/>
+<line x1="492" y1="236" x2="468" y2="260" stroke="#e5484d" stroke-width="7" stroke-linecap="round"/>
+<text x="450" y="330" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">10:42 pm</text>
+</svg>
