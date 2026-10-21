@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="736" cy="63" r="12" fill="#38bdf8" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#fb7f81" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#34c98e" opacity="0.55"/>
+<rect x="36" y="26" width="308" height="48" rx="12" fill="#315fe9"/>
+<text x="190" y="57" font-family="Verdana,sans-serif" font-size="23" font-weight="bold" fill="#ffffff" text-anchor="middle">Reading Group Picker</text>
+<path d="M200.0,258.0 L147.5,167.1 A105.0,105.0 0 0 1 252.5,167.1 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<path d="M200.0,258.0 L252.5,167.1 A105.0,105.0 0 0 1 305.0,258.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<path d="M200.0,258.0 L305.0,258.0 A105.0,105.0 0 0 1 252.5,348.9 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<path d="M200.0,258.0 L252.5,348.9 A105.0,105.0 0 0 1 147.5,348.9 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<path d="M200.0,258.0 L147.5,348.9 A105.0,105.0 0 0 1 95.0,258.0 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="3"/>
+<path d="M200.0,258.0 L95.0,258.0 A105.0,105.0 0 0 1 147.5,167.1 Z" fill="#f9a8d4" stroke="#ffffff" stroke-width="3"/>
+<circle cx="200.0" cy="258.0" r="105.0" fill="none" stroke="#2b3a4a" stroke-width="4"/>
+<text x="200.0" y="192.9" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0,200.0,192.9)">MAYA</text>
+<text x="256.4" y="225.5" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0,256.4,225.5)">JAYDEN</text>
+<text x="256.4" y="290.6" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0,256.4,290.6)">NOAH</text>
+<text x="200.0" y="323.1" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0,200.0,323.1)">JUNE</text>
+<text x="143.6" y="290.6" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0,143.6,290.6)">THEO</text>
+<text x="143.6" y="225.4" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0,143.6,225.4)">PRIYA</text>
+<polygon points="186.0,127.0 214.0,127.0 200.0,161.0" fill="#2b3a4a"/>
+<circle cx="200.0" cy="258.0" r="16" fill="#2b3a4a"/>
+<circle cx="200.0" cy="258.0" r="7" fill="#ffffff"/>
+<ellipse cx="590" cy="272" rx="138" ry="102" fill="none" stroke="#cdd7e8" stroke-width="3"/>
+<ellipse cx="714.0" cy="292.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<ellipse cx="742.0" cy="292.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<rect x="712.0" y="246.0" width="32.0" height="36.0" rx="12.0" fill="#315fe9"/>
+<line x1="715.0" y1="258.0" x2="710.1" y2="276.0" stroke="#315fe9" stroke-width="7.0" stroke-linecap="round"/>
+<line x1="741.0" y1="258.0" x2="745.9" y2="276.0" stroke="#315fe9" stroke-width="7.0" stroke-linecap="round"/>
+<circle cx="728.0" cy="232.0" r="13.0" fill="#ffd9b3"/>
+<path d="M715.0,230.1 a13.0,13.0 0 0 1 26.0,0 Z" fill="#2b3a4a"/>
+<circle cx="723.3" cy="233.6" r="1.7" fill="#2b3a4a"/>
+<circle cx="732.7" cy="233.6" r="1.7" fill="#2b3a4a"/>
+<path d="M723.3,237.8 a5.9,4.5 0 0 0 9.4,0" stroke="#2b3a4a" stroke-width="2" fill="none" stroke-linecap="round"/>
+<polygon points="700.0,278.0 728.0,271.3 728.0,288.1 700.0,294.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<polygon points="756.0,278.0 728.0,271.3 728.0,288.1 756.0,294.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<line x1="728.0" y1="271.3" x2="728.0" y2="288.1" stroke="#708198" stroke-width="2"/>
+<line x1="704.5" y1="279.1" x2="722.4" y2="278.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="704.5" y1="283.6" x2="722.4" y2="282.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="751.5" y1="279.1" x2="733.6" y2="278.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="751.5" y1="283.6" x2="733.6" y2="282.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="576.0" cy="394.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<ellipse cx="604.0" cy="394.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<rect x="574.0" y="348.0" width="32.0" height="36.0" rx="12.0" fill="#ffcd68"/>
+<line x1="577.0" y1="360.0" x2="572.1" y2="378.0" stroke="#ffcd68" stroke-width="7.0" stroke-linecap="round"/>
+<line x1="603.0" y1="360.0" x2="607.9" y2="378.0" stroke="#ffcd68" stroke-width="7.0" stroke-linecap="round"/>
+<circle cx="590.0" cy="334.0" r="13.0" fill="#f5b98a"/>
+<path d="M577.0,332.1 a13.0,13.0 0 0 1 26.0,0 Z" fill="#6b4a2f"/>
+<circle cx="585.3" cy="335.6" r="1.7" fill="#2b3a4a"/>
+<circle cx="594.7" cy="335.6" r="1.7" fill="#2b3a4a"/>
+<path d="M585.3,339.9 a5.9,4.5 0 0 0 9.4,0" stroke="#2b3a4a" stroke-width="2" fill="none" stroke-linecap="round"/>
+<polygon points="562.0,380.0 590.0,373.3 590.0,390.1 562.0,396.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<polygon points="618.0,380.0 590.0,373.3 590.0,390.1 618.0,396.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<line x1="590.0" y1="373.3" x2="590.0" y2="390.1" stroke="#708198" stroke-width="2"/>
+<line x1="566.5" y1="381.1" x2="584.4" y2="380.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="566.5" y1="385.6" x2="584.4" y2="384.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="613.5" y1="381.1" x2="595.6" y2="380.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="613.5" y1="385.6" x2="595.6" y2="384.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="438.0" cy="292.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<ellipse cx="466.0" cy="292.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<rect x="436.0" y="246.0" width="32.0" height="36.0" rx="12.0" fill="#fb7f81"/>
+<line x1="439.0" y1="258.0" x2="434.1" y2="276.0" stroke="#fb7f81" stroke-width="7.0" stroke-linecap="round"/>
+<line x1="465.0" y1="258.0" x2="469.9" y2="276.0" stroke="#fb7f81" stroke-width="7.0" stroke-linecap="round"/>
+<circle cx="452.0" cy="232.0" r="13.0" fill="#c98d5e"/>
+<rect x="439.0" y="219.0" width="26.0" height="22.1" rx="9.1" fill="#7a4a21"/>
+<circle cx="452.0" cy="232.0" r="13.0" fill="#c98d5e"/>
+<path d="M439.0,230.1 a13.0,13.0 0 0 1 26.0,0 Z" fill="#7a4a21"/>
+<circle cx="447.3" cy="233.6" r="1.7" fill="#2b3a4a"/>
+<circle cx="456.7" cy="233.6" r="1.7" fill="#2b3a4a"/>
+<path d="M447.3,237.8 a5.9,4.5 0 0 0 9.4,0" stroke="#2b3a4a" stroke-width="2" fill="none" stroke-linecap="round"/>
+<polygon points="424.0,278.0 452.0,271.3 452.0,288.1 424.0,294.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<polygon points="480.0,278.0 452.0,271.3 452.0,288.1 480.0,294.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<line x1="452.0" y1="271.3" x2="452.0" y2="288.1" stroke="#708198" stroke-width="2"/>
+<line x1="428.5" y1="279.1" x2="446.4" y2="278.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="428.5" y1="283.6" x2="446.4" y2="282.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="475.5" y1="279.1" x2="457.6" y2="278.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="475.5" y1="283.6" x2="457.6" y2="282.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="576.0" cy="190.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<ellipse cx="604.0" cy="190.0" rx="15.0" ry="8.0" fill="#2b3a4a"/>
+<rect x="574.0" y="144.0" width="32.0" height="36.0" rx="12.0" fill="#34c98e"/>
+<line x1="577.0" y1="156.0" x2="572.1" y2="174.0" stroke="#34c98e" stroke-width="7.0" stroke-linecap="round"/>
+<line x1="603.0" y1="156.0" x2="607.9" y2="174.0" stroke="#34c98e" stroke-width="7.0" stroke-linecap="round"/>
+<circle cx="590.0" cy="130.0" r="13.0" fill="#ffd9b3"/>
+<path d="M577.0,128.1 a13.0,13.0 0 0 1 26.0,0 Z" fill="#e8a020"/>
+<circle cx="585.3" cy="131.6" r="1.7" fill="#2b3a4a"/>
+<circle cx="594.7" cy="131.6" r="1.7" fill="#2b3a4a"/>
+<path d="M585.3,135.8 a5.9,4.5 0 0 0 9.4,0" stroke="#2b3a4a" stroke-width="2" fill="none" stroke-linecap="round"/>
+<polygon points="562.0,176.0 590.0,169.3 590.0,186.1 562.0,192.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<polygon points="618.0,176.0 590.0,169.3 590.0,186.1 618.0,192.8" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<line x1="590.0" y1="169.3" x2="590.0" y2="186.1" stroke="#708198" stroke-width="2"/>
+<line x1="566.5" y1="177.1" x2="584.4" y2="176.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="566.5" y1="181.6" x2="584.4" y2="180.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="613.5" y1="177.1" x2="595.6" y2="176.3" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+<line x1="613.5" y1="181.6" x2="595.6" y2="180.8" stroke="#c3ccd9" stroke-width="2" stroke-linecap="round"/>
+</svg>
