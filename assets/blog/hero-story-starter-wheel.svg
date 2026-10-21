@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="70" r="4" fill="#ffffff" opacity="0.9"/>
+<circle cx="160" cy="140" r="3" fill="#ffffff" opacity="0.9"/>
+<circle cx="300" cy="60" r="4" fill="#ffffff" opacity="0.9"/>
+<circle cx="520" cy="100" r="3" fill="#ffffff" opacity="0.9"/>
+<circle cx="860" cy="150" r="4" fill="#ffffff" opacity="0.9"/>
+<circle cx="740" cy="220" r="2.5" fill="#ffffff" opacity="0.9"/>
+<circle cx="40" cy="220" r="3" fill="#ffffff" opacity="0.9"/>
+<circle cx="815" cy="60" r="42" fill="#f5e6a8" opacity="0.25"/>
+<circle cx="815" cy="60" r="28" fill="#f5e6a8"/>
+<text x="60" y="58" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="start" dominant-baseline="middle">SpinWheelJoy</text>
+<rect x="60" y="420" width="780" height="26" rx="8" fill="#8a6b4f"/>
+<rect x="90" y="446" width="22" height="120" fill="#6f563e"/>
+<rect x="790" y="446" width="22" height="120" fill="#6f563e"/>
+<rect x="120" y="330" width="240" height="96" rx="8" fill="#2b3a4a"/>
+<rect x="130" y="340" width="220" height="76" rx="4" fill="#eaf2ff"/>
+<text x="240" y="366" font-family="Verdana,sans-serif" font-size="20" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">The rain was...</text>
+<rect x="336" y="376" width="8" height="20" fill="#2b3a4a"/>
+<polygon points="120,426 360,426 380,446 100,446" fill="#dbe3f0"/>
+<rect x="390" y="380" width="110" height="44" rx="4" fill="#fb7f81" transform="rotate(-8 445 402)"/>
+<rect x="505" y="382" width="120" height="44" rx="4" fill="#6bb8ff" transform="rotate(6 565 404)"/>
+<rect x="430" y="336" width="90" height="50" rx="4" fill="#ffffff" stroke="#dbe3f0" stroke-width="2" transform="rotate(-4 475 361)"/>
+<text x="475" y="361" font-family="Verdana,sans-serif" font-size="16" fill="#708198" text-anchor="middle" dominant-baseline="middle">names</text>
+<rect x="671" y="398" width="18" height="58" fill="#708198"/>
+<ellipse cx="680" cy="460" rx="52" ry="10" fill="#708198" opacity="0.35"/>
+<circle cx="680" cy="250" r="156" fill="#2b3a4a"/>
+<g transform="rotate(-90.0 680 250)">
+<path d="M680,250 L680.0,100.0 A150,150 0 0 1 809.9,175.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<path d="M680,250 L809.9,175.0 A150,150 0 0 1 809.9,325.0 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="3"/>
+<path d="M680,250 L809.9,325.0 A150,150 0 0 1 680.0,400.0 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<path d="M680,250 L680.0,400.0 A150,150 0 0 1 550.1,325.0 Z" fill="#6bb8ff" stroke="#ffffff" stroke-width="3"/>
+<path d="M680,250 L550.1,325.0 A150,150 0 0 1 550.1,175.0 Z" fill="#c39bf5" stroke="#ffffff" stroke-width="3"/>
+<path d="M680,250 L550.1,175.0 A150,150 0 0 1 680.0,100.0 Z" fill="#ffb86b" stroke="#ffffff" stroke-width="3"/>
+<text x="726.5" y="169.5" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 726.5 169.5)">MAGICIAN</text>
+<text x="773.0" y="250.0" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 773.0 250.0)">ICE MACHINE</text>
+<text x="726.5" y="330.5" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(150.0 726.5 330.5)">SUITCASE</text>
+<text x="633.5" y="330.5" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(390.0 633.5 330.5)">DRAGON</text>
+<text x="587.0" y="250.0" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(450.0 587.0 250.0)">ATTIC</text>
+<text x="633.5" y="169.5" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(510.0 633.5 169.5)">DINER</text>
+</g>
+<polygon points="658,56 702,56 680,92" fill="#2b3a4a"/>
+<circle cx="680" cy="250" r="12" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<text x="450" y="560" font-family="Verdana,sans-serif" font-size="20" fill="#708198" text-anchor="middle" dominant-baseline="middle">one spin ends the blinking cursor</text>
+</svg>
