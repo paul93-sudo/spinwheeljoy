@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+<circle cx="64" cy="63" r="10" fill="#ffcd68" opacity="0.55"/>
+<circle cx="736" cy="63" r="12" fill="#d96c2c" opacity="0.55"/>
+<circle cx="64" cy="387" r="11" fill="#b3404f" opacity="0.55"/>
+<circle cx="736" cy="387" r="9" fill="#6a9a5b" opacity="0.55"/>
+<rect x="70" y="30" width="660" height="390" rx="14" fill="#f5ead3" stroke="#8a5a33" stroke-width="5"/>
+<text x="400.0" y="66.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="22" fill="#2b3a4a" text-anchor="middle">DRAFT BOARD</text>
+<text x="120.0" y="96.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="15" fill="#8a5a33" text-anchor="start">TIER 1</text>
+<rect x="120" y="108" width="200" height="46" rx="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="220.0" y="128.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">TURKEY</text>
+<circle cx="180.0" cy="142" r="9" fill="#6a9a5b"/>
+<path d="M175.5,142 l3.5,3.5 l6,-7" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="222.0" y="147.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#6a9a5b" text-anchor="middle">host</text>
+<rect x="338" y="108" width="170" height="46" rx="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="423.0" y="128.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">HAM</text>
+<circle cx="383.0" cy="142" r="9" fill="#6a9a5b"/>
+<path d="M378.5,142 l3.5,3.5 l6,-7" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="425.0" y="147.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#6a9a5b" text-anchor="middle">Joe</text>
+<text x="120.0" y="196.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="15" fill="#8a5a33" text-anchor="start">TIER 2</text>
+<rect x="120" y="208" width="190" height="46" rx="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="215.0" y="228.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">STUFFING</text>
+<circle cx="175.0" cy="242" r="9" fill="#6a9a5b"/>
+<path d="M170.5,242 l3.5,3.5 l6,-7" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="217.0" y="247.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#6a9a5b" text-anchor="middle">Mia</text>
+<rect x="328" y="208" width="235" height="46" rx="10" fill="#eef1f6" stroke="#708198" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="445.5" y="228.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">MASHED POTATOES</text>
+<text x="445.5" y="247.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#708198" text-anchor="middle">OPEN</text>
+<rect x="581" y="208" width="150" height="46" rx="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="656.0" y="228.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">PIE</text>
+<circle cx="616.0" cy="242" r="9" fill="#6a9a5b"/>
+<path d="M611.5,242 l3.5,3.5 l6,-7" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="658.0" y="247.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#6a9a5b" text-anchor="middle">Sam</text>
+<text x="120.0" y="296.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="15" fill="#8a5a33" text-anchor="start">TIER 3</text>
+<rect x="120" y="308" width="170" height="46" rx="10" fill="#eef1f6" stroke="#708198" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="205.0" y="328.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">ROLLS</text>
+<text x="205.0" y="347.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#708198" text-anchor="middle">OPEN</text>
+<rect x="308" y="308" width="190" height="46" rx="10" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="403.0" y="328.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">SALAD</text>
+<circle cx="363.0" cy="342" r="9" fill="#6a9a5b"/>
+<path d="M358.5,342 l3.5,3.5 l6,-7" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="405.0" y="347.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#6a9a5b" text-anchor="middle">Grandma</text>
+<rect x="516" y="308" width="200" height="46" rx="10" fill="#eef1f6" stroke="#708198" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="616.0" y="328.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="14" fill="#2b3a4a" text-anchor="middle">GREEN BEANS</text>
+<text x="616.0" y="347.0" font-family="Verdana,sans-serif" font-weight="bold" font-size="12" fill="#708198" text-anchor="middle">OPEN</text>
+</svg>
