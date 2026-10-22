@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="1200" height="630" fill="#FFF9F0"/>
+  <!-- ===== Spinning wheel (left) ===== -->
+  <g stroke="#3A3A3A" stroke-width="2.5">
+    <path d="M300,290 L300,70 A220,220 0 0 1 455.6,134.4 Z" fill="#FF8B7B"/>
+    <path d="M300,290 L455.6,134.4 A220,220 0 0 1 520,290 Z" fill="#FFC49E"/>
+    <path d="M300,290 L520,290 A220,220 0 0 1 455.6,445.6 Z" fill="#FFE29A"/>
+    <path d="M300,290 L455.6,445.6 A220,220 0 0 1 300,510 Z" fill="#A8E6B8"/>
+    <path d="M300,290 L300,510 A220,220 0 0 1 144.4,445.6 Z" fill="#A8D8EA"/>
+    <path d="M300,290 L144.4,445.6 A220,220 0 0 1 80,290 Z" fill="#C3B5E8"/>
+    <path d="M300,290 L80,290 A220,220 0 0 1 144.4,134.4 Z" fill="#F5A8C0"/>
+    <path d="M300,290 L144.4,134.4 A220,220 0 0 1 300,70 Z" fill="#B8CFA8"/>
+  </g>
+  <circle cx="300" cy="290" r="220" fill="none" stroke="#3A3A3A" stroke-width="5"/>
+  <g font-size="26" font-weight="bold" fill="#3A3A3A" text-anchor="middle" dominant-baseline="middle">
+    <text x="356" y="156">MIA</text>
+    <text x="434" y="235">LEO</text>
+    <text x="434" y="346">ANA</text>
+    <text x="356" y="424">TOM</text>
+    <text x="244" y="424">PRI</text>
+    <text x="166" y="346">JEN</text>
+    <text x="166" y="235">SAM</text>
+    <text x="244" y="156">KIM</text>
+  </g>
+  <circle cx="300" cy="290" r="28" fill="#FFFFFF" stroke="#3A3A3A" stroke-width="4"/>
+  <circle cx="300" cy="290" r="8" fill="#F5B301" stroke="#3A3A3A" stroke-width="3"/>
+  <!-- Gold pointer at top -->
+  <polygon points="285,18 315,18 300,54" fill="#F5B301" stroke="#3A3A3A" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- ===== Two kids at desk (right) ===== -->
+  <!-- Kid A (girl, pigtails) -->
+  <circle cx="805" cy="283" r="13" fill="#6B4A2F"/>
+  <circle cx="895" cy="283" r="13" fill="#6B4A2F"/>
+  <circle cx="850" cy="298" r="42" fill="#F2C49B" stroke="#3A3A3A" stroke-width="3"/>
+  <path d="M808,296 a42,42 0 0 1 84,0 z" fill="#6B4A2F"/>
+  <circle cx="835" cy="296" r="4.5" fill="#3A3A3A"/>
+  <circle cx="865" cy="296" r="4.5" fill="#3A3A3A"/>
+  <path d="M836,316 Q850,326 864,316" fill="none" stroke="#3A3A3A" stroke-width="3" stroke-linecap="round"/>
+  <rect x="806" y="348" width="88" height="102" rx="20" fill="#7FB8B5" stroke="#3A3A3A" stroke-width="3"/>
+  <line x1="820" y1="385" x2="878" y2="448" stroke="#F2C49B" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="878" cy="448" r="10" fill="#F2C49B" stroke="#3A3A3A" stroke-width="2.5"/>
+  <rect x="872" y="426" width="12" height="38" rx="3" fill="#F5C518" stroke="#3A3A3A" stroke-width="2" transform="rotate(18 878 445)"/>
+  <!-- Kid B (boy) -->
+  <circle cx="1010" cy="298" r="42" fill="#D99A6C" stroke="#3A3A3A" stroke-width="3"/>
+  <path d="M968,296 a42,42 0 0 1 84,0 z" fill="#3A3A3A"/>
+  <circle cx="995" cy="296" r="4.5" fill="#3A3A3A"/>
+  <circle cx="1025" cy="296" r="4.5" fill="#3A3A3A"/>
+  <path d="M996,316 Q1010,326 1024,316" fill="none" stroke="#3A3A3A" stroke-width="3" stroke-linecap="round"/>
+  <rect x="966" y="348" width="88" height="102" rx="20" fill="#E8736A" stroke="#3A3A3A" stroke-width="3"/>
+  <line x1="1000" y1="385" x2="948" y2="448" stroke="#D99A6C" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="948" cy="448" r="10" fill="#D99A6C" stroke="#3A3A3A" stroke-width="2.5"/>
+  <rect x="942" y="426" width="12" height="38" rx="3" fill="#F5C518" stroke="#3A3A3A" stroke-width="2" transform="rotate(-18 948 445)"/>
+  <!-- Desk -->
+  <rect x="770" y="445" width="370" height="35" rx="8" fill="#C89B6C" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="790" y="480" width="20" height="70" fill="#B08355" stroke="#3A3A3A" stroke-width="3"/>
+  <rect x="1100" y="480" width="20" height="70" fill="#B08355" stroke="#3A3A3A" stroke-width="3"/>
+  <!-- Worksheet on desk -->
+  <rect x="855" y="398" width="210" height="50" rx="4" fill="#FFFFFF" stroke="#8A8A8A" stroke-width="2.5"/>
+  <text x="960" y="429" font-size="21" fill="#3A3A3A" text-anchor="middle" dominant-baseline="middle">5 + 3 = __</text>
+  <!-- Floating math symbols -->
+  <g font-size="30" font-weight="bold" fill="#4A6FA5">
+    <text x="750" y="342" text-anchor="middle">+</text>
+    <text x="1110" y="342" text-anchor="middle">×</text>
+    <text x="930" y="372" text-anchor="middle">=</text>
+  </g>
+  <!-- Caption banner -->
+  <rect x="20" y="556" width="1160" height="70" rx="12" fill="#2B3A55"/>
+  <text x="600" y="602" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="6">MATH BUDDY PAIRS</text>
+</svg>
