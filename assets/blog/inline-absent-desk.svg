@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="90" cy="80" r="5" fill="#ffcd68"/>
+<circle cx="180" cy="120" r="5" fill="#ffcd68"/>
+<circle cx="740" cy="110" r="5" fill="#ffcd68"/>
+<circle cx="810" cy="220" r="5" fill="#ffcd68"/>
+<circle cx="120" cy="480" r="5" fill="#ffcd68"/>
+<circle cx="200" cy="520" r="5" fill="#ffcd68"/>
+<circle cx="700" cy="500" r="5" fill="#ffcd68"/>
+<circle cx="790" cy="450" r="5" fill="#ffcd68"/>
+
+<text x="450" y="64" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">ABSENT ON SPIN DAY?</text>
+<rect x="300" y="220" width="300" height="36" rx="8" fill="#c9a97e"/>
+<rect x="330" y="256" width="22" height="220" fill="#a9855c"/>
+<rect x="548" y="256" width="22" height="220" fill="#a9855c"/>
+<rect x="470" y="180" width="110" height="46" rx="4" fill="#ffffff" stroke="#2b3a4a" stroke-width="3" transform="rotate(-6 525 203)"/>
+<text x="525" y="209" font-family="Verdana,sans-serif" font-size="17" font-weight="bold" fill="#2b3a4a" text-anchor="middle" transform="rotate(-6 525 209)">YOUR ROLE</text>
+<rect x="170" y="330" width="90" height="110" rx="26" fill="#38bdf8"/>
+<rect x="192" y="352" width="46" height="66" rx="12" fill="#1f7fb8"/>
+<rect x="170" y="440" width="90" height="22" rx="10" fill="#1f7fb8"/>
+<text x="450" y="556" font-family="Verdana,sans-serif" font-size="18" fill="#2b3a4a" text-anchor="middle">absent means the leftover role. no re-spins.</text>
+
+</svg>
