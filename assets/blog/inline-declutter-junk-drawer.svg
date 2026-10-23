@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 533" font-family="Verdana, 'DejaVu Sans', sans-serif">
+<rect x="0" y="0" width="800" height="533" fill="#EFE8DB"/>
+<rect x="110" y="140" width="360" height="110" rx="6" fill="#7A4E2C"/>
+<rect x="110" y="250" width="360" height="62" fill="#A5713F"/>
+<rect x="140" y="196" width="26" height="44" rx="5" fill="#D96C4F"/>
+<rect x="149" y="188" width="8" height="10" fill="#B9B0A0"/>
+<path d="M146 210 l7 8 l-7 8" stroke="#3D3A34" stroke-width="2.5" fill="none"/>
+<rect x="172" y="206" width="26" height="34" rx="5" fill="#B4763B"/>
+<rect x="181" y="198" width="8" height="10" fill="#B9B0A0"/>
+<rect x="210" y="196" width="54" height="54" rx="14" fill="#F6D97A"/>
+<circle cx="237" cy="223" r="10" fill="#3D3A34"/>
+<rect x="258" y="216" width="14" height="10" fill="#9AA0A6"/>
+<rect x="292" y="188" width="20" height="62" rx="10" fill="#F7F3EA" stroke="#C9C2B2" stroke-width="2"/>
+<rect x="292" y="176" width="20" height="16" rx="6" fill="#9DC3B8"/>
+<rect x="318" y="194" width="20" height="62" rx="10" fill="#F7F3EA" stroke="#C9C2B2" stroke-width="2"/>
+<rect x="318" y="182" width="20" height="16" rx="6" fill="#9DC3B8"/>
+<g transform="translate(368,205) rotate(30)"><rect x="0" y="-11" width="52" height="22" rx="10" fill="#D96C4F"/><rect x="52" y="-4" width="58" height="8" fill="#9AA0A6"/><rect x="106" y="-6" width="8" height="12" fill="#7A8087"/></g>
+<path d="M150 160 q 25 -30 55 -12" stroke="#5FA89B" stroke-width="4" fill="none"/>
+<path d="M160 176 q 20 -20 48 -8" stroke="#8FBFAD" stroke-width="4" fill="none"/>
+<rect x="90" y="310" width="400" height="120" rx="10" fill="#C98A5B"/>
+<rect x="112" y="330" width="356" height="80" rx="6" fill="none" stroke="#A5713F" stroke-width="3"/>
+<rect x="245" y="362" width="90" height="16" rx="8" fill="#6B4A2E"/>
+<ellipse cx="600" cy="452" rx="55" ry="8" fill="#D8CFBE"/>
+<path d="M556 352 L644 352 L632 448 L568 448 Z" fill="#4A4A48"/>
+<rect x="548" y="336" width="104" height="16" rx="6" fill="#5E5E5C"/>
+<path d="M600 380 l-8 14 l10 8 l-8 14" stroke="#F6D97A" stroke-width="3" fill="none"/>
+<rect x="578" y="120" width="44" height="150" fill="#5FA89B"/>
+<rect x="574" y="252" width="52" height="18" rx="6" fill="#4E9588"/>
+<rect x="584" y="300" width="24" height="36" rx="4" fill="#D96C4F"/>
+<rect x="591" y="292" width="10" height="10" fill="#8A8378"/>
+<rect x="574" y="270" width="52" height="40" rx="14" fill="#E8B48C"/>
+<rect x="578" y="302" width="11" height="20" rx="5" fill="#E8B48C"/>
+<rect x="592" y="302" width="11" height="20" rx="5" fill="#E8B48C"/>
+<rect x="606" y="302" width="11" height="20" rx="5" fill="#E8B48C"/>
+<line x1="556" y1="316" x2="556" y2="348" stroke="#8A8378" stroke-width="3"/>
+<line x1="646" y1="316" x2="646" y2="348" stroke="#8A8378" stroke-width="3"/>
+<rect x="0" y="478" width="800" height="55" fill="#3D3A34"/>
+<text x="400" y="514" text-anchor="middle" font-size="26" fill="#F7F3EA" font-style="italic">Broken goes now, not later.</text>
+</svg>
+

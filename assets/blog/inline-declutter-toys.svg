@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 533" font-family="Verdana, 'DejaVu Sans', sans-serif">
+<rect x="0" y="0" width="800" height="533" fill="#EFE8DB"/>
+<rect x="0" y="395" width="800" height="83" fill="#E3D6C1"/>
+<ellipse cx="280" cy="448" rx="150" ry="20" fill="#D9C6A8"/>
+<ellipse cx="230" cy="330" rx="30" ry="40" fill="#C98A5B"/>
+<ellipse cx="200" cy="325" rx="10" ry="22" fill="#B47B4E"/>
+<ellipse cx="260" cy="325" rx="10" ry="22" fill="#B47B4E"/>
+<circle cx="206" cy="238" r="11" fill="#C98A5B"/>
+<circle cx="254" cy="238" r="11" fill="#C98A5B"/>
+<circle cx="206" cy="238" r="5" fill="#E8C79A"/>
+<circle cx="254" cy="238" r="5" fill="#E8C79A"/>
+<circle cx="230" cy="262" r="30" fill="#C98A5B"/>
+<ellipse cx="230" cy="272" rx="13" ry="10" fill="#E8C79A"/>
+<circle cx="219" cy="256" r="3.5" fill="#3D3A34"/>
+<circle cx="241" cy="256" r="3.5" fill="#3D3A34"/>
+<circle cx="230" cy="268" r="4" fill="#3D3A34"/>
+<g transform="rotate(-10 172 268)"><rect x="150" y="246" width="44" height="44" rx="6" fill="#F2B88C"/><text x="172" y="277" text-anchor="middle" font-size="24" font-weight="bold" fill="#3D3A34">B</text></g>
+<g transform="rotate(8 272 262)"><rect x="250" y="240" width="44" height="44" rx="6" fill="#9DC3B8"/><text x="272" y="271" text-anchor="middle" font-size="24" font-weight="bold" fill="#3D3A34">C</text></g>
+<rect x="120" y="300" width="220" height="112" rx="16" fill="#A9C08A"/>
+<line x1="160" y1="308" x2="160" y2="404" stroke="#8A9E66" stroke-width="3"/>
+<line x1="200" y1="308" x2="200" y2="404" stroke="#8A9E66" stroke-width="3"/>
+<line x1="240" y1="308" x2="240" y2="404" stroke="#8A9E66" stroke-width="3"/>
+<line x1="280" y1="308" x2="280" y2="404" stroke="#8A9E66" stroke-width="3"/>
+<line x1="310" y1="308" x2="310" y2="404" stroke="#8A9E66" stroke-width="3"/>
+<rect x="110" y="288" width="240" height="26" rx="12" fill="#8A9E66"/>
+<g transform="rotate(-6 424 442)"><rect x="400" y="420" width="48" height="48" rx="6" fill="#F6D97A"/><text x="424" y="452" text-anchor="middle" font-size="26" font-weight="bold" fill="#3D3A34">A</text></g>
+<circle cx="520" cy="442" r="24" fill="#D96C4F"/>
+<path d="M496 442 a24 24 0 0 1 48 0" stroke="#F7F3EA" stroke-width="6" fill="none"/>
+<rect x="580" y="404" width="76" height="46" rx="14" fill="#F5C9A3" transform="rotate(-8 618 427)"/>
+<circle cx="650" cy="175" r="96" fill="#3D3A34"/>
+<path d="M 650 175 L 587.8 112.8 A 88 88 0 0 1 712.2 112.8 Z" fill="#F6D97A" stroke="#3D3A34" stroke-width="2"/>
+<g transform="translate(650,175) rotate(-90.0)"><text x="30" y="0" text-anchor="start" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#3D3A34">TOY BIN</text></g>
+<path d="M 650 175 L 712.2 112.8 A 88 88 0 0 1 712.2 237.2 Z" fill="#F2B88C" stroke="#3D3A34" stroke-width="2"/>
+<g transform="translate(650,175) rotate(0.0)"><text x="30" y="0" text-anchor="start" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#3D3A34">SHELVES</text></g>
+<path d="M 650 175 L 712.2 237.2 A 88 88 0 0 1 587.8 237.2 Z" fill="#9DC3B8" stroke="#3D3A34" stroke-width="2"/>
+<g transform="translate(650,175) rotate(-90.0)"><text x="-30" y="0" text-anchor="end" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#3D3A34">FLOOR</text></g>
+<path d="M 650 175 L 587.8 237.2 A 88 88 0 0 1 587.8 112.8 Z" fill="#A9C08A" stroke="#3D3A34" stroke-width="2"/>
+<g transform="translate(650,175) rotate(0.0)"><text x="-30" y="0" text-anchor="end" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#3D3A34">PILLOWS</text></g>
+<circle cx="650" cy="175" r="22" fill="#3D3A34"/>
+<circle cx="650" cy="175" r="9" fill="#F6D97A"/>
+<path d="M 650 83 L 628 41 L 672 41 Z" fill="#D96C4F" stroke="#3D3A34" stroke-width="2"/>
+<circle cx="650" cy="53" r="7" fill="#D96C4F" stroke="#3D3A34" stroke-width="2"/>
+<rect x="0" y="478" width="800" height="55" fill="#3D3A34"/>
+<text x="400" y="514" text-anchor="middle" font-size="26" fill="#F7F3EA" font-style="italic">Five minutes, one zone.</text>
+</svg>
+
