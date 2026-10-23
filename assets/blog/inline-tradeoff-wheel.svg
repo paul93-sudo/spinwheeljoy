@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+
+<circle cx="100" cy="100" r="5" fill="#ffcd68"/>
+<circle cx="810" cy="140" r="5" fill="#ffcd68"/>
+<circle cx="140" cy="500" r="5" fill="#ffcd68"/>
+<circle cx="780" cy="500" r="5" fill="#ffcd68"/>
+<circle cx="450" cy="80" r="5" fill="#ffcd68"/>
+<circle cx="450" cy="300" r="170" fill="#2b3a4a"/>
+<path d="M450,300 L286,300 A164,164 0 0 1 614,300 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<path d="M450,300 L614,300 A164,164 0 0 1 286,300 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="450" y="218" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">PARKING</text>
+<text x="450" y="382" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle">LAUNDRY</text>
+<polygon points="434,107 466,107 450,140" fill="#2b3a4a"/>
+<circle cx="450" cy="300" r="11" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+</svg>

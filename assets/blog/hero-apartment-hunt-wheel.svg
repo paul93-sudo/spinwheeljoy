@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#f8faff"/>
+
+<circle cx="60" cy="50" r="4" fill="#ffcd68"/>
+<circle cx="120" cy="40" r="4" fill="#ffcd68"/>
+<circle cx="420" cy="60" r="4" fill="#ffcd68"/>
+<circle cx="480" cy="48" r="4" fill="#ffcd68"/>
+<circle cx="700" cy="60" r="4" fill="#ffcd68"/>
+<circle cx="760" cy="120" r="4" fill="#ffcd68"/>
+<circle cx="740" cy="340" r="4" fill="#ffcd68"/>
+<circle cx="60" cy="120" r="4" fill="#ffcd68"/>
+<circle cx="360" cy="390" r="4" fill="#ffcd68"/>
+<circle cx="160" cy="420" r="4" fill="#ffcd68"/>
+<ellipse cx="185" cy="404" rx="130" ry="10" fill="#e4d9e8"/>
+<rect x="70" y="150" width="230" height="250" fill="#d97b5f"/>
+<rect x="62" y="128" width="246" height="26" fill="#a65340"/>
+<rect x="62" y="150" width="246" height="6" fill="#8f4636"/>
+<line x1="70" y1="184" x2="300" y2="184" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="206" x2="300" y2="206" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="228" x2="300" y2="228" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="250" x2="300" y2="250" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="272" x2="300" y2="272" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="294" x2="300" y2="294" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="316" x2="300" y2="316" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="338" x2="300" y2="338" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="360" x2="300" y2="360" stroke="#b85f45" stroke-width="2"/>
+<line x1="70" y1="382" x2="300" y2="382" stroke="#b85f45" stroke-width="2"/>
+<rect x="100" y="210" width="64" height="48" fill="#f8faff" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="132" y1="210" x2="132" y2="258" stroke="#2b3a4a" stroke-width="2"/>
+<line x1="100" y1="234" x2="164" y2="234" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="196" y="210" width="64" height="48" fill="#f8faff" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="228" y1="210" x2="228" y2="258" stroke="#2b3a4a" stroke-width="2"/>
+<line x1="196" y1="234" x2="260" y2="234" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="100" y="280" width="64" height="48" fill="#f8faff" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="132" y1="280" x2="132" y2="328" stroke="#2b3a4a" stroke-width="2"/>
+<line x1="100" y1="304" x2="164" y2="304" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="196" y="280" width="64" height="48" fill="#f8faff" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="228" y1="280" x2="228" y2="328" stroke="#2b3a4a" stroke-width="2"/>
+<line x1="196" y1="304" x2="260" y2="304" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="146" y="336" width="68" height="64" rx="4" fill="#7c4a36" stroke="#2b3a4a" stroke-width="3"/>
+<circle cx="202" cy="368" r="4" fill="#ffcd68"/>
+<circle cx="560" cy="200" r="112" fill="#2b3a4a"/>
+<path d="M560,200 L468.2,147 A106,106 0 0 1 651.8,147 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<path d="M560,200 L651.8,147 A106,106 0 0 1 560,306 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<path d="M560,200 L560,306 A106,106 0 0 1 468.2,147 Z" fill="#34c98e" stroke="#ffffff" stroke-width="3"/>
+<text x="560" y="139" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 560 139)">MAPLE ST</text>
+<text x="612.8" y="230.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30 612.8 230.5)">ELM AVE</text>
+<text x="507.2" y="230.5" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30 507.2 230.5)">5TH AVE</text>
+<polygon points="547,74 573,74 560,98" fill="#2b3a4a"/>
+<circle cx="560" cy="200" r="9" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+</svg>
