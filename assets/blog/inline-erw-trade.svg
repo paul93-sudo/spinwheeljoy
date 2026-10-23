@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" fill="#251a38"/><text x="300" y="34" text-anchor="middle" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffca3a">ONE TRADE EACH</text><rect x="0" y="392" width="600" height="8" fill="#171021"/>
+<g>
+<circle cx="140" cy="232.39999999999998" r="20.8" fill="#f2c99b"/>
+<rect x="119.2" y="250.6" width="41.6" height="67.60000000000001" rx="13.0" fill="#2ec4b6"/>
+<rect x="121.8" y="315.6" width="14.3" height="39.0" rx="6.5" fill="#3a2c50"/>
+<rect x="143.9" y="315.6" width="14.3" height="39.0" rx="6.5" fill="#3a2c50"/>
+</g>
+<rect x="200" y="230" width="104" height="40" rx="6" fill="#f5f0e6"/><text x="252" y="256" text-anchor="middle" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#1c1526">POST OFFICE</text>
+<g>
+<circle cx="460" cy="232.39999999999998" r="20.8" fill="#f2c99b"/>
+<rect x="439.2" y="250.6" width="41.6" height="67.60000000000001" rx="13.0" fill="#f2762e"/>
+<rect x="441.8" y="315.6" width="14.3" height="39.0" rx="6.5" fill="#3a2c50"/>
+<rect x="463.9" y="315.6" width="14.3" height="39.0" rx="6.5" fill="#3a2c50"/>
+</g>
+<rect x="356" y="230" width="104" height="40" rx="6" fill="#f5f0e6"/><text x="408" y="256" text-anchor="middle" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#1c1526">CAR WASH</text>
+<path d="M316,190 Q340,140 300,120" stroke="#ffca3a" stroke-width="6" fill="none"/>
+<polygon points="300,120 288,140 310,136" fill="#ffca3a"/>
+<path d="M284,190 Q260,140 300,120" stroke="#ffca3a" stroke-width="6" fill="none"/>
+<polygon points="284,190 296,170 274,174" fill="#ffca3a"/>
+<text x="300" y="330" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" fill="#f5f0e6">both agree,</text>
+<text x="300" y="352" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" fill="#f5f0e6">swap once and done</text>
+<circle cx="40" cy="60" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="330" r="3" fill="#ffffff" opacity="0.5"/><circle cx="40" cy="340" r="3" fill="#ffffff" opacity="0.5"/></svg>

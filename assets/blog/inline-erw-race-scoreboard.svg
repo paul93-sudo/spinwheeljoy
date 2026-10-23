@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" fill="#251a38"/><text x="300" y="34" text-anchor="middle" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffca3a">THE ERRAND RACE</text><rect x="0" y="392" width="600" height="8" fill="#171021"/>
+<rect x="60" y="70" width="200" height="290" rx="14" fill="#8f8fa3"/>
+<rect x="70" y="80" width="180" height="130" rx="8" fill="#a9a9bd"/>
+<rect x="70" y="220" width="180" height="130" rx="8" fill="#a9a9bd"/>
+<rect x="228" y="110" width="8" height="40" rx="4" fill="#1c1526"/>
+<rect x="228" y="240" width="8" height="40" rx="4" fill="#1c1526"/>
+<rect x="330" y="90" width="210" height="230" rx="6" fill="#f5f0e6"/>
+<text x="435" y="120" text-anchor="middle" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#1c1526">ERRAND RACE</text>
+<text x="360" y="160" font-family="Verdana,sans-serif" font-size="15" fill="#1c1526">MOM</text>
+<text x="470" y="160" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#1c1526">||||</text>
+<text x="360" y="210" font-family="Verdana,sans-serif" font-size="15" fill="#1c1526">DAD</text>
+<text x="470" y="210" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#1c1526">|||</text>
+<text x="360" y="260" font-family="Verdana,sans-serif" font-size="15" fill="#1c1526">KIDS</text>
+<text x="470" y="260" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" font-weight="bold" fill="#1c1526">||||||</text>
+<text x="435" y="300" text-anchor="middle" font-family="Verdana,sans-serif" font-size="13" fill="#6a5a80">winner picks lunch</text>
+<circle cx="40" cy="60" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="330" r="3" fill="#ffffff" opacity="0.5"/><circle cx="40" cy="340" r="3" fill="#ffffff" opacity="0.5"/></svg>

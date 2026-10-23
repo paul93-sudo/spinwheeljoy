@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" fill="#251a38"/><text x="300" y="34" text-anchor="middle" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffca3a">SPIN, DON&#x27;T NEGOTIATE</text><rect x="0" y="392" width="600" height="8" fill="#171021"/>
+<path d="M185,230 L67.0,230.0 A118,118 0 0,1 126.0,127.8 Z" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<text x="121.6" y="193.4" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#1c1526">GROCERIES</text>
+<path d="M185,230 L126.0,127.8 A118,118 0 0,1 244.0,127.8 Z" fill="#f2762e" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff"><tspan x="185.0" y="149.3">POST</tspan><tspan x="185.0" dy="15">OFFICE</tspan></text>
+<path d="M185,230 L244.0,127.8 A118,118 0 0,1 303.0,230.0 Z" fill="#7b3fa0" stroke="#1c1526" stroke-width="3"/>
+<text x="248.4" y="193.4" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">CAR WASH</text>
+<path d="M185,230 L303.0,230.0 A118,118 0 0,1 244.0,332.2 Z" fill="#2ec4b6" stroke="#1c1526" stroke-width="3"/>
+<text x="248.4" y="266.6" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff">LAUNDRY</text>
+<path d="M185,230 L244.0,332.2 A118,118 0 0,1 126.0,332.2 Z" fill="#33264d" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#ffffff"><tspan x="185.0" y="295.7">OIL</tspan><tspan x="185.0" dy="15">CHANGE</tspan></text>
+<path d="M185,230 L126.0,332.2 A118,118 0 0,1 67.0,230.0 Z" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<text x="121.6" y="266.6" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" fill="#1c1526">PHARMACY</text>
+<circle cx="185" cy="230" r="18" fill="#f5f0e6" stroke="#1c1526" stroke-width="5"/>
+<polygon points="169,68 201,68 185,102" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<line x1="185" y1="348" x2="185" y2="374" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/>
+<line x1="133" y1="377" x2="237" y2="377" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/>
+<rect x="420" y="200" width="64" height="70" rx="10" fill="#f2762e"/>
+<circle cx="492" cy="235" r="20" fill="none" stroke="#f2762e" stroke-width="10"/>
+<rect x="420" y="186" width="64" height="14" rx="7" fill="#f5f0e6"/>
+<rect x="340" y="92" width="120" height="118" rx="6" fill="#f5f0e6"/>
+<text x="400.0" y="113" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#1c1526">SATURDAY</text>
+<rect x="352" y="121" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="376" y="134" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Groceries</text>
+<path d="M354,129 l5,5 l8,-11" stroke="#2ec4b6" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="352" y="151" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="376" y="164" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Post office</text>
+<path d="M354,159 l5,5 l8,-11" stroke="#2ec4b6" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="352" y="181" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="376" y="194" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Library</text>
+<text x="440" y="310" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" fill="#f5f0e6">2 down,</text>
+<text x="440" y="332" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" fill="#f5f0e6">9 to go</text>
+<circle cx="40" cy="60" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="330" r="3" fill="#ffffff" opacity="0.5"/><circle cx="40" cy="340" r="3" fill="#ffffff" opacity="0.5"/></svg>

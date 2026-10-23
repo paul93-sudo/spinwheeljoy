@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" fill="#251a38"/><text x="300" y="34" text-anchor="middle" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffca3a">SATURDAY ERRAND ROULETTE</text><rect x="0" y="392" width="600" height="8" fill="#171021"/>
+<path d="M190,225 L141.0,106.7 A128,128 0 0,1 239.0,106.7 Z" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<text x="190.0" y="145.6" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#1c1526">GROCERIES</text>
+<path d="M190,225 L239.0,106.7 A128,128 0 0,1 308.3,176.0 Z" fill="#f2762e" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff"><tspan x="246.1" y="161.9">POST</tspan><tspan x="246.1" dy="14">OFFICE</tspan></text>
+<path d="M190,225 L308.3,176.0 A128,128 0 0,1 308.3,274.0 Z" fill="#7b3fa0" stroke="#1c1526" stroke-width="3"/>
+<text x="269.4" y="225.0" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">CAR WASH</text>
+<path d="M190,225 L308.3,274.0 A128,128 0 0,1 239.0,343.3 Z" fill="#2ec4b6" stroke="#1c1526" stroke-width="3"/>
+<text x="246.1" y="281.1" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">LAUNDRY</text>
+<path d="M190,225 L239.0,343.3 A128,128 0 0,1 141.0,343.3 Z" fill="#33264d" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff"><tspan x="190.0" y="297.4">OIL</tspan><tspan x="190.0" dy="14">CHANGE</tspan></text>
+<path d="M190,225 L141.0,343.3 A128,128 0 0,1 71.7,274.0 Z" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#1c1526"><tspan x="133.9" y="274.1">DRY</tspan><tspan x="133.9" dy="14">CLEAN</tspan></text>
+<path d="M190,225 L71.7,274.0 A128,128 0 0,1 71.7,176.0 Z" fill="#f2762e" stroke="#1c1526" stroke-width="3"/>
+<text x="110.6" y="225.0" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">PHARMACY</text>
+<path d="M190,225 L71.7,176.0 A128,128 0 0,1 141.0,106.7 Z" fill="#7b3fa0" stroke="#1c1526" stroke-width="3"/>
+<text x="133.9" y="168.9" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">COSTCO??</text>
+<circle cx="190" cy="225" r="18" fill="#f5f0e6" stroke="#1c1526" stroke-width="5"/>
+<polygon points="174,53 206,53 190,87" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<line x1="190" y1="353" x2="190" y2="379" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/>
+<line x1="138" y1="382" x2="242" y2="382" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/>
+<g>
+<circle cx="430" cy="229.8" r="21.6" fill="#f2c99b"/>
+<rect x="408.4" y="248.7" width="43.2" height="70.2" rx="13.5" fill="#7b3fa0"/>
+<rect x="411.1" y="316.2" width="14.850000000000001" height="40.5" rx="6.75" fill="#3a2c50"/>
+<rect x="434.05" y="316.2" width="14.850000000000001" height="40.5" rx="6.75" fill="#3a2c50"/>
+</g>
+<rect x="478" y="150" width="108" height="118" rx="6" fill="#f5f0e6"/>
+<text x="532.0" y="171" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" font-weight="bold" fill="#1c1526">TODAY</text>
+<rect x="490" y="179" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="514" y="192" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Groceries</text>
+<path d="M492,187 l5,5 l8,-11" stroke="#2ec4b6" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="490" y="209" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="514" y="222" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Post office</text>
+<rect x="490" y="239" width="16" height="16" rx="3" fill="none" stroke="#1c1526" stroke-width="2"/>
+<text x="514" y="252" font-family="Verdana,sans-serif" font-size="12" fill="#1c1526">Car wash</text>
+<circle cx="40" cy="60" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="330" r="3" fill="#ffffff" opacity="0.5"/><circle cx="40" cy="340" r="3" fill="#ffffff" opacity="0.5"/></svg>
