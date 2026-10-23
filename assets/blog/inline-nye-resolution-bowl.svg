@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="60" cy="70" r="7" fill="#ffcd68"/><circle cx="840" cy="80" r="7" fill="#4ecdc4"/><circle cx="70" cy="540" r="7" fill="#b388eb"/>
+<circle cx="280" cy="300" r="130" fill="#2b3a4a"/>
+<path d="M280,300 L193.0,213.0 A123,123 0 0 1 367.0,213.0 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="226.2" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 280.0 226.2)">REVEAL</text>
+<path d="M280,300 L367.0,213.0 A123,123 0 0 1 367.0,387.0 Z" fill="#ff6b6b" stroke="#ffffff" stroke-width="3"/>
+<text x="353.8" y="300.0" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 353.8 300.0)">DREAM</text>
+<path d="M280,300 L367.0,387.0 A123,123 0 0 1 193.0,387.0 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="373.8" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 280.0 373.8)">SHARE</text>
+<path d="M280,300 L193.0,387.0 A123,123 0 0 1 193.0,213.0 Z" fill="#b388eb" stroke="#ffffff" stroke-width="3"/>
+<text x="206.2" y="300.0" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(270.0 206.2 300.0)">DARE</text>
+<polygon points="280,186 266,148 294,148" fill="#2b3a4a"/>
+<circle cx="280" cy="300" r="10" fill="#ffffff" stroke="#2b3a4a" stroke-width="3"/>
+<g fill="#ffffff" stroke="#2b3a4a" stroke-width="2.5"><rect x="600" y="330" width="52" height="30" rx="4" transform="rotate(-18 626 345)"/><rect x="650" y="318" width="52" height="30" rx="4" transform="rotate(12 676 333)"/><rect x="700" y="330" width="52" height="30" rx="4" transform="rotate(-8 726 345)"/><rect x="626" y="352" width="52" height="30" rx="4" transform="rotate(6 652 367)"/><rect x="678" y="352" width="52" height="30" rx="4" transform="rotate(-14 704 367)"/></g>
+<path d="M560,380 L760,380 L748,452 Q744,478 660,478 Q576,478 572,452 Z" fill="#bae6fd" opacity="0.75" stroke="#2b3a4a" stroke-width="4"/><ellipse cx="660" cy="380" rx="100" ry="20" fill="#e0f2fe" stroke="#2b3a4a" stroke-width="4"/>
+<text x="660" y="530" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle">RESOLUTIONS</text>
+</svg>
