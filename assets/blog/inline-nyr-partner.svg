@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#fdf6ec"/>
+<path d="M 400 260 L 300.0 86.8 A 200 200 0 0 1 500.0 86.8 Z" fill="#f4a259" stroke="#ffffff" stroke-width="3"/>
+<text x="400.0" y="132.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 400.0 132.0)">BOTH</text>
+<path d="M 400 260 L 500.0 86.8 A 200 200 0 0 1 600.0 260.0 Z" fill="#5bc0be" stroke="#ffffff" stroke-width="3"/>
+<text x="510.9" y="196.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 510.9 196.0)">ME</text>
+<path d="M 400 260 L 600.0 260.0 A 200 200 0 0 1 500.0 433.2 Z" fill="#e76f51" stroke="#ffffff" stroke-width="3"/>
+<text x="510.9" y="324.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(60.0 510.9 324.0)">YOU</text>
+<path d="M 400 260 L 500.0 433.2 A 200 200 0 0 1 300.0 433.2 Z" fill="#f7d154" stroke="#ffffff" stroke-width="3"/>
+<text x="400.0" y="388.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(0.0 400.0 388.0)">BOTH</text>
+<path d="M 400 260 L 300.0 433.2 A 200 200 0 0 1 200.0 260.0 Z" fill="#8ac926" stroke="#ffffff" stroke-width="3"/>
+<text x="289.1" y="324.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(-60.0 289.1 324.0)">ME</text>
+<path d="M 400 260 L 200.0 260.0 A 200 200 0 0 1 300.0 86.8 Z" fill="#6a8caf" stroke="#ffffff" stroke-width="3"/>
+<text x="289.1" y="196.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle" transform="rotate(-120.0 289.1 196.0)">YOU</text>
+<polygon points="400,18 378,58 422,58" fill="#c9a227" stroke="#8a6d00" stroke-width="2"/>
+<circle cx="400" cy="260" r="34" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<circle cx="400" cy="260" r="10" fill="#c9a227"/>
+<rect x="388" y="460" width="24" height="70" fill="#888888"/>
+<rect x="340" y="530" width="120" height="14" fill="#888888"/>
+<circle cx="250" cy="482" r="22" fill="#f7c9a0" stroke="#222222" stroke-width="3"/><rect x="226" y="504" width="48" height="40" fill="#5bc0be"/><circle cx="550" cy="482" r="22" fill="#f7c9a0" stroke="#222222" stroke-width="3"/><rect x="526" y="504" width="48" height="40" fill="#e76f51"/>
+<rect x="220" y="552" width="360" height="36" fill="#222222"/>
+<text x="400" y="576" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">SPIN TOGETHER</text>
+</svg>
