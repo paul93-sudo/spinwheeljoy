@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- hero image: storm prep wheel -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#2f3b52"/>
+<circle cx="1050" cy="90" r="42" fill="#e8eef5"/>
+<ellipse cx="180" cy="120" rx="120" ry="46" fill="#22303f"/>
+<ellipse cx="160" cy="102" rx="66.0" ry="25.3" fill="#3d4f66"/>
+<ellipse cx="420" cy="80" rx="150" ry="54" fill="#22303f"/>
+<ellipse cx="400" cy="62" rx="82.5" ry="29.700000000000003" fill="#3d4f66"/>
+<ellipse cx="700" cy="140" rx="130" ry="48" fill="#22303f"/>
+<ellipse cx="680" cy="122" rx="71.5" ry="26.400000000000002" fill="#3d4f66"/>
+<ellipse cx="950" cy="220" rx="140" ry="52" fill="#22303f"/>
+<ellipse cx="930" cy="202" rx="77.0" ry="28.6" fill="#3d4f66"/>
+<ellipse cx="120" cy="300" rx="130" ry="50" fill="#22303f"/>
+<ellipse cx="100" cy="282" rx="71.5" ry="27.500000000000004" fill="#3d4f66"/>
+<line x1="703" y1="214" x2="693" y2="240" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="848" y1="109" x2="838" y2="135" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="188" y1="608" x2="178" y2="634" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="232" y1="434" x2="222" y2="460" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="158" y1="579" x2="148" y2="605" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="479" y1="98" x2="469" y2="124" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="216" y1="504" x2="206" y2="530" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="896" y1="131" x2="886" y2="157" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="532" y1="152" x2="522" y2="178" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="909" y1="120" x2="899" y2="146" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="293" y1="288" x2="283" y2="314" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="166" y1="466" x2="156" y2="492" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="141" y1="286" x2="131" y2="312" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="135" y1="630" x2="125" y2="656" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="312" y1="356" x2="302" y2="382" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="898" y1="207" x2="888" y2="233" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="1147" y1="180" x2="1137" y2="206" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="671" y1="633" x2="661" y2="659" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="410" y1="165" x2="400" y2="191" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<line x1="424" y1="441" x2="414" y2="467" stroke="#7fa8d0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="750,170 710,290 740,290 700,410 780,270 750,270 790,170" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5" stroke-linejoin="round"/>
+<text x="62" y="46" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" letter-spacing="4">SPIN BEFORE THE SHELVES EMPTY</text>
+<text x="60" y="104" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="bold" fill="#ffca3a" stroke="#5b6b7c" stroke-width="1" letter-spacing="2">STORM PREP WHEEL</text>
+<circle cx="400" cy="430" r="240" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<path d="M400.0,430.0 L280.0,222.2 A240.0,240.0 0 0,1 520.0,222.2 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M400.0,430.0 L520.0,222.2 A240.0,240.0 0 0,1 640.0,430.0 Z" fill="#f15bb5" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M400.0,430.0 L640.0,430.0 A240.0,240.0 0 0,1 520.0,637.8 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M400.0,430.0 L520.0,637.8 A240.0,240.0 0 0,1 280.0,637.8 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M400.0,430.0 L280.0,637.8 A240.0,240.0 0 0,1 160.0,430.0 Z" fill="#06d6a0" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M400.0,430.0 L160.0,430.0 A240.0,240.0 0 0,1 280.0,222.2 Z" fill="#9b5de5" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="280.0" y2="222.2" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="520.0" y2="222.2" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="640.0" y2="430.0" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="520.0" y2="637.8" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="280.0" y2="637.8" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="400.0" y1="430.0" x2="160.0" y2="430.0" stroke="#5b6b7c" stroke-width="3"/>
+<circle cx="400" cy="430" r="240" fill="none" stroke="#5b6b7c" stroke-width="6"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="400.0" y="296.5">WATER</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="524.7" y="368.5">MEDS</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="524.7" y="512.5">BATTERIES</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="400.0" y="568.3">CANNED</text>
+<text x="400.0" y="600.7">FOOD</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="275.3" y="512.5">BLANKETS</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="275.3" y="352.3">FLASH</text>
+<text x="275.3" y="384.7">LIGHT</text>
+</g>
+<circle cx="400" cy="430" r="42" fill="#ffffff" stroke="#5b6b7c" stroke-width="6"/>
+<circle cx="400" cy="430" r="14.7" fill="#5b6b7c"/>
+<polygon points="373.6,151.6 426.4,151.6 400.0,196.0" fill="#f5b301" stroke="#5b6b7c" stroke-width="4" stroke-linejoin="round"/>
+<rect x="393.0" y="117.6" width="14" height="30" rx="7" fill="#5b6b7c"/>
+<!-- shopping cart -->
+<polygon points="830,410 1090,410 1050,560 870,560" fill="#8ecae6" stroke="#5b6b7c" stroke-width="6"/>
+<line x1="875" y1="415" x2="863" y2="555" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="930" y1="415" x2="918" y2="555" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="985" y1="415" x2="973" y2="555" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="1040" y1="415" x2="1028" y2="555" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="830" y1="480" x2="1088" y2="480" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="830" y1="410" x2="775" y2="360" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round"/>
+<circle cx="900" cy="590" r="22" fill="#5b6b7c"/><circle cx="900" cy="590" r="9" fill="#ffffff"/>
+<circle cx="1020" cy="590" r="22" fill="#5b6b7c"/><circle cx="1020" cy="590" r="9" fill="#ffffff"/>
+<rect x="870" y="320" width="70" height="100" rx="10" fill="#118ab2" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="888" y="302" width="34" height="22" rx="6" fill="#0a6c8a" stroke="#5b6b7c" stroke-width="4"/>
+<rect x="960" y="340" width="56" height="80" rx="8" fill="#f3722c" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="1026" y="328" width="46" height="92" rx="8" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="1049" cy="410" r="12" fill="#ffffff" stroke="#5b6b7c" stroke-width="4"/>
+</svg>

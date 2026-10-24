@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- heat and light -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fff7ec"/>
+<rect x="0" y="430" width="900" height="72" fill="#f3e4cc"/>
+<rect x="70" y="230" width="150" height="70" rx="16" fill="#5b6b7c"/>
+<polygon points="220,240 280,255 280,295 220,310" fill="#8d99ae"/>
+<rect x="270" y="248" width="34" height="54" rx="8" fill="#ffca3a" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="120" cy="265" r="10" fill="#f15bb5"/>
+<text x="145" y="410" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#5b6b7c" text-anchor="middle">flashlight</text>
+<rect x="380" y="180" width="110" height="150" rx="18" fill="#118ab2" stroke="#5b6b7c" stroke-width="6"/>
+<rect x="415" y="140" width="40" height="50" rx="8" fill="#5b6b7c"/>
+<rect x="405" y="215" width="60" height="70" rx="10" fill="#ffca3a" stroke="#5b6b7c" stroke-width="4"/>
+<circle cx="435" cy="250" r="14" fill="#fff3b0"/>
+<text x="435" y="410" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#5b6b7c" text-anchor="middle">lantern</text>
+<rect x="560" y="250" width="170" height="110" rx="20" fill="#f3722c" stroke="#5b6b7c" stroke-width="6"/>
+<rect x="560" y="285" width="170" height="26" fill="#e05a1a"/>
+<rect x="560" y="230" width="170" height="40" rx="20" fill="#9b5de5" stroke="#5b6b7c" stroke-width="6"/>
+<text x="645" y="410" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#5b6b7c" text-anchor="middle">blanket</text>
+<rect x="770" y="270" width="60" height="90" rx="12" fill="#06d6a0" stroke="#5b6b7c" stroke-width="5"/>
+<rect x="792" y="300" width="16" height="30" rx="6" fill="#ffffff"/>
+<rect x="762" y="290" width="14" height="40" rx="7" fill="#06d6a0" stroke="#5b6b7c" stroke-width="4"/>
+<text x="795" y="410" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#5b6b7c" text-anchor="middle">warmers</text>
+<circle cx="764" cy="148" r="74" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<path d="M764.0,148.0 L711.7,95.7 A74.0,74.0 0 0,1 816.3,95.7 Z" fill="#118ab2" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M764.0,148.0 L816.3,95.7 A74.0,74.0 0 0,1 816.3,200.3 Z" fill="#f15bb5" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M764.0,148.0 L816.3,200.3 A74.0,74.0 0 0,1 711.7,200.3 Z" fill="#ffca3a" stroke="#5b6b7c" stroke-width="3"/>
+<path d="M764.0,148.0 L711.7,200.3 A74.0,74.0 0 0,1 711.7,95.7 Z" fill="#f3722c" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="764.0" y1="148.0" x2="711.7" y2="95.7" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="764.0" y1="148.0" x2="816.3" y2="95.7" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="764.0" y1="148.0" x2="816.3" y2="200.3" stroke="#5b6b7c" stroke-width="3"/>
+<line x1="764.0" y1="148.0" x2="711.7" y2="200.3" stroke="#5b6b7c" stroke-width="3"/>
+<circle cx="764" cy="148" r="74" fill="none" stroke="#5b6b7c" stroke-width="5"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="1" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="764.0" y="103.9"></text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="1" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="808.4" y="148.3"></text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="1" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="764.0" y="192.8"></text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="1" font-weight="bold" fill="#ffffff" stroke="#5b6b7c" stroke-width="0.6" text-anchor="middle">
+<text x="719.6" y="148.4"></text>
+</g>
+<circle cx="764" cy="148" r="18" fill="#ffffff" stroke="#5b6b7c" stroke-width="5"/>
+<circle cx="764" cy="148" r="6.3" fill="#5b6b7c"/>
+<polygon points="746.0,48.0 782.0,48.0 764.0,80.0" fill="#f5b301" stroke="#5b6b7c" stroke-width="4" stroke-linejoin="round"/>
+<rect x="757.0" y="14.0" width="14" height="30" rx="7" fill="#5b6b7c"/>
+<rect x="0" y="502" width="900" height="98" fill="#5b6b7c"/>
+<text x="450.0" y="560" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="bold" fill="#ffffff" text-anchor="middle">HEAT AND LIGHT FIRST, FOOD CAN WAIT</text>
+</svg>
