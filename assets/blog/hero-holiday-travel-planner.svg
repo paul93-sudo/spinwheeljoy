@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#fdf6ec"/>
+<circle cx="150" cy="140" r="7" fill="#ffffff" opacity="0.9"/>
+<circle cx="1050" cy="120" r="6" fill="#ffffff" opacity="0.9"/>
+<circle cx="90" cy="660" r="8" fill="#ffffff" opacity="0.9"/>
+<circle cx="1120" cy="660" r="7" fill="#ffffff" opacity="0.9"/>
+<circle cx="700" cy="90" r="6" fill="#ffffff" opacity="0.9"/>
+<circle cx="60" cy="420" r="6" fill="#ffffff" opacity="0.9"/>
+<text x="600" y="72" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="46" font-weight="bold" fill="#2b3a4a" text-anchor="middle">HOLIDAY TRAVEL PLANNER</text>
+<text x="600" y="116" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="24" fill="#7a6a55" text-anchor="middle">one spin decides where the whole family lands</text>
+<circle cx="400" cy="470" r="270" fill="#2b3a4a"/>
+<path d="M 400.0,470.0 L 267.0,239.6 A 266.0,266.0 0 0 1 533.0,239.6 Z" fill="#f6b26b" stroke="#ffffff" stroke-width="4"/>
+<text x="400.0" y="305.1" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90.0 400.0 305.1)">GRANDMA'S</text>
+<path d="M 400.0,470.0 L 533.0,239.6 A 266.0,266.0 0 0 1 666.0,470.0 Z" fill="#8fb3d9" stroke="#ffffff" stroke-width="4"/>
+<text x="542.8" y="387.5" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 542.8 387.5)">DENVER</text>
+<path d="M 400.0,470.0 L 666.0,470.0 A 266.0,266.0 0 0 1 533.0,700.4 Z" fill="#b7d3a8" stroke="#ffffff" stroke-width="4"/>
+<text x="542.8" y="552.5" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 542.8 552.5)">SKI TRIP</text>
+<path d="M 400.0,470.0 L 533.0,700.4 A 266.0,266.0 0 0 1 267.0,700.4 Z" fill="#f9e08a" stroke="#ffffff" stroke-width="4"/>
+<text x="400.0" y="634.9" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 400.0 634.9)">BEACH</text>
+<path d="M 400.0,470.0 L 267.0,700.4 A 266.0,266.0 0 0 1 134.0,470.0 Z" fill="#e8a0a0" stroke="#ffffff" stroke-width="4"/>
+<text x="257.2" y="552.5" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(150.0 257.2 552.5)">STAY HOME</text>
+<path d="M 400.0,470.0 L 134.0,470.0 A 266.0,266.0 0 0 1 267.0,239.6 Z" fill="#9dc9c0" stroke="#ffffff" stroke-width="4"/>
+<text x="257.2" y="387.5" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="27" font-weight="bold" fill="#2b3a4a" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 257.2 387.5)">LAKE HOUSE</text>
+<circle cx="400" cy="470" r="16" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<polygon points="372,132 428,132 400,196" fill="#d4a017" stroke="#8a6a12" stroke-width="4" stroke-linejoin="round"/>
+<g>
+<rect x="812" y="392" width="40" height="44" rx="10" fill="none" stroke="#5f3d26" stroke-width="12"/>
+<rect x="790" y="430" width="220" height="160" rx="22" fill="#8a5a3b" stroke="#5f3d26" stroke-width="5"/>
+<rect x="846" y="430" width="26" height="160" fill="#6e452c"/>
+<rect x="928" y="430" width="26" height="160" fill="#6e452c"/>
+<circle cx="812" cy="452" r="8" fill="#d4a017"/>
+<circle cx="988" cy="452" r="8" fill="#d4a017"/>
+<circle cx="812" cy="568" r="8" fill="#d4a017"/>
+<circle cx="988" cy="568" r="8" fill="#d4a017"/>
+</g>
+<path d="M 700,250 Q 850,200 1000,290" stroke="#9db8d2" stroke-width="5" fill="none" stroke-dasharray="14,12" stroke-linecap="round"/>
+<g transform="translate(1000,290) rotate(18)">
+<polygon points="0,0 120,34 0,68 26,34" fill="#b9c9dd" stroke="#5b7a99" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="0,0 120,34 26,34" fill="#d7e3f2"/>
+</g>
+<text x="900" y="660" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="22" font-weight="bold" fill="#7a6a55" text-anchor="middle">packed and ready</text>
+</svg>

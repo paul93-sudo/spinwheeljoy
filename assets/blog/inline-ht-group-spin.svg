@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f5f7fb"/>
+<text x="600" y="72" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">THE FAMILY VOTE, LIVE</text>
+<rect x="90" y="150" width="280" height="220" rx="18" fill="#22303f" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="196" y="273" width="68" height="34" rx="14" fill="#7fa6c9"/>
+<circle cx="230" cy="255" r="26" fill="#f2c9a0"/>
+<path d="M 202,271 A 28,30 0 0 1 258,271 L 258,245 A 28,24 0 0 0 202,245 Z" fill="#4a2f1d"/>
+<rect x="198" y="249" width="12" height="34" rx="6" fill="#4a2f1d"/>
+<rect x="250" y="249" width="12" height="34" rx="6" fill="#4a2f1d"/>
+<circle cx="221" cy="257" r="3.4" fill="#2b3a4a"/>
+<circle cx="239" cy="257" r="3.4" fill="#2b3a4a"/>
+<path d="M 222,268 Q 230,273 238,268" stroke="#2b3a4a" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<rect x="108" y="322" width="120" height="32" rx="16" fill="#000000" opacity="0.55"/>
+<text x="168" y="345" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">MOM</text>
+<rect x="400" y="150" width="280" height="220" rx="18" fill="#22303f" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="506" y="273" width="68" height="34" rx="14" fill="#7fa6c9"/>
+<circle cx="540" cy="255" r="26" fill="#e8b88a"/>
+<path d="M 514,251 A 26,26 0 0 1 566,251 L 566,241 A 26,20 0 0 0 514,241 Z" fill="#2b2b2b"/>
+<circle cx="531" cy="257" r="3.4" fill="#2b3a4a"/>
+<circle cx="549" cy="257" r="3.4" fill="#2b3a4a"/>
+<path d="M 532,268 Q 540,273 548,268" stroke="#2b3a4a" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<rect x="418" y="322" width="120" height="32" rx="16" fill="#000000" opacity="0.55"/>
+<text x="478" y="345" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">DAD</text>
+<rect x="90" y="400" width="280" height="220" rx="18" fill="#22303f" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="196" y="523" width="68" height="34" rx="14" fill="#7fa6c9"/>
+<circle cx="230" cy="505" r="26" fill="#f7d4b0"/>
+<path d="M 202,521 A 28,30 0 0 1 258,521 L 258,495 A 28,24 0 0 0 202,495 Z" fill="#c46a2a"/>
+<rect x="198" y="499" width="12" height="34" rx="6" fill="#c46a2a"/>
+<rect x="250" y="499" width="12" height="34" rx="6" fill="#c46a2a"/>
+<circle cx="221" cy="507" r="3.4" fill="#2b3a4a"/>
+<circle cx="239" cy="507" r="3.4" fill="#2b3a4a"/>
+<path d="M 222,518 Q 230,523 238,518" stroke="#2b3a4a" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<rect x="108" y="572" width="120" height="32" rx="16" fill="#000000" opacity="0.55"/>
+<text x="168" y="595" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">SIS</text>
+<rect x="400" y="400" width="280" height="220" rx="18" fill="#22303f" stroke="#2b3a4a" stroke-width="4"/>
+<rect x="506" y="523" width="68" height="34" rx="14" fill="#7fa6c9"/>
+<circle cx="540" cy="505" r="26" fill="#eab98f"/>
+<path d="M 514,501 A 26,26 0 0 1 566,501 L 566,491 A 26,20 0 0 0 514,491 Z" fill="#1d3a5f"/>
+<circle cx="531" cy="507" r="3.4" fill="#2b3a4a"/>
+<circle cx="549" cy="507" r="3.4" fill="#2b3a4a"/>
+<path d="M 532,518 Q 540,523 548,518" stroke="#2b3a4a" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<rect x="418" y="572" width="120" height="32" rx="16" fill="#000000" opacity="0.55"/>
+<text x="478" y="595" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">YOU</text>
+<rect x="730" y="150" width="380" height="470" rx="22" fill="#2b3a4a" stroke="#1a2530" stroke-width="6"/>
+<text x="920" y="200" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">SHARED SCREEN</text>
+<circle cx="920" cy="400" r="120" fill="#2b3a4a"/>
+<path d="M 920.0,400.0 L 862.0,299.5 A 116.0,116.0 0 0 1 978.0,299.5 Z" fill="#f6b26b" stroke="#ffffff" stroke-width="4"/>
+<path d="M 920.0,400.0 L 978.0,299.5 A 116.0,116.0 0 0 1 1036.0,400.0 Z" fill="#8fb3d9" stroke="#ffffff" stroke-width="4"/>
+<path d="M 920.0,400.0 L 1036.0,400.0 A 116.0,116.0 0 0 1 978.0,500.5 Z" fill="#b7d3a8" stroke="#ffffff" stroke-width="4"/>
+<path d="M 920.0,400.0 L 978.0,500.5 A 116.0,116.0 0 0 1 862.0,500.5 Z" fill="#f9e08a" stroke="#ffffff" stroke-width="4"/>
+<path d="M 920.0,400.0 L 862.0,500.5 A 116.0,116.0 0 0 1 804.0,400.0 Z" fill="#e8a0a0" stroke="#ffffff" stroke-width="4"/>
+<path d="M 920.0,400.0 L 804.0,400.0 A 116.0,116.0 0 0 1 862.0,299.5 Z" fill="#9dc9c0" stroke="#ffffff" stroke-width="4"/>
+<circle cx="920" cy="400" r="16" fill="#ffffff" stroke="#2b3a4a" stroke-width="5"/>
+<polygon points="892,212 948,212 920,276" fill="#d4a017" stroke="#8a6a12" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="800" cy="585" r="10" fill="#e05f5f"/>
+<text x="920" y="592" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="20" fill="#c9d6dd" text-anchor="middle">spinning now...</text>
+<text x="600" y="745" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle" letter-spacing="2">ONE SPIN, EVERYONE WATCHING</text>
+</svg>

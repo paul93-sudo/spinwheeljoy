@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="600" height="800" fill="#e8eef7"/>
+<rect x="600" y="0" width="600" height="800" fill="#fff6e3"/>
+<line x1="600" y1="0" x2="600" y2="800" stroke="#2b3a4a" stroke-width="6"/>
+<text x="600" y="72" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="40" font-weight="bold" fill="#2b3a4a" text-anchor="middle">DECEMBER, TWO WAYS</text>
+<polygon points="138.8,380 300.0,250 461.20000000000005,380" fill="#7a8a99" stroke="#2b3a4a" stroke-width="4" stroke-linejoin="round"/>
+<rect x="170" y="380" width="260" height="176" fill="#f7e8cf" stroke="#2b3a4a" stroke-width="4"/>
+<polygon points="138.8,380 300.0,250 461.20000000000005,380" fill="none"/>
+<rect x="271.4" y="464.48" width="57.2" height="91.52000000000001" fill="#7a4a2b" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="201.2" y="411.68" width="57.2" height="57.2" fill="#bfe0f5" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="229.79999999999998" y1="411.68" x2="229.79999999999998" y2="468.88" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="341.6" y="411.68" width="57.2" height="57.2" fill="#bfe0f5" stroke="#2b3a4a" stroke-width="3"/>
+<line x1="370.20000000000005" y1="411.68" x2="370.20000000000005" y2="468.88" stroke="#2b3a4a" stroke-width="2"/>
+<rect x="120" y="618" width="360" height="40" rx="20" fill="#ffffff"/>
+<circle cx="225" cy="217" r="7" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="393" cy="164" r="4" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="480" cy="414" r="4" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="247" cy="438" r="4" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="525" cy="399" r="5" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="79" cy="184" r="7" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="274" cy="175" r="5" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="106" cy="422" r="7" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="90" cy="429" r="4" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="174" cy="462" r="9" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="358" cy="171" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="359" cy="343" r="4" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="173" cy="163" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="499" cy="208" r="6" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="274" cy="213" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="120" cy="432" r="6" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="346" cy="557" r="9" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="152" cy="192" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="352" cy="467" r="5" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="250" cy="189" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="424" cy="172" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="90" cy="456" r="5" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="314" cy="488" r="8" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="278" cy="537" r="6" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="298" cy="439" r="7" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<circle cx="245" cy="293" r="5" fill="#ffffff" stroke="#c9d6dd" stroke-width="2"/>
+<rect x="200" y="200" width="200" height="56" rx="28" fill="#5b7a99"/>
+<text x="300" y="238" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">12 F</text>
+<circle cx="1000" cy="220" r="64" fill="#ffd34d" stroke="#e0a92e" stroke-width="5"/>
+<line x1="1084" y1="220" x2="1108" y2="220" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1073" y1="262" x2="1094" y2="274" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1042" y1="293" x2="1054" y2="314" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1000" y1="304" x2="1000" y2="328" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="958" y1="293" x2="946" y2="314" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="927" y1="262" x2="906" y2="274" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="916" y1="220" x2="892" y2="220" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="927" y1="178" x2="906" y2="166" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="958" y1="147" x2="946" y2="126" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1000" y1="136" x2="1000" y2="112" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1042" y1="147" x2="1054" y2="126" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<line x1="1073" y1="178" x2="1094" y2="166" stroke="#e0a92e" stroke-width="7" stroke-linecap="round"/>
+<rect x="620" y="640" width="540" height="160" fill="#f2ddab"/>
+<path d="M 880,640 Q 860,500 900,440" stroke="#8a5a3b" stroke-width="26" fill="none" stroke-linecap="round"/>
+<ellipse cx="941" cy="327" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(20 941 327)"/>
+<ellipse cx="1003" cy="353" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(50 1003 353)"/>
+<ellipse cx="1033" cy="417" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(80 1033 417)"/>
+<ellipse cx="1022" cy="484" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(110 1022 484)"/>
+<ellipse cx="974" cy="528" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(140 974 528)"/>
+<ellipse cx="883" cy="342" rx="62" ry="22" fill="#5da85f" stroke="#3d7a3f" stroke-width="4" transform="rotate(-10 883 342)"/>
+<circle cx="955" cy="470" r="16" fill="#7a4a2b"/>
+<circle cx="985" cy="478" r="16" fill="#7a4a2b"/>
+<rect x="800" y="200" width="200" height="56" rx="28" fill="#e8930c"/>
+<text x="900" y="238" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">78 F</text>
+<text x="600" y="745" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle" letter-spacing="2">DECEMBER IS NOT THE SAME EVERYWHERE</text>
+</svg>
