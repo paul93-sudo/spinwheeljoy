@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="600" height="400" fill="#251a38"/><text x="300" y="34" text-anchor="middle" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#ffca3a">TODAY'S ERRANDS</text><rect x="0" y="392" width="600" height="8" fill="#171021"/><path d="M190,225 L126.0,114.1 A128,128 0 0,1 254.0,114.1 Z" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<text x="190.0" y="145.6" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#1c1526">GROCERY</text>
+<path d="M190,225 L254.0,114.1 A128,128 0 0,1 318.0,225.0 Z" fill="#f2762e" stroke="#1c1526" stroke-width="3"/>
+<text x="258.7" y="185.3" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">PHARMACY</text>
+<path d="M190,225 L318.0,225.0 A128,128 0 0,1 254.0,335.9 Z" fill="#7b3fa0" stroke="#1c1526" stroke-width="3"/>
+<text x="258.7" y="264.7" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">LIBRARY</text>
+<path d="M190,225 L254.0,335.9 A128,128 0 0,1 126.0,335.9 Z" fill="#2ec4b6" stroke="#1c1526" stroke-width="3"/>
+<text text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff"><tspan x="190.0" y="297.4">POST</tspan><tspan x="190.0" dy="14">OFFICE</tspan></text>
+<path d="M190,225 L126.0,335.9 A128,128 0 0,1 62.0,225.0 Z" fill="#e4572e" stroke="#1c1526" stroke-width="3"/>
+<text x="121.3" y="264.7" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">BANK</text>
+<path d="M190,225 L62.0,225.0 A128,128 0 0,1 126.0,114.1 Z" fill="#4a90d9" stroke="#1c1526" stroke-width="3"/>
+<text x="121.3" y="185.3" text-anchor="middle" dominant-baseline="middle" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" fill="#ffffff">DRY CLEANING</text>
+<circle cx="190" cy="225" r="18" fill="#f5f0e6" stroke="#1c1526" stroke-width="5"/>
+<polygon points="174,55 206,55 190,89" fill="#ffca3a" stroke="#1c1526" stroke-width="3"/>
+<line x1="190" y1="353" x2="190" y2="379" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/>
+<line x1="138" y1="382" x2="242" y2="382" stroke="#8f8fa3" stroke-width="10" stroke-linecap="round"/><g><rect x="400" y="180" width="110" height="80" rx="8" fill="#f5f0e6"/><rect x="400" y="180" width="110" height="18" fill="#f2762e"/><line x1="415" y1="220" x2="495" y2="220" stroke="#8a7a98" stroke-width="4"/><line x1="415" y1="240" x2="480" y2="240" stroke="#8a7a98" stroke-width="4"/><circle cx="455" cy="285" r="14" fill="#2ec4b6"/><text x="455" y="290" text-anchor="middle" font-family="Verdana,sans-serif" font-size="13" font-weight="bold" fill="#ffffff">KEEP</text></g><text x="455" y="330" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" fill="#f5f0e6">three stay, rest wait</text><circle cx="40" cy="60" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="560" cy="330" r="3" fill="#ffffff" opacity="0.5"/><circle cx="40" cy="340" r="3" fill="#ffffff" opacity="0.5"/></svg>
