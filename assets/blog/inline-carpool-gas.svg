@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#fdf6ec"/>
+<rect x="120" y="180" width="260" height="120" rx="24" fill="#5bc0be"/>
+<rect x="160" y="205" width="90" height="55" rx="8" fill="#ffffff"/>
+<rect x="280" y="205" width="70" height="55" rx="8" fill="#ffffff"/>
+<circle cx="180" cy="310" r="28" fill="#222222"/><circle cx="180" cy="310" r="12" fill="#dddddd"/>
+<circle cx="320" cy="310" r="28" fill="#222222"/><circle cx="320" cy="310" r="12" fill="#dddddd"/>
+<rect x="500" y="150" width="130" height="190" rx="12" fill="#e76f51"/>
+<rect x="520" y="175" width="90" height="70" rx="8" fill="#ffffff"/>
+<text x="565" y="218" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle">GAS</text>
+<rect x="495" y="340" width="140" height="16" fill="#888888"/>
+<circle cx="220" cy="420" r="34" fill="#f7d154" stroke="#c9a227" stroke-width="3"/><text x="220" y="420" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">$</text>
+<circle cx="310" cy="420" r="34" fill="#f7d154" stroke="#c9a227" stroke-width="3"/><text x="310" y="420" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">$</text>
+<circle cx="400" cy="420" r="34" fill="#f7d154" stroke="#c9a227" stroke-width="3"/><text x="400" y="420" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">$</text>
+<circle cx="490" cy="420" r="34" fill="#f7d154" stroke="#c9a227" stroke-width="3"/><text x="490" y="420" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">$</text>
+<rect x="220" y="552" width="360" height="36" fill="#222222"/>
+<text x="400" y="576" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">15 DOLLARS EACH</text>
+</svg>
