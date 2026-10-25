@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+<rect width="600" height="400" fill="#fdf6ec"/>
+<text x="300" y="32" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#222222" text-anchor="middle">Midnight toast</text>
+<text x="300" y="58" font-family="Arial, sans-serif" font-size="17" fill="#555555" text-anchor="middle">Who speaks first</text>
+<polygon points="300,89 282,63 318,63" fill="#c9a227" stroke="#8a6d00" stroke-width="2"/>
+<path d="M 300 205 L 246.0 111.5 A 108 108 0 0 1 354.0 111.5 Z" fill="#f4a259" stroke="#ffffff" stroke-width="3"/>
+<path d="M 300 205 L 354.0 111.5 A 108 108 0 0 1 408.0 205.0 Z" fill="#5bc0be" stroke="#ffffff" stroke-width="3"/>
+<path d="M 300 205 L 408.0 205.0 A 108 108 0 0 1 354.0 298.5 Z" fill="#e76f51" stroke="#ffffff" stroke-width="3"/>
+<path d="M 300 205 L 354.0 298.5 A 108 108 0 0 1 246.0 298.5 Z" fill="#f7d154" stroke="#ffffff" stroke-width="3"/>
+<path d="M 300 205 L 246.0 298.5 A 108 108 0 0 1 192.0 205.0 Z" fill="#8ac926" stroke="#ffffff" stroke-width="3"/>
+<path d="M 300 205 L 192.0 205.0 A 108 108 0 0 1 246.0 111.5 Z" fill="#6a8caf" stroke="#ffffff" stroke-width="3"/>
+<text x="300.0" y="139.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">LENA</text>
+<text x="357.2" y="172.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">MARCUS</text>
+<text x="357.2" y="238.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">EMMA</text>
+<text x="300.0" y="271.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">DAD</text>
+<text x="242.8" y="238.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">GRANDMA</text>
+<text x="242.8" y="172.0" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#222222" text-anchor="middle" dominant-baseline="middle">TOM</text>
+<circle cx="300" cy="205" r="108" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="150" cy="165" r="6" fill="#e76f51"/>
+<circle cx="450" cy="150" r="6" fill="#5bc0be"/>
+<circle cx="135" cy="265" r="6" fill="#f7d154"/>
+<circle cx="465" cy="280" r="6" fill="#8ac926"/>
+<circle cx="300" cy="205" r="24" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<circle cx="300" cy="205" r="8" fill="#c9a227"/>
+<rect x="290" y="313" width="20" height="34" fill="#888888"/>
+<rect x="245" y="347" width="110" height="12" fill="#888888"/>
+<text x="300" y="381" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="middle">New Year&apos;s Eve, 11:40 pm</text>
+</svg>

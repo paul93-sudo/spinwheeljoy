@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+<rect width="600" height="400" fill="#fdf6ec"/>
+<circle cx="195" cy="185" r="82" fill="#ffffff" stroke="#222222" stroke-width="4"/>
+<circle cx="195" cy="185" r="70" fill="none" stroke="#dddddd" stroke-width="2"/>
+<text x="195" y="128" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">12</text>
+<text x="195" y="252" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">6</text>
+<text x="252" y="192" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">3</text>
+<text x="138" y="192" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">9</text>
+<line x1="195" y1="185" x2="145" y2="185" stroke="#222222" stroke-width="6" stroke-linecap="round"/>
+<line x1="195" y1="185" x2="195" y2="125" stroke="#e76f51" stroke-width="4" stroke-linecap="round"/>
+<circle cx="195" cy="185" r="7" fill="#c9a227"/>
+<g transform="rotate(-12 360 185)">
+<path d="M 335 125 L 385 125 L 378 190 L 342 190 Z" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<path d="M 340 158 L 380 158 L 378 190 L 342 190 Z" fill="#f4a259"/>
+<line x1="360" y1="190" x2="360" y2="225" stroke="#222222" stroke-width="3"/>
+<line x1="340" y1="225" x2="380" y2="225" stroke="#222222" stroke-width="3"/>
+</g>
+<g transform="rotate(12 450 185)">
+<path d="M 425 125 L 475 125 L 468 190 L 432 190 Z" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<path d="M 430 158 L 470 158 L 468 190 L 432 190 Z" fill="#e76f51"/>
+<line x1="450" y1="190" x2="450" y2="225" stroke="#222222" stroke-width="3"/>
+<line x1="430" y1="225" x2="470" y2="225" stroke="#222222" stroke-width="3"/>
+</g>
+<polygon points="405,100 409,112 421,116 409,120 405,132 401,120 389,116 401,112" fill="#c9a227"/>
+<text x="300" y="330" font-family="Arial, sans-serif" font-size="17" fill="#333333" text-anchor="middle">Kids toast at nine</text>
+</svg>
