@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500">
+<rect width="600" height="500" fill="#fdf6ec"/>
+<path d="M 300 240 L 212.5 88.4 A 175 175 0 0 1 387.5 88.4 Z" fill="#e74c3c" stroke="#fff" stroke-width="3"/>
+<text x="300.0" y="132.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90.0 300.0 132.0)">LIGHTS</text>
+<path d="M 300 240 L 387.5 88.4 A 175 175 0 0 1 475.0 240.0 Z" fill="#f39c12" stroke="#fff" stroke-width="3"/>
+<text x="393.5" y="186.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 393.5 186.0)">BALLOONS</text>
+<path d="M 300 240 L 475.0 240.0 A 175 175 0 0 1 387.5 391.6 Z" fill="#2ecc71" stroke="#fff" stroke-width="3"/>
+<text x="393.5" y="294.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 393.5 294.0)">GARLAND</text>
+<path d="M 300 240 L 387.5 391.6 A 175 175 0 0 1 212.5 391.6 Z" fill="#3498db" stroke="#fff" stroke-width="3"/>
+<text x="300.0" y="348.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(90.0 300.0 348.0)">BANNERS</text>
+<path d="M 300 240 L 212.5 391.6 A 175 175 0 0 1 125.0 240.0 Z" fill="#9b59b6" stroke="#fff" stroke-width="3"/>
+<text x="206.5" y="294.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(-30.0 206.5 294.0)">CANDLES</text>
+<path d="M 300 240 L 125.0 240.0 A 175 175 0 0 1 212.5 88.4 Z" fill="#1abc9c" stroke="#fff" stroke-width="3"/>
+<text x="206.5" y="186.0" font-family="Arial, sans-serif" font-size="21" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 206.5 186.0)">SNOW</text>
+<circle cx="300" cy="240" r="34" fill="#fff" stroke="#333" stroke-width="3"/>
+<polygon points="300,28 276,78 324,78" fill="#f1c40f" stroke="#333" stroke-width="3"/>
+<rect x="292" y="415" width="16" height="45" fill="#8d6e63"/>
+<rect x="130" y="455" width="340" height="8" rx="4" fill="#8d6e63"/>
+<g><rect x="210" y="420" width="80" height="40" fill="#f9e79f" stroke="#333" stroke-width="2"/><text x="250" y="447" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">$50</text><rect x="310" y="420" width="80" height="40" fill="#f9e79f" stroke="#333" stroke-width="2"/><text x="350" y="447" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">$25</text></g>
+<text x="300" y="492" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#333" text-anchor="middle">DECOR ON BUDGET</text></svg>
