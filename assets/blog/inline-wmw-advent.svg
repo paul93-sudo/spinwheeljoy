@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#fdf6ec"/>
+<rect x="130" y="60" width="540" height="420" fill="#dceef7" stroke="#5a4632" stroke-width="10"/>
+<rect x="390" y="60" width="20" height="420" fill="#5a4632"/>
+<rect x="130" y="260" width="540" height="20" fill="#5a4632"/>
+<text x="200" y="110" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222222">1</text>
+<polygon points="260,130 275,165 312,168 284,192 295,228 260,208 225,228 236,192 208,168 245,165" fill="#f7d154" stroke="#c9a227" stroke-width="3"/>
+<text x="470" y="110" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222222">7</text>
+<polygon points="550,140 520,200 580,200" fill="#2a9d3f"/>
+<polygon points="550,175 515,235 585,235" fill="#2a9d3f"/>
+<rect x="543" y="235" width="14" height="18" fill="#7a4a21"/>
+<text x="200" y="320" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222222">14</text>
+<circle cx="260" cy="400" r="38" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<circle cx="260" cy="340" r="26" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<circle cx="252" cy="334" r="3" fill="#222222"/><circle cx="268" cy="334" r="3" fill="#222222"/>
+<text x="470" y="320" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222222">24</text>
+<text x="550" y="410" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#c9a227" text-anchor="middle">?</text>
+<rect x="220" y="505" width="360" height="36" fill="#222222"/>
+<text x="400" y="529" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">ONE A DAY TILL CHRISTMAS</text>
+</svg>
