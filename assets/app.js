@@ -1,3 +1,18 @@
+/* GA4 — SpinWheelJoy property, installed 2026-10-24 (Measurement ID G-3SMC517LET).
+   This loader is the SINGLE GA4 config for every page that loads app.js (home, blog,
+   static pages, most tools). Do NOT also add a <head> gtag snippet anywhere: a second
+   gtag('config') with the same ID would double-count pageviews. */
+(function () {
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { window.dataLayer.push(arguments); }
+  window.gtag = gtag;
+  gtag('js', new Date());
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-3SMC517LET';
+  document.head.appendChild(s);
+  gtag('config', 'G-3SMC517LET');
+})();
 /* SpinWheelJoy application MVP. No external services or third-party dependencies. */
 (function () {
   'use strict';
