@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f0fdf4"/><circle cx="80" cy="80" r="9" fill="#ffcd68" opacity="0.5"/><circle cx="820" cy="90" r="9" fill="#38bdf8" opacity="0.5"/><circle cx="90" cy="470" r="9" fill="#fb7f81" opacity="0.5"/><circle cx="830" cy="460" r="9" fill="#34c98e" opacity="0.5"/>
+<text x="450" y="56" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">SPEND YOUR STARS WISELY</text>
+<rect x="0" y="490" width="900" height="46" fill="#e8c98a"/>
+<circle cx="110" cy="372" r="26" fill="#f2c49b"/>
+<path d="M84,366 a26,26 0 0 1 52,0 L136,354 a26,20 0 0 0 -52,0 Z" fill="#5b3a1a"/>
+<circle cx="120" cy="370" r="3" fill="#2b3a4a"/>
+<path d="M94,402 L126,402 L132,490 L88,490 Z" fill="#fb7f81"/>
+<rect x="88" y="490" width="20" height="34" fill="#3b4a5a"/><rect x="112" y="490" width="20" height="34" fill="#3b4a5a"/>
+<rect x="118" y="414" width="46" height="10" rx="5" fill="#f2c49b"/>
+<rect x="150" y="350" width="46" height="10" rx="5" fill="#f2c49b" transform="rotate(-15 150 350)"/>
+<!-- table -->
+<rect x="230" y="380" width="440" height="18" rx="6" fill="#8a5a2b"/>
+<rect x="250" y="398" width="14" height="92" fill="#6b4420"/><rect x="640" y="398" width="14" height="92" fill="#6b4420"/>
+<!-- pencils -->
+<rect x="270" y="330" width="10" height="50" fill="#fb7f81" transform="rotate(-8 275 355)"/><rect x="286" y="330" width="10" height="50" fill="#315fe9" transform="rotate(5 291 355)"/><rect x="302" y="330" width="10" height="50" fill="#34c98e" transform="rotate(-3 307 355)"/>
+<rect x="255" y="300" width="80" height="30" rx="6" fill="#ffffff" stroke="#2b3a4a" stroke-width="2" transform="rotate(-4 295 315)"/>
+<text x="295" y="322" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">5</text>
+<!-- stickers -->
+<rect x="400" y="300" width="90" height="80" rx="8" fill="#ffffff" stroke="#2b3a4a" stroke-width="2"/><polygon points="425.0,312.0 428.4,320.3 437.4,321.0 430.6,326.8 432.6,335.5 425.0,330.9 417.4,335.5 419.4,326.8 412.6,321.0 421.6,320.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="460.0,337.0 463.4,345.3 472.4,346.0 465.6,351.8 467.6,360.5 460.0,355.9 452.4,360.5 454.4,351.8 447.6,346.0 456.6,345.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="445.0,364.0 447.9,371.0 455.5,371.6 449.7,376.5 451.5,383.9 445.0,379.9 438.5,383.9 440.3,376.5 434.5,371.6 442.1,371.0" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<rect x="425" y="270" width="60" height="30" rx="6" fill="#ffffff" stroke="#2b3a4a" stroke-width="2"/>
+<text x="455" y="292" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">10</text>
+<!-- toy ball -->
+<circle cx="590" cy="345" r="34" fill="#38bdf8" stroke="#2b3a4a" stroke-width="2"/>
+<path d="M556,345 a34,34 0 0 1 68,0" fill="none" stroke="#ffffff" stroke-width="4"/>
+<rect x="560" y="285" width="60" height="30" rx="6" fill="#ffffff" stroke="#2b3a4a" stroke-width="2"/>
+<text x="590" y="307" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">15</text>
+<!-- second kid, facing left, right of table -->
+<path d="M790,372 a26,26 0 0 1 -52,0 L738,360 a26,20 0 0 0 52,0 Z" fill="#2b3a4a"/>
+<circle cx="764" cy="372" r="26" fill="#f2c49b"/><circle cx="754" cy="370" r="3" fill="#2b3a4a"/>
+<path d="M748,402 L780,402 L786,490 L742,490 Z" fill="#a78bfa"/>
+<rect x="742" y="490" width="20" height="0" fill="#3b4a5a"/>
+<rect x="700" y="414" width="46" height="10" rx="5" fill="#f2c49b"/>
+<rect x="0" y="536" width="900" height="64" fill="#2b3a4a"/><text x="450" y="576" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">THE CLASS SHOP</text>
+</svg>

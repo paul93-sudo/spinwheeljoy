@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f0f9ff"/><circle cx="80" cy="80" r="9" fill="#ffcd68" opacity="0.5"/><circle cx="820" cy="90" r="9" fill="#38bdf8" opacity="0.5"/><circle cx="90" cy="470" r="9" fill="#fb7f81" opacity="0.5"/><circle cx="830" cy="460" r="9" fill="#34c98e" opacity="0.5"/>
+<text x="450" y="56" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">GOOD WORK EARNS A STAR</text>
+<rect x="0" y="490" width="900" height="46" fill="#c9a97e"/>
+<circle cx="150" cy="372" r="26" fill="#f2c49b"/>
+<path d="M124,366 a26,26 0 0 1 52,0 L176,354 a26,20 0 0 0 -52,0 Z" fill="#2b3a4a"/>
+<circle cx="160" cy="370" r="3" fill="#2b3a4a"/>
+<path d="M134,402 L166,402 L172,490 L128,490 Z" fill="#38bdf8"/>
+<rect x="128" y="490" width="20" height="34" fill="#3b4a5a"/><rect x="152" y="490" width="20" height="34" fill="#3b4a5a"/>
+<rect x="158" y="414" width="46" height="10" rx="5" fill="#f2c49b"/>
+<rect x="185" y="350" width="46" height="10" rx="5" fill="#f2c49b" transform="rotate(-18 185 350)"/>
+<polygon points="240.0,298.0 245.3,310.7 259.0,311.8 248.6,320.8 251.8,334.2 240.0,327.0 228.2,334.2 231.4,320.8 221.0,311.8 234.7,310.7" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<!-- desk + jar -->
+<rect x="240" y="400" width="260" height="16" rx="6" fill="#8a5a2b"/><rect x="260" y="416" width="14" height="74" fill="#6b4420"/><rect x="460" y="416" width="14" height="74" fill="#6b4420"/>
+<rect x="300" y="250" width="120" height="150" rx="18" fill="#cfeef7" stroke="#2b3a4a" stroke-width="3" opacity="0.92"/>
+<rect x="300" y="250" width="120" height="150" rx="18" fill="none" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="292" y="238" width="136" height="18" rx="9" fill="#2b3a4a"/>
+<polygon points="330.0,342.0 334.8,353.4 347.1,354.4 337.7,362.5 340.6,374.6 330.0,368.1 319.4,374.6 322.3,362.5 312.9,354.4 325.2,353.4" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="375.0,367.0 379.8,378.4 392.1,379.4 382.7,387.5 385.6,399.6 375.0,393.1 364.4,399.6 367.3,387.5 357.9,379.4 370.2,378.4" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="395.0,326.0 398.7,334.9 408.3,335.7 401.0,341.9 403.2,351.3 395.0,346.3 386.8,351.3 389.0,341.9 381.7,335.7 391.3,334.9" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<rect x="325" y="300" width="70" height="28" rx="6" fill="#ffffff" stroke="#2b3a4a" stroke-width="2"/>
+<text x="360" y="320" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#2b3a4a" text-anchor="middle">MIA</text>
+<!-- job chart -->
+<rect x="560" y="120" width="290" height="300" rx="12" fill="#fff3c4" stroke="#2b3a4a" stroke-width="3"/>
+<text x="705" y="160" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#2b3a4a" text-anchor="middle">JOB CHART</text>
+<text x="580" y="210" font-family="Verdana,sans-serif" font-size="19" fill="#2b3a4a">Line Leader</text><polygon points="770.0,189.0 773.4,197.3 782.4,198.0 775.6,203.8 777.6,212.5 770.0,207.8 762.4,212.5 764.4,203.8 757.6,198.0 766.6,197.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="800.0,189.0 803.4,197.3 812.4,198.0 805.6,203.8 807.6,212.5 800.0,207.8 792.4,212.5 794.4,203.8 787.6,198.0 796.6,197.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<text x="580" y="270" font-family="Verdana,sans-serif" font-size="19" fill="#2b3a4a">Helper</text><polygon points="770.0,249.0 773.4,257.3 782.4,258.0 775.6,263.8 777.6,272.5 770.0,267.9 762.4,272.5 764.4,263.8 757.6,258.0 766.6,257.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="800.0,249.0 803.4,257.3 812.4,258.0 805.6,263.8 807.6,272.5 800.0,267.9 792.4,272.5 794.4,263.8 787.6,258.0 796.6,257.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="828.0,249.0 831.4,257.3 840.4,258.0 833.6,263.8 835.6,272.5 828.0,267.9 820.4,272.5 822.4,263.8 815.6,258.0 824.6,257.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<text x="580" y="330" font-family="Verdana,sans-serif" font-size="19" fill="#2b3a4a">Reader</text><polygon points="770.0,309.0 773.4,317.3 782.4,318.0 775.6,323.8 777.6,332.5 770.0,327.9 762.4,332.5 764.4,323.8 757.6,318.0 766.6,317.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<text x="580" y="390" font-family="Verdana,sans-serif" font-size="19" fill="#2b3a4a">Greeter</text><polygon points="770.0,369.0 773.4,377.3 782.4,378.0 775.6,383.8 777.6,392.5 770.0,387.9 762.4,392.5 764.4,383.8 757.6,378.0 766.6,377.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/><polygon points="800.0,369.0 803.4,377.3 812.4,378.0 805.6,383.8 807.6,392.5 800.0,387.9 792.4,392.5 794.4,383.8 787.6,378.0 796.6,377.3" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<rect x="0" y="536" width="900" height="64" fill="#2b3a4a"/><text x="450" y="576" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">EARN ALL WEEK</text>
+</svg>

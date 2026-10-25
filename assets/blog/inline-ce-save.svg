@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#fdf2f8"/><circle cx="80" cy="80" r="9" fill="#ffcd68" opacity="0.5"/><circle cx="820" cy="90" r="9" fill="#38bdf8" opacity="0.5"/><circle cx="90" cy="470" r="9" fill="#fb7f81" opacity="0.5"/><circle cx="830" cy="460" r="9" fill="#34c98e" opacity="0.5"/>
+<text x="450" y="56" font-family="Verdana,sans-serif" font-size="30" font-weight="bold" fill="#2b3a4a" text-anchor="middle">A COIN SAVED IS A PRIZE LATER</text>
+<rect x="0" y="490" width="900" height="46" fill="#e8c98a"/>
+<!-- piggy bank -->
+<ellipse cx="300" cy="360" rx="150" ry="105" fill="#f9a8d4" stroke="#be185d" stroke-width="3"/>
+<circle cx="195" cy="330" r="34" fill="#f9a8d4" stroke="#be185d" stroke-width="3"/>
+<circle cx="188" cy="326" r="5" fill="#2b3a4a"/><circle cx="202" cy="326" r="5" fill="#2b3a4a"/>
+<path d="M225,300 q20,-28 45,-10" fill="none" stroke="#be185d" stroke-width="6" stroke-linecap="round"/>
+<rect x="240" y="450" width="22" height="40" fill="#be185d"/><rect x="330" y="450" width="22" height="40" fill="#be185d"/>
+<rect x="285" y="262" width="60" height="10" rx="5" fill="#be185d"/>
+<circle cx="300" cy="210" r="20" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="300" cy="210" r="13" fill="none" stroke="#b97e00" stroke-width="2"/><text x="300" y="210" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text><circle cx="360" cy="180" r="16" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="360" cy="180" r="9" fill="none" stroke="#b97e00" stroke-width="2"/><text x="360" y="180" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text><circle cx="245" cy="190" r="16" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="245" cy="190" r="9" fill="none" stroke="#b97e00" stroke-width="2"/><text x="245" y="190" font-family="Verdana,sans-serif" font-size="16" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text>
+<path d="M360,180 Q330,230 320,260" fill="none" stroke="#b97e00" stroke-width="3" stroke-dasharray="8,6"/>
+<!-- SAVE jar -->
+<rect x="560" y="230" width="200" height="260" rx="20" fill="#cfeef7" stroke="#2b3a4a" stroke-width="3"/>
+<rect x="548" y="216" width="224" height="20" rx="10" fill="#2b3a4a"/>
+<rect x="590" y="300" width="140" height="40" rx="8" fill="#ffffff" stroke="#2b3a4a" stroke-width="2"/>
+<text x="660" y="329" font-family="Verdana,sans-serif" font-size="22" font-weight="bold" fill="#2b3a4a" text-anchor="middle">SAVE</text>
+<circle cx="610" cy="410" r="24" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="610" cy="410" r="17" fill="none" stroke="#b97e00" stroke-width="2"/><text x="610" y="410" font-family="Verdana,sans-serif" font-size="24" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text><circle cx="665" cy="440" r="20" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="665" cy="440" r="13" fill="none" stroke="#b97e00" stroke-width="2"/><text x="665" y="440" font-family="Verdana,sans-serif" font-size="20" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text><circle cx="715" cy="405" r="18" fill="#f5b301" stroke="#b97e00" stroke-width="3"/><circle cx="715" cy="405" r="11" fill="none" stroke="#b97e00" stroke-width="2"/><text x="715" y="405" font-family="Verdana,sans-serif" font-size="18" font-weight="bold" fill="#b97e00" text-anchor="middle" dominant-baseline="middle">$</text><polygon points="660.0,359.0 664.2,369.2 675.2,370.1 666.8,377.2 669.4,387.9 660.0,382.2 650.6,387.9 653.2,377.2 644.8,370.1 655.8,369.2" fill="#f5b301" stroke="#b97e00" stroke-width="2" stroke-linejoin="round"/>
+<rect x="0" y="536" width="900" height="64" fill="#2b3a4a"/><text x="450" y="576" font-family="Verdana,sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">SAVE IT OR SPEND IT</text>
+</svg>
