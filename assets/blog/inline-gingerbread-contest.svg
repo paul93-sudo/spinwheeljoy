@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="80" cy="70" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="830" cy="80" r="12" fill="#38bdf8" opacity="0.55"/><circle cx="90" cy="500" r="11" fill="#fb7f81" opacity="0.55"/><circle cx="820" cy="510" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300 270 L190.40 160.40 A155 155 0 0 1 409.60 160.40 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L409.60 160.40 A155 155 0 0 1 409.60 379.60 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L409.60 379.60 A155 155 0 0 1 190.40 379.60 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L190.40 379.60 A155 155 0 0 1 190.40 160.40 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<circle cx="300" cy="270" r="30" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<circle cx="300" cy="270" r="155" fill="none" stroke="#708198" stroke-width="5"/>
+<path d="M300 121 L284 85 L316 85 Z" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<circle cx="300" cy="85" r="7" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<text x="300.0" y="177.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">SILLIEST</text>
+<text x="393.0" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#5a2b30">MOST CANDY</text>
+<text x="300.0" y="363.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#1f3a5f">STURDIEST</text>
+<text x="207.0" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">TALLEST</text>
+<path d="M620 180 L740 180 L740 230 Q740 290 680 290 Q620 290 620 230 Z" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<path d="M620 200 Q585 200 585 235 Q585 265 620 262" fill="none" stroke="#708198" stroke-width="5"/>
+<path d="M740 200 Q775 200 775 235 Q775 265 740 262" fill="none" stroke="#708198" stroke-width="5"/>
+<rect x="668" y="290" width="24" height="45" fill="#ffcd68" stroke="#708198" stroke-width="3"/>
+<rect x="630" y="335" width="100" height="22" rx="4" fill="#fb7f81" stroke="#708198" stroke-width="3"/>
+<rect x="620" y="357" width="120" height="22" rx="4" fill="#38bdf8" stroke="#708198" stroke-width="3"/>
+<path d="M680 205 L686 222 L704 223 L690 234 L695 251 L680 241 L665 251 L670 234 L656 223 L674 222 Z" fill="#ffffff" stroke="#708198" stroke-width="2"/>
+<text x="450" y="575" text-anchor="middle" font-size="30" font-family="system-ui, sans-serif" font-weight="800" fill="#2f3a4a">Contest category wheel</text>
+</svg>

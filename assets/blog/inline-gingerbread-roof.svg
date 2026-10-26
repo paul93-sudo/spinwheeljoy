@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="80" cy="70" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="830" cy="80" r="12" fill="#38bdf8" opacity="0.55"/><circle cx="90" cy="500" r="11" fill="#fb7f81" opacity="0.55"/><circle cx="820" cy="510" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300 270 L190.40 160.40 A155 155 0 0 1 409.60 160.40 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L409.60 160.40 A155 155 0 0 1 409.60 379.60 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L409.60 379.60 A155 155 0 0 1 190.40 379.60 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L190.40 379.60 A155 155 0 0 1 190.40 160.40 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<circle cx="300" cy="270" r="30" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<circle cx="300" cy="270" r="155" fill="none" stroke="#708198" stroke-width="5"/>
+<path d="M300 121 L284 85 L316 85 Z" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<circle cx="300" cy="85" r="7" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<text x="300.0" y="177.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">PEPPERMINT</text>
+<text x="393.0" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a2b30">PRETZEL</text>
+<text x="300.0" y="363.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1f3a5f">ICING</text>
+<text x="207.0" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">GUMDROP</text>
+<path d="M540 230 L680 110 L820 230 Z" fill="#8a4b1d" stroke="#708198" stroke-width="3"/>
+<path d="M540 230 L680 110 L820 230" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="600" cy="185" r="20" fill="#ffffff" stroke="#d32f2f" stroke-width="3"/>
+<path d="M600 165 A20 20 0 0 1 617 175 L600 185 Z" fill="#d32f2f"/>
+<path d="M600 205 A20 20 0 0 1 583 195 L600 185 Z" fill="#d32f2f"/>
+<path d="M583 175 A20 20 0 0 1 590 168 L600 185 Z" fill="#d32f2f"/>
+<path d="M610 202 A20 20 0 0 1 617 195 L600 185 Z" fill="#d32f2f"/>
+<circle cx="650" cy="150" r="20" fill="#ffffff" stroke="#d32f2f" stroke-width="3"/>
+<path d="M650 130 A20 20 0 0 1 667 140 L650 150 Z" fill="#d32f2f"/>
+<path d="M650 170 A20 20 0 0 1 633 160 L650 150 Z" fill="#d32f2f"/>
+<path d="M633 140 A20 20 0 0 1 640 133 L650 150 Z" fill="#d32f2f"/>
+<path d="M660 167 A20 20 0 0 1 667 160 L650 150 Z" fill="#d32f2f"/>
+<circle cx="700" cy="150" r="20" fill="#ffffff" stroke="#d32f2f" stroke-width="3"/>
+<path d="M700 130 A20 20 0 0 1 717 140 L700 150 Z" fill="#d32f2f"/>
+<path d="M700 170 A20 20 0 0 1 683 160 L700 150 Z" fill="#d32f2f"/>
+<path d="M683 140 A20 20 0 0 1 690 133 L700 150 Z" fill="#d32f2f"/>
+<path d="M710 167 A20 20 0 0 1 717 160 L700 150 Z" fill="#d32f2f"/>
+<circle cx="750" cy="185" r="20" fill="#ffffff" stroke="#d32f2f" stroke-width="3"/>
+<path d="M750 165 A20 20 0 0 1 767 175 L750 185 Z" fill="#d32f2f"/>
+<path d="M750 205 A20 20 0 0 1 733 195 L750 185 Z" fill="#d32f2f"/>
+<path d="M733 175 A20 20 0 0 1 740 168 L750 185 Z" fill="#d32f2f"/>
+<path d="M760 202 A20 20 0 0 1 767 195 L750 185 Z" fill="#d32f2f"/>
+<circle cx="680" cy="195" r="20" fill="#ffffff" stroke="#d32f2f" stroke-width="3"/>
+<path d="M680 175 A20 20 0 0 1 697 185 L680 195 Z" fill="#d32f2f"/>
+<path d="M680 215 A20 20 0 0 1 663 205 L680 195 Z" fill="#d32f2f"/>
+<path d="M663 185 A20 20 0 0 1 670 178 L680 195 Z" fill="#d32f2f"/>
+<path d="M690 212 A20 20 0 0 1 697 205 L680 195 Z" fill="#d32f2f"/>
+<rect x="600" y="230" width="160" height="120" rx="4" fill="#b5722f" stroke="#708198" stroke-width="3"/>
+<rect x="662" y="290" width="36" height="60" rx="4" fill="#7c3f16" stroke="#708198" stroke-width="3"/>
+<text x="450" y="575" text-anchor="middle" font-size="30" font-family="system-ui, sans-serif" font-weight="800" fill="#2f3a4a">Roof candy wheel</text>
+</svg>
