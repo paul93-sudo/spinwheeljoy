@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#f8faff"/>
+<circle cx="80" cy="70" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="830" cy="80" r="12" fill="#38bdf8" opacity="0.55"/><circle cx="90" cy="500" r="11" fill="#fb7f81" opacity="0.55"/><circle cx="820" cy="510" r="9" fill="#34c98e" opacity="0.55"/>
+<path d="M300 270 L222.50 135.77 A155 155 0 0 1 377.50 135.77 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L377.50 135.77 A155 155 0 0 1 455.00 270.00 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L455.00 270.00 A155 155 0 0 1 377.50 404.23 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L377.50 404.23 A155 155 0 0 1 222.50 404.23 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L222.50 404.23 A155 155 0 0 1 145.00 270.00 Z" fill="#a78bfa" stroke="#ffffff" stroke-width="4"/>
+<path d="M300 270 L145.00 270.00 A155 155 0 0 1 222.50 135.77 Z" fill="#f4a77a" stroke="#ffffff" stroke-width="4"/>
+<circle cx="300" cy="270" r="30" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<circle cx="300" cy="270" r="155" fill="none" stroke="#708198" stroke-width="5"/>
+<path d="M300 121 L284 85 L316 85 Z" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<circle cx="300" cy="85" r="7" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<text x="300.0" y="177.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">COOKIES</text>
+<text x="380.5" y="223.5" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a2b30">CAKE</text>
+<text x="380.5" y="316.5" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1f3a5f">BREAD</text>
+<text x="300.0" y="363.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1e4a3a">PIE</text>
+<text x="219.5" y="316.5" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="system-ui, sans-serif" font-weight="700" fill="#3d3560">BROWNIES</text>
+<text x="219.5" y="223.5" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">ROLLS</text>
+<rect x="560" y="300" width="280" height="26" rx="8" fill="#9aa7b8" stroke="#708198" stroke-width="3"/>
+<circle cx="610" cy="285" r="26" fill="#e8b06a" stroke="#8a5a1d" stroke-width="3"/>
+<circle cx="610" cy="277" r="3" fill="#5a4028"/><circle cx="622" cy="290" r="3" fill="#5a4028"/><circle cx="598" cy="290" r="3" fill="#5a4028"/>
+<circle cx="700" cy="285" r="26" fill="#e8b06a" stroke="#8a5a1d" stroke-width="3"/>
+<circle cx="700" cy="277" r="3" fill="#5a4028"/><circle cx="712" cy="290" r="3" fill="#5a4028"/><circle cx="688" cy="290" r="3" fill="#5a4028"/>
+<circle cx="790" cy="285" r="26" fill="#e8b06a" stroke="#8a5a1d" stroke-width="3"/>
+<circle cx="790" cy="277" r="3" fill="#5a4028"/><circle cx="802" cy="290" r="3" fill="#5a4028"/><circle cx="778" cy="290" r="3" fill="#5a4028"/>
+<path d="M600 390 Q700 340 800 390 L800 400 Q700 450 600 400 Z" fill="#38bdf8" stroke="#708198" stroke-width="3"/>
+<ellipse cx="700" cy="392" rx="100" ry="12" fill="#ffe9a8" stroke="#708198" stroke-width="2"/>
+<rect x="640" y="180" width="120" height="14" rx="7" fill="#b5722f" stroke="#708198" stroke-width="2" transform="rotate(-18 700 187)"/>
+<text x="450" y="575" text-anchor="middle" font-size="30" font-family="system-ui, sans-serif" font-weight="800" fill="#2f3a4a">Holiday baking wheel</text>
+</svg>
