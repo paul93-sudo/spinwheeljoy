@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6e3"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">Spin cleanup first</text><path d="M250 290 L175.0 160.1 A150 150 0 0 1 325.0 160.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="200.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-90.0 250.0 200.0)">DISHES</text>
+<path d="M250 290 L325.0 160.1 A150 150 0 0 1 400.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-30.0 327.9 245.0)">WIPE</text>
+<path d="M250 290 L400.0 290.0 A150 150 0 0 1 325.0 419.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(30.0 327.9 335.0)">TRASH</text>
+<path d="M250 290 L325.0 419.9 A150 150 0 0 1 175.0 419.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="380.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(90.0 250.0 380.0)">LEFTOVERS</text>
+<path d="M250 290 L175.0 419.9 A150 150 0 0 1 100.0 290.0 Z" fill="#78a6ee" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(150.0 172.1 335.0)">SWEEP</text>
+<path d="M250 290 L100.0 290.0 A150 150 0 0 1 175.0 160.1 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(210.0 172.1 245.0)">DRY</text>
+<circle cx="250" cy="290" r="150" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="250" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">SPIN</text>
+<path d="M234 110 L266 110 L250 144 Z" fill="#17243d" stroke="#fff" stroke-width="2"/><ellipse cx="610" cy="170" rx="120" ry="20" fill="#fff" stroke="#17243d" stroke-width="3"/><ellipse cx="610" cy="200" rx="120" ry="20" fill="#fff" stroke="#17243d" stroke-width="3"/><ellipse cx="610" cy="230" rx="120" ry="20" fill="#fff" stroke="#17243d" stroke-width="3"/><ellipse cx="610" cy="260" rx="120" ry="20" fill="#fff" stroke="#17243d" stroke-width="3"/><text x="610" y="430" text-anchor="middle" font-size="20" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">DISHES FIRST</text></svg>
