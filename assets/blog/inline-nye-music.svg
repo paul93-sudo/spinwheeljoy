@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#f8faff"/><circle cx="80" cy="70" r="10" fill="#ffcd68" opacity="0.55"/><circle cx="830" cy="80" r="12" fill="#38bdf8" opacity="0.55"/><circle cx="90" cy="500" r="11" fill="#fb7f81" opacity="0.55"/><circle cx="820" cy="510" r="9" fill="#34c98e" opacity="0.55"/><path d="M300 270 L190.4 160.4 A155 155 0 0 1 409.6 160.4 Z" fill="#ffcd68" stroke="#ffffff" stroke-width="4"/>
+<text x="300.0" y="173.9" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#5a4028">70S DISCO</text>
+<path d="M300 270 L409.6 160.4 A155 155 0 0 1 409.6 379.6 Z" fill="#fb7f81" stroke="#ffffff" stroke-width="4"/>
+<text x="396.1" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#ffffff">JAZZ</text>
+<path d="M300 270 L409.6 379.6 A155 155 0 0 1 190.4 379.6 Z" fill="#38bdf8" stroke="#ffffff" stroke-width="4"/>
+<text x="300.0" y="366.1" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#ffffff">POP HITS</text>
+<path d="M300 270 L190.4 379.6 A155 155 0 0 1 190.4 160.4 Z" fill="#34c98e" stroke="#ffffff" stroke-width="4"/>
+<text x="203.9" y="270.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-family="system-ui, sans-serif" font-weight="700" fill="#1e3a2f">MIXED</text>
+<circle cx="300" cy="270" r="30" fill="#ffffff" stroke="#708198" stroke-width="4"/>
+<circle cx="300" cy="270" r="155" fill="none" stroke="#708198" stroke-width="5"/>
+<path d="M300 111 L284 75 L316 75 Z" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/>
+<circle cx="300" cy="75" r="7" fill="#f2b705" stroke="#8a6d00" stroke-width="3"/><circle cx="680" cy="280" r="95" fill="#1f2937" stroke="#708198" stroke-width="4"/><circle cx="680" cy="280" r="60" fill="none" stroke="#4b5563" stroke-width="2"/><circle cx="680" cy="280" r="38" fill="#e11d48" stroke="#ffffff" stroke-width="3"/><circle cx="680" cy="280" r="8" fill="#ffffff" stroke="#708198" stroke-width="2"/><text x="680" y="415" text-anchor="middle" font-size="18" font-family="system-ui, sans-serif" font-weight="700" fill="#2f3a4a">SIDE A</text><text x="450" y="575" text-anchor="middle" font-size="30" font-family="system-ui, sans-serif" font-weight="800" fill="#2f3a4a">Music rule wheel</text></svg>
