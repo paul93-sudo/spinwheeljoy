@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6e3"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">Spin for the order you write them</text><path d="M250 290 L107.3 336.4 A150 150 0 0 1 161.8 168.6 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="164.4" y="262.2" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-162.0 164.4 262.2)">MON</text>
+<path d="M250 290 L161.8 168.6 A150 150 0 0 1 338.2 168.6 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="200.0" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-90.0 250.0 200.0)">TUE</text>
+<path d="M250 290 L338.2 168.6 A150 150 0 0 1 392.7 336.4 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="335.6" y="262.2" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-18.0 335.6 262.2)">WED</text>
+<path d="M250 290 L392.7 336.4 A150 150 0 0 1 250.0 440.0 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="302.9" y="362.8" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(54.0 302.9 362.8)">THU</text>
+<path d="M250 290 L250.0 440.0 A150 150 0 0 1 107.3 336.4 Z" fill="#78a6ee" stroke="#fff" stroke-width="3"/>
+<text x="197.1" y="362.8" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(126.0 197.1 362.8)">FRI</text>
+<circle cx="250" cy="290" r="150" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="250" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">SPIN</text>
+<path d="M234 110 L266 110 L250 144 Z" fill="#17243d" stroke="#fff" stroke-width="2"/><rect x="540" y="270" width="200" height="120" rx="8" fill="#ffffff" stroke="#17243d" stroke-width="3"/><rect x="525" y="245" width="200" height="120" rx="8" fill="#e6ebf8" stroke="#17243d" stroke-width="3"/><rect x="510" y="220" width="200" height="120" rx="8" fill="#ffffff" stroke="#17243d" stroke-width="3"/><path d="M510 220 L610 285 L710 220" fill="none" stroke="#17243d" stroke-width="3"/></svg>
