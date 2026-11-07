@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500"><rect width="800" height="500" fill="#1A2B4A"/>
+<rect x="0" y="0" width="800" height="500" fill="#1A2B4A"/>
+<circle cx="90" cy="70" r="5" fill="#ffffff"/><circle cx="210" cy="45" r="4" fill="#ffffff"/>
+<circle cx="340" cy="80" r="5" fill="#ffffff"/><circle cx="470" cy="50" r="4" fill="#ffffff"/>
+<circle cx="600" cy="90" r="5" fill="#ffffff"/><circle cx="730" cy="60" r="4" fill="#ffffff"/>
+<circle cx="150" cy="140" r="4" fill="#ffffff"/><circle cx="530" cy="140" r="4" fill="#ffffff"/>
+<circle cx="690" cy="82" r="40" fill="#FFD93D"/><circle cx="708" cy="68" r="34" fill="#1A2B4A"/>
+<path d="M0 90 Q100 120 200 95 Q300 70 400 100 Q500 125 600 95 Q700 70 800 100" fill="none" stroke="#22223B" stroke-width="3"/>
+<circle cx="100" cy="103" r="10" fill="#FFD93D"/><circle cx="200" cy="93" r="10" fill="#FF6B6B"/>
+<circle cx="300" cy="82" r="10" fill="#6BCB77"/><circle cx="400" cy="100" r="10" fill="#FFD93D"/>
+<circle cx="500" cy="110" r="10" fill="#FF6B6B"/><circle cx="560" cy="102" r="10" fill="#6BCB77"/>
+<circle cx="700" cy="84" r="10" fill="#FFD93D"/>
+<rect x="60" y="150" width="330" height="210" rx="8" fill="#ffffff" stroke="#22223B" stroke-width="4"/>
+<rect x="78" y="168" width="294" height="174" fill="#1A2B4A"/>
+<circle cx="225" cy="255" r="42" fill="#FFD93D"/>
+<polygon points="225,200 240,238 280,238 248,262 260,300 225,276 190,300 202,262 170,238 210,238" fill="#ffffff"/>
+<text x="225" y="380" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">Backyard movie night</text>
+<rect x="180" y="392" width="90" height="46" fill="#2E3D5E" stroke="#ffffff" stroke-width="2"/>
+<rect x="470" y="392" width="260" height="46" rx="6" fill="#E94F64"/>
+<rect x="470" y="438" width="260" height="14" fill="#9B2C3B"/>
+<text x="600" y="422" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">POPCORN</text>
+<g transform="rotate(-30.00 620 250)">
+<path d="M620,250 L620.0,145.0 A105,105 0 0,1 710.9,197.5 Z" fill="#FF6B6B" stroke="#ffffff" stroke-width="3"/>
+<text x="650.5" y="197.3" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(390.0 650.5 197.3)">COMEDY</text>
+<path d="M620,250 L710.9,197.5 A105,105 0 0,1 710.9,302.5 Z" fill="#FFD93D" stroke="#ffffff" stroke-width="3"/>
+<text x="680.9" y="250.0" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(450.0 680.9 250.0)">DRAMA</text>
+<path d="M620,250 L710.9,302.5 A105,105 0 0,1 620.0,355.0 Z" fill="#6BCB77" stroke="#ffffff" stroke-width="3"/>
+<text x="650.5" y="302.7" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(330.0 650.5 302.7)">ACTION</text>
+<path d="M620,250 L620.0,355.0 A105,105 0 0,1 529.1,302.5 Z" fill="#4D96FF" stroke="#ffffff" stroke-width="3"/>
+<text x="589.6" y="302.7" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(390.0 589.6 302.7)">ANIM.</text>
+<path d="M620,250 L529.1,302.5 A105,105 0 0,1 529.1,197.5 Z" fill="#B983FF" stroke="#ffffff" stroke-width="3"/>
+<text x="559.1" y="250.0" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(450.0 559.1 250.0)">CLASSIC</text>
+<path d="M620,250 L529.1,197.5 A105,105 0 0,1 620.0,145.0 Z" fill="#FF9F45" stroke="#ffffff" stroke-width="3"/>
+<text x="589.5" y="197.3" font-family="Arial, sans-serif" font-size="14.7" font-weight="bold" fill="#22223B" text-anchor="middle" dominant-baseline="middle" transform="rotate(330.0 589.5 197.3)">HORROR</text>
+</g>
+<circle cx="620" cy="250" r="105" fill="none" stroke="#22223B" stroke-width="4"/>
+<circle cx="620" cy="250" r="16" fill="#ffffff" stroke="#22223B" stroke-width="4"/>
+<polygon points="598,87 642,87 620,151" fill="#22223B" stroke="#ffffff" stroke-width="2"/>
+<rect x="612" y="67" width="16" height="22" rx="4" fill="#22223B"/></svg>

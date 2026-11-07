@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fdf6e9"/>
+<text x="400" y="48" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#17243d">Garden watering wheel</text>
+<path d="M260 290 L177.5 147.1 A165 165 0 0 1 342.5 147.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="187.7" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">MIA</text>
+<path d="M260 290 L342.5 147.1 A165 165 0 0 1 425.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="348.6" y="238.9" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">SAM</text>
+<path d="M260 290 L425.0 290.0 A165 165 0 0 1 342.5 432.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="348.6" y="341.1" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">DAN</text>
+<path d="M260 290 L342.5 432.9 A165 165 0 0 1 177.5 432.9 Z" fill="#8fd0a0" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="392.3" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">ANA</text>
+<path d="M260 290 L177.5 432.9 A165 165 0 0 1 95.0 290.0 Z" fill="#7cc4e8" stroke="#fff" stroke-width="3"/>
+<text x="171.4" y="341.1" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">LEO</text>
+<path d="M260 290 L95.0 290.0 A165 165 0 0 1 177.5 147.1 Z" fill="#f7a8c4" stroke="#fff" stroke-width="3"/>
+<text x="171.4" y="238.8" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">DAD</text>
+<circle cx="260" cy="290" r="26" fill="#fff" stroke="#17243d" stroke-width="3"/>
+<polygon points="260,131 243,99 277,99" fill="#17243d"/>
+<rect x="254" y="457" width="12" height="34" fill="#17243d"/><g transform="translate(500,250) scale(1.0)"><rect x="0" y="20" width="110" height="80" rx="10" fill="#4f9d69"/><rect x="0" y="20" width="110" height="18" fill="#3d7d53"/><polygon points="110,35 160,55 160,70 110,60" fill="#4f9d69"/><path d="M-8 30 q-22 20 0 55" fill="none" stroke="#4f9d69" stroke-width="12"/><circle cx="172" cy="72" r="5" fill="#7cc4e8"/><circle cx="184" cy="86" r="5" fill="#7cc4e8"/><circle cx="168" cy="96" r="5" fill="#7cc4e8"/></g><rect x="490" y="400" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="518" cy="384" r="16" fill="#4f9d69"/><circle cx="504" cy="394" r="11" fill="#6fbf7f"/><circle cx="532" cy="394" r="11" fill="#6fbf7f"/><circle cx="518" cy="374" r="6" fill="#e2574c"/><rect x="560" y="400" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="588" cy="384" r="16" fill="#4f9d69"/><circle cx="574" cy="394" r="11" fill="#6fbf7f"/><circle cx="602" cy="394" r="11" fill="#6fbf7f"/><circle cx="588" cy="374" r="6" fill="#e2574c"/><rect x="630" y="400" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="658" cy="384" r="16" fill="#4f9d69"/><circle cx="644" cy="394" r="11" fill="#6fbf7f"/><circle cx="672" cy="394" r="11" fill="#6fbf7f"/><circle cx="658" cy="374" r="6" fill="#e2574c"/>
+</svg>

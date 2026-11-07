@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fdf6e9"/>
+<text x="400" y="48" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#17243d">Which beds first</text>
+<path d="M260 290 L177.5 147.1 A165 165 0 0 1 342.5 147.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="187.7" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">TOMATOES</text>
+<path d="M260 290 L342.5 147.1 A165 165 0 0 1 425.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="348.6" y="238.9" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">HERBS</text>
+<path d="M260 290 L425.0 290.0 A165 165 0 0 1 342.5 432.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="348.6" y="341.1" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">LETTUCE</text>
+<path d="M260 290 L342.5 432.9 A165 165 0 0 1 177.5 432.9 Z" fill="#8fd0a0" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="392.3" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">PEPPERS</text>
+<path d="M260 290 L177.5 432.9 A165 165 0 0 1 95.0 290.0 Z" fill="#7cc4e8" stroke="#fff" stroke-width="3"/>
+<text x="171.4" y="341.1" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">CARROTS</text>
+<path d="M260 290 L95.0 290.0 A165 165 0 0 1 177.5 147.1 Z" fill="#f7a8c4" stroke="#fff" stroke-width="3"/>
+<text x="171.4" y="238.8" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#17243d">FLOWERS</text>
+<circle cx="260" cy="290" r="26" fill="#fff" stroke="#17243d" stroke-width="3"/>
+<polygon points="260,131 243,99 277,99" fill="#17243d"/>
+<rect x="254" y="457" width="12" height="34" fill="#17243d"/><rect x="500" y="380" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="528" cy="364" r="16" fill="#4f9d69"/><circle cx="514" cy="374" r="11" fill="#6fbf7f"/><circle cx="542" cy="374" r="11" fill="#6fbf7f"/><circle cx="528" cy="354" r="6" fill="#e2574c"/><rect x="570" y="380" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="598" cy="364" r="16" fill="#4f9d69"/><circle cx="584" cy="374" r="11" fill="#6fbf7f"/><circle cx="612" cy="374" r="11" fill="#6fbf7f"/><circle cx="598" cy="354" r="6" fill="#e2574c"/><rect x="640" y="380" width="56" height="26" rx="6" fill="#b5651d"/><circle cx="668" cy="364" r="16" fill="#4f9d69"/><circle cx="654" cy="374" r="11" fill="#6fbf7f"/><circle cx="682" cy="374" r="11" fill="#6fbf7f"/><circle cx="668" cy="354" r="6" fill="#e2574c"/><text x="610" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="800" fill="#17243d">TOMATOES</text><text x="610" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#17243d">first, then herbs</text>
+</svg>
