@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef6ee"/>
+<text x="400" y="52" text-anchor="middle" font-size="32" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for the blanket spot</text>
+<path d="M270 290 L192.5 155.8 A155 155 0 0 1 347.5 155.8 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="197.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">PARK</text>
+<path d="M270 290 L347.5 155.8 A155 155 0 0 1 425.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="350.5" y="243.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LAKE</text>
+<path d="M270 290 L425.0 290.0 A155 155 0 0 1 347.5 424.2 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="350.5" y="336.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">HILL</text>
+<path d="M270 290 L347.5 424.2 A155 155 0 0 1 192.5 424.2 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="383.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">GARDEN</text>
+<path d="M270 290 L192.5 424.2 A155 155 0 0 1 115.0 290.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="189.5" y="336.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">RIVER</text>
+<path d="M270 290 L115.0 290.0 A155 155 0 0 1 192.5 155.8 Z" fill="#f7a8c4" stroke="#fff" stroke-width="3"/>
+<text x="189.5" y="243.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">PORCH</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="545" y="300" width="210" height="110" fill="#fb8581" stroke="#17243d" stroke-width="2"/><line x1="580" y1="300" x2="580" y2="410" stroke="#fff" stroke-width="3"/><line x1="615" y1="300" x2="615" y2="410" stroke="#fff" stroke-width="3"/><line x1="650" y1="300" x2="650" y2="410" stroke="#fff" stroke-width="3"/><line x1="685" y1="300" x2="685" y2="410" stroke="#fff" stroke-width="3"/><line x1="720" y1="300" x2="720" y2="410" stroke="#fff" stroke-width="3"/><line x1="545" y1="335" x2="755" y2="335" stroke="#fff" stroke-width="3"/><line x1="545" y1="370" x2="755" y2="370" stroke="#fff" stroke-width="3"/><rect x="700" y="255" width="70" height="50" rx="6" fill="#c98d4b" stroke="#17243d" stroke-width="2"/><path d="M710 255 Q710 235 735 235 Q760 235 760 255" fill="none" stroke="#17243d" stroke-width="3"/>
+<text x="650" y="452" text-anchor="middle" font-size="20" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">SHADE FIRST</text>
+</svg>

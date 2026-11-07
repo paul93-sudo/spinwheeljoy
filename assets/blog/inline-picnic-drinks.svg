@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef6ee"/>
+<text x="400" y="52" text-anchor="middle" font-size="32" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for the drinks</text>
+<path d="M270 290 L192.5 155.8 A155 155 0 0 1 347.5 155.8 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="197.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LEMONADE</text>
+<path d="M270 290 L347.5 155.8 A155 155 0 0 1 425.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="350.5" y="243.5" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">ICED TEA</text>
+<path d="M270 290 L425.0 290.0 A155 155 0 0 1 347.5 424.2 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="350.5" y="336.5" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">SPARKLING</text>
+<path d="M270 290 L347.5 424.2 A155 155 0 0 1 192.5 424.2 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="383.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">JUICE</text>
+<path d="M270 290 L192.5 424.2 A155 155 0 0 1 115.0 290.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="189.5" y="336.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">WATER</text>
+<path d="M270 290 L115.0 290.0 A155 155 0 0 1 192.5 155.8 Z" fill="#f7a8c4" stroke="#fff" stroke-width="3"/>
+<text x="189.5" y="243.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">COFFEE</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="570" y="250" width="110" height="150" rx="10" fill="#fde68a" stroke="#17243d" stroke-width="2"/><rect x="600" y="240" width="50" height="14" rx="4" fill="#17243d"/><circle cx="610" cy="300" r="18" fill="#fde047" stroke="#17243d" stroke-width="2"/><circle cx="610" cy="300" r="9" fill="#fef9c3" stroke="#17243d" stroke-width="1"/><circle cx="645" cy="350" r="18" fill="#fde047" stroke="#17243d" stroke-width="2"/><circle cx="645" cy="350" r="9" fill="#fef9c3" stroke="#17243d" stroke-width="1"/><rect x="695" y="320" width="55" height="80" rx="4" fill="#fff" stroke="#17243d" stroke-width="2"/><line x1="695" y1="345" x2="750" y2="345" stroke="#fde68a" stroke-width="4"/>
+<text x="650" y="452" text-anchor="middle" font-size="20" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">WATER TOO</text>
+</svg>
