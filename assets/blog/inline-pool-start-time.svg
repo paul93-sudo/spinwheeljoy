@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#fdf6ec"/>
+<text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">What time do we start?</text>
+<g transform="rotate(-135.0 290 370)">
+<path d="M 290 370 L 290.0 175.0 A 195 195 0 0 1 485.0 370.0 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="380.5" y="279.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(135.0 380.5 279.5)">11 AM</text>
+<path d="M 290 370 L 485.0 370.0 A 195 195 0 0 1 290.0 565.0 Z" fill="#ffffff" stroke="#ffffff" stroke-width="3"/>
+<text x="380.5" y="460.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(135.0 380.5 460.5)">1 PM</text>
+<path d="M 290 370 L 290.0 565.0 A 195 195 0 0 1 95.0 370.0 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="199.5" y="460.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(135.0 199.5 460.5)">2 PM</text>
+<path d="M 290 370 L 95.0 370.0 A 195 195 0 0 1 290.0 175.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="199.5" y="279.5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(135.0 199.5 279.5)">4 PM</text>
+</g>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,118 318,118 290,172" fill="#1f2937"/>
+<rect x="282" y="100" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,560 310,560 290,600" fill="#1f2937"/>
+<circle cx="725" cy="330" r="105" fill="#ffffff" stroke="#1f2937" stroke-width="5"/>
+<line x1="725" y1="330" x2="725" y2="250" stroke="#1f2937" stroke-width="6"/>
+<line x1="725" y1="330" x2="790" y2="330" stroke="#e5484d" stroke-width="6"/>
+<circle cx="725" cy="330" r="10" fill="#1f2937"/>
+<circle cx="725" cy="170" r="28" fill="#f5c542"/>
+<line x1="725" y1="170" x2="693" y2="156" stroke="#f5c542" stroke-width="5"/>
+<line x1="725" y1="170" x2="757" y2="156" stroke="#f5c542" stroke-width="5"/>
+<line x1="725" y1="170" x2="725" y2="130" stroke="#f5c542" stroke-width="5"/>
+<line x1="725" y1="170" x2="685" y2="184" stroke="#f5c542" stroke-width="5"/>
+<line x1="725" y1="170" x2="765" y2="184" stroke="#f5c542" stroke-width="5"/>
+<text x="725" y="500" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#1f2937" text-anchor="middle">1 PM start</text>
+</svg>

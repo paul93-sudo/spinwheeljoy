@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#fdf6ec"/>
+<text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Summer block party wheel</text>
+<g transform="rotate(-30.0 290 370)">
+<path d="M 290 370 L 290.0 175.0 A 195 195 0 0 1 458.9 272.5 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="354.0" y="259.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 354.0 259.1)">FOOD</text>
+<path d="M 290 370 L 458.9 272.5 A 195 195 0 0 1 458.9 467.5 Z" fill="#ffffff" stroke="#ffffff" stroke-width="3"/>
+<text x="418.0" y="370.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 418.0 370.0)">GAMES</text>
+<path d="M 290 370 L 458.9 467.5 A 195 195 0 0 1 290.0 565.0 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="354.0" y="480.9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 354.0 480.9)">MUSIC</text>
+<path d="M 290 370 L 290.0 565.0 A 195 195 0 0 1 121.1 467.5 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="226.0" y="480.9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 226.0 480.9)">PARADE</text>
+<path d="M 290 370 L 121.1 467.5 A 195 195 0 0 1 121.1 272.5 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="162.0" y="370.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 162.0 370.0)">MOVIE</text>
+<path d="M 290 370 L 121.1 272.5 A 195 195 0 0 1 290.0 175.0 Z" fill="#f08c2e" stroke="#ffffff" stroke-width="3"/>
+<text x="226.0" y="259.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(30.0 226.0 259.1)">CLEANUP</text>
+</g>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,118 318,118 290,172" fill="#1f2937"/>
+<rect x="282" y="100" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,560 310,560 290,600" fill="#1f2937"/>
+<line x1="590" y1="200" x2="860" y2="200" stroke="#1f2937" stroke-width="3"/>
+<polygon points="610,200 634,200 622,232" fill="#e5484d"/>
+<polygon points="658,200 682,200 670,232" fill="#f5c542"/>
+<polygon points="706,200 730,200 718,232" fill="#2f6fd6"/>
+<polygon points="754,200 778,200 766,232" fill="#3fae6a"/>
+<polygon points="802,200 826,200 814,232" fill="#f08c2e"/>
+<rect x="600" y="380" width="110" height="110" fill="#f5c542"/>
+<polygon points="590,380 655,320 720,380" fill="#e5484d"/>
+<rect x="635" y="430" width="40" height="60" fill="#7a4a21"/>
+<rect x="740" y="400" width="110" height="90" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+<polygon points="730,400 795,345 860,400" fill="#2f6fd6"/>
+<rect x="780" y="440" width="30" height="50" fill="#7a4a21"/>
+<rect x="590" y="500" width="270" height="14" fill="#1f2937"/>
+<text x="725" y="560" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#1f2937" text-anchor="middle">Maple Court</text>
+</svg>
