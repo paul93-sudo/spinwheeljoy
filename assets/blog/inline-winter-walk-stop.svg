@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#e8f1fa"/><text x="400" y="52" text-anchor="middle" font-size="32" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for the warm-up stop</text>
+<path d="M270 290 L160.4 180.4 A155 155 0 0 1 379.6 180.4 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="190.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">COCOA</text>
+<path d="M270 290 L379.6 180.4 A155 155 0 0 1 379.6 399.6 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="370.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">BAKERY</text>
+<path d="M270 290 L379.6 399.6 A155 155 0 0 1 160.4 399.6 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="390.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LIBRARY</text>
+<path d="M270 290 L160.4 399.6 A155 155 0 0 1 160.4 180.4 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="170.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">HOME</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="500" y="150" width="260" height="290" fill="#dbe9f7" stroke="#17243d" stroke-width="2"/>
+<ellipse cx="630" cy="378" rx="105" ry="12" fill="#ffffff" stroke="#17243d" stroke-width="2"/>
+<path d="M 700 270 C 740 270, 740 330, 700 330" fill="none" stroke="#17243d" stroke-width="10"/>
+<rect x="555" y="250" width="150" height="110" rx="14" fill="#c0392b" stroke="#17243d" stroke-width="3"/>
+<ellipse cx="630" cy="250" rx="75" ry="12" fill="#6b3a1f" stroke="#17243d" stroke-width="3"/>
+<circle cx="605" cy="246" r="9" fill="#ffffff" stroke="#17243d" stroke-width="2"/>
+<circle cx="635" cy="242" r="9" fill="#ffffff" stroke="#17243d" stroke-width="2"/>
+<circle cx="660" cy="248" r="8" fill="#ffffff" stroke="#17243d" stroke-width="2"/>
+<path d="M 595 215 C 585 200, 605 190, 595 175" fill="none" stroke="#8ea6c4" stroke-width="5" stroke-linecap="round"/>
+<path d="M 635 215 C 625 200, 645 190, 635 175" fill="none" stroke="#8ea6c4" stroke-width="5" stroke-linecap="round"/>
+<path d="M 670 215 C 660 200, 680 190, 670 175" fill="none" stroke="#8ea6c4" stroke-width="5" stroke-linecap="round"/>
+<circle cx="520" cy="140" r="7" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="745" cy="150" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="700" cy="420" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="515" cy="400" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="760" cy="250" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="530" cy="240" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+</svg>

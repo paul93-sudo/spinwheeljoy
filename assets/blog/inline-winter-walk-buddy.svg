@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#e8f1fa"/><text x="400" y="52" text-anchor="middle" font-size="30" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for who walks with you</text>
+<path d="M270 290 L160.4 180.4 A155 155 0 0 1 379.6 180.4 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="190.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">DAN</text>
+<path d="M270 290 L379.6 180.4 A155 155 0 0 1 379.6 399.6 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="370.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">GRANDMA</text>
+<path d="M270 290 L379.6 399.6 A155 155 0 0 1 160.4 399.6 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="390.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">SOLO</text>
+<path d="M270 290 L160.4 399.6 A155 155 0 0 1 160.4 180.4 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="170.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">MAYA</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="500" y="150" width="260" height="290" fill="#dbe9f7" stroke="#17243d" stroke-width="2"/>
+<ellipse cx="630" cy="415" rx="110" ry="10" fill="#ffffff"/>
+<circle cx="580" cy="222" r="22" fill="#f2c9a0" stroke="#17243d" stroke-width="2.5"/>
+<circle cx="573" cy="220" r="2.5" fill="#17243d"/><circle cx="587" cy="220" r="2.5" fill="#17243d"/>
+<path d="M554 240 L606 240 L600 330 L560 330 Z" fill="#c0392b" stroke="#17243d" stroke-width="2.5"/>
+<rect x="556" y="236" width="48" height="12" fill="#f4d03f" stroke="#17243d" stroke-width="2"/>
+<line x1="570" y1="330" x2="566" y2="390" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<line x1="590" y1="330" x2="596" y2="390" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<line x1="556" y1="260" x2="540" y2="300" stroke="#17243d" stroke-width="5" stroke-linecap="round"/>
+<line x1="604" y1="260" x2="620" y2="300" stroke="#17243d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="685" cy="222" r="22" fill="#f2c9a0" stroke="#17243d" stroke-width="2.5"/>
+<circle cx="678" cy="220" r="2.5" fill="#17243d"/><circle cx="692" cy="220" r="2.5" fill="#17243d"/>
+<path d="M659 240 L711 240 L705 330 L665 330 Z" fill="#2e86c1" stroke="#17243d" stroke-width="2.5"/>
+<rect x="661" y="236" width="48" height="12" fill="#66c4ae" stroke="#17243d" stroke-width="2"/>
+<line x1="675" y1="330" x2="671" y2="390" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<line x1="695" y1="330" x2="701" y2="390" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<line x1="661" y1="260" x2="645" y2="300" stroke="#17243d" stroke-width="5" stroke-linecap="round"/>
+<line x1="709" y1="260" x2="725" y2="300" stroke="#17243d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="520" cy="140" r="7" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="745" cy="150" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="700" cy="420" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="515" cy="400" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="760" cy="250" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="530" cy="240" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#e8f1fa"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for how long</text>
+<path d="M270 290 L160.4 180.4 A155 155 0 0 1 379.6 180.4 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="190.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">30 MIN</text>
+<path d="M270 290 L379.6 180.4 A155 155 0 0 1 379.6 399.6 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="370.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">45 MIN</text>
+<path d="M270 290 L379.6 399.6 A155 155 0 0 1 160.4 399.6 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="390.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">60 MIN</text>
+<path d="M270 290 L160.4 399.6 A155 155 0 0 1 160.4 180.4 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="170.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">20 MIN</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<circle cx="630" cy="295" r="100" fill="#ffffff" stroke="#17243d" stroke-width="4"/>
+<line x1="630" y1="205" x2="630" y2="225" stroke="#17243d" stroke-width="4"/>
+<line x1="630" y1="365" x2="630" y2="385" stroke="#17243d" stroke-width="4"/>
+<line x1="540" y1="295" x2="560" y2="295" stroke="#17243d" stroke-width="4"/>
+<line x1="700" y1="295" x2="720" y2="295" stroke="#17243d" stroke-width="4"/>
+<line x1="630" y1="295" x2="630" y2="235" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="295" x2="682" y2="295" stroke="#17243d" stroke-width="6" stroke-linecap="round"/>
+<circle cx="630" cy="295" r="8" fill="#17243d"/>
+<rect x="560" y="405" width="140" height="16" fill="#8a5a3b" stroke="#17243d" stroke-width="2"/>
+<circle cx="520" cy="140" r="7" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="745" cy="150" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="700" cy="420" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="515" cy="400" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="760" cy="250" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="530" cy="240" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#e8f1fa"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Winter walk wheel</text>
+<path d="M270 290 L160.4 180.4 A155 155 0 0 1 379.6 180.4 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="190.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">PARK TRAIL</text>
+<path d="M270 290 L379.6 180.4 A155 155 0 0 1 379.6 399.6 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="370.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">RIVER PATH</text>
+<path d="M270 290 L379.6 399.6 A155 155 0 0 1 160.4 399.6 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="390.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LOOP</text>
+<path d="M270 290 L160.4 399.6 A155 155 0 0 1 160.4 180.4 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="170.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LIGHTS</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="500" y="150" width="260" height="290" fill="#dbe9f7" stroke="#17243d" stroke-width="2"/>
+<polygon points="560,440 700,440 650,160 610,160" fill="#ffffff" stroke="#17243d" stroke-width="2"/>
+<ellipse cx="630" cy="430" rx="110" ry="10" fill="#ffffff"/>
+<rect x="535" y="280" width="11" height="20" fill="#8a5a3b"/>
+<path d="M540 210 L509 253 L571 253 Z" fill="#2e7d5b"/>
+<path d="M540 241 L502 284 L578 284 Z" fill="#2e7d5b"/>
+<path d="M540 210 L529 224 L551 224 Z" fill="#ffffff"/>
+<rect x="710" y="292" width="10" height="18" fill="#8a5a3b"/>
+<path d="M715 230 L688 268 L742 268 Z" fill="#2e7d5b"/>
+<path d="M715 257 L681 296 L749 296 Z" fill="#2e7d5b"/>
+<path d="M715 230 L705 243 L725 243 Z" fill="#ffffff"/>
+<circle cx="520" cy="140" r="7" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="745" cy="150" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="700" cy="420" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="515" cy="400" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="760" cy="250" r="5" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+<circle cx="512" cy="320" r="6" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+</svg>
