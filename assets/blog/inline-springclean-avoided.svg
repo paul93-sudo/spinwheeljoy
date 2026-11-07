@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#e8f1fa"/>
+<text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">Spin for the room everyone avoids</text>
+<path d="M270 290 L178.9 164.6 A155 155 0 0 1 361.1 164.6 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="270.0" y="193.9" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">GARAGE</text>
+<path d="M270 290 L361.1 164.6 A155 155 0 0 1 417.4 337.9 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="361.4" y="260.3" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">KITCHEN</text>
+<path d="M270 290 L417.4 337.9 A155 155 0 0 1 270.0 445.0 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="326.5" y="367.7" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">BATHROOM</text>
+<path d="M270 290 L270.0 445.0 A155 155 0 0 1 122.6 337.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="213.5" y="367.7" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">BEDROOM</text>
+<path d="M270 290 L122.6 337.9 A155 155 0 0 1 178.9 164.6 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="178.6" y="260.3" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LIVING</text>
+<circle cx="270" cy="290" r="155" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="270" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="270" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M254 105 L286 105 L270 139 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="540" y="220" width="90" height="90" fill="#fac56b" stroke="#17243d" stroke-width="2"/>
+<rect x="640" y="220" width="90" height="90" fill="#66c4ae" stroke="#17243d" stroke-width="2"/>
+<rect x="590" y="150" width="90" height="70" fill="#ac9be9" stroke="#17243d" stroke-width="2"/>
+<text x="635" y="360" text-anchor="middle" font-size="20" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">THE GARAGE</text>
+</svg>
