@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6e3"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">Spin for the music every hour</text><path d="M250 290 L175.0 160.1 A150 150 0 0 1 325.0 160.1 Z" fill="#3fae6a" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="200.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-90.0 250.0 200.0)">TRAD</text>
+<path d="M250 290 L325.0 160.1 A150 150 0 0 1 400.0 290.0 Z" fill="#f4c542" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-30.0 327.9 245.0)">FOLK ROCK</text>
+<path d="M250 290 L400.0 290.0 A150 150 0 0 1 325.0 419.9 Z" fill="#2e7d4f" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(30.0 327.9 335.0)">POP</text>
+<path d="M250 290 L325.0 419.9 A150 150 0 0 1 175.0 419.9 Z" fill="#7ed491" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="380.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(90.0 250.0 380.0)">CEILIDH</text>
+<path d="M250 290 L175.0 419.9 A150 150 0 0 1 100.0 290.0 Z" fill="#e8e0c8" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(330.0 172.1 335.0)">SINGALONG</text>
+<path d="M250 290 L100.0 290.0 A150 150 0 0 1 175.0 160.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(390.0 172.1 245.0)">QUIET</text>
+<circle cx="250" cy="290" r="150" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="250" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">SPIN</text>
+<path d="M234 110 L266 110 L250 144 Z" fill="#17243d" stroke="#fff" stroke-width="2"/><ellipse cx="510" cy="300" rx="22.0" ry="16.0" fill="#17243d"/><rect x="528.0" y="230.0" width="5" height="70" fill="#17243d"/><ellipse cx="600" cy="270" rx="19.8" ry="14.4" fill="#17243d"/><rect x="616.2" y="207.0" width="5" height="70" fill="#17243d"/><ellipse cx="680" cy="310" rx="24.200000000000003" ry="17.6" fill="#17243d"/><rect x="699.8" y="233.0" width="5" height="70" fill="#17243d"/><rect x="490" y="360" width="240" height="8" rx="4" fill="#17243d"/></svg>
