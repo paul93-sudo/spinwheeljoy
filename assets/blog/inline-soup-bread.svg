@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6e3"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">Spin for the bread on the side</text><path d="M250 290 L143.9 396.1 A150 150 0 0 1 143.9 183.9 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="160.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(0.0 160.0 290.0)">SOURDOUGH</text>
+<path d="M250 290 L143.9 183.9 A150 150 0 0 1 356.1 183.9 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="200.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(-90.0 250.0 200.0)">GRILLED</text>
+<path d="M250 290 L356.1 183.9 A150 150 0 0 1 356.1 396.1 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="340.0" y="290.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(0.0 340.0 290.0)">CRACKERS</text>
+<path d="M250 290 L356.1 396.1 A150 150 0 0 1 143.9 396.1 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="380.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d" transform="rotate(90.0 250.0 380.0)">ROLLS</text>
+<circle cx="250" cy="290" r="150" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="250" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">SPIN</text>
+<path d="M234 110 L266 110 L250 144 Z" fill="#17243d" stroke="#fff" stroke-width="2"/><rect x="510" y="260" width="230" height="26" rx="8" fill="#d99a4e" stroke="#17243d" stroke-width="3"/><rect x="510" y="286" width="230" height="22" rx="6" fill="#fac56b" stroke="#17243d" stroke-width="3"/><path d="M560 308 q8 22 16 0 M620 308 q8 26 16 0 M680 308 q8 20 16 0" fill="none" stroke="#fac56b" stroke-width="6" stroke-linecap="round"/><rect x="510" y="320" width="230" height="26" rx="8" fill="#d99a4e" stroke="#17243d" stroke-width="3"/></svg>
