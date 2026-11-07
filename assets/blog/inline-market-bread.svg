@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#fdf6ec"/>
+<text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Spin for the bread and cheese</text>
+<g transform="rotate(-210.0 300 360)">
+<path d="M 300 360 L 300.0 165.0 A 195 195 0 0 1 468.9 262.5 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="364.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 364.0 249.1)">BAGUETTE</text>
+<path d="M 300 360 L 468.9 262.5 A 195 195 0 0 1 468.9 457.5 Z" fill="#f4a259" stroke="#ffffff" stroke-width="3"/>
+<text x="428.0" y="360.0" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 428.0 360.0)">RYE</text>
+<path d="M 300 360 L 468.9 457.5 A 195 195 0 0 1 300.0 555.0 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="364.0" y="470.9" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 364.0 470.9)">ROLLS</text>
+<path d="M 300 360 L 300.0 555.0 A 195 195 0 0 1 131.1 457.5 Z" fill="#3fa46a" stroke="#ffffff" stroke-width="3"/>
+<text x="236.0" y="470.9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 236.0 470.9)">SOURDOUGH</text>
+<path d="M 300 360 L 131.1 457.5 A 195 195 0 0 1 131.1 262.5 Z" fill="#f2c14e" stroke="#ffffff" stroke-width="3"/>
+<text x="172.0" y="360.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 172.0 360.0)">FOCACCIA</text>
+<path d="M 300 360 L 131.1 262.5 A 195 195 0 0 1 300.0 165.0 Z" fill="#8e6cc8" stroke="#ffffff" stroke-width="3"/>
+<text x="236.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 236.0 249.1)">CORNBREAD</text>
+</g>
+<circle cx="300" cy="360" r="24" fill="#1f2937"/><circle cx="300" cy="360" r="9" fill="#ffffff"/>
+<polygon points="300,148 276,192 324,192" fill="#1f2937"/>
+<g>
+<ellipse cx="700" cy="400" rx="130" ry="58" fill="#b07a3f"/>
+<ellipse cx="700" cy="388" rx="130" ry="50" fill="#d99a4e"/>
+<path d="M 640 380 L 680 400 M 700 375 L 740 395 M 760 380 L 795 398" stroke="#8a5a28" stroke-width="5" stroke-linecap="round"/>
+<path d="M 600 500 L 820 500 L 760 570 L 600 570 Z" fill="#f2c14e"/>
+<circle cx="680" cy="530" r="10" fill="#e0a92e"/><circle cx="740" cy="540" r="8" fill="#e0a92e"/>
+<text x="710" y="600" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#1f2937" text-anchor="middle">ONE LOAF, ONE CHEESE</text>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#fdf6ec"/>
+<text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Fourth of July cookout wheel</text>
+<g transform="rotate(-210.0 290 370)">
+<path d="M 290 370 L 290.0 175.0 A 195 195 0 0 1 458.9 272.5 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="354.0" y="259.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 354.0 259.1)">BURGERS</text>
+<path d="M 290 370 L 458.9 272.5 A 195 195 0 0 1 458.9 467.5 Z" fill="#ffffff" stroke="#ffffff" stroke-width="3"/>
+<text x="418.0" y="370.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 418.0 370.0)">DOGS</text>
+<path d="M 290 370 L 458.9 467.5 A 195 195 0 0 1 290.0 565.0 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="354.0" y="480.9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 354.0 480.9)">GAMES</text>
+<path d="M 290 370 L 290.0 565.0 A 195 195 0 0 1 121.1 467.5 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="226.0" y="480.9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 226.0 480.9)">FIREWORKS</text>
+<path d="M 290 370 L 121.1 467.5 A 195 195 0 0 1 121.1 272.5 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="162.0" y="370.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 162.0 370.0)">MUSIC</text>
+<path d="M 290 370 L 121.1 272.5 A 195 195 0 0 1 290.0 175.0 Z" fill="#f08c2e" stroke="#ffffff" stroke-width="3"/>
+<text x="226.0" y="259.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" transform="rotate(210.0 226.0 259.1)">SPARKLERS</text>
+</g>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,118 318,118 290,172" fill="#1f2937"/>
+<rect x="282" y="100" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,560 310,560 290,600" fill="#1f2937"/>
+<line x1="640" y1="230" x2="640" y2="184" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="673" y2="197" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="686" y2="230" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="673" y2="263" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="640" y2="276" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="607" y2="263" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="594" y2="230" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<line x1="640" y1="230" x2="607" y2="197" stroke="#e5484d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="640" cy="230" r="8" fill="#e5484d"/>
+<line x1="740" y1="190" x2="740" y2="144" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="773" y2="157" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="786" y2="190" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="773" y2="223" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="740" y2="236" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="707" y2="223" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="694" y2="190" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<line x1="740" y1="190" x2="707" y2="157" stroke="#2f6fd6" stroke-width="5" stroke-linecap="round"/>
+<circle cx="740" cy="190" r="8" fill="#2f6fd6"/>
+<line x1="700" y1="290" x2="700" y2="244" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="733" y2="257" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="746" y2="290" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="733" y2="323" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="700" y2="336" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="667" y2="323" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="654" y2="290" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<line x1="700" y1="290" x2="667" y2="257" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+<circle cx="700" cy="290" r="8" fill="#f5c542"/>
+<polyline points="580,380 685,410 790,380" fill="none" stroke="#1f2937" stroke-width="3"/>
+<polygon points="610,388 630,388 620,412" fill="#e5484d"/>
+<polygon points="665,398 685,398 675,422" fill="#2f6fd6"/>
+<polygon points="720,388 740,388 730,412" fill="#f5c542"/>
+<text x="685" y="500" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#1f2937" text-anchor="middle">July 4th cookout</text>
+</svg>
