@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fdf6e9"/>
+<text x="400" y="48" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="800" fill="#17243d">Beach day pack wheel</text>
+<path d="M250 270 L160.0 114.1 A180 180 0 0 1 340.0 114.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="158.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">SUNSCREEN</text>
+<path d="M250 270 L340.0 114.1 A180 180 0 0 1 430.0 270.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="347.0" y="214.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">TOWELS</text>
+<path d="M250 270 L430.0 270.0 A180 180 0 0 1 340.0 425.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="347.0" y="326.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">SHADE</text>
+<path d="M250 270 L340.0 425.9 A180 180 0 0 1 160.0 425.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="382.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">SNACKS</text>
+<path d="M250 270 L160.0 425.9 A180 180 0 0 1 70.0 270.0 Z" fill="#78a6ee" stroke="#fff" stroke-width="3"/>
+<text x="153.0" y="326.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">WATER</text>
+<path d="M250 270 L70.0 270.0 A180 180 0 0 1 160.0 114.1 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="153.0" y="214.0" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="800" fill="#17243d">BOOK</text>
+<circle cx="250" cy="270" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="276" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="800" fill="#17243d">SPIN</text>
+<path d="M234 62 L266 62 L250 108 Z" fill="#17243d"/>
+<rect x="242" y="448" width="16" height="30" fill="#17243d"/>
+<rect x="190" y="476" width="120" height="10" rx="5" fill="#17243d"/>
+
+<circle cx="620" cy="160" r="42" fill="#fac56b"/><circle cx="620" cy="160" r="42" fill="none" stroke="#f4a77a" stroke-width="4"/>
+<rect x="540" y="300" width="160" height="140" rx="12" fill="#fb8581"/>
+<rect x="540" y="340" width="160" height="28" fill="#fdf6e9"/>
+<path d="M575 300 Q610 245 645 300" fill="none" stroke="#17243d" stroke-width="8"/>
+<circle cx="575" cy="300" r="7" fill="#17243d"/><circle cx="645" cy="300" r="7" fill="#17243d"/>
+</svg>
