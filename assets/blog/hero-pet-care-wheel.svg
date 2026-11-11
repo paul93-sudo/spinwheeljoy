@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fdf6ec"/>
+<path d="M 280 230 L 197.5 87.1 A 165 165 0 0 1 362.5 87.1 Z" fill="#ffd166" stroke="#fff" stroke-width="3"/>
+<text x="280.0" y="127.7" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">WALK</text>
+<path d="M 280 230 L 362.5 87.1 A 165 165 0 0 1 445.0 230.0 Z" fill="#8ecae6" stroke="#fff" stroke-width="3"/>
+<text x="368.6" y="178.9" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">FEED</text>
+<path d="M 280 230 L 445.0 230.0 A 165 165 0 0 1 362.5 372.9 Z" fill="#95d5b2" stroke="#fff" stroke-width="3"/>
+<text x="368.6" y="281.1" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">SCOOP</text>
+<path d="M 280 230 L 362.5 372.9 A 165 165 0 0 1 197.5 372.9 Z" fill="#f4a261" stroke="#fff" stroke-width="3"/>
+<text x="280.0" y="332.3" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">BATH</text>
+<path d="M 280 230 L 197.5 372.9 A 165 165 0 0 1 115.0 230.0 Z" fill="#cdb4db" stroke="#fff" stroke-width="3"/>
+<text x="191.4" y="281.1" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">VET</text>
+<path d="M 280 230 L 115.0 230.0 A 165 165 0 0 1 197.5 87.1 Z" fill="#ffafcc" stroke="#fff" stroke-width="3"/>
+<text x="191.4" y="178.8" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222" text-anchor="middle" dominant-baseline="middle">PLAY</text>
+<circle cx="280" cy="230" r="26" fill="#fff" stroke="#222" stroke-width="3"/>
+<polygon points="262,31 298,31 280,71" fill="#e5484d" stroke="#222" stroke-width="2"/>
+<rect x="272" y="395" width="16" height="46" fill="#8a6d3b"/>
+<rect x="228" y="437" width="104" height="12" rx="6" fill="#8a6d3b"/>
+    <g transform="translate(560,330) scale(1.15)">
+      <ellipse cx="0" cy="28" rx="52" ry="34" fill="#b07a45"/>
+      <circle cx="52" cy="-6" r="30" fill="#b07a45"/>
+      <polygon points="30,-26 44,-58 58,-28" fill="#7a4f26"/>
+      <polygon points="62,-26 74,-56 84,-24" fill="#7a4f26"/>
+      <circle cx="62" cy="-8" r="5" fill="#222"/>
+      <ellipse cx="72" cy="4" rx="10" ry="7" fill="#222"/>
+      <rect x="-44" y="52" width="16" height="30" rx="6" fill="#b07a45"/>
+      <rect x="28" y="52" width="16" height="30" rx="6" fill="#b07a45"/>
+      <path d="M -50 20 Q -78 0 -70 -22" fill="none" stroke="#b07a45" stroke-width="12" stroke-linecap="round"/>
+      <path d="M -52 62 Q -20 78 10 62" fill="none" stroke="#e5484d" stroke-width="5"/>
+    </g><text x="400" y="470" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#222" text-anchor="middle">Who walks Biscuit this week?</text>
+</svg>
