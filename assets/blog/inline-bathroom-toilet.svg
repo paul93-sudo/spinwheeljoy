@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#fdf6e3"/>
+<text x="450" y="52" text-anchor="middle" font-size="26" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">The toilet job nobody trades for</text><path d="M260 330 L146.9 216.9 A160 160 0 0 1 373.1 216.9 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="218.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">TOILET</text>
+<path d="M260 330 L373.1 216.9 A160 160 0 0 1 373.1 443.1 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="372.0" y="330.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">TUB</text>
+<path d="M260 330 L373.1 443.1 A160 160 0 0 1 146.9 443.1 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="442.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">SINK</text>
+<path d="M260 330 L146.9 443.1 A160 160 0 0 1 146.9 216.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="148.0" y="330.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">MIRROR</text>
+<path d="M245 140 L275 140 L260 174" fill="#e4572e"/>
+<circle cx="260" cy="136" r="6" fill="#e4572e"/>
+<circle cx="260" cy="330" r="18" fill="#17243d"/>
+<circle cx="260" cy="330" r="7" fill="#fdf6e3"/>
+<rect x="254" y="490" width="12" height="30" fill="#17243d"/>
+<rect x="200" y="518" width="120" height="10" rx="5" fill="#17243d"/><rect x="0" y="535" width="900" height="200" fill="#e8d5a8"/><rect x="0" y="535" width="900" height="4" fill="#c9ad72"/><rect x="640" y="348" width="120" height="96" rx="10" fill="#ffffff" stroke="#17243d" stroke-width="2.5"/><rect x="632" y="340" width="136" height="14" rx="7" fill="#ffffff" stroke="#17243d" stroke-width="2.5"/><circle cx="700" cy="356" r="7" fill="#c0c8d0" stroke="#17243d" stroke-width="2"/><ellipse cx="700" cy="452" rx="72" ry="16" fill="#ffffff" stroke="#17243d" stroke-width="2.5"/><ellipse cx="700" cy="452" rx="52" ry="10" fill="#a8c8f0" stroke="#17243d" stroke-width="2"/><path d="M640 456 Q644 500 668 512 L668 535 L732 535 L732 512 Q756 500 760 456 Z" fill="#ffffff" stroke="#17243d" stroke-width="2.5"/><rect x="656" y="532" width="88" height="8" rx="4" fill="#ffffff" stroke="#17243d" stroke-width="2.5"/><rect x="800" y="478" width="34" height="57" rx="6" fill="#ac9be9" stroke="#17243d" stroke-width="2.5"/><line x1="817" y1="480" x2="817" y2="428" stroke="#b07a45" stroke-width="7" stroke-linecap="round"/><circle cx="817" cy="420" r="12" fill="#5b6b7f" stroke="#17243d" stroke-width="2"/><line x1="866" y1="420" x2="866" y2="500" stroke="#b07a45" stroke-width="7" stroke-linecap="round"/><path d="M844 500 L888 500 L880 528 L852 528 Z" fill="#e4572e" stroke="#17243d" stroke-width="2.5"/><rect x="588" y="487" width="24" height="48" rx="6" fill="#78a6ee" stroke="#17243d" stroke-width="2.5"/>
+<rect x="593" y="477" width="14" height="11" rx="3" fill="#4a9e86" stroke="#17243d" stroke-width="2"/>
+<rect x="593" y="473" width="26" height="7" rx="3" fill="#4a9e86" stroke="#17243d" stroke-width="2"/>
+<rect x="593" y="497" width="14" height="20" rx="2" fill="#ffffff" stroke="#17243d" stroke-width="1.5"/>
+</svg>

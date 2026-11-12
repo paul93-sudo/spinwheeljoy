@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#fdf6e3"/>
+<text x="450" y="52" text-anchor="middle" font-size="26" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">The weekly rotation, and who keeps track</text><path d="M260 330 L146.9 216.9 A160 160 0 0 1 373.1 216.9 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="218.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">FLOOR</text>
+<path d="M260 330 L373.1 216.9 A160 160 0 0 1 373.1 443.1 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="372.0" y="330.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">TUB</text>
+<path d="M260 330 L373.1 443.1 A160 160 0 0 1 146.9 443.1 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="442.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">TOILET</text>
+<path d="M260 330 L146.9 443.1 A160 160 0 0 1 146.9 216.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="148.0" y="330.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">SINK</text>
+<path d="M245 140 L275 140 L260 174" fill="#e4572e"/>
+<circle cx="260" cy="136" r="6" fill="#e4572e"/>
+<circle cx="260" cy="330" r="18" fill="#17243d"/>
+<circle cx="260" cy="330" r="7" fill="#fdf6e3"/>
+<rect x="254" y="490" width="12" height="30" fill="#17243d"/>
+<rect x="200" y="518" width="120" height="10" rx="5" fill="#17243d"/><rect x="0" y="535" width="900" height="200" fill="#e8d5a8"/><rect x="0" y="535" width="900" height="4" fill="#c9ad72"/><path d="M800 470 L860 470 L854 535 L806 535 Z" fill="#78a6ee" stroke="#17243d" stroke-width="2.5"/><ellipse cx="830" cy="470" rx="30" ry="7" fill="#a8c8f0" stroke="#17243d" stroke-width="2"/><rect x="816" y="448" width="28" height="14" rx="4" fill="#5b8fd6" stroke="#17243d" stroke-width="2"/><circle cx="640" cy="372" r="25" fill="#6b4226"/>
+<circle cx="642" cy="376" r="23" fill="#f2c89b"/>
+<rect x="615" y="370" width="12" height="29" rx="6" fill="#6b4226"/>
+<circle cx="633" cy="374" r="2.5" fill="#17243d"/>
+<circle cx="649" cy="374" r="2.5" fill="#17243d"/>
+<path d="M635 384 Q642 390 649 384" stroke="#17243d" stroke-width="2.5" fill="none" stroke-linecap="round"/><rect x="616" y="400" width="48" height="98" rx="14" fill="#66c4ae" stroke="#17243d" stroke-width="2.5"/><rect x="616" y="498" width="48" height="37" rx="8" fill="#4a6fa5" stroke="#17243d" stroke-width="2.5"/><line x1="664" y1="424" x2="742" y2="500" stroke="#b07a45" stroke-width="8" stroke-linecap="round"/><circle cx="668" cy="428" r="8" fill="#f2c89b"/><circle cx="700" cy="462" r="8" fill="#f2c89b"/><rect x="726" y="500" width="64" height="14" rx="7" fill="#fac56b" stroke="#17243d" stroke-width="2.5"/><line x1="734" y1="514" x2="730" y2="530" stroke="#e8a83e" stroke-width="3" stroke-linecap="round"/><line x1="748" y1="514" x2="746" y2="530" stroke="#e8a83e" stroke-width="3" stroke-linecap="round"/><line x1="762" y1="514" x2="764" y2="530" stroke="#e8a83e" stroke-width="3" stroke-linecap="round"/><line x1="776" y1="514" x2="780" y2="530" stroke="#e8a83e" stroke-width="3" stroke-linecap="round"/>
+</svg>
