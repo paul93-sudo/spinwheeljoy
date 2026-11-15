@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">The safe pile</text><path d="M 290 370 L 175.4 212.2 A 195 195 0 0 1 404.6 212.2 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SAFE PILE</text>
+<path d="M 290 370 L 404.6 212.2 A 195 195 0 0 1 475.5 430.3 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="332.6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">NUT-FREE</text>
+<path d="M 290 370 L 475.5 430.3 A 195 195 0 0 1 290.0 565.0 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="361.1" y="467.8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DAIRY-FREE</text>
+<path d="M 290 370 L 290.0 565.0 A 195 195 0 0 1 104.5 430.3 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="218.9" y="467.8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">CHECK</text>
+<path d="M 290 370 L 104.5 430.3 A 195 195 0 0 1 175.4 212.2 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="175.0" y="332.6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">TRADE</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/><rect x="620" y="250" width="180" height="110" rx="10" fill="#ffffff" stroke="#3fae6a" stroke-width="4"/><path d="M 660 310 L 695 345 L 765 270" fill="none" stroke="#3fae6a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><text x="710" y="395" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#3fae6a" text-anchor="middle">SAFE</text><path d="M 620 430 Q 710 460 800 430 L 790 470 L 630 470 Z" fill="#2f6fd6"/><polygon points="628,419 642,425 628,431" fill="#e5484d"/><polygon points="702,419 688,425 702,431" fill="#e5484d"/><rect x="642" y="414" width="46" height="22" rx="8" fill="#e5484d"/><polygon points="683,419 697,425 683,431" fill="#f5c542"/><polygon points="757,419 743,425 757,431" fill="#f5c542"/><rect x="697" y="414" width="46" height="22" rx="8" fill="#f5c542"/><polygon points="738,419 752,425 738,431" fill="#3fae6a"/><polygon points="812,419 798,425 812,431" fill="#3fae6a"/><rect x="752" y="414" width="46" height="22" rx="8" fill="#3fae6a"/><rect x="560" y="484" width="300" height="14" fill="#86a860"/></svg>

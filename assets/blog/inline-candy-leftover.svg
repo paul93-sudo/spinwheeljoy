@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Movie night stash</text><path d="M 290 370 L 175.4 212.2 A 195 195 0 0 1 404.6 212.2 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">MOVIE</text>
+<path d="M 290 370 L 404.6 212.2 A 195 195 0 0 1 475.5 430.3 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="405.0" y="332.6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">BAKE</text>
+<path d="M 290 370 L 475.5 430.3 A 195 195 0 0 1 290.0 565.0 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="361.1" y="467.8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">FREEZE</text>
+<path d="M 290 370 L 290.0 565.0 A 195 195 0 0 1 104.5 430.3 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="218.9" y="467.8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">LUNCHBOX</text>
+<path d="M 290 370 L 104.5 430.3 A 195 195 0 0 1 175.4 212.2 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="175.0" y="332.6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SHARE</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/><path d="M 610 400 L 810 400 L 790 470 L 630 470 Z" fill="#e5484d"/><rect x="625" y="412" width="170" height="12" fill="#ffffff"/><rect x="635" y="438" width="150" height="12" fill="#ffffff"/><circle cx="650" cy="385" r="16" fill="#fdf6ec" stroke="#e8821e" stroke-width="3"/><circle cx="690" cy="378" r="16" fill="#fdf6ec" stroke="#e8821e" stroke-width="3"/><circle cx="730" cy="385" r="16" fill="#fdf6ec" stroke="#e8821e" stroke-width="3"/><circle cx="770" cy="378" r="16" fill="#fdf6ec" stroke="#e8821e" stroke-width="3"/><circle cx="710" cy="368" r="16" fill="#fdf6ec" stroke="#e8821e" stroke-width="3"/><polygon points="643,344 657,350 643,356" fill="#2f6fd6"/><polygon points="717,344 703,350 717,356" fill="#2f6fd6"/><rect x="657" y="339" width="46" height="22" rx="8" fill="#2f6fd6"/><polygon points="708,344 722,350 708,356" fill="#3fae6a"/><polygon points="782,344 768,350 782,356" fill="#3fae6a"/><rect x="722" y="339" width="46" height="22" rx="8" fill="#3fae6a"/><rect x="560" y="484" width="300" height="14" fill="#86a860"/></svg>

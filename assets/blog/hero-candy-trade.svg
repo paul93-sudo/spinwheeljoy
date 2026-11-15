@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Tonight's candy trade</text><path d="M 290 370 L 192.5 201.1 A 195 195 0 0 1 387.5 201.1 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">TRADE</text>
+<path d="M 290 370 L 387.5 201.1 A 195 195 0 0 1 485.0 370.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="394.7" y="309.6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">KEEP</text>
+<path d="M 290 370 L 485.0 370.0 A 195 195 0 0 1 387.5 538.9 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="394.7" y="430.4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DONATE</text>
+<path d="M 290 370 L 387.5 538.9 A 195 195 0 0 1 192.5 538.9 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="490.9" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SWAP</text>
+<path d="M 290 370 L 192.5 538.9 A 195 195 0 0 1 95.0 370.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="185.3" y="430.4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SAVE</text>
+<path d="M 290 370 L 95.0 370.0 A 195 195 0 0 1 192.5 201.1 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="185.3" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">EAT</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/><rect x="560" y="470" width="300" height="14" fill="#86a860"/><path d="M 655 345 L 765 345 L 752 455 L 668 455 Z" fill="#e8821e"/><rect x="655" y="338" width="110" height="12" rx="6" fill="#c96a10"/><path d="M 655 345 Q 710 290 765 345" fill="none" stroke="#1f2937" stroke-width="5"/><polygon points="623,324 637,330 623,336" fill="#e5484d"/><polygon points="697,324 683,330 697,336" fill="#e5484d"/><rect x="637" y="319" width="46" height="22" rx="8" fill="#e5484d"/><polygon points="693,312 707,318 693,324" fill="#2f6fd6"/><polygon points="767,312 753,318 767,324" fill="#2f6fd6"/><rect x="707" y="307" width="46" height="22" rx="8" fill="#2f6fd6"/><polygon points="723,342 737,348 723,354" fill="#3fae6a"/><polygon points="797,342 783,348 797,354" fill="#3fae6a"/><rect x="737" y="337" width="46" height="22" rx="8" fill="#3fae6a"/></svg>
