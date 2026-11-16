@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Who tends the fire?</text><path d="M 290 370 L 192.5 201.1 A 195 195 0 0 1 387.5 201.1 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DAD</text>
+<path d="M 290 370 L 387.5 201.1 A 195 195 0 0 1 485.0 370.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="394.7" y="309.6" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">UNCLE</text>
+<path d="M 290 370 L 485.0 370.0 A 195 195 0 0 1 387.5 538.9 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="394.7" y="430.4" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">MAYA</text>
+<path d="M 290 370 L 387.5 538.9 A 195 195 0 0 1 192.5 538.9 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="490.9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">TOM</text>
+<path d="M 290 370 L 192.5 538.9 A 195 195 0 0 1 95.0 370.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="185.3" y="430.4" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">MOM</text>
+<path d="M 290 370 L 95.0 370.0 A 195 195 0 0 1 192.5 201.1 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="185.3" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">GRANDPA</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/><rect x="560" y="470" width="300" height="14" fill="#86a860"/><ellipse cx="700" cy="420" rx="80.75" ry="15.299999999999999" fill="#6b7280"/><ellipse cx="700" cy="414.9" rx="66.3" ry="11.049999999999999" fill="#4b3621"/><rect x="646.2" y="400.05" width="47.6" height="11.9" rx="7" fill="#8b5a2b" transform="rotate(-18 670 406)"/><rect x="706.2" y="400.05" width="47.6" height="11.9" rx="7" fill="#8b5a2b" transform="rotate(18 730 406)"/><rect x="676.2" y="392.05" width="47.6" height="11.9" rx="7" fill="#8b5a2b" transform="rotate(0 700 398)"/><path d="M 672.8 406.4 Q 664.3 352.0 700 335.0 Q 732.3 352.0 725.5 406.4 Z" fill="#e8821e"/><path d="M 686.4 408.1 Q 683.0 379.2 700 369.0 Q 715.3 379.2 712.75 408.1 Z" fill="#f5c542"/><circle cx="633.7" cy="421.7" r="11.049999999999999" fill="#9aa3ad"/><circle cx="661.75" cy="421.7" r="11.049999999999999" fill="#9aa3ad"/><circle cx="700.0" cy="421.7" r="11.049999999999999" fill="#9aa3ad"/><circle cx="738.25" cy="421.7" r="11.049999999999999" fill="#9aa3ad"/><circle cx="766.3" cy="421.7" r="11.049999999999999" fill="#9aa3ad"/><rect x="790" y="300" width="8" height="150" rx="4" fill="#1f2937" transform="rotate(18 794 375)"/><circle cx="812" cy="296" r="10" fill="#1f2937"/></svg>
