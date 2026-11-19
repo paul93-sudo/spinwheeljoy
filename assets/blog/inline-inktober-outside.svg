@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">Spin for outside</text><path d="M 290 370 L 192.5 201.1 A 195 195 0 0 1 387.5 201.1 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">LEAF</text>
+<path d="M 290 370 L 387.5 201.1 A 195 195 0 0 1 485.0 370.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="394.8" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">BIRD</text>
+<path d="M 290 370 L 485.0 370.0 A 195 195 0 0 1 387.5 538.9 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="394.8" y="430.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">BRIDGE</text>
+<path d="M 290 370 L 387.5 538.9 A 195 195 0 0 1 192.5 538.9 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="491.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">BENCH</text>
+<path d="M 290 370 L 192.5 538.9 A 195 195 0 0 1 95.0 370.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="185.2" y="430.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">FENCE</text>
+<path d="M 290 370 L 95.0 370.0 A 195 195 0 0 1 192.5 201.1 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="185.2" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">PUDDLE</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/>
+<rect x="560" y="470" width="300" height="14" fill="#e5d9c3"/>
+<ellipse cx="735" cy="450" rx="130" ry="16" fill="#8b5a2b"/>
+<path d="M 735 270 Q 830 300 800 400 Q 760 460 735 470 Q 710 460 670 400 Q 640 300 735 270 Z" fill="#3fae6a"/>
+<line x1="735" y1="285" x2="735" y2="460" stroke="#2c7a4b" stroke-width="4"/>
+<line x1="735" y1="330" x2="775" y2="350" stroke="#2c7a4b" stroke-width="3"/>
+<line x1="735" y1="330" x2="695" y2="350" stroke="#2c7a4b" stroke-width="3"/>
+<line x1="735" y1="380" x2="770" y2="400" stroke="#2c7a4b" stroke-width="3"/>
+<line x1="735" y1="380" x2="700" y2="400" stroke="#2c7a4b" stroke-width="3"/>
+<line x1="735" y1="460" x2="735" y2="472" stroke="#2c7a4b" stroke-width="4"/>
+</svg>
