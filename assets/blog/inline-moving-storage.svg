@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620"><rect width="900" height="620" fill="#fdf6ec"/><text x="450" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#1f2937" text-anchor="middle">STORAGE FIRST</text><path d="M 290 370 L 192.5 201.1 A 195 195 0 0 1 387.5 201.1 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="249.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">GARAGE</text>
+<path d="M 290 370 L 387.5 201.1 A 195 195 0 0 1 485.0 370.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="394.8" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">ATTIC</text>
+<path d="M 290 370 L 485.0 370.0 A 195 195 0 0 1 387.5 538.9 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="394.8" y="430.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SPARE</text>
+<path d="M 290 370 L 387.5 538.9 A 195 195 0 0 1 192.5 538.9 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="290.0" y="491.0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DEN</text>
+<path d="M 290 370 L 192.5 538.9 A 195 195 0 0 1 95.0 370.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="185.2" y="430.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SHED</text>
+<path d="M 290 370 L 95.0 370.0 A 195 195 0 0 1 192.5 201.1 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="185.2" y="309.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">BASEMENT</text>
+<circle cx="290" cy="370" r="26" fill="#1f2937"/>
+<circle cx="290" cy="370" r="10" fill="#ffffff"/>
+<polygon points="262,123 318,123 290,177" fill="#1f2937"/>
+<rect x="282" y="105" width="16" height="22" fill="#1f2937"/>
+<polygon points="270,570 310,570 290,610" fill="#1f2937"/>
+<rect x="570" y="300" width="290" height="12" fill="#8a5a2b"/><rect x="590" y="200" width="100" height="100" fill="#d9a05b" stroke="#8a5a2b" stroke-width="3"/><rect x="632" y="200" width="16" height="100" fill="#b07a3f"/><line x1="590" y1="212" x2="690" y2="212" stroke="#8a5a2b" stroke-width="2"/><rect x="710" y="210" width="90" height="90" fill="#d9a05b" stroke="#8a5a2b" stroke-width="3"/><rect x="747" y="210" width="16" height="90" fill="#b07a3f"/><line x1="710" y1="222" x2="800" y2="222" stroke="#8a5a2b" stroke-width="2"/><rect x="820" y="230" width="36" height="70" fill="#e5e7eb" stroke="#4b5563" stroke-width="3"/><rect x="820" y="230" width="36" height="14" fill="#2f6fd6"/><rect x="640" y="320" width="120" height="130" fill="#d9a05b" stroke="#8a5a2b" stroke-width="3"/><rect x="692" y="320" width="16" height="130" fill="#b07a3f"/><line x1="640" y1="332" x2="760" y2="332" stroke="#8a5a2b" stroke-width="2"/><text x="715" y="520" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle">GARAGE SHELF</text><rect x="560" y="470" width="300" height="14" fill="#e5d9c3"/></svg>
