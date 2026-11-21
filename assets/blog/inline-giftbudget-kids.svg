@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#fdf6ec"/><text x="450.0" y="54" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">THREE GIFTS EACH</text>
+<path d="M 280 320 L 128.4 232.5 A 175 175 0 0 1 431.6 232.5 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="211.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">EMMA</text>
+<path d="M 280 320 L 431.6 232.5 A 175 175 0 0 1 280.0 495.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="374.0" y="374.2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">LIAM</text>
+<path d="M 280 320 L 280.0 495.0 A 175 175 0 0 1 128.4 232.5 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="186.0" y="374.2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">NOAH</text>
+<circle cx="280" cy="320" r="16" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+<path d="M 258 101 L 302 101 L 280 143 Z" fill="#1f2937"/>
+<rect x="560" y="250" width="280" height="130" rx="14" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+<text x="700.0" y="284" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">3 GIFTS</text>
+<text x="700.0" y="324" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">EACH</text></svg>
