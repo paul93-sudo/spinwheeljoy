@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#fdf6ec"/><text x="600.0" y="54.0" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">UGLY SWEATER NIGHT</text>
+<path d="M 300 370 L 207.5 209.8 A 185 185 0 0 1 392.5 209.8 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="300.0" y="255.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">UGLIEST</text>
+<path d="M 300 370 L 392.5 209.8 A 185 185 0 0 1 485.0 370.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="399.6" y="312.5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">FUNNIEST</text>
+<path d="M 300 370 L 485.0 370.0 A 185 185 0 0 1 392.5 530.2 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="399.6" y="427.5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DIY</text>
+<path d="M 300 370 L 392.5 530.2 A 185 185 0 0 1 207.5 530.2 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="300.0" y="485.0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">GROUP</text>
+<path d="M 300 370 L 207.5 530.2 A 185 185 0 0 1 115.0 370.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="200.4" y="427.5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">SPARKLE</text>
+<path d="M 300 370 L 115.0 370.0 A 185 185 0 0 1 207.5 209.8 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="200.4" y="312.5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">VINTAGE</text>
+<circle cx="300" cy="370" r="26" fill="#1f2937"/>
+<circle cx="300" cy="370" r="10" fill="#ffffff"/>
+<polygon points="272,135 328,135 300,187" fill="#1f2937"/>
+<rect x="292" y="115" width="16" height="20" fill="#1f2937"/>
+<polygon points="280,560 320,560 300,610" fill="#1f2937"/>
+<polygon points="730,300 672,365 700,405 748,345" fill="#a93226"/>
+<polygon points="950,300 1008,365 980,405 932,345" fill="#a93226"/>
+<rect x="730" y="280" width="220" height="230" rx="18" fill="#e5484d"/>
+<ellipse cx="840" cy="288" rx="42" ry="16" fill="#a93226"/>
+<polyline points="745,340 790,368 840,342 890,368 935,342" fill="none" stroke="#1f2937" stroke-width="3"/>
+<circle cx="745" cy="340" r="8" fill="#f5c542"/>
+<circle cx="790" cy="368" r="8" fill="#3fae6a"/>
+<circle cx="840" cy="342" r="8" fill="#2f6fd6"/>
+<circle cx="890" cy="368" r="8" fill="#e8821e"/>
+<circle cx="935" cy="342" r="8" fill="#7c5cbf"/>
+<circle cx="770" cy="430" r="6" fill="#ffffff"/>
+<circle cx="840" cy="450" r="6" fill="#ffffff"/>
+<circle cx="910" cy="430" r="6" fill="#ffffff"/>
+<circle cx="805" cy="480" r="6" fill="#ffffff"/>
+<rect x="900" y="470" width="115" height="62" fill="#ffffff" stroke="#1f2937" stroke-width="3"/>
+<circle cx="957" cy="478" r="5" fill="#e5484d"/>
+<text x="957.0" y="508.0" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">No. 7</text>
+<rect x="680" y="560" width="340" height="14" fill="#e5d9c3"/></svg>

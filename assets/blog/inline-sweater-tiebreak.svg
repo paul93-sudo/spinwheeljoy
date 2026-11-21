@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#fdf6ec"/><text x="450.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">TIEBREAK</text>
+<path d="M 280 320 L 105.0 320.0 A 175 175 0 0 1 455.0 320.0 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="211.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DAN</text>
+<path d="M 280 320 L 455.0 320.0 A 175 175 0 0 1 105.0 320.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="429.0" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">MAYA</text>
+<circle cx="280" cy="320" r="26" fill="#1f2937"/>
+<circle cx="280" cy="320" r="10" fill="#ffffff"/>
+<polygon points="252,95 308,95 280,147" fill="#1f2937"/>
+<rect x="272" y="75" width="16" height="20" fill="#1f2937"/>
+<polygon points="260,500 300,500 280,550" fill="#1f2937"/>
+<polygon points="672,348 700,348 688,430 664,408" fill="#eab308"/>
+<polygon points="700,348 728,348 736,408 712,430" fill="#eab308"/>
+<circle cx="700" cy="300" r="62" fill="#f5c542"/>
+<circle cx="700" cy="300" r="40" fill="#fef3c7"/>
+<text x="700.0" y="302.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">1st</text>
+<rect x="560" y="470" width="300" height="14" fill="#e5d9c3"/>
+<text x="705.0" y="520.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">THE WINNER'S ROSETTE</text></svg>

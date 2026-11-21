@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600"><rect width="900" height="600" fill="#fdf6ec"/><text x="450.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">FINALISTS</text>
+<path d="M 280 320 L 192.5 168.4 A 175 175 0 0 1 367.5 168.4 Z" fill="#e5484d" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="211.0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">12</text>
+<path d="M 280 320 L 367.5 168.4 A 175 175 0 0 1 455.0 320.0 Z" fill="#f5c542" stroke="#ffffff" stroke-width="3"/>
+<text x="374.4" y="265.5" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">15</text>
+<path d="M 280 320 L 455.0 320.0 A 175 175 0 0 1 367.5 471.6 Z" fill="#3fae6a" stroke="#ffffff" stroke-width="3"/>
+<text x="374.4" y="374.5" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">21</text>
+<path d="M 280 320 L 367.5 471.6 A 175 175 0 0 1 192.5 471.6 Z" fill="#2f6fd6" stroke="#ffffff" stroke-width="3"/>
+<text x="280.0" y="429.0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">9</text>
+<path d="M 280 320 L 192.5 471.6 A 175 175 0 0 1 105.0 320.0 Z" fill="#e8821e" stroke="#ffffff" stroke-width="3"/>
+<text x="185.6" y="374.5" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">3</text>
+<path d="M 280 320 L 105.0 320.0 A 175 175 0 0 1 192.5 168.4 Z" fill="#7c5cbf" stroke="#ffffff" stroke-width="3"/>
+<text x="185.6" y="265.5" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">7</text>
+<circle cx="280" cy="320" r="26" fill="#1f2937"/>
+<circle cx="280" cy="320" r="10" fill="#ffffff"/>
+<polygon points="252,95 308,95 280,147" fill="#1f2937"/>
+<rect x="272" y="75" width="16" height="20" fill="#1f2937"/>
+<polygon points="260,500 300,500 280,550" fill="#1f2937"/>
+<polygon points="560,306 550,336 561,346 571,318" fill="#a93226"/>
+<polygon points="620,306 630,336 619,346 609,318" fill="#a93226"/>
+<rect x="560" y="290" width="60" height="85" rx="10" fill="#e5484d"/>
+<ellipse cx="590" cy="298" rx="14" ry="6" fill="#a93226"/>
+<circle cx="576" cy="332" r="5" fill="#ffffff"/>
+<circle cx="604" cy="346" r="5" fill="#ffffff"/>
+<circle cx="590" cy="362" r="5" fill="#ffffff"/>
+<text x="590.0" y="410.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">No. 3</text>
+<polygon points="655,306 645,336 656,346 666,318" fill="#2c7a4b"/>
+<polygon points="715,306 725,336 714,346 704,318" fill="#2c7a4b"/>
+<rect x="655" y="290" width="60" height="85" rx="10" fill="#3fae6a"/>
+<ellipse cx="685" cy="298" rx="14" ry="6" fill="#2c7a4b"/>
+<circle cx="671" cy="332" r="5" fill="#ffffff"/>
+<circle cx="699" cy="346" r="5" fill="#ffffff"/>
+<circle cx="685" cy="362" r="5" fill="#ffffff"/>
+<text x="685.0" y="410.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">No. 12</text>
+<polygon points="750,306 740,336 751,346 761,318" fill="#1e4f9e"/>
+<polygon points="810,306 820,336 809,346 799,318" fill="#1e4f9e"/>
+<rect x="750" y="290" width="60" height="85" rx="10" fill="#2f6fd6"/>
+<ellipse cx="780" cy="298" rx="14" ry="6" fill="#1e4f9e"/>
+<circle cx="766" cy="332" r="5" fill="#ffffff"/>
+<circle cx="794" cy="346" r="5" fill="#ffffff"/>
+<circle cx="780" cy="362" r="5" fill="#ffffff"/>
+<text x="780.0" y="410.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">No. 21</text>
+<rect x="560" y="470" width="300" height="14" fill="#e5d9c3"/>
+<text x="705.0" y="520.0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1f2937" text-anchor="middle" dominant-baseline="middle">THE FINAL THREE</text></svg>
