@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">FRAME IT</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FRAME</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CARD</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GARLAND</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BOOKMARK</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GIFT</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">WINDOW</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<rect x="480" y="180" width="270" height="240" fill="#8B5A2B"/><rect x="498" y="198" width="234" height="204" fill="#FFFDF5"/><polygon points="540,250 548,264 559,258 554,272 568,278 555,285 559,299 545,291 540,308 535,291 521,299 525,285 512,278 526,272 521,258 532,264" fill="#D64545"/><line x1="540" y1="280" x2="540" y2="318" stroke="#6B4A2F" stroke-width="4"/><ellipse cx="615" cy="280" rx="16" ry="30" fill="#8A5A2B"/><circle cx="600" cy="268" r="8" fill="#8A5A2B"/><circle cx="630" cy="268" r="8" fill="#8A5A2B"/><circle cx="600" cy="292" r="8" fill="#8A5A2B"/><circle cx="630" cy="292" r="8" fill="#8A5A2B"/><line x1="615" y1="280" x2="615" y2="319" stroke="#6B4A2F" stroke-width="4"/><path d="M 657 280 A 28 28 0 0 1 713 280 L 685 305 Z" fill="#E8A33D"/><line x1="685" y1="305" x2="685" y2="316" stroke="#6B4A2F" stroke-width="4"/><text x="615" y="460" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">Three pressed leaves in a frame</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">PICK A LEAF</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">OAK</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MAPLE</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GINKGO</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BIRCH</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">ELM</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SUMAC</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<polygon points="500,245 515,270 534,260 525,286 552,297 528,310 534,334 510,321 500,352 490,321 466,334 472,310 448,297 475,286 466,260 485,270" fill="#D64545"/><line x1="500" y1="300" x2="500" y2="369" stroke="#6B4A2F" stroke-width="4"/><ellipse cx="620" cy="300" rx="30" ry="55" fill="#8A5A2B"/><circle cx="592" cy="278" r="15" fill="#8A5A2B"/><circle cx="648" cy="278" r="15" fill="#8A5A2B"/><circle cx="592" cy="322" r="15" fill="#8A5A2B"/><circle cx="648" cy="322" r="15" fill="#8A5A2B"/><line x1="620" y1="300" x2="620" y2="372" stroke="#6B4A2F" stroke-width="4"/><path d="M 678 300 A 52 52 0 0 1 782 300 L 730 347 Z" fill="#E8A33D"/><line x1="730" y1="347" x2="730" y2="368" stroke="#6B4A2F" stroke-width="4"/><text x="615" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">Three leaves from the park bag</text>
+</svg>
