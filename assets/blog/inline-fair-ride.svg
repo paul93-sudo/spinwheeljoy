@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">FIRST RIDE</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FERRIS</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BUMPER</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MERRY</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SWING</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">TRAIN</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SLIDE</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<circle cx="620" cy="300" r="95" fill="none" stroke="#2B2B2B" stroke-width="5"/><line x1="525" y1="300" x2="715" y2="300" stroke="#2B2B2B" stroke-width="4"/><line x1="620" y1="205" x2="620" y2="395" stroke="#2B2B2B" stroke-width="4"/><line x1="554" y1="234" x2="686" y2="366" stroke="#2B2B2B" stroke-width="3"/><line x1="554" y1="366" x2="686" y2="234" stroke="#2B2B2B" stroke-width="3"/><circle cx="620" cy="300" r="12" fill="#D64545"/><line x1="580" y1="320" x2="550" y2="430" stroke="#2B2B2B" stroke-width="5"/><line x1="660" y1="320" x2="690" y2="430" stroke="#2B2B2B" stroke-width="5"/><rect x="604" y="191" width="32" height="28" rx="5" fill="#D64545"/><rect x="699" y="286" width="32" height="28" rx="5" fill="#E8A33D"/><rect x="604" y="381" width="32" height="28" rx="5" fill="#5B8C5A"/><rect x="509" y="286" width="32" height="28" rx="5" fill="#3E7CB1"/><text x="620" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">A ferris wheel with four cabins</text>
+</svg>

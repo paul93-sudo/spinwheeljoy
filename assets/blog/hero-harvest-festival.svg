@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">HARVEST FAIR</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COUNTY</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">STATE</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">HARVEST</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">RIVER</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CHURCH</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SCHOOL</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<rect x="500" y="220" width="18" height="190" fill="#8B5A2B"/><rect x="720" y="220" width="18" height="190" fill="#8B5A2B"/><rect x="490" y="200" width="258" height="30" rx="8" fill="#D64545"/><text x="619" y="222" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FAIR</text><polygon points="520,230 535,258 550,230" fill="#E8A33D"/><polygon points="560,230 575,258 590,230" fill="#3E7CB1"/><polygon points="600,230 615,258 630,230" fill="#5B8C5A"/><polygon points="640,230 655,258 670,230" fill="#E8A33D"/><polygon points="680,230 695,258 710,230" fill="#3E7CB1"/><rect x="560" y="330" width="118" height="80" rx="6" fill="#FBF6EC" stroke="#2B2B2B" stroke-width="3"/><text x="619" y="380" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#2B2B2B" text-anchor="middle">TICKETS</text><text x="620" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">A fair entrance gate with a TICKETS sign</text>
+</svg>
