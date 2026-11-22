@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">PICK THE SPRINKLES</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">STARS</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PEARLS</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="339" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CRUSHED</text>
+<text x="311" y="354" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CANDY</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GOLD</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="339" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">RAIN-</text>
+<text x="149" y="354" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BOW</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">NONE</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<ellipse cx="625" cy="420" rx="115" ry="26" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><polygon points="625,252 646,302 699,306 658,341 671,393 625,365 579,393 592,341 551,306 604,302" fill="#E8C88A" stroke="#2B2B2B" stroke-width="3"/><path d="M 570 330 Q 625 300 680 330" fill="none" stroke="#D64545" stroke-width="10" stroke-linecap="round"/><polygon points="590,298 593,306 601,306 595,312 597,320 590,315 583,320 585,312 579,306 587,306" fill="#FFD94D" stroke="#2B2B2B" stroke-width="3"/><polygon points="660,298 663,306 671,306 665,312 667,320 660,315 653,320 655,312 649,306 657,306" fill="#FFD94D" stroke="#2B2B2B" stroke-width="3"/><polygon points="625,348 628,356 636,356 630,362 632,370 625,365 618,370 620,362 614,356 622,356" fill="#FFD94D" stroke="#2B2B2B" stroke-width="3"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">A star cookie with star sprinkles</text>
+</svg>
