@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">PICK THE BOOK</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PICTURE</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CHAPTER</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">POETRY</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COMIC</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">REREAD</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">NEW</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<polygon points="540,300 620,282 620,392 540,374" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><polygon points="620,282 700,300 700,374 620,392" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><line x1="620" y1="282" x2="620" y2="392" stroke="#2B2B2B" stroke-width="3"/><polygon points="580.0,310.0 585.8,324.0 600.9,325.2 589.4,335.1 592.9,349.8 580.0,341.9 567.1,349.8 570.6,335.1 559.1,325.2 574.2,324.0" fill="#E8A33D" stroke="#2B2B2B" stroke-width="2"/><line x1="640" y1="318" x2="682" y2="312" stroke="#9AA0A6" stroke-width="3"/><line x1="640" y1="336" x2="682" y2="330" stroke="#9AA0A6" stroke-width="3"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">An open book with a star</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">PICK THE SNACK</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">POPCORN</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COOKIES</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CANDY</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">NUTS</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FRUIT</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CHIPS</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<circle cx="590" cy="318" r="17" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="615" cy="305" r="19" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="640" cy="312" r="17" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="662" cy="322" r="16" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="602" cy="332" r="15" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="628" cy="330" r="16" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><circle cx="650" cy="336" r="14" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><polygon points="556,340 694,340 672,424 578,424" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><line x1="584" y1="340" x2="592" y2="424" stroke="#FFFFFF" stroke-width="8"/><line x1="625" y1="340" x2="625" y2="424" stroke="#FFFFFF" stroke-width="8"/><line x1="666" y1="340" x2="658" y2="424" stroke="#FFFFFF" stroke-width="8"/><rect x="550" y="334" width="150" height="12" rx="6" fill="#E8C88A" stroke="#2B2B2B" stroke-width="3"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">A bowl of popcorn</text>
+</svg>
