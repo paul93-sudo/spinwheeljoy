@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">PICK THE TOY</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">DINO</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CAR</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BALL</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">YO-YO</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PUZZLE</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">STICKERS</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<ellipse cx="600" cy="300" rx="47" ry="27" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3"/><circle cx="643" cy="280" r="18" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3"/><circle cx="649" cy="277" r="3" fill="#2B2B2B"/><polygon points="555,296 524,275 553,311" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round"/><polygon points="591,275 598,260 605,275" fill="#2B2B2B"/><polygon points="609,275 616,260 623,275" fill="#2B2B2B"/><rect x="520" y="370" width="90" height="42" rx="10" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><circle cx="542" cy="418" r="14" fill="#2B2B2B"/><circle cx="588" cy="418" r="14" fill="#2B2B2B"/><rect x="530" y="378" width="70" height="16" fill="#A9D6E5"/><circle cx="700" cy="385" r="32" fill="#E8A33D" stroke="#2B2B2B" stroke-width="3"/><path d="M 672 385 Q 700 360 728 385" fill="none" stroke="#FFFFFF" stroke-width="5"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">Dino, red car, yellow ball</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">THE TOE SURPRISE</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PUZZLE</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">RING</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COIN</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">NOTE</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MARBLE</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="246" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">KEY-</text>
+<text x="149" y="261" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CHAIN</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<rect x="555" y="230" width="90" height="135" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><rect x="555" y="350" width="170" height="60" rx="26" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><rect x="550" y="202" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><rect x="655" y="360" width="62" height="48" rx="6" fill="#3E7CB1" stroke="#2B2B2B" stroke-width="3"/><circle cx="686" cy="360" r="10" fill="#3E7CB1" stroke="#2B2B2B" stroke-width="3"/><path d="M 668 384 L 704 384 M 686 372 L 686 396" stroke="#FFFFFF" stroke-width="3"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">Puzzle box at the stocking toe</text>
+</svg>

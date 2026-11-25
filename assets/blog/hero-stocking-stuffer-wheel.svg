@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">STOCKING STUFFER PICK</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 1 305.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="207" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">TOY</text>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 1 380.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CANDY</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 1 305.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="311" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SOCKS</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 1 155.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CARD</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 1 80.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="346" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">USEFUL</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 1 155.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="149" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">TOE</text>
+<polygon points="214,124 246,124 230,148" fill="#2B2B2B"/>
+<rect x="222" y="458" width="16" height="34" fill="#2B2B2B"/>
+<rect x="188" y="490" width="84" height="10" rx="5" fill="#2B2B2B"/>
+<rect x="555" y="250" width="90" height="145" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><rect x="555" y="380" width="170" height="60" rx="26" fill="#D64545" stroke="#2B2B2B" stroke-width="3"/><rect x="550" y="222" width="100" height="34" rx="6" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3"/><ellipse cx="600" cy="218" rx="42" ry="24" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3"/><circle cx="638" cy="200" r="16" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3"/><circle cx="643" cy="197" r="2" fill="#2B2B2B"/><polygon points="560,214 532,196 558,228" fill="#5B8C5A" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round"/><polygon points="592,196 598,183 605,196" fill="#2B2B2B"/><polygon points="608,196 614,183 621,196" fill="#2B2B2B"/><path d="M 688 322 L 688 250 Q 688 216 722 216 Q 755 216 755 254" fill="none" stroke="#2B2B2B" stroke-width="18" stroke-linecap="butt"/><path d="M 688 322 L 688 250 Q 688 216 722 216 Q 755 216 755 254" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="butt"/><path d="M 688 322 L 688 250 Q 688 216 722 216 Q 755 216 755 254" fill="none" stroke="#D64545" stroke-width="14" stroke-linecap="butt" stroke-dasharray="21 14"/><text x="625" y="470" font-family="Arial,sans-serif" font-size="18" fill="#2B2B2B" text-anchor="middle">A red stocking, dino and cane</text>
+</svg>
