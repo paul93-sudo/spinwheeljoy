@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FFF7E8"/>
+<text x="400" y="55" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222" text-anchor="middle">LAST-MINUTE RESCUE</text>
+<circle cx="260" cy="290" r="153" fill="#222222"/>
+<path d="M 260 290 L 187.5 164.4 A 145 145 0 0 1 332.5 164.4 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="198.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CAKE</text>
+<path d="M 260 290 L 332.5 164.4 A 145 145 0 0 1 405.0 290.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="339.7" y="244.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FLOWERS</text>
+<path d="M 260 290 L 405.0 290.0 A 145 145 0 0 1 332.5 415.6 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="339.7" y="336.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CARD</text>
+<path d="M 260 290 L 332.5 415.6 A 145 145 0 0 1 187.5 415.6 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="382.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">DINNER</text>
+<path d="M 260 290 L 187.5 415.6 A 145 145 0 0 1 115.0 290.0 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="180.3" y="336.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GIFT CARD</text>
+<path d="M 260 290 L 115.0 290.0 A 145 145 0 0 1 187.5 164.4 Z" fill="#7A5C9E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="180.3" y="244.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BALLOONS</text>
+<polygon points="260,108 242,148 278,148" fill="#222222"/>
+<circle cx="260" cy="290" r="26" fill="#222222"/><circle cx="260" cy="290" r="12" fill="#FFF7E8"/>
+<rect x="252" y="441" width="16" height="38" fill="#222222"/><rect x="200" y="479" width="120" height="10" fill="#222222"/>
+
+<rect x="530" y="350" width="220" height="60" fill="#D64545" stroke="#222222" stroke-width="3"/>
+<rect x="555" y="300" width="170" height="52" fill="#FFF7E8" stroke="#222222" stroke-width="3"/>
+<line x1="590" y1="300" x2="590" y2="270" stroke="#222222" stroke-width="4"/><line x1="635" y1="300" x2="635" y2="270" stroke="#222222" stroke-width="4"/><line x1="680" y1="300" x2="680" y2="270" stroke="#222222" stroke-width="4"/>
+<circle cx="590" cy="260" r="9" fill="#E8A33D"/><circle cx="635" cy="260" r="9" fill="#E8A33D"/><circle cx="680" cy="260" r="9" fill="#E8A33D"/>
+<rect x="480" y="445" width="290" height="8" fill="#222222"/>
+</svg>

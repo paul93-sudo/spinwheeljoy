@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FFF7E8"/>
+<text x="400" y="55" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222" text-anchor="middle">ADD A HANDMADE TOUCH</text>
+<circle cx="260" cy="290" r="153" fill="#222222"/>
+<path d="M 260 290 L 187.5 164.4 A 145 145 0 0 1 332.5 164.4 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="198.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">LETTER</text>
+<path d="M 260 290 L 332.5 164.4 A 145 145 0 0 1 405.0 290.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="339.7" y="244.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PHOTOS</text>
+<path d="M 260 290 L 405.0 290.0 A 145 145 0 0 1 332.5 415.6 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="339.7" y="336.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CAKE</text>
+<path d="M 260 290 L 332.5 415.6 A 145 145 0 0 1 187.5 415.6 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="382.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PLAYLIST</text>
+<path d="M 260 290 L 187.5 415.6 A 145 145 0 0 1 115.0 290.0 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="180.3" y="336.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COUPONS</text>
+<path d="M 260 290 L 115.0 290.0 A 145 145 0 0 1 187.5 164.4 Z" fill="#7A5C9E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="180.3" y="244.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BREAKFAST</text>
+<polygon points="260,108 242,148 278,148" fill="#222222"/>
+<circle cx="260" cy="290" r="26" fill="#222222"/><circle cx="260" cy="290" r="12" fill="#FFF7E8"/>
+<rect x="252" y="441" width="16" height="38" fill="#222222"/><rect x="200" y="479" width="120" height="10" fill="#222222"/>
+
+<rect x="520" y="290" width="230" height="140" fill="#FFFFFF" stroke="#222222" stroke-width="4"/>
+<path d="M 520 290 L 635 365 L 750 290" fill="none" stroke="#222222" stroke-width="4"/>
+<circle cx="635" cy="345" r="22" fill="#D64545"/><path d="M 635 362 L 618 342 L 635 330 L 652 342 Z" fill="#D64545"/>
+<rect x="480" y="445" width="290" height="8" fill="#222222"/>
+</svg>
