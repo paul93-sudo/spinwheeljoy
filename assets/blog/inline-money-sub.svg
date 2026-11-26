@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FBF6EC"/>
+<text x="400" y="52" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#2B2B2B" text-anchor="middle">CUT ONE SUBSCRIPTION</text>
+<circle cx="230" cy="300" r="158" fill="#2B2B2B"/>
+<path d="M 230 300 L 305.0 170.1 A 150 150 0 0 0 155.0 170.1 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="202" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">STREAMING</text>
+<path d="M 230 300 L 155.0 170.1 A 150 150 0 0 0 80.0 300.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="145" y="251" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MUSIC</text>
+<path d="M 230 300 L 80.0 300.0 A 150 150 0 0 0 155.0 429.9 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="145" y="349" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">GYM</text>
+<path d="M 230 300 L 155.0 429.9 A 150 150 0 0 0 305.0 429.9 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="230" y="398" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">APPS</text>
+<path d="M 230 300 L 305.0 429.9 A 150 150 0 0 0 380.0 300.0 Z" fill="#8E6BA8" stroke="#FFFFFF" stroke-width="2"/>
+<text x="315" y="349" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BOX</text>
+<path d="M 230 300 L 380.0 300.0 A 150 150 0 0 0 305.0 170.1 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="315" y="251" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">NEWS</text>
+<polygon points="230,128 212,168 248,168" fill="#2B2B2B"/>
+<circle cx="230" cy="300" r="26" fill="#2B2B2B"/><circle cx="230" cy="300" r="12" fill="#FBF6EC"/>
+<rect x="222" y="458" width="16" height="40" fill="#2B2B2B"/><rect x="170" y="494" width="120" height="10" fill="#2B2B2B"/>
+<rect x="500" y="250" width="230" height="150" rx="10" fill="#2B2B2B"/><rect x="516" y="266" width="198" height="118" fill="#5B8C5A"/><polygon points="615,300 615,350 660,325" fill="#FFFFFF"/><rect x="590" y="400" width="50" height="12" fill="#2B2B2B"/>
+</svg>
