@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FFF7E8"/>
+<text x="400" y="55" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222" text-anchor="middle">SIX MORE WEEKS</text>
+<circle cx="260" cy="290" r="153" fill="#222222"/>
+<path d="M 260 290 L 187.5 164.4 A 145 145 0 0 1 332.5 164.4 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="194.3" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SOUP</text>
+<path d="M 260 290 L 332.5 164.4 A 145 145 0 0 1 405.0 290.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.9" y="242.2" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SKI</text>
+<path d="M 260 290 L 405.0 290.0 A 145 145 0 0 1 332.5 415.6 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.9" y="337.9" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">MOVIE</text>
+<path d="M 260 290 L 332.5 415.6 A 145 145 0 0 1 187.5 415.6 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="385.7" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COCOA</text>
+<path d="M 260 290 L 187.5 415.6 A 145 145 0 0 1 115.0 290.0 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.1" y="337.9" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PUZZLE</text>
+<path d="M 260 290 L 115.0 290.0 A 145 145 0 0 1 187.5 164.4 Z" fill="#7A5C9E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.1" y="242.1" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">FIRE</text>
+<polygon points="260,93 242,133 278,133" fill="#222222"/>
+<circle cx="260" cy="290" r="26" fill="#222222"/><circle cx="260" cy="290" r="12" fill="#FFF7E8"/>
+<rect x="252" y="443" width="16" height="38" fill="#222222"/><rect x="200" y="481" width="120" height="10" fill="#222222"/>
+
+<circle cx="620" cy="400" r="58" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<circle cx="620" cy="300" r="44" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<circle cx="620" cy="228" r="32" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<polygon points="620,228 668,236 620,244" fill="#E8722A"/>
+<circle cx="610" cy="220" r="4" fill="#222222"/><circle cx="630" cy="220" r="4" fill="#222222"/>
+<rect x="600" y="188" width="40" height="10" fill="#222222"/><rect x="606" y="158" width="28" height="32" fill="#222222"/>
+<rect x="588" y="252" width="64" height="14" fill="#D64545"/>
+<text x="620" y="495" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#222222" text-anchor="middle">SIX MORE WEEKS OF WINTER</text>
+</svg>

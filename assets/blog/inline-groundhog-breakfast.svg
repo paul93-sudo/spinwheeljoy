@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FFF7E8"/>
+<text x="400" y="55" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222" text-anchor="middle">PANCAKE BREAKFAST</text>
+<circle cx="260" cy="290" r="153" fill="#222222"/>
+<path d="M 260 290 L 187.5 164.4 A 145 145 0 0 1 332.5 164.4 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="194.3" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">PANCAKES</text>
+<path d="M 260 290 L 332.5 164.4 A 145 145 0 0 1 405.0 290.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.9" y="242.2" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">EGGS</text>
+<path d="M 260 290 L 405.0 290.0 A 145 145 0 0 1 332.5 415.6 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.9" y="337.9" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">OATMEAL</text>
+<path d="M 260 290 L 332.5 415.6 A 145 145 0 0 1 187.5 415.6 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="385.7" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CEREAL</text>
+<path d="M 260 290 L 187.5 415.6 A 145 145 0 0 1 115.0 290.0 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.1" y="337.9" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">TOAST</text>
+<path d="M 260 290 L 115.0 290.0 A 145 145 0 0 1 187.5 164.4 Z" fill="#7A5C9E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.1" y="242.1" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">COFFEE</text>
+<polygon points="260,93 242,133 278,133" fill="#222222"/>
+<circle cx="260" cy="290" r="26" fill="#222222"/><circle cx="260" cy="290" r="12" fill="#FFF7E8"/>
+<rect x="252" y="443" width="16" height="38" fill="#222222"/><rect x="200" y="481" width="120" height="10" fill="#222222"/>
+
+<ellipse cx="620" cy="420" rx="120" ry="16" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<ellipse cx="620" cy="395" rx="95" ry="20" fill="#E8A33D" stroke="#222222" stroke-width="2"/>
+<ellipse cx="620" cy="372" rx="80" ry="18" fill="#E8A33D" stroke="#222222" stroke-width="2"/>
+<ellipse cx="620" cy="350" rx="62" ry="15" fill="#E8A33D" stroke="#222222" stroke-width="2"/>
+<path d="M 600 338 Q 620 365 640 340" fill="#8B5A2B"/>
+<rect x="500" y="240" width="70" height="90" fill="#D64545"/><rect x="570" y="258" width="22" height="40" fill="none" stroke="#D64545" stroke-width="6"/>
+<text x="620" y="490" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#222222" text-anchor="middle">PANCAKES BEFORE THE REVEAL</text>
+</svg>
