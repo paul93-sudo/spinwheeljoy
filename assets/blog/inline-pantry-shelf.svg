@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+<rect width="800" height="520" fill="#FFF7E8"/>
+<text x="400" y="55" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222" text-anchor="middle">PICK A SHELF</text>
+<circle cx="260" cy="290" r="153" fill="#222222"/>
+<path d="M 260 290 L 187.5 164.4 A 145 145 0 0 1 332.5 164.4 Z" fill="#D64545" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="195.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">TOP</text>
+<path d="M 260 290 L 332.5 164.4 A 145 145 0 0 1 405.0 290.0 Z" fill="#E8A33D" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.3" y="242.5" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">BAKING</text>
+<path d="M 260 290 L 405.0 290.0 A 145 145 0 0 1 332.5 415.6 Z" fill="#5B8C5A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="342.3" y="337.5" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">CANS</text>
+<path d="M 260 290 L 332.5 415.6 A 145 145 0 0 1 187.5 415.6 Z" fill="#3E7CB1" stroke="#FFFFFF" stroke-width="2"/>
+<text x="260.0" y="385.0" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SNACKS</text>
+<path d="M 260 290 L 187.5 415.6 A 145 145 0 0 1 115.0 290.0 Z" fill="#C97B4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.7" y="337.5" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">SPICES</text>
+<path d="M 260 290 L 115.0 290.0 A 145 145 0 0 1 187.5 164.4 Z" fill="#7A5C9E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="177.7" y="242.5" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">DRINKS</text>
+<polygon points="260,63 242,103 278,103" fill="#222222"/>
+<circle cx="260" cy="290" r="26" fill="#222222"/><circle cx="260" cy="290" r="12" fill="#FFF7E8"/>
+<rect x="252" y="437" width="16" height="38" fill="#222222"/><rect x="200" y="475" width="120" height="10" fill="#222222"/>
+<rect x="490" y="130" width="260" height="280" fill="none" stroke="#222222" stroke-width="4"/>
+<rect x="490" y="210" width="260" height="10" fill="#8B5A2B"/><rect x="490" y="310" width="260" height="10" fill="#8B5A2B"/>
+<rect x="510" y="150" width="44" height="60" fill="#D64545" stroke="#222222" stroke-width="3"/><rect x="570" y="160" width="44" height="50" fill="#E8A33D" stroke="#222222" stroke-width="3"/><rect x="630" y="145" width="44" height="65" fill="#5B8C5A" stroke="#222222" stroke-width="3"/>
+<rect x="510" y="250" width="44" height="60" fill="#3E7CB1" stroke="#222222" stroke-width="3"/><rect x="570" y="255" width="44" height="55" fill="#C97B4A" stroke="#222222" stroke-width="3"/>
+<rect x="510" y="345" width="50" height="55" fill="#7A5C9E" stroke="#222222" stroke-width="3"/><rect x="580" y="350" width="50" height="50" fill="#D64545" stroke="#222222" stroke-width="3"/>
+<rect x="480" y="445" width="290" height="8" fill="#222222"/>
+</svg>
