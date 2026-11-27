@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6ec"/>
+<text x="400" y="472" text-anchor="middle" font-size="21" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">Spin for the seating</text>
+<path d="M260 240 L190.0 118.8 A140 140 0 0 1 330.0 118.8 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="156.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">BLANKETS</text>
+<path d="M260 240 L330.0 118.8 A140 140 0 0 1 400.0 240.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">CAMP CHAIRS</text>
+<path d="M260 240 L400.0 240.0 A140 140 0 0 1 330.0 361.2 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">BEAN BAGS</text>
+<path d="M260 240 L330.0 361.2 A140 140 0 0 1 190.0 361.2 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="324.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">LAWN</text>
+<path d="M260 240 L190.0 361.2 A140 140 0 0 1 120.0 240.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">CUSHIONS</text>
+<path d="M260 240 L120.0 240.0 A140 140 0 0 1 190.0 118.8 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">PICNIC</text>
+<circle cx="260" cy="240" r="140" fill="none" stroke="#17243d" stroke-width="4"/>
+<circle cx="260" cy="240" r="24" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="260" y="241" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M245 60 L275 60 L260 104 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="500" y="168" width="220" height="70" rx="10" fill="#c94f4f" stroke="#17243d" stroke-width="3"/>
+<rect x="500" y="150" width="220" height="70" rx="10" fill="#e0655f" stroke="#17243d" stroke-width="3"/>
+<rect x="540" y="150" width="14" height="70" fill="#fdf6ec" opacity="0.85"/>
+<rect x="590" y="150" width="14" height="70" fill="#fdf6ec" opacity="0.85"/>
+<rect x="640" y="150" width="14" height="70" fill="#fdf6ec" opacity="0.85"/>
+<rect x="685" y="150" width="14" height="70" fill="#fdf6ec" opacity="0.85"/>
+<rect x="500" y="176" width="220" height="12" fill="#fdf6ec" opacity="0.85"/>
+<polygon points="520,330 546,396 554,396 528,330" fill="#17243d"/>
+<polygon points="586,330 560,396 552,396 578,330" fill="#17243d"/>
+<rect x="514" y="278" width="78" height="56" rx="8" fill="#66c4ae" stroke="#17243d" stroke-width="3"/>
+<rect x="514" y="332" width="78" height="16" rx="6" fill="#66c4ae" stroke="#17243d" stroke-width="3"/>
+<polygon points="640,330 666,396 674,396 648,330" fill="#17243d"/>
+<polygon points="706,330 680,396 672,396 698,330" fill="#17243d"/>
+<rect x="634" y="278" width="78" height="56" rx="8" fill="#fac56b" stroke="#17243d" stroke-width="3"/>
+<rect x="634" y="332" width="78" height="16" rx="6" fill="#fac56b" stroke="#17243d" stroke-width="3"/>
+</svg>

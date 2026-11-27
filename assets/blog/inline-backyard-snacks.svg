@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6ec"/>
+<text x="400" y="472" text-anchor="middle" font-size="21" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">Spin for the snacks</text>
+<path d="M260 240 L190.0 118.8 A140 140 0 0 1 330.0 118.8 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="156.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">POPCORN</text>
+<path d="M260 240 L330.0 118.8 A140 140 0 0 1 400.0 240.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">NACHOS</text>
+<path d="M260 240 L400.0 240.0 A140 140 0 0 1 330.0 361.2 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">CANDY</text>
+<path d="M260 240 L330.0 361.2 A140 140 0 0 1 190.0 361.2 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="324.0" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">PIZZA BITES</text>
+<path d="M260 240 L190.0 361.2 A140 140 0 0 1 120.0 240.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">FRUIT</text>
+<path d="M260 240 L120.0 240.0 A140 140 0 0 1 190.0 118.8 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">COOKIES</text>
+<circle cx="260" cy="240" r="140" fill="none" stroke="#17243d" stroke-width="4"/>
+<circle cx="260" cy="240" r="24" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="260" y="241" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M245 60 L275 60 L260 104 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<circle cx="558" cy="175" r="14" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="580" cy="166" r="16" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="603" cy="168" r="15" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="626" cy="175" r="13" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="569" cy="186" r="12" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="609" cy="183" r="13" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="637" cy="188" r="11" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<path d="M540 190 L660 190 L642 258 L558 258 Z" fill="#fb8581" stroke="#17243d" stroke-width="2"/>
+<path d="M580 190 L587 258 L613 258 L620 190 Z" fill="#fff" stroke="none"/>
+<rect x="536" y="186" width="128" height="11" rx="5" fill="#fff" stroke="#17243d" stroke-width="2"/>
+<ellipse cx="615" cy="360" rx="105" ry="26" fill="#fff" stroke="#17243d" stroke-width="3"/>
+<g transform="rotate(-18 560 342)"><polygon points="538,356 582,356 560,326" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<g transform="rotate(8 595 332)"><polygon points="573,346 617,346 595,316" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<g transform="rotate(-6 630 338)"><polygon points="608,352 652,352 630,322" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<g transform="rotate(20 663 346)"><polygon points="641,360 685,360 663,330" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<g transform="rotate(12 577 354)"><polygon points="555,368 599,368 577,338" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<g transform="rotate(-14 645 356)"><polygon points="623,370 667,370 645,340" fill="#fac56b" stroke="#d99a2b" stroke-width="2"/></g>
+<circle cx="585" cy="348" r="6" fill="#fb8581"/><circle cx="640" cy="352" r="6" fill="#66c4ae"/><circle cx="615" cy="340" r="5" fill="#fb8581"/>
+</svg>

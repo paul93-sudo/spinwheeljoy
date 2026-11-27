@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6ec"/>
+<text x="400" y="472" text-anchor="middle" font-size="21" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">Spin for the film</text>
+<path d="M260 240 L190.0 118.8 A140 140 0 0 1 330.0 118.8 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="156.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">COMEDY</text>
+<path d="M260 240 L330.0 118.8 A140 140 0 0 1 400.0 240.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">ACTION</text>
+<path d="M260 240 L400.0 240.0 A140 140 0 0 1 330.0 361.2 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">ANIMATION</text>
+<path d="M260 240 L330.0 361.2 A140 140 0 0 1 190.0 361.2 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="324.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">CLASSIC</text>
+<path d="M260 240 L190.0 361.2 A140 140 0 0 1 120.0 240.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">HORROR</text>
+<path d="M260 240 L120.0 240.0 A140 140 0 0 1 190.0 118.8 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">MUSICAL</text>
+<circle cx="260" cy="240" r="140" fill="none" stroke="#17243d" stroke-width="4"/>
+<circle cx="260" cy="240" r="24" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="260" y="241" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M245 60 L275 60 L260 104 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<rect x="500" y="130" width="230" height="150" rx="6" fill="#ffffff" stroke="#17243d" stroke-width="3"/>
+<rect x="512" y="142" width="206" height="126" fill="#2b3a67"/>
+<circle cx="660.3199999999999" cy="179.8" r="23" fill="#fac56b"/>
+<circle cx="553" cy="167" r="3" fill="#fff"/>
+<circle cx="584" cy="182" r="3" fill="#fff"/>
+<circle cx="625" cy="165" r="3" fill="#fff"/>
+<circle cx="687" cy="211" r="3" fill="#fff"/>
+<path d="M512 268 L584 220 L656 268 Z" fill="#1d2b4d"/>
+<path d="M625 268 L687 228 L718 268 Z" fill="#17243d"/>
+<rect x="611" y="280" width="8" height="34" fill="#17243d"/>
+<rect x="518" y="310" width="194" height="6" rx="3" fill="#17243d"/>
+<circle cx="577" cy="366" r="13" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="597" cy="358" r="15" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="618" cy="360" r="14" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="639" cy="366" r="12" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="587" cy="376" r="11" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="623" cy="374" r="12" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="649" cy="378" r="10" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<path d="M560 380 L670 380 L653 442 L577 442 Z" fill="#fb8581" stroke="#17243d" stroke-width="2"/>
+<path d="M597 380 L603 442 L627 442 L633 380 Z" fill="#fff" stroke="none"/>
+<rect x="557" y="376" width="116" height="10" rx="5" fill="#fff" stroke="#17243d" stroke-width="2"/>
+</svg>

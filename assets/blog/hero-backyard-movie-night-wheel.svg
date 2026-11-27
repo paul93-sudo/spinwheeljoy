@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#232f52"/>
+<circle cx="60" cy="130" r="3" fill="#fff"/>
+<circle cx="150" cy="100" r="2" fill="#fff"/>
+<circle cx="520" cy="110" r="3" fill="#fff"/>
+<circle cx="700" cy="95" r="2" fill="#fff"/>
+<circle cx="1080" cy="120" r="3" fill="#fff"/>
+<circle cx="1150" cy="180" r="2" fill="#fff"/>
+<circle cx="40" cy="220" r="2" fill="#fff"/>
+<circle cx="620" cy="140" r="2" fill="#fff"/>
+<circle cx="980" cy="90" r="2" fill="#fff"/>
+<circle cx="880" cy="130" r="2" fill="#fff"/>
+<text x="600" y="56" text-anchor="middle" font-size="36" font-weight="850" font-family="Arial, sans-serif" fill="#fdf6ec">Backyard movie night wheel</text>
+<path d="M60 88 Q330 122 600 88" fill="none" stroke="#17243d" stroke-width="2"/>
+<line x1="137" y1="96" x2="137" y2="104" stroke="#17243d" stroke-width="2"/>
+<circle cx="137" cy="110" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+<line x1="214" y1="102" x2="214" y2="110" stroke="#17243d" stroke-width="2"/>
+<circle cx="214" cy="116" r="7" fill="#66c4ae" stroke="#17243d" stroke-width="1.5"/>
+<line x1="291" y1="105" x2="291" y2="113" stroke="#17243d" stroke-width="2"/>
+<circle cx="291" cy="119" r="7" fill="#8fd0f0" stroke="#17243d" stroke-width="1.5"/>
+<line x1="369" y1="105" x2="369" y2="113" stroke="#17243d" stroke-width="2"/>
+<circle cx="369" cy="119" r="7" fill="#f4a77a" stroke="#17243d" stroke-width="1.5"/>
+<line x1="446" y1="102" x2="446" y2="110" stroke="#17243d" stroke-width="2"/>
+<circle cx="446" cy="116" r="7" fill="#fac56b" stroke="#17243d" stroke-width="1.5"/>
+<line x1="523" y1="96" x2="523" y2="104" stroke="#17243d" stroke-width="2"/>
+<circle cx="523" cy="110" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+<path d="M620 88 Q880 122 1140 88" fill="none" stroke="#17243d" stroke-width="2"/>
+<line x1="694" y1="96" x2="694" y2="104" stroke="#17243d" stroke-width="2"/>
+<circle cx="694" cy="110" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+<line x1="769" y1="102" x2="769" y2="110" stroke="#17243d" stroke-width="2"/>
+<circle cx="769" cy="116" r="7" fill="#66c4ae" stroke="#17243d" stroke-width="1.5"/>
+<line x1="843" y1="105" x2="843" y2="113" stroke="#17243d" stroke-width="2"/>
+<circle cx="843" cy="119" r="7" fill="#8fd0f0" stroke="#17243d" stroke-width="1.5"/>
+<line x1="917" y1="105" x2="917" y2="113" stroke="#17243d" stroke-width="2"/>
+<circle cx="917" cy="119" r="7" fill="#f4a77a" stroke="#17243d" stroke-width="1.5"/>
+<line x1="991" y1="102" x2="991" y2="110" stroke="#17243d" stroke-width="2"/>
+<circle cx="991" cy="116" r="7" fill="#fac56b" stroke="#17243d" stroke-width="1.5"/>
+<line x1="1066" y1="96" x2="1066" y2="104" stroke="#17243d" stroke-width="2"/>
+<circle cx="1066" cy="110" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+<rect x="0" y="520" width="1200" height="110" fill="#2e5d43"/>
+<circle cx="60" cy="520" r="34" fill="#24493a"/><circle cx="1140" cy="520" r="30" fill="#24493a"/>
+<rect x="90" y="165" width="380" height="250" rx="6" fill="#ffffff" stroke="#17243d" stroke-width="3"/>
+<rect x="102" y="177" width="356" height="226" fill="#2b3a67"/>
+<circle cx="358.32" cy="244.8" r="39" fill="#fac56b"/>
+<circle cx="173" cy="222" r="3" fill="#fff"/>
+<circle cx="227" cy="249" r="3" fill="#fff"/>
+<circle cx="298" cy="218" r="3" fill="#fff"/>
+<circle cx="405" cy="301" r="3" fill="#fff"/>
+<path d="M102 403 L227 317 L351 403 Z" fill="#1d2b4d"/>
+<path d="M298 403 L405 331 L458 403 Z" fill="#17243d"/>
+<rect x="276" y="415" width="8" height="34" fill="#17243d"/>
+<rect x="108" y="445" width="344" height="6" rx="3" fill="#17243d"/>
+<rect x="180" y="470" width="220" height="12" rx="4" fill="#8a5a3b"/>
+<rect x="196" y="482" width="10" height="38" fill="#6b4226"/>
+<rect x="374" y="482" width="10" height="38" fill="#6b4226"/>
+<rect x="230" y="432" width="120" height="38" rx="8" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<circle cx="340" cy="451" r="11" fill="#8fd0f0" stroke="#fff" stroke-width="2"/>
+<circle cx="252" cy="451" r="5" fill="#fb8581"/>
+<polygon points="340,451 120,300 120,400" fill="#ffe9a8" opacity="0.35"/>
+<circle cx="506" cy="487" r="12" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="524" cy="480" r="14" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="543" cy="482" r="13" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="562" cy="487" r="11" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="515" cy="496" r="10" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="547" cy="495" r="11" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<circle cx="571" cy="498" r="9" fill="#fff8e7" stroke="#e8c98a" stroke-width="2"/>
+<path d="M490 500 L590 500 L574 556 L506 556 Z" fill="#fb8581" stroke="#17243d" stroke-width="2"/>
+<path d="M524 500 L529 556 L551 556 L556 500 Z" fill="#fff" stroke="none"/>
+<rect x="488" y="496" width="104" height="9" rx="5" fill="#fff" stroke="#17243d" stroke-width="2"/>
+<path d="M860 400 L777.5 257.1 A165 165 0 0 1 942.5 257.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="860.0" y="301.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">COMEDY</text>
+<path d="M860 400 L942.5 257.1 A165 165 0 0 1 1025.0 400.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="945.7" y="350.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">ACTION</text>
+<path d="M860 400 L1025.0 400.0 A165 165 0 0 1 942.5 542.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="945.7" y="449.5" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">ANIMATION</text>
+<path d="M860 400 L942.5 542.9 A165 165 0 0 1 777.5 542.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="860.0" y="499.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">CLASSIC</text>
+<path d="M860 400 L777.5 542.9 A165 165 0 0 1 695.0 400.0 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="774.3" y="449.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">HORROR</text>
+<path d="M860 400 L695.0 400.0 A165 165 0 0 1 777.5 257.1 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="774.3" y="350.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">MUSICAL</text>
+<circle cx="860" cy="400" r="165" fill="none" stroke="#17243d" stroke-width="4"/>
+<circle cx="860" cy="400" r="28" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="860" y="401" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M845 195 L875 195 L860 239 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+</svg>

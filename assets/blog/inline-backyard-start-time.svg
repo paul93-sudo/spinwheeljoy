@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6ec"/>
+<text x="400" y="472" text-anchor="middle" font-size="21" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">Spin for the start time</text>
+<path d="M260 240 L190.0 361.2 A140 140 0 0 1 120.0 240.0 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">7 PM</text>
+<path d="M260 240 L120.0 240.0 A140 140 0 0 1 190.0 118.8 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="187.3" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">7:30</text>
+<path d="M260 240 L190.0 118.8 A140 140 0 0 1 330.0 118.8 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="156.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">8 PM</text>
+<path d="M260 240 L330.0 118.8 A140 140 0 0 1 400.0 240.0 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="198.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">8:30</text>
+<path d="M260 240 L400.0 240.0 A140 140 0 0 1 330.0 361.2 Z" fill="#8fd0f0" stroke="#fff" stroke-width="3"/>
+<text x="332.7" y="282.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">9 PM</text>
+<path d="M260 240 L330.0 361.2 A140 140 0 0 1 190.0 361.2 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="260.0" y="324.0" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="800" font-family="Arial, sans-serif" fill="#17243d">DUSK</text>
+<circle cx="260" cy="240" r="140" fill="none" stroke="#17243d" stroke-width="4"/>
+<circle cx="260" cy="240" r="24" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="260" y="241" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="850" font-family="Arial, sans-serif" fill="#17243d">SPIN</text>
+<path d="M245 60 L275 60 L260 104 Z" fill="#17243d" stroke="#fff" stroke-width="2"/>
+<circle cx="615" cy="220" r="85" fill="#fff" stroke="#17243d" stroke-width="5"/>
+<line x1="615" y1="143" x2="615" y2="153" stroke="#17243d" stroke-width="3"/>
+<line x1="654" y1="153" x2="648" y2="162" stroke="#17243d" stroke-width="3"/>
+<line x1="682" y1="182" x2="673" y2="186" stroke="#17243d" stroke-width="3"/>
+<line x1="692" y1="220" x2="682" y2="220" stroke="#17243d" stroke-width="3"/>
+<line x1="682" y1="258" x2="673" y2="254" stroke="#17243d" stroke-width="3"/>
+<line x1="654" y1="287" x2="648" y2="278" stroke="#17243d" stroke-width="3"/>
+<line x1="615" y1="297" x2="615" y2="287" stroke="#17243d" stroke-width="3"/>
+<line x1="576" y1="287" x2="582" y2="278" stroke="#17243d" stroke-width="3"/>
+<line x1="548" y1="258" x2="557" y2="254" stroke="#17243d" stroke-width="3"/>
+<line x1="538" y1="220" x2="548" y2="220" stroke="#17243d" stroke-width="3"/>
+<line x1="548" y1="182" x2="557" y2="186" stroke="#17243d" stroke-width="3"/>
+<line x1="576" y1="153" x2="582" y2="162" stroke="#17243d" stroke-width="3"/>
+<line x1="615" y1="220" x2="579" y2="241" stroke="#17243d" stroke-width="7" stroke-linecap="round"/>
+<line x1="615" y1="220" x2="615" y2="158" stroke="#17243d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="615" cy="220" r="7" fill="#17243d"/>
+<path d="M500 330 Q615 356 730 330" fill="none" stroke="#17243d" stroke-width="2"/>
+<line x1="533" y1="336" x2="533" y2="344" stroke="#17243d" stroke-width="2"/>
+<circle cx="533" cy="350" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+<line x1="566" y1="341" x2="566" y2="349" stroke="#17243d" stroke-width="2"/>
+<circle cx="566" cy="355" r="7" fill="#66c4ae" stroke="#17243d" stroke-width="1.5"/>
+<line x1="599" y1="343" x2="599" y2="351" stroke="#17243d" stroke-width="2"/>
+<circle cx="599" cy="357" r="7" fill="#8fd0f0" stroke="#17243d" stroke-width="1.5"/>
+<line x1="631" y1="343" x2="631" y2="351" stroke="#17243d" stroke-width="2"/>
+<circle cx="631" cy="357" r="7" fill="#f4a77a" stroke="#17243d" stroke-width="1.5"/>
+<line x1="664" y1="341" x2="664" y2="349" stroke="#17243d" stroke-width="2"/>
+<circle cx="664" cy="355" r="7" fill="#fac56b" stroke="#17243d" stroke-width="1.5"/>
+<line x1="697" y1="336" x2="697" y2="344" stroke="#17243d" stroke-width="2"/>
+<circle cx="697" cy="350" r="7" fill="#fb8581" stroke="#17243d" stroke-width="1.5"/>
+</svg>
