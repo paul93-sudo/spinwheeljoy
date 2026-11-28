@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#fdf6e3"/><text x="400" y="52" text-anchor="middle" font-size="34" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">Party or quiet day</text><path d="M250 290 L175.0 160.1 A150 150 0 0 1 325.0 160.1 Z" fill="#fac56b" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="200.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">PARTY</text>
+<path d="M250 290 L325.0 160.1 A150 150 0 0 1 400.0 290.0 Z" fill="#fb8581" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">QUIET DAY</text>
+<path d="M250 290 L400.0 290.0 A150 150 0 0 1 325.0 419.9 Z" fill="#ac9be9" stroke="#fff" stroke-width="3"/>
+<text x="327.9" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">PARK</text>
+<path d="M250 290 L325.0 419.9 A150 150 0 0 1 175.0 419.9 Z" fill="#66c4ae" stroke="#fff" stroke-width="3"/>
+<text x="250.0" y="380.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">BACKYARD</text>
+<path d="M250 290 L175.0 419.9 A150 150 0 0 1 100.0 290.0 Z" fill="#78a6ee" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="335.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">BEACH</text>
+<path d="M250 290 L100.0 290.0 A150 150 0 0 1 175.0 160.1 Z" fill="#f4a77a" stroke="#fff" stroke-width="3"/>
+<text x="172.1" y="245.0" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="800" font-family="system-ui,sans-serif" fill="#17243d">NAP</text>
+<circle cx="250" cy="290" r="150" fill="none" stroke="#fff" stroke-width="4"/>
+<circle cx="250" cy="290" r="34" fill="#fff" stroke="#e6ebf8" stroke-width="3"/>
+<text x="250" y="296" text-anchor="middle" font-size="15" font-weight="850" font-family="system-ui,sans-serif" fill="#17243d">SPIN</text>
+<path d="M234 110 L266 110 L250 144 Z" fill="#17243d" stroke="#fff" stroke-width="2"/><rect x="520" y="400" width="240" height="10" rx="4" fill="#ac9be9" stroke="#17243d" stroke-width="3"/><rect x="530" y="410" width="10" height="40" fill="#17243d"/><rect x="740" y="410" width="10" height="40" fill="#17243d"/><line x1="540" y1="400" x2="540" y2="286" stroke="#17243d" stroke-width="2"/><ellipse cx="540" cy="250" rx="28" ry="36" fill="#fb8581" stroke="#17243d" stroke-width="3"/><path d="M534 284 L546 284 L540 294 Z" fill="#fb8581" stroke="#17243d" stroke-width="2"/><line x1="590" y1="400" x2="590" y2="286" stroke="#17243d" stroke-width="2"/><ellipse cx="590" cy="250" rx="28" ry="36" fill="#78a6ee" stroke="#17243d" stroke-width="3"/><path d="M584 284 L596 284 L590 294 Z" fill="#78a6ee" stroke="#17243d" stroke-width="2"/><line x1="640" y1="400" x2="640" y2="286" stroke="#17243d" stroke-width="2"/><ellipse cx="640" cy="250" rx="28" ry="36" fill="#fac56b" stroke="#17243d" stroke-width="3"/><path d="M634 284 L646 284 L640 294 Z" fill="#fac56b" stroke="#17243d" stroke-width="2"/><path d="M619 369 C589 345 585 321 603 315" fill="none" stroke="#b07a4a" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="641" cy="387" rx="27" ry="21" fill="#b07a4a" stroke="#17243d" stroke-width="3"/>
+<ellipse cx="665" cy="365" rx="50" ry="34" fill="#b07a4a" stroke="#17243d" stroke-width="3"/>
+<rect x="687" y="369" width="16" height="42" rx="9" fill="#b07a4a" stroke="#17243d" stroke-width="3"/>
+<circle cx="707" cy="327" r="29" fill="#b07a4a" stroke="#17243d" stroke-width="3"/>
+<ellipse cx="686" cy="322" rx="10" ry="19" fill="#8a5c33" stroke="#17243d" stroke-width="3" transform="rotate(18 686 322)"/>
+<ellipse cx="731" cy="336" rx="16" ry="10" fill="#d9a066" stroke="#17243d" stroke-width="3"/>
+<circle cx="743" cy="331" r="6" fill="#17243d"/>
+<circle cx="715" cy="319" r="4" fill="#17243d"/>
+<path d="M721 343 Q729 348 737 343" fill="none" stroke="#17243d" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M689 306 L705 264 L723 304 Z" fill="#fb8581" stroke="#17243d" stroke-width="3"/>
+<circle cx="705" cy="263" r="7" fill="#fac56b" stroke="#17243d" stroke-width="2.5"/></svg>
